@@ -44,8 +44,10 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
   <!-- web -->
 </li>
 <li>Familiar with:<br>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="Ajax" src="https://img.shields.io/badge/-Ajax-0769ad?style=flat-square&logo=ajax&logoColor=white" />
+  <img alt="Json" src="https://img.shields.io/badge/-Json-555555?style=flat-square&logo=json&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e67e22?style=flat-square&logo=javascript&logoColor=white" />
 </li>
 <!-- Platform&Tools -->
