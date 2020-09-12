@@ -25,7 +25,7 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
 
 <h4>📚 Currently reading</h4>
 <ul>
-  <li>Arindam Mukherjee <b>Learning Boost C++ Libraries</b> <a target="_blank" href="https://www.packtpub.com/product/learning-boost-c-libraries/9781783551217"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
+  <li>Code dao ky su <a target="_blank" href="https://book.toidicodedao.com/"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
 </ul>
 
 <h4>🛠 Skills</h4>
