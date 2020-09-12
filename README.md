@@ -1,7 +1,7 @@
 ### Hi there! 👋
 <img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 <p>
-  <a target="_blank" href="hqtruong27@gmail.com" target="_blank">
+  <a target="_blank" href="mailto:hqtruong27@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4748.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.facebook.com/hqtruong27/" target="_blank">
