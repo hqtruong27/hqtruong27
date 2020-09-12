@@ -48,9 +48,16 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e67e22?style=flat-square&logo=javascript&logoColor=white" />
 </li>
+<!-- Platform&Tools -->
+<li>Platform & Tools:<br>
+  <a href="https://www.microsoft.com/windows/get-windows-10" rel="nofollow"><img src="https://camo.githubusercontent.com/3722c3905c10425f714fbfced563774d6d32c3e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d31302d3233373662633f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d666666666666" alt="" data-canonical-src="https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&amp;logo=windows&amp;logoColor=ffffff" style="max-width:100%;"></a>
+  <a href="https://visualstudio.microsoft.com/fr/" rel="nofollow"><img alt="Visual" src="https://img.shields.io/badge/-Visual Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=white" /></a>
+  <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/9d6e0cedb10e2b4af40083bd8ebaa50d3d5d10c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4944452d56697375616c25323053747564696f253230436f64652d626c75653f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666" alt="" data-canonical-src="https://img.shields.io/badge/visual-studio-code-blue?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=ffffff" style="max-width:100%;"></a>
+</li>
 </ul>
+
 <!--
-**xtenzQ/xtenzQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hqtruong27/hqtruong27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
