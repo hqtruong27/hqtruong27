@@ -71,8 +71,8 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
  </li>
  <li>2019:<br>
    <a href="https://github.com/Hqtruong27/"><img alt="NET" src="https://img.shields.io/badge/-FashionShop (private)-67217A?style=flat-square&logo=%2ENET&logoColor=white" /></a>
-  <a href="https://github.com/Hqtruong27/"><img alt="c#" src="https://img.shields.io/badge/-Employee Manager App (private)-953DAC?style=flat-square&logo=c-sharp&logoColor=white" /></a>
-   <a href="https://github.com/Hqtruong27/Sufee-store"><img alt="java" src="https://img.shields.io/badge/-MB Shop App (private)-E34A86?style=flat-square&logo=java&logoColor=white" /></a>
+  <a href="https://github.com/Hqtruong27/Employee-Manager-App"><img alt="c#" src="https://img.shields.io/badge/-Employee Manager (App)-953DAC?style=flat-square&logo=c-sharp&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/MB-Shop-App"><img alt="java" src="https://img.shields.io/badge/-MB Shop (App)-E34A86?style=flat-square&logo=java&logoColor=white" /></a>
  </li>
  <li>2018:<br>
    <a href="https://github.com/Hqtruong27/"><img alt="PHP" src="https://img.shields.io/badge/-Clothes (private)-777BB4?style=flat-square&logo=php&logoColor=white" /></a>
