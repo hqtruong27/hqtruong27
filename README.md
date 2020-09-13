@@ -53,12 +53,12 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
   <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e67e22?style=flat-square&logo=javascript&logoColor=white" />
  <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-</li>
 <!-- Platform&Tools -->
 <li>Platform & Tools:<br>
-  <a href="https://www.microsoft.com/windows/get-windows-10" rel="nofollow"><img src="https://camo.githubusercontent.com/3722c3905c10425f714fbfced563774d6d32c3e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d31302d3233373662633f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d666666666666" alt="" data-canonical-src="https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&amp;logo=windows&amp;logoColor=ffffff" style="max-width:100%;"></a>
-  <a href="https://visualstudio.microsoft.com/fr/" rel="nofollow"><img alt="Visual" src="https://img.shields.io/badge/-Visual Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=white" /></a>
-  <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/9d6e0cedb10e2b4af40083bd8ebaa50d3d5d10c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4944452d56697375616c25323053747564696f253230436f64652d626c75653f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666" alt="" data-canonical-src="https://img.shields.io/badge/visual-studio-code-blue?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=ffffff" style="max-width:100%;"></a>
+  <a href="https://www.microsoft.com/windows/get-windows-10" rel="nofollow"><img alt="Visual" src="https://img.shields.io/badge/Windows-10-0067b8?style=flat-square&logo=windows&logoColor=white" /></a>
+  <a href="https://visualstudio.microsoft.com/fr/" rel="nofollow"><img alt="Visual" src="https://img.shields.io/badge/​-Visual Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=white" /></a> 
+ <a href="https://code.visualstudio.com/" rel="nofollow"><img alt="vscode" src="https://img.shields.io/badge/​-Visual Studio Code-0066B8?style=flat-square&logo=visual-studio&logoColor=white" /></a> 
+  <a href="https://www.mysql.com/" rel="nofollow"><img src="https://img.shields.io/badge/​-MySQL-FF9900?style=flat-square&logo=mysql&logoColor=white"></a>
 </li>
 </ul>
 <!--Project build-->
@@ -66,11 +66,11 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
  <h4>🔧 Project has built</h4>
 <ul>
   <li>2020:<br>
-   <a href="https://github.com/Hqtruong27/MobileShop"><img alt="NET" src="https://img.shields.io/badge/-MobileShop-67217A?style=flat-square&logo=%2ENET&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/MobileShop"><img alt="NET" src="https://img.shields.io/badge/​-MobileShop-67217A?style=flat-square&logo=%2ENET&logoColor=white" /></a>
    <a href="https://github.com/Hqtruong27/Sufee-store"><img alt="java" src="https://img.shields.io/badge/-Sufee Store-E34A86?style=flat-square&logo=java&logoColor=white" /></a>
  </li>
  <li>2019:<br>
-   <a href="https://github.com/Hqtruong27/"><img alt="NET" src="https://img.shields.io/badge/-FashionShop (private)-67217A?style=flat-square&logo=%2ENET&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/"><img alt="NET" src="https://img.shields.io/badge/​-FashionShop (private)-67217A?style=flat-square&logo=%2ENET&logoColor=white" /></a>
   <a href="https://github.com/Hqtruong27/Employee-Manager-App"><img alt="c#" src="https://img.shields.io/badge/-Employee Manager (App)-953DAC?style=flat-square&logo=c-sharp&logoColor=white" /></a>
    <a href="https://github.com/Hqtruong27/MB-Shop-App"><img alt="java" src="https://img.shields.io/badge/-MB Shop (App)-E34A86?style=flat-square&logo=java&logoColor=white" /></a>
  </li>
@@ -79,7 +79,6 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
    <a href="https://github.com/Hqtruong27/"><img alt="bs3" src="https://img.shields.io/badge/-Build Web (private)-7952b3?style=flat-square&logo=bootstrap&logoColor=white" /></a>
  </li>
 </ul>
-
 <!--
 **hqtruong27/hqtruong27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
