@@ -1,21 +1,5 @@
 ### Hi there! 👋
 
-<h4>Where to find me:</h4>
-<img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
-<p>
-  <a target="_blank" href="mailto:hqtruong27@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-EA4748.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
-  </a>
-  <a target="_blank" href="https://www.facebook.com/hqtruong27/" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267b2.svg?&style=flat-square&logo=facebook&logoColor=white" />
-  </a> 
-  <a target="_blank" href="https://stackoverflow.com/users/10209464/truong-hoang" target="_blank">
-    <img alt="stackoverflow" src="https://img.shields.io/badge/Stack overflow-f48024.svg?&style=flat-square&logo=stackoverflow&logoColor=white" />
-  </a> 
-  <a target="_blank" href="https://skype.com" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/hqtruong27-46a2f1.svg?&style=flat-square&logo=Skype&logoColor=white" />
-  </a>
-</p>
 
 > *Not today, maybe tomorrow*
 
@@ -59,7 +43,24 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
   <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/9d6e0cedb10e2b4af40083bd8ebaa50d3d5d10c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4944452d56697375616c25323053747564696f253230436f64652d626c75653f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666" alt="" data-canonical-src="https://img.shields.io/badge/visual-studio-code-blue?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=ffffff" style="max-width:100%;"></a>
 </li>
 </ul>
-
+ 
+ <!--Find me-->
+ <h4>Where to find me:</h4>
+<img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
+<p>
+  <a target="_blank" href="mailto:hqtruong27@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4748.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
+  </a>
+  <a target="_blank" href="https://www.facebook.com/hqtruong27/" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267b2.svg?&style=flat-square&logo=facebook&logoColor=white" />
+  </a> 
+  <a target="_blank" href="https://stackoverflow.com/users/10209464/truong-hoang" target="_blank">
+    <img alt="stackoverflow" src="https://img.shields.io/badge/Stack overflow-f48024.svg?&style=flat-square&logo=stackoverflow&logoColor=white" />
+  </a> 
+  <a target="_blank" href="https://skype.com" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/hqtruong27-46a2f1.svg?&style=flat-square&logo=Skype&logoColor=white" />
+  </a>
+</p>
 <!--
 **hqtruong27/hqtruong27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
