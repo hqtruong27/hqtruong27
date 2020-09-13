@@ -30,7 +30,6 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
 <ul>
   <li>Code dao ky su <a target="_blank" href="https://book.toidicodedao.com/"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
 </ul>
-*Not today, maybe tomorrow*
 <h4>🛠 Skills</h4>
 <ul>
 <li>Experienced with:<br>
@@ -62,7 +61,6 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
 </li>
 </ul>
 <!--Project build-->
-**Hoang Truong**
  <h4>🔧 Project has built</h4>
 <ul>
   <li>2020:<br>
