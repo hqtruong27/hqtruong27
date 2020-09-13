@@ -55,10 +55,10 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
  <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 <!-- Platform&Tools -->
 <li>Platform & Tools:<br>
-  <a href="https://www.microsoft.com/windows/get-windows-10" rel="nofollow"><img alt="Visual" src="https://img.shields.io/badge/Windows-10-0067b8?style=flat-square&logo=windows&logoColor=white" /></a>
-  <a href="https://visualstudio.microsoft.com/fr/" rel="nofollow"><img alt="Visual" src="https://img.shields.io/badge/​-Visual Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=white" /></a> 
- <a href="https://code.visualstudio.com/" rel="nofollow"><img alt="vscode" src="https://img.shields.io/badge/​-Visual Studio Code-0066B8?style=flat-square&logo=visual-studio&logoColor=white" /></a> 
-  <a href="https://www.mysql.com/" rel="nofollow"><img src="https://img.shields.io/badge/​-MySQL-FF9900?style=flat-square&logo=mysql&logoColor=white"></a>
+  <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Visual" src="https://img.shields.io/badge/Windows-10-0067b8?style=flat-square&logo=windows&logoColor=white" /></a>
+  <a href="https://visualstudio.microsoft.com/fr/" rel=""><img alt="Visual" src="https://img.shields.io/badge/​-Visual Studio-5c2d91?style=flat-square&logo=visual-studio&logoColor=white" /></a> 
+ <a href="https://code.visualstudio.com/" rel=""><img alt="vscode" src="https://img.shields.io/badge/​-Visual Studio Code-0066B8?style=flat-square&logo=visual-studio&logoColor=white" /></a> 
+  <a href="https://www.mysql.com/" rel=""><img src="https://img.shields.io/badge/​-MySQL-FF9900?style=flat-square&logo=mysql&logoColor=white"></a>
 </li>
 </ul>
 <!--Project build-->
