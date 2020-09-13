@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-
+<img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 > *Not today, maybe tomorrow*
 
 My name is **Hoang Truong**, I'm a graduate student looking for new job!
@@ -46,7 +46,6 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
  
  <!--Find me-->
  <h4>Where to find me:</h4>
-<img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 <p>
   <a target="_blank" href="mailto:hqtruong27@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4748.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
