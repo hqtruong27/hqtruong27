@@ -3,6 +3,7 @@
 <img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 <!--Find me-->
  <h4>Where to find me:</h4>
+ <h4> `"${quote}"`</h4>
 <p>
   <a target="_blank" href="mailto:hqtruong27@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4748.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
