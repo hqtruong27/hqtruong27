@@ -1,8 +1,8 @@
-### Hi there! 👋
+### Hey, Truong here!! 👋
 
 <img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 <!--Find me-->
- <h4>🔎 Where to find me:</h4>
+ <h4>Where to find me:</h4>
 <p>
   <a target="_blank" href="mailto:hqtruong27@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4748.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
@@ -35,11 +35,11 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
 <ul>
 <li>Experienced with:<br>
   <!-- primary -->
-  <img alt="NET" src="https://img.shields.io/badge/-.NET-8e44ad?style=flat-square&logo=%2ENET&logoColor=white" />
-  <img alt="CSharp" src="https://img.shields.io/badge/-C%23-8e44ad?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="NET" src="https://img.shields.io/badge/-.NET-67217A?style=flat-square&logo=%2ENET&logoColor=white" />
+  <img alt="CSharp" src="https://img.shields.io/badge/-C%23-953DAC?style=flat-square&logo=c-sharp&logoColor=white" />
   <img src="https://camo.githubusercontent.com/ecaa192b7b132b9bfe5e07dd408ecab68e12de66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6176612d4533344138363f7374796c653d666c61742d737175617265266c6f676f3d6a617661" alt="Java" data-canonical-src="https://img.shields.io/badge/-java-E34A86?style=flat-square&amp;logo=java" style="max-width:100%;">
   <img alt="SQL" src="https://img.shields.io/badge/-SQL Server-E10098?style=flat-square&logo=SQL&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-8e44ad?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://camo.githubusercontent.com/d1955a46310c59bb55250d86c071a900f022da48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" style="max-width:100%;">
   <!-- other -->
@@ -52,6 +52,7 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
   <img alt="Json" src="https://img.shields.io/badge/-Json-555555?style=flat-square&logo=json&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-e67e22?style=flat-square&logo=git&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e67e22?style=flat-square&logo=javascript&logoColor=white" />
+ <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </li>
 <!-- Platform&Tools -->
 <li>Platform & Tools:<br>
@@ -60,7 +61,25 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
   <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/9d6e0cedb10e2b4af40083bd8ebaa50d3d5d10c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4944452d56697375616c25323053747564696f253230436f64652d626c75653f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666" alt="" data-canonical-src="https://img.shields.io/badge/visual-studio-code-blue?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=ffffff" style="max-width:100%;"></a>
 </li>
 </ul>
- 
+<!--Project build-->
+
+ <h4>🔧 Project has built</h4>
+<ul>
+  <li>2020:<br>
+   <a href="https://github.com/Hqtruong27/MobileShop"><img alt="NET" src="https://img.shields.io/badge/-MobileShop-67217A?style=flat-square&logo=%2ENET&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/Sufee-store"><img alt="java" src="https://img.shields.io/badge/-Sufee Store-E34A86?style=flat-square&logo=java&logoColor=white" /></a>
+ </li>
+ <li>2019:<br>
+   <a href="https://github.com/Hqtruong27/"><img alt="NET" src="https://img.shields.io/badge/-FashionShop (private)-67217A?style=flat-square&logo=%2ENET&logoColor=white" /></a>
+  <a href="https://github.com/Hqtruong27/"><img alt="c#" src="https://img.shields.io/badge/-Employee Manager App (private)-953DAC?style=flat-square&logo=c-sharp&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/Sufee-store"><img alt="java" src="https://img.shields.io/badge/-MB Shop App (private)-E34A86?style=flat-square&logo=java&logoColor=white" /></a>
+ </li>
+ <li>2018:<br>
+   <a href="https://github.com/Hqtruong27/"><img alt="PHP" src="https://img.shields.io/badge/-Clothes (private)-777BB4?style=flat-square&logo=php&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/"><img alt="bs3" src="https://img.shields.io/badge/-Build Web (private)-7952b3?style=flat-square&logo=bootstrap&logoColor=white" /></a>
+ </li>
+</ul>
+
 <!--
 **hqtruong27/hqtruong27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
