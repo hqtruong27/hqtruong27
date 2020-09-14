@@ -28,7 +28,7 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
 
 <h4>📚 Currently reading</h4>
 <ul>
-  <li>Code dao ky su <a target="_blank" href="https://book.toidicodedao.com/"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
+  <li>Clean Code <a target="_blank" href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
 </ul>
 <h4>🛠 Skills</h4>
 <ul>
