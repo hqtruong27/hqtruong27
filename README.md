@@ -21,7 +21,7 @@
 > *Not today, maybe tomorrow*
 
 My name is **Hoang Truong**, I'm a graduate student looking for new job!
-- 🔭 I'm looking for a **job** Fresher.NET <img title="Vietnam" alt="Vietnam" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="18"/>
+- 🔭 I'm looking for a **job** Junior.NET <img title="Vietnam" alt="Vietnam" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="18"/>
 - 🎓 I'm a certificate student at Bachkhoa-Aptech.
 - 🌱 I'm currently learning **[ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)** and improving `Specialized English`;
 - <img title="South Korea" alt="South Korea" src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" width="14"/> I want to learn Japanese | ~~but no chance yet~~
