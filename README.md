@@ -64,7 +64,7 @@ My name is **Hoang Truong**, I'm a graduate student looking for new job!
  <h4>🔧 Project has built</h4>
 <ul>
   <li>2020:<br>
-   <a href="https://github.com/Hqtruong27/MobileShop"><img alt="NET" src="https://img.shields.io/badge/​-MobileShop-0066B8?style=flat-square&logo=Asp.NetCorelogoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/MobileShop"><img alt="NET" src="https://img.shields.io/badge/​-MobileShop-0066B8?style=flat-square&logo=%2ENET&logoColor=white" /></a>
    <a href="https://github.com/Hqtruong27/MobileShop"><img alt="NET" src="https://img.shields.io/badge/​-MobileShop-67217A?style=flat-square&logo=%2ENET&logoColor=white" /></a>
    <a href="https://github.com/Hqtruong27/Sufee-store"><img alt="java" src="https://img.shields.io/badge/-Sufee Store-E34A86?style=flat-square&logo=java&logoColor=white" /></a>
  </li>
