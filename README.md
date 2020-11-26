@@ -1,4 +1,4 @@
-### Hey, Truong here!! 👋
+### Hi there!! 👋
 
 <img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" />
 <!--Find me-->
@@ -20,7 +20,7 @@
 
 > *Not today, maybe tomorrow*
 
-My name is **Truong**, I'm a graduate student looking for new job!
+I'm **Truong**, I'm a graduate student looking for new job!
 - 🔭 Junior Asp.Net Core at VietTin  <img title="Vietnam" alt="Vietnam" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="18"/>
 - 🎓 I'm a certificate student at Bachkhoa-Aptech.
 - 🌱 I'm currently learning **[ReactJS](https://reactjs.org/)** and improving `Specialized English`;
