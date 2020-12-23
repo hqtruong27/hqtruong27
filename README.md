@@ -43,7 +43,7 @@ I'm **Truong**!
  <img alt="Gitlab" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Gitlab&logoColor=&message=Gitlab&color=FCA121&style=flat-square" />&nbsp
  <img alt="css" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=css3&logoColor=1572B6&message=CSS&color=1572B6&style=flat-square" />&nbsp
  <img alt="scss" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=sass&logoColor=CC6699&message=SCSS&color=CC6699&style=flat-square" />&nbsp
- <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp
+ <img alt="bs3" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp
    <br/>
  <img alt="html5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=html5&logoColor=E34F26&message=HTML5&color=E34F26&style=flat-square" />&nbsp
   <!-- other -->
@@ -72,18 +72,18 @@ I'm **Truong**!
  <h4>🔧 Project has built</h4>
 <ul>
   <li>2020:<br>
-   <a href="https://github.com/Hqtruong27/SufeeStore"><img alt="NET" src="https://img.shields.io/badge/​-SufeeStore-0066B8?style=flat-square&logo=%2ENET&logoColor=white" /></a>&nbsp
-   <a href="https://github.com/Hqtruong27/MobileShop"><img alt="NET" src="https://img.shields.io/badge/​-MobileShop-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" /></a>&nbsp
-   <a href="https://github.com/Hqtruong27/Sufee-store"><img alt="java" src="https://img.shields.io/badge/​-Sufee Store-007396?style=flat-square&logo=java&logoColor=white" /></a>&nbsp
+   <a href="https://github.com/Hqtruong27/SufeeStore"><img alt="NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=Sufee%20Shop&color=1a98d8&style=flat-square" /></a>&nbsp
+   <a href="https://github.com/Hqtruong27/MobileShop"><img alt="NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=8661c5&message=Mobile%20Shop&color=8661c5&style=flat-square" /></a>&nbsp
+   <a href="https://github.com/Hqtruong27/Sufee-store"><img alt="java" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=java&logoColor=007396&message=Sufee%20Shop&color=007396&style=flat-square" /></a>&nbsp
  </li>
  <li>2019:<br>
-   <a href="https://github.com/Hqtruong27/"><img alt="NET" src="https://img.shields.io/badge/​-FashionShop (Pvt)-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" /></a>&nbsp
-  <a href="https://github.com/Hqtruong27/Employee-Manager-App"><img alt="c#" src="https://img.shields.io/badge/​-Employee Manager (App)-239120?style=flat-square&logo=c-sharp&logoColor=white" /></a>&nbsp
-   <a href="https://github.com/Hqtruong27/MB-Shop-App"><img alt="java" src="https://img.shields.io/badge/​-MB Shop (App)-007396?style=flat-square&logo=java&logoColor=white" /></a>&nbsp
+   <a href="https://github.com/Hqtruong27/"><img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=8661c5&message=Fashion%20Shop%20[PTV]&color=8661c5&style=flat-square" /></a>&nbsp
+  <a href="https://github.com/Hqtruong27/Employee-Manager-App"><img alt="c#" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=1eab25&message=Employee%20Manager%20[App]&color=1eab25&style=flat-square" /></a>&nbsp
+   <a href="https://github.com/Hqtruong27/MB-Shop-App"><img alt="java" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=java&logoColor=007396&message=MB%20Shop%20[App]&color=007396&style=flat-square" /></a>&nbsp
  </li>
  <li>2018:<br>
-   <a href="https://github.com/Hqtruong27/"><img alt="PHP" src="https://img.shields.io/badge/​-Clothes (Pvt)-777BB4?style=flat-square&logo=php&logoColor=white" /></a>&nbsp
-   <a href="https://github.com/Hqtruong27/"><img alt="bs3" src="https://img.shields.io/badge/​-Web Sample (Pvt)-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /></a>&nbsp
+   <a href="https://github.com/Hqtruong27/"><img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=php&logoColor=777BB4&message=Clothes%20[PVT]&color=777BB4&style=flat-square" /></a>&nbsp
+   <a href="https://github.com/Hqtruong27/"><img alt="bs3" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=bootstrap&logoColor=7952b3&message=Web%20Example%20[PVT]&color=7952b3&style=flat-square" /></a>&nbsp
  </li>
 </ul>
 <!--
