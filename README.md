@@ -53,7 +53,6 @@ I'm **Truong**!
 <li>Familiar with:<br>
   <img alt="Nodejs" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=node.js&logoColor=339933&message=Nodejs&color=339933&style=flat-square" />
   <!--<img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=node.js&logoColor=339933&logoWidth=0&labelColor=fff&" />-->
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Docker&logoColor=2496ED&message=Docker&color=2496ED&style=flat-square" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />
   <img alt="React" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=react&logoColor=61DAFB&message=React&color=3765af&style=flat-square" />
