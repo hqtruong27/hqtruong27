@@ -51,7 +51,8 @@ I'm **Truong**!
   <!-- web -->
 </li>
 <li>Familiar with:<br>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node.js&logoColor=fff" />
+  <img alt="Nodejs" src="https://img.shields.io/static/v1?label=&labelColor=fff&logoWidth=&logo=node.js&logoColor=339933&message=Nodejs&color=339933&style=flat-square" />
+  <!--<img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=node.js&logoColor=339933&logoWidth=0&labelColor=fff&" />-->
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-React-3765af?style=flat-square&logo=react&logoColor=white" />
