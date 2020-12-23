@@ -34,8 +34,9 @@ I'm **Truong**!
 <ul>
 <li>Experienced with:<br>
   <!-- primary -->
-  <img alt="NET" src="https://img.shields.io/badge/-.NET-67217A?style=flat-square&logo=%2ENET&logoColor=white" />
-  <img alt="CSharp" src="https://img.shields.io/badge/-C%23-953DAC?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="CSharp" src="https://img.shields.io/badge/-C%23 9.0-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="NET" src="https://img.shields.io/badge/-.NET 5-007bff?style=flat-square&logo=%2ENET&logoColor=white" />
+  <img alt="NET" src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" />
   <img alt="java" src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL Server-AD353B?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -58,7 +59,7 @@ I'm **Truong**!
   <a href="https://www.mysql.com/" rel=""><img src="https://img.shields.io/badge/​-MySQL-FF9900?style=flat-square&logo=mysql&logoColor=white"></a>
 <!-- Platform&Tools -->
 <li>Platform & Tools:<br>
-  <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Visual" src="https://img.shields.io/badge/Windows-10-0067b8?style=flat-square&logo=windows&logoColor=white" /></a>
+  <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/badge/​-Windows 10-0067b8?style=flat-square&logo=windows&logoColor=white" /></a>
   <a href="https://visualstudio.microsoft.com/fr/" rel=""><img alt="Visual" src="https://img.shields.io/badge/​-Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" /></a> 
  <a href="https://code.visualstudio.com/" rel=""><img alt="vscode" src="https://img.shields.io/badge/​-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio&logoColor=white" /></a> 
 </li>
@@ -68,17 +69,17 @@ I'm **Truong**!
 <ul>
   <li>2020:<br>
    <a href="https://github.com/Hqtruong27/SufeeStore"><img alt="NET" src="https://img.shields.io/badge/​-SufeeStore-0066B8?style=flat-square&logo=%2ENET&logoColor=white" /></a>
-   <a href="https://github.com/Hqtruong27/MobileShop"><img alt="NET" src="https://img.shields.io/badge/​-MobileShop-67217A?style=flat-square&logo=%2ENET&logoColor=white" /></a>
-   <a href="https://github.com/Hqtruong27/Sufee-store"><img alt="java" src="https://img.shields.io/badge/-Sufee Store-E34A86?style=flat-square&logo=java&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/MobileShop"><img alt="NET" src="https://img.shields.io/badge/​-MobileShop-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/Sufee-store"><img alt="java" src="https://img.shields.io/badge/​-Sufee Store-007396?style=flat-square&logo=java&logoColor=white" /></a>
  </li>
  <li>2019:<br>
-   <a href="https://github.com/Hqtruong27/"><img alt="NET" src="https://img.shields.io/badge/​-FashionShop (private)-67217A?style=flat-square&logo=%2ENET&logoColor=white" /></a>
-  <a href="https://github.com/Hqtruong27/Employee-Manager-App"><img alt="c#" src="https://img.shields.io/badge/-Employee Manager (App)-953DAC?style=flat-square&logo=c-sharp&logoColor=white" /></a>
-   <a href="https://github.com/Hqtruong27/MB-Shop-App"><img alt="java" src="https://img.shields.io/badge/-MB Shop (App)-E34A86?style=flat-square&logo=java&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/"><img alt="NET" src="https://img.shields.io/badge/​-FashionShop (Pvt)-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" /></a>
+  <a href="https://github.com/Hqtruong27/Employee-Manager-App"><img alt="c#" src="https://img.shields.io/badge/-Employee Manager (App)-239120?style=flat-square&logo=c-sharp&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/MB-Shop-App"><img alt="java" src="https://img.shields.io/badge/​-MB Shop (App)-007396?style=flat-square&logo=java&logoColor=white" /></a>
  </li>
  <li>2018:<br>
-   <a href="https://github.com/Hqtruong27/"><img alt="PHP" src="https://img.shields.io/badge/-Clothes (private)-777BB4?style=flat-square&logo=php&logoColor=white" /></a>
-   <a href="https://github.com/Hqtruong27/"><img alt="bs3" src="https://img.shields.io/badge/-Build Web (private)-7952b3?style=flat-square&logo=bootstrap&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/"><img alt="PHP" src="https://img.shields.io/badge/​-Clothes (Pvt)-777BB4?style=flat-square&logo=php&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/"><img alt="bs3" src="https://img.shields.io/badge/​-Web Sample (Pvt)-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /></a>
  </li>
 </ul>
 <!--
