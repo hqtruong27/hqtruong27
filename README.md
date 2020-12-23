@@ -36,7 +36,7 @@ I'm **Truong**!
   <!-- primary -->
  <img alt="c#" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=1eab25&message=C%23%209.0&color=1eab25&style=flat-square" />&nbsp
  <img alt=".NET5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=.NET%205&color=1a98d8&style=flat-square" />&nbsp
- <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=5C2D91&message=ASP.NET&color=753088&style=flat-square" />&nbsp
+ <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=8661c5&message=ASP.NET&color=8661c5&style=flat-square" />&nbsp
  <img alt="java" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=java&logoColor=007396&message=Java&color=007396&style=flat-square" />&nbsp
  <img alt="mssql" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=microsoft-sql-server&logoColor=AD353B&message=SQL%20Server&color=AD353B&style=flat-square" />&nbsp
  <img alt="Git" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=git&logoColor=F05032&message=Git&color=F05032&style=flat-square" />&nbsp
@@ -62,10 +62,10 @@ I'm **Truong**!
   <img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=mysql&logoColor=4479A1&message=MySQL&color=4479A1&style=flat-square" />&nbsp
 <!-- Platform&Tools -->
 <li>Platform & Tools:<br>
-  <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/badge/​-Windows 10-0067b8?style=flat-square&logo=windows&logoColor=white" /></a>&nbsp
-  <a href="https://visualstudio.microsoft.com/fr/" rel=""><img alt="Visual" src="https://img.shields.io/badge/​-Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" /></a>&nbsp
- <a href="https://code.visualstudio.com/" rel=""><img alt="vscode" src="https://img.shields.io/badge/​-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio&logoColor=white" /></a>&nbsp
- <a href="https://netbeans.apache.org/" rel=""><img alt="vscode" src="https://img.shields.io/badge/-NetBeans IDE-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" /></a>&nbsp
+ <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=windows&logoColor=00adef&message=Windows%2010&color=00adef&style=flat-square" /></a>&nbsp
+ <a href="https://visualstudio.microsoft.com" rel=""><img alt="Visual" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=visual-studio&logoColor=8661c5&message=Visual%20Studio%202019&color=8661c5&style=flat-square" /></a>&nbsp
+ <a href="https://code.visualstudio.com/?wt.mc_id=vscom_downloads" rel=""><img alt="vscode" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=visual-studio-code&logoColor=23a8f2&message=Visual%20Studio%20Code&color=007ACC&style=flat-square" /></a>&nbsp
+ <a href="https://netbeans.apache.org/" rel=""><img alt="netbeans" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Apache-NetBeans-IDE&logoColor=000&message=NetBeans%20IDE&color=9dbf32&style=flat-square" /></a>&nbsp
 </li>
 </ul>
 <!--Project build-->
