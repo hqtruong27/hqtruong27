@@ -23,7 +23,7 @@
 I'm **Truong**!
 - 🔭 Junior Asp.Net Core at VietTin  <img title="Vietnam" alt="Vietnam" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="18"/>
 - 🎓 I'm a certificate student at Aptech.
-- 🌱 I'm currently learning **[Nodejs](https://nodejs.com/)** and improving `Specialized English`;
+- 🌱 I'm currently learning **[Nodejs](https://nodejs.org/)** and improving `Specialized English`;
 - <img title="South Korea" alt="South Korea" src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" width="14"/> I want to learn Japanese | ~~but no chance yet~~
 
 <h4>📚 Currently reading</h4>
