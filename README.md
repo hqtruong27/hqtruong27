@@ -77,7 +77,7 @@ I'm **Truong**!
  </li>
  <li>2019:<br>
    <a href="https://github.com/Hqtruong27/"><img alt="NET" src="https://img.shields.io/badge/​-FashionShop (Pvt)-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" /></a>
-  <a href="https://github.com/Hqtruong27/Employee-Manager-App"><img alt="c#" src="https://img.shields.io/badge/-Employee Manager (App)-239120?style=flat-square&logo=c-sharp&logoColor=white" /></a>
+  <a href="https://github.com/Hqtruong27/Employee-Manager-App"><img alt="c#" src="https://img.shields.io/badge/​-Employee Manager (App)-239120?style=flat-square&logo=c-sharp&logoColor=white" /></a>
    <a href="https://github.com/Hqtruong27/MB-Shop-App"><img alt="java" src="https://img.shields.io/badge/​-MB Shop (App)-007396?style=flat-square&logo=java&logoColor=white" /></a>
  </li>
  <li>2018:<br>
