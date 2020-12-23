@@ -37,10 +37,10 @@ I'm **Truong**!
  <img alt="c#" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=1eab25&message=C%23%209.0&color=1eab25&style=flat-square" />
  <img alt=".NET5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=.NET%205&color=1a98d8&style=flat-square" />
  <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=8661c5&message=ASP.NET&color=8661c5&style=flat-square" />
- <img alt="java" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=java&logoColor=007396&message=Java&color=007396&style=flat-square" />
  <img alt="mssql" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=microsoft-sql-server&logoColor=AD353B&message=SQL%20Server&color=AD353B&style=flat-square" />&nbsp
  <img alt="Git" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=git&logoColor=F05032&message=Git&color=F05032&style=flat-square" />
  <img alt="Gitlab" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Gitlab&logoColor=&message=Gitlab&color=FCA121&style=flat-square" />
+ <img alt="java" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=java&logoColor=007396&message=Java&color=007396&style=flat-square" />
  <img alt="css" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=css3&logoColor=1572B6&message=CSS&color=1572B6&style=flat-square" />
  <img alt="scss" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=sass&logoColor=CC6699&message=SCSS&color=CC6699&style=flat-square" />
  <img alt="bs3" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp
