@@ -56,6 +56,7 @@ I'm **Truong**!
   <img alt="JavaScript" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Json" src="https://img.shields.io/badge/-Json-555555?style=flat-square&logo=json&logoColor=white" />
+  <br/>
   <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <a href="https://www.mysql.com/" rel=""><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
 <!-- Platform&Tools -->
