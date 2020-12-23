@@ -37,7 +37,7 @@ I'm **Truong**!
   <img alt="CSharp" src="https://img.shields.io/badge/-C%23 9.0-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="NET" src="https://img.shields.io/badge/-.NET 5-007bff?style=flat-square&logo=%2ENET&logoColor=white" />
   <img alt="NET" src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL Server-AD353B?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
@@ -51,9 +51,9 @@ I'm **Truong**!
   <!-- web -->
 </li>
 <li>Familiar with:<br>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=node.js&logoColor=fff" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-React-3765af?style=flat-square&logo=react&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Json" src="https://img.shields.io/badge/-Json-555555?style=flat-square&logo=json&logoColor=white" />
