@@ -65,6 +65,9 @@ I'm **Truong**!
  <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=windows&logoColor=00adef&message=Windows%2010&color=00adef&style=flat-square" /></a>&nbsp
  <a href="https://visualstudio.microsoft.com" rel=""><img alt="Visual" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=visual-studio&logoColor=8661c5&message=Visual%20Studio%202019&color=8661c5&style=flat-square" /></a>&nbsp
  <a href="https://code.visualstudio.com/?wt.mc_id=vscom_downloads" rel=""><img alt="vscode" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=visual-studio-code&logoColor=23a8f2&message=Visual%20Studio%20Code&color=007ACC&style=flat-square" /></a>&nbsp
+ <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" rel=""><img alt="mssql" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=microsoft-sql-server&logoColor=AD353B&message=SSMS%2018&color=AD353B&style=flat-square" /></a>&nbsp
+ <a href="https://www.docker.com/products/docker-desktop" rel=""><img alt="Docker" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Docker&logoColor=2496ED&message=Docker%20Desktop&color=2496ED&style=flat-square" /></a>&nbsp
+ <a href="https://www.postman.com/" rel=""><img alt="postman" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=postman&logoColor=FF6C37&message=Postman&color=FF6C37&style=flat-square" /></a>&nbsp
  <a href="https://netbeans.apache.org/" rel=""><img alt="netbeans" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Apache-NetBeans-IDE&logoColor=000&message=NetBeans%20IDE&color=9dbf32&style=flat-square" /></a>&nbsp
 </li>
 </ul>
