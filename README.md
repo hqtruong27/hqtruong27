@@ -55,11 +55,11 @@ I'm **Truong**!
   <!--<img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=node.js&logoColor=339933&logoWidth=0&labelColor=fff&" />-->
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-React-3765af?style=flat-square&logo=react&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
-  <img alt="Json" src="https://img.shields.io/badge/-Json-555555?style=flat-square&logo=json&logoColor=white" />
-  <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <a href="https://www.mysql.com/" rel=""><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
+  <img alt="React" src="https://img.shields.io/static/v1?label=&labelColor=e4e5e6&logoWidth=&logo=react&logoColor=61DAFB&message=React&color=3765af&style=flat-square" />
+  <img alt="jQuery" src="https://img.shields.io/static/v1?label=&labelColor=e4e5e6&logoWidth=&logo=jQuery&logoColor=0769ad&message=jQuery&color=0769ad&style=flat-square" />
+  <img alt="Json" src="https://img.shields.io/static/v1?label=&labelColor=e4e5e6&logoWidth=&logo=json&logoColor=555555&message=Json&color=555555&style=flat-square" />
+  <img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=e4e5e6&logoWidth=&logo=php&logoColor=777BB4&message=PHP%207&color=777BB4&style=flat-square" />
+  <img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=e4e5e6&logoWidth=&logo=mysql&logoColor=4479A1&message=MySQL&color=4479A1&style=flat-square" />
 <!-- Platform&Tools -->
 <li>Platform & Tools:<br>
   <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/badge/​-Windows 10-0067b8?style=flat-square&logo=windows&logoColor=white" /></a>
