@@ -44,6 +44,7 @@ I'm **Truong**!
   <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="scss" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
+   <br/>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <!-- other -->
   
@@ -56,7 +57,6 @@ I'm **Truong**!
   <img alt="JavaScript" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Json" src="https://img.shields.io/badge/-Json-555555?style=flat-square&logo=json&logoColor=white" />
-  <br/>
   <img alt="php" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <a href="https://www.mysql.com/" rel=""><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"></a>
 <!-- Platform&Tools -->
