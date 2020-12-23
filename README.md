@@ -34,56 +34,56 @@ I'm **Truong**!
 <ul>
 <li>Experienced with:<br>
   <!-- primary -->
-  <img alt="CSharp" src="https://img.shields.io/badge/-C%23 9.0-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt="NET" src="https://img.shields.io/badge/-.NET 5-007bff?style=flat-square&logo=%2ENET&logoColor=white" />
-  <img alt="NET" src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" />
-  <img alt="java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL Server-AD353B?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="scss" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="CSharp" src="https://img.shields.io/badge/-C%23 9.0-239120?style=flat-square&logo=c-sharp&logoColor=white" />&nbsp
+  <img alt="NET" src="https://img.shields.io/badge/-.NET 5-007bff?style=flat-square&logo=%2ENET&logoColor=white" />&nbsp
+  <img alt="NET" src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" />&nbsp
+  <img alt="java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=fff" />&nbsp
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL Server-AD353B?style=flat-square&logo=microsoft-sql-server&logoColor=white" />&nbsp
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />&nbsp
+  <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FCA121?style=flat-square&logo=gitlab&logoColor=white" />&nbsp
+  <img alt="css" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />&nbsp
+  <img alt="scss" src="https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white" />&nbsp
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />
    <br/>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />&nbsp
   <!-- other -->
   
   <!-- web -->
 </li>
 <li>Familiar with:<br>
-  <img alt="Nodejs" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=node.js&logoColor=339933&message=Nodejs&color=339933&style=flat-square" />
+  <img alt="Nodejs" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=node.js&logoColor=339933&message=Nodejs&color=339933&style=flat-square" />&nbsp
   <!--<img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=node.js&logoColor=339933&logoWidth=0&labelColor=fff&" />-->
-  <img alt="Docker" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Docker&logoColor=2496ED&message=Docker&color=2496ED&style=flat-square" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />
-  <img alt="React" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=react&logoColor=61DAFB&message=React&color=3765af&style=flat-square" />
-  <img alt="jQuery" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=jQuery&logoColor=0769ad&message=jQuery&color=0769ad&style=flat-square" />
-  <img alt="Json" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=json&logoColor=555555&message=Json&color=555555&style=flat-square" />
-  <img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=php&logoColor=777BB4&message=PHP%207&color=777BB4&style=flat-square" />
-  <img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=mysql&logoColor=4479A1&message=MySQL&color=4479A1&style=flat-square" />
+  <img alt="Docker" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Docker&logoColor=2496ED&message=Docker&color=2496ED&style=flat-square" />&nbsp
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />&nbsp
+  <img alt="React" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=react&logoColor=61DAFB&message=React&color=3765af&style=flat-square" />&nbsp
+  <img alt="jQuery" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=jQuery&logoColor=0769ad&message=jQuery&color=0769ad&style=flat-square" />&nbsp
+  <img alt="Json" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=json&logoColor=555555&message=Json&color=555555&style=flat-square" />&nbsp
+  <img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=php&logoColor=777BB4&message=PHP%207&color=777BB4&style=flat-square" />&nbsp
+  <img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=mysql&logoColor=4479A1&message=MySQL&color=4479A1&style=flat-square" />&nbsp
 <!-- Platform&Tools -->
 <li>Platform & Tools:<br>
-  <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/badge/​-Windows 10-0067b8?style=flat-square&logo=windows&logoColor=white" /></a>
-  <a href="https://visualstudio.microsoft.com/fr/" rel=""><img alt="Visual" src="https://img.shields.io/badge/​-Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" /></a> 
- <a href="https://code.visualstudio.com/" rel=""><img alt="vscode" src="https://img.shields.io/badge/​-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio&logoColor=white" /></a> 
- <a href="https://netbeans.apache.org/" rel=""><img alt="vscode" src="https://img.shields.io/badge/-NetBeans IDE-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" /></a> 
+  <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/badge/​-Windows 10-0067b8?style=flat-square&logo=windows&logoColor=white" /></a>&nbsp
+  <a href="https://visualstudio.microsoft.com/fr/" rel=""><img alt="Visual" src="https://img.shields.io/badge/​-Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" /></a>&nbsp
+ <a href="https://code.visualstudio.com/" rel=""><img alt="vscode" src="https://img.shields.io/badge/​-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio&logoColor=white" /></a>&nbsp
+ <a href="https://netbeans.apache.org/" rel=""><img alt="vscode" src="https://img.shields.io/badge/-NetBeans IDE-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" /></a>&nbsp
 </li>
 </ul>
 <!--Project build-->
  <h4>🔧 Project has built</h4>
 <ul>
   <li>2020:<br>
-   <a href="https://github.com/Hqtruong27/SufeeStore"><img alt="NET" src="https://img.shields.io/badge/​-SufeeStore-0066B8?style=flat-square&logo=%2ENET&logoColor=white" /></a>
-   <a href="https://github.com/Hqtruong27/MobileShop"><img alt="NET" src="https://img.shields.io/badge/​-MobileShop-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" /></a>
-   <a href="https://github.com/Hqtruong27/Sufee-store"><img alt="java" src="https://img.shields.io/badge/​-Sufee Store-007396?style=flat-square&logo=java&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/SufeeStore"><img alt="NET" src="https://img.shields.io/badge/​-SufeeStore-0066B8?style=flat-square&logo=%2ENET&logoColor=white" /></a>&nbsp
+   <a href="https://github.com/Hqtruong27/MobileShop"><img alt="NET" src="https://img.shields.io/badge/​-MobileShop-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" /></a>&nbsp
+   <a href="https://github.com/Hqtruong27/Sufee-store"><img alt="java" src="https://img.shields.io/badge/​-Sufee Store-007396?style=flat-square&logo=java&logoColor=white" /></a>&nbsp
  </li>
  <li>2019:<br>
-   <a href="https://github.com/Hqtruong27/"><img alt="NET" src="https://img.shields.io/badge/​-FashionShop (Pvt)-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" /></a>
-  <a href="https://github.com/Hqtruong27/Employee-Manager-App"><img alt="c#" src="https://img.shields.io/badge/​-Employee Manager (App)-239120?style=flat-square&logo=c-sharp&logoColor=white" /></a>
-   <a href="https://github.com/Hqtruong27/MB-Shop-App"><img alt="java" src="https://img.shields.io/badge/​-MB Shop (App)-007396?style=flat-square&logo=java&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/"><img alt="NET" src="https://img.shields.io/badge/​-FashionShop (Pvt)-5C2D91?style=flat-square&logo=%2ENET&logoColor=white" /></a>&nbsp
+  <a href="https://github.com/Hqtruong27/Employee-Manager-App"><img alt="c#" src="https://img.shields.io/badge/​-Employee Manager (App)-239120?style=flat-square&logo=c-sharp&logoColor=white" /></a>&nbsp
+   <a href="https://github.com/Hqtruong27/MB-Shop-App"><img alt="java" src="https://img.shields.io/badge/​-MB Shop (App)-007396?style=flat-square&logo=java&logoColor=white" /></a>&nbsp
  </li>
  <li>2018:<br>
-   <a href="https://github.com/Hqtruong27/"><img alt="PHP" src="https://img.shields.io/badge/​-Clothes (Pvt)-777BB4?style=flat-square&logo=php&logoColor=white" /></a>
-   <a href="https://github.com/Hqtruong27/"><img alt="bs3" src="https://img.shields.io/badge/​-Web Sample (Pvt)-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /></a>
+   <a href="https://github.com/Hqtruong27/"><img alt="PHP" src="https://img.shields.io/badge/​-Clothes (Pvt)-777BB4?style=flat-square&logo=php&logoColor=white" /></a>&nbsp
+   <a href="https://github.com/Hqtruong27/"><img alt="bs3" src="https://img.shields.io/badge/​-Web Sample (Pvt)-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /></a>&nbsp
  </li>
 </ul>
 <!--
