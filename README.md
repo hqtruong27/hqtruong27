@@ -55,11 +55,11 @@ I'm **Truong**!
   <img alt="Nodejs" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=node.js&logoColor=339933&message=Nodejs&color=339933&style=flat-square" />&nbsp
   <!--<img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=node.js&logoColor=339933&logoWidth=0&labelColor=fff&" />-->
   <img alt="Docker" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Docker&logoColor=2496ED&message=Docker&color=2496ED&style=flat-square" />&nbsp
-  <img alt="React" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=react&logoColor=61DAFB&message=React&color=3765af&style=flat-square" />&nbsp
+  <img alt="React" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=react&logoColor=61DAFB&message=React&color=61c9fb&style=flat-square" />&nbsp
   <img alt="jQuery" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=jQuery&logoColor=0769ad&message=jQuery&color=0769ad&style=flat-square" />&nbsp
   <img alt="Json" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=json&logoColor=555555&message=Json&color=555555&style=flat-square" />&nbsp
   <img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=php&logoColor=777BB4&message=PHP%207&color=777BB4&style=flat-square" />&nbsp
-  <img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=mysql&logoColor=4479A1&message=MySQL&color=4479A1&style=flat-square" />&nbsp
+  <img alt="mysql" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=mysql&logoColor=4479A1&message=MySQL&color=4479A1&style=flat-square" />&nbsp
 <!-- Platform&Tools -->
 <li>Platform & Tools:<br>
  <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=windows&logoColor=00adef&message=Windows%2010&color=00adef&style=flat-square" /></a>&nbsp
