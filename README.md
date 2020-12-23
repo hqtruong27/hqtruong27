@@ -64,7 +64,7 @@ I'm **Truong**!
   <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/badge/​-Windows 10-0067b8?style=flat-square&logo=windows&logoColor=white" /></a>
   <a href="https://visualstudio.microsoft.com/fr/" rel=""><img alt="Visual" src="https://img.shields.io/badge/​-Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" /></a> 
  <a href="https://code.visualstudio.com/" rel=""><img alt="vscode" src="https://img.shields.io/badge/​-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio&logoColor=white" /></a> 
- <a href="https://netbeans.apache.org/" rel=""><img alt="vscode" src="https://img.shields.io/badge/​-NetBeans IDE-1B6AC6?style=flat-square&logo=Apache-NetBeans-IDE&logoColor=white" /></a> 
+ <a href="https://netbeans.apache.org/" rel=""><img alt="vscode" src="https://img.shields.io/badge/-NetBeans IDE-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" /></a> 
 </li>
 </ul>
 <!--Project build-->
