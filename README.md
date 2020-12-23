@@ -34,9 +34,9 @@ I'm **Truong**!
 <ul>
 <li>Experienced with:<br>
   <!-- primary -->
- <img alt="c#" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=239120&message=C%23%209.0&color=1eab25&style=flat-square" />&nbsp
- <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=007bff&message=.NET%205&color=007bff&style=flat-square" />&nbsp
- <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=5C2D91&message=ASP.NET&color=5C2D91&style=flat-square" />&nbsp
+ <img alt="c#" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=1eab25&message=C%23%209.0&color=1eab25&style=flat-square" />&nbsp
+ <img alt=".NET5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=.NET%205&color=1a98d8&style=flat-square" />&nbsp
+ <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=5C2D91&message=ASP.NET&color=753088&style=flat-square" />&nbsp
  <img alt="java" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=java&logoColor=007396&message=Java&color=007396&style=flat-square" />&nbsp
  <img alt="mssql" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=microsoft-sql-server&logoColor=AD353B&message=SQL%20Server&color=AD353B&style=flat-square" />&nbsp
  <img alt="Git" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=git&logoColor=F05032&message=Git&color=F05032&style=flat-square" />&nbsp
