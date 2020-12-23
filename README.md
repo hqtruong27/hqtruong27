@@ -34,32 +34,32 @@ I'm **Truong**!
 <ul>
 <li>Experienced with:<br>
   <!-- primary -->
- <img alt="c#" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=1eab25&message=C%23%209.0&color=1eab25&style=flat-square" />&nbsp
- <img alt=".NET5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=.NET%205&color=1a98d8&style=flat-square" />&nbsp
- <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=8661c5&message=ASP.NET&color=8661c5&style=flat-square" />&nbsp
- <img alt="java" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=java&logoColor=007396&message=Java&color=007396&style=flat-square" />&nbsp
+ <img alt="c#" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=1eab25&message=C%23%209.0&color=1eab25&style=flat-square" />
+ <img alt=".NET5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=.NET%205&color=1a98d8&style=flat-square" />
+ <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=8661c5&message=ASP.NET&color=8661c5&style=flat-square" />
+ <img alt="java" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=java&logoColor=007396&message=Java&color=007396&style=flat-square" />
  <img alt="mssql" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=microsoft-sql-server&logoColor=AD353B&message=SQL%20Server&color=AD353B&style=flat-square" />&nbsp
- <img alt="Git" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=git&logoColor=F05032&message=Git&color=F05032&style=flat-square" />&nbsp
- <img alt="Gitlab" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Gitlab&logoColor=&message=Gitlab&color=FCA121&style=flat-square" />&nbsp
- <img alt="css" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=css3&logoColor=1572B6&message=CSS&color=1572B6&style=flat-square" />&nbsp
- <img alt="scss" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=sass&logoColor=CC6699&message=SCSS&color=CC6699&style=flat-square" />&nbsp
+ <img alt="Git" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=git&logoColor=F05032&message=Git&color=F05032&style=flat-square" />
+ <img alt="Gitlab" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Gitlab&logoColor=&message=Gitlab&color=FCA121&style=flat-square" />
+ <img alt="css" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=css3&logoColor=1572B6&message=CSS&color=1572B6&style=flat-square" />
+ <img alt="scss" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=sass&logoColor=CC6699&message=SCSS&color=CC6699&style=flat-square" />
  <img alt="bs3" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp
    <br/>
- <img alt="html5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=html5&logoColor=E34F26&message=HTML5&color=E34F26&style=flat-square" />&nbsp
+ <img alt="html5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=html5&logoColor=E34F26&message=HTML5&color=E34F26&style=flat-square" />
   <!-- other -->
   
   <!-- web -->
 </li>
 <li>Familiar with:<br>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />&nbsp
-  <img alt="Nodejs" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=node.js&logoColor=339933&message=Nodejs&color=339933&style=flat-square" />&nbsp
+  <img alt="Nodejs" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=node.js&logoColor=339933&message=Nodejs&color=339933&style=flat-square" />
   <!--<img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=node.js&logoColor=339933&logoWidth=0&labelColor=fff&" />-->
-  <img alt="Docker" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Docker&logoColor=2496ED&message=Docker&color=2496ED&style=flat-square" />&nbsp
-  <img alt="React" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=react&logoColor=61DAFB&message=React&color=61c9fb&style=flat-square" />&nbsp
-  <img alt="jQuery" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=jQuery&logoColor=0769ad&message=jQuery&color=0769ad&style=flat-square" />&nbsp
-  <img alt="Json" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=json&logoColor=555555&message=Json&color=555555&style=flat-square" />&nbsp
-  <img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=php&logoColor=777BB4&message=PHP%207&color=777BB4&style=flat-square" />&nbsp
-  <img alt="mysql" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=mysql&logoColor=4479A1&message=MySQL&color=4479A1&style=flat-square" />&nbsp
+  <img alt="Docker" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Docker&logoColor=2496ED&message=Docker&color=2496ED&style=flat-square" />
+  <img alt="React" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=react&logoColor=61DAFB&message=React&color=61c9fb&style=flat-square" />
+  <img alt="jQuery" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=jQuery&logoColor=0769ad&message=jQuery&color=0769ad&style=flat-square" />
+  <img alt="Json" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=json&logoColor=555555&message=Json&color=555555&style=flat-square" />
+  <img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=php&logoColor=777BB4&message=PHP%207&color=777BB4&style=flat-square" />
+  <img alt="mysql" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=mysql&logoColor=4479A1&message=MySQL&color=4479A1&style=flat-square" />
 <!-- Platform&Tools -->
 <li>Platform & Tools:<br>
  <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=windows&logoColor=00adef&message=Windows%2010&color=00adef&style=flat-square" /></a>&nbsp
