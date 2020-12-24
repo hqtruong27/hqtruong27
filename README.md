@@ -10,6 +10,9 @@
   <a target="_blank" href="https://www.facebook.com/hqtruong27/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267b2.svg?&style=flat-square&logo=facebook&logoColor=white" />
   </a> 
+  <a target="_blank" href="https://twitter.com/" target="_blank">
+    <img alt="Discord" src="https://img.shields.io/badge/Truong Hoang-1da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" />
+  </a>
   <a target="_blank" href="https://stackoverflow.com/users/10209464/truong-hoang" target="_blank">
     <img alt="stackoverflow" src="https://img.shields.io/badge/Stack overflow-f48024.svg?&style=flat-square&logo=stackoverflow&logoColor=white" />
   </a> 
