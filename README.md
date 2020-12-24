@@ -28,7 +28,7 @@ I'm **Truong**!
 - 🎓 I'm a certificate student at Aptech.
 - 🌱 I'm currently learning **[Nodejs](https://nodejs.org/)** and improving `Specialized English`;
 - <img title="South Korea" alt="South Korea" src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" width="14"/> I want to learn Japanese | ~~but no chance yet~~
-- <img src="https://komarev.com/ghpvc/?username=hqtruong27&label=Views&labelColor=eff0f2&style=flat-square" alt="hqtruong27" />
+- <img src="https://komarev.com/ghpvc/?username=hqtruong27&label=Views&labelColor=eff0f2&style=flat" alt="hqtruong27" />
 
 <h4>📚 Currently reading</h4>
 <ul>
