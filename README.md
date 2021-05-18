@@ -41,6 +41,7 @@ I'm **Truong**!
  <img alt="c#" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=1eab25&message=C%23%209.0&color=1eab25&style=flat-square" />
  <img alt=".NET5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=.NET%205&color=1a98d8&style=flat-square" />
  <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=8661c5&message=ASP.NET&color=8661c5&style=flat-square" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />&nbsp
  <img alt="mssql" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=microsoft-sql-server&logoColor=AD353B&message=SQL%20Server&color=AD353B&style=flat-square" />&nbsp
  <img alt="Git" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=git&logoColor=F05032&message=Git&color=F05032&style=flat-square" />
  <img alt="Gitlab" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Gitlab&logoColor=&message=Gitlab&color=FCA121&style=flat-square" />
@@ -55,7 +56,6 @@ I'm **Truong**!
   <!-- web -->
 </li>
 <li>Familiar with:<br>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />&nbsp
   <img alt="Nodejs" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=node.js&logoColor=339933&message=Nodejs&color=339933&style=flat-square" />
   <!--<img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=node.js&logoColor=339933&logoWidth=0&labelColor=fff&" />-->
   <img alt="Docker" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Docker&logoColor=2496ED&message=Docker&color=2496ED&style=flat-square" />
