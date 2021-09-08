@@ -28,7 +28,7 @@ I'm **Truong**!
 - 🎓 I'm a certificate student at Aptech.
 - 🌱 I'm currently learning **[Nodejs](https://nodejs.org/)** and improving `Specialized English`;
 <!-- - <img title="South Korea" alt="South Korea" src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" width="14"/> I want to learn Japanese | ~~but no chance yet~~ -->
-- <img src="https://komarev.com/ghpvc/?username=hqtruong27&label=Views&labelColor=eff0f2&style=flat" alt="hqtruong27" />
+<!-- - <img src="https://komarev.com/ghpvc/?username=hqtruong27&label=Views&labelColor=eff0f2&style=flat" alt="hqtruong27" /> -->
 
 <h4>📚 Currently reading</h4>
 <ul>
@@ -41,16 +41,18 @@ I'm **Truong**!
  <img alt="c#" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=1eab25&message=C%23%209.0&color=1eab25&style=flat-square" />
  <img alt=".NET5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=.NET%205&color=1a98d8&style=flat-square" />
  <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=8661c5&message=ASP.NET&color=8661c5&style=flat-square" />
- <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />&nbsp
- <img alt="mssql" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=microsoft-sql-server&logoColor=AD353B&message=SQL%20Server&color=AD353B&style=flat-square" />&nbsp
+ <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />
+ <img alt="mssql" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=microsoft-sql-server&logoColor=AD353B&message=SQL%20Server&color=CC2927&style=flat-square" />
+ <img alt="redis" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Redis&logoColor=AD353B&message=Redis&color=DC382D&style=flat-square" />
+ <img alt="mongoDB" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=MongoDB&logoColor=47A248&message=MongoDB&color=47A248&style=flat-square" />
  <img alt="Git" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=git&logoColor=F05032&message=Git&color=F05032&style=flat-square" />
  <img alt="Gitlab" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Gitlab&logoColor=&message=Gitlab&color=FCA121&style=flat-square" />
  <img alt="java" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=java&logoColor=007396&message=Java&color=007396&style=flat-square" />
- <img alt="css" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=css3&logoColor=1572B6&message=CSS&color=1572B6&style=flat-square" />
+<!--  <img alt="css" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=css3&logoColor=1572B6&message=CSS&color=1572B6&style=flat-square" />
  <img alt="scss" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=sass&logoColor=CC6699&message=SCSS&color=CC6699&style=flat-square" />
  <img alt="bs3" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp
    <br/>
- <img alt="html5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=html5&logoColor=E34F26&message=HTML5&color=E34F26&style=flat-square" />
+ <img alt="html5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=html5&logoColor=E34F26&message=HTML5&color=E34F26&style=flat-square" /> -->
   <!-- other -->
   
   <!-- web -->
@@ -67,16 +69,17 @@ I'm **Truong**!
 <!-- Platform&Tools -->
 <li>Platform & Tools:<br>
  <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=windows&logoColor=00adef&message=Windows%2010&color=00adef&style=flat-square" /></a>&nbsp
- <a href="https://visualstudio.microsoft.com" rel=""><img alt="Visual" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=visual-studio&logoColor=8661c5&message=Visual%20Studio%202019&color=8661c5&style=flat-square" /></a>&nbsp
+ <a href="https://visualstudio.microsoft.com" rel=""><img alt="Visual" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=visual-studio&logoColor=5C2D91&message=Visual%20Studio%202019&color=5C2D91&style=flat-square" /></a>&nbsp
  <a href="https://code.visualstudio.com/?wt.mc_id=vscom_downloads" rel=""><img alt="vscode" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=visual-studio-code&logoColor=23a8f2&message=Visual%20Studio%20Code&color=007ACC&style=flat-square" /></a>&nbsp
- <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" rel=""><img alt="mssql" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=microsoft-sql-server&logoColor=f6a000&message=SSMS%2018&color=f6a000&style=flat-square" /></a>&nbsp
+  <a href="https://github.com/microsoft/terminal" rel=""><img alt="windows-terminal" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=windows-terminal&logoColor=4D4D4D&message=Windows Terminal&color=4D4D4D&style=flat-square" /></a>&nbsp
+<!--  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" rel=""><img alt="mssql" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=microsoft-sql-server&logoColor=f6a000&message=SSMS%2018&color=f6a000&style=flat-square" /></a>&nbsp -->
  <a href="https://www.docker.com/products/docker-desktop" rel=""><img alt="Docker" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Docker&logoColor=2496ED&message=Docker%20Desktop&color=2496ED&style=flat-square" /></a>&nbsp
  <a href="https://www.postman.com/" rel=""><img alt="postman" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=postman&logoColor=FF6C37&message=Postman&color=FF6C37&style=flat-square" /></a>&nbsp
- <a href="https://netbeans.apache.org/" rel=""><img alt="netbeans" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Apache-NetBeans-IDE&logoColor=000&message=NetBeans%20IDE&color=9dbf32&style=flat-square" /></a>&nbsp
+ <a href="https://netbeans.apache.org/" rel=""><img alt="netbeans" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Apache-NetBeans-IDE&logoColor=1B6AC6&message=NetBeans%20IDE&color=1B6AC6&style=flat-square" /></a>&nbsp
 </li>
 </ul>
 <!--Project build-->
- <h4>🔧 Project has built</h4>
+<!--  <h4>🔧 Project has built</h4>
 <ul>
   <li>2020:<br>
    <a href="https://github.com/Hqtruong27/SufeeStore"><img alt="NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=Sufee%20Shop&color=1a98d8&style=flat-square" /></a>&nbsp
@@ -92,7 +95,7 @@ I'm **Truong**!
    <a href="https://github.com/Hqtruong27/"><img alt="php" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=php&logoColor=777BB4&message=Clothes%20[PVT]&color=777BB4&style=flat-square" /></a>&nbsp
    <a href="https://github.com/Hqtruong27/"><img alt="bs3" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=bootstrap&logoColor=7952b3&message=Web%20Example%20[PVT]&color=7952b3&style=flat-square" /></a>&nbsp
  </li>
-</ul>
+</ul> -->
 <!--
 **hqtruong27/hqtruong27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
