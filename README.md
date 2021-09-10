@@ -24,7 +24,9 @@
 > *Not today, maybe tomorrow*
 
 I'm **Truong**!
+
 <!-- - 🔭 Junior **[.Net Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)** at VietTin  <img title="Vietnam" alt="Vietnam" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="18"/> -->
+
 - 🔭 I’m currently working on AspNetCore and JavaScript
 <!-- - 🎓 I'm a certificate student at Aptech. -->
 - 🌱 I'm currently learning **[Nodejs](https://nodejs.org/)** and improving `Specialized English`;
@@ -35,6 +37,10 @@ I'm **Truong**!
 <ul>
   <li>Clean Code <a target="_blank" href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
 </ul>
+<p align="center"></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtruong27&layout=compact&hide=java,css)](https://github.com/anuraghazra/github-readme-stats)
+
 <h4>🛠 Skills</h4>
 <ul>
 <li>Experienced with:<br>
