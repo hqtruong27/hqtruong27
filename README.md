@@ -10,14 +10,14 @@
   <a target="_blank" href="https://www.facebook.com/hqtruong27/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267b2.svg?&style=flat-square&logo=facebook&logoColor=white" />
   </a> 
-  <a target="_blank" href="https://twitter.com/" target="_blank">
+<!--   <a target="_blank" href="https://twitter.com/" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Truong Hoang-1da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" />
-  </a>
+  </a> -->
   <a target="_blank" href="https://stackoverflow.com/users/10209464/truong-hoang" target="_blank">
     <img alt="stackoverflow" src="https://img.shields.io/badge/Stack overflow-f48024.svg?&style=flat-square&logo=stackoverflow&logoColor=white" />
   </a> 
   <a target="_blank" href="https://skype.com" target="_blank">
-    <img alt="Discord" src="https://img.shields.io/badge/hqtruong27-46a2f1.svg?&style=flat-square&logo=Skype&logoColor=white" />
+    <img alt="_blank" src="https://img.shields.io/badge/hqtruong27-46a2f1.svg?&style=flat-square&logo=Skype&logoColor=white" />
   </a>
 </p>
 
@@ -25,7 +25,8 @@
 
 I'm **Truong**!
 <!-- - 🔭 Junior **[.Net Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)** at VietTin  <img title="Vietnam" alt="Vietnam" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="18"/> -->
-- 🎓 I'm a certificate student at Aptech.
+- 🔭 I’m currently working on AspNetCore and JavaScript
+<!-- - 🎓 I'm a certificate student at Aptech. -->
 - 🌱 I'm currently learning **[Nodejs](https://nodejs.org/)** and improving `Specialized English`;
 <!-- - <img title="South Korea" alt="South Korea" src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" width="14"/> I want to learn Japanese | ~~but no chance yet~~ -->
 <!-- - <img src="https://komarev.com/ghpvc/?username=hqtruong27&label=Views&labelColor=eff0f2&style=flat" alt="hqtruong27" /> -->
