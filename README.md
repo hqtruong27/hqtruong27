@@ -39,7 +39,7 @@ I'm **Truong**!
 </ul>
 <p align="center"></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtruong27&layout=compact&hide=java,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtruong27&layout=compact&hide=java,css,html,TSQL,ASP.NET,PHP,shell)](https://github.com/anuraghazra/github-readme-stats)
 
 <h4>🛠 Skills</h4>
 <ul>
