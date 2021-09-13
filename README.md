@@ -25,7 +25,7 @@
 
 I'm **Truong**!
 
-<!-- - 🔭 Junior **[.Net Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)** at VietTin  <img title="Vietnam" alt="Vietnam" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="18"/> -->
+<!-- - 🔭 Junior **[.Net Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)** at   <img title="Vietnam" alt="Vietnam" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="18"/> -->
 
 - 🔭 I’m currently working on AspNetCore and JavaScript
 <!-- - 🎓 I'm a certificate student at Aptech. -->
@@ -35,7 +35,8 @@ I'm **Truong**!
 
 <h4>📚 Currently reading</h4>
 <ul>
-  <li>Clean Code <a target="_blank" href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
+<!--   <li>Clean Code <a target="_blank" href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li> -->
+ <li style="color:#fff">The Journey of Elaina <a target="_blank" href="https://www.amazon.co.jp/s?k=%E9%AD%94%E5%A5%B3%E3%81%AE%E6%97%85%E3%80%85&crid=1TRM5VDBXBU6U&sprefix=%E9%AD%94%E5%A5%B3%E3%81%AE%E6%97%85%E3%80%85%2Caps%2C346&ref=nb_sb_ss_ts-doa-p_1_5"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
 </ul>
 <p align="center"></p>
 
