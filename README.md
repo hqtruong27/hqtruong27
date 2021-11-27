@@ -36,7 +36,7 @@ I'm **Truong**!
 <h4>📚 Currently reading</h4>
 <ul>
 <!--   <li>Clean Code <a target="_blank" href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li> -->
- <li style="color:#fff">Arioto<a target="_blank" href="https://www.amazon.co.jp/-/en/%E3%81%BF%E3%81%8B%E3%81%BF-%E3%81%A6%E3%82%8C%E3%82%93-ebook/dp/B098DH9NLL/ref=sr_1_1?crid=2OCD1TADBS0ZS&keywords=%E3%81%82%E3%82%8A%E3%81%8A%E3%81%A8&qid=1637995866&sprefix=arioto%2Caps%2C342&sr=8-1"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li>
+ <li style="color:#fff"><span style="color:#ff0000">Arioto</span>  <a target="_blank" href="https://www.amazon.co.jp/-/en/%E3%81%BF%E3%81%8B%E3%81%BF-%E3%81%A6%E3%82%8C%E3%82%93-ebook/dp/B098DH9NLL/ref=sr_1_1?crid=2OCD1TADBS0ZS&keywords=%E3%81%82%E3%82%8A%E3%81%8A%E3%81%A8&qid=1637995866&sprefix=arioto%2Caps%2C342&sr=8-1"><img src="https://cdn-icons-png.flaticon.com/512/1828/1828954.png" width="14" /></a></li>
 </ul>
 <p align="center"></p>
 
