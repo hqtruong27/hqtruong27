@@ -48,7 +48,7 @@ I'm **Truong**!
   <!-- primary -->
  <img alt="c#" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=1eab25&message=C%23%209.0&color=1eab25&style=flat-square" />
  <img alt=".NET5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=.NET%205&color=1a98d8&style=flat-square" />
- <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=8661c5&message=ASP.NET&color=8661c5&style=flat-square" />
+<!--  <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=8661c5&message=ASP.NET&color=8661c5&style=flat-square" /> -->
  <img alt="javaScript" src="https://img.shields.io/badge/-javaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />
  <img alt="nodejs" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=node.js&logoColor=339933&message=Nodejs&color=339933&style=flat-square" />
  <img alt="mssql" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=microsoft-sql-server&logoColor=AD353B&message=SQL%20Server&color=CC2927&style=flat-square" />
@@ -77,7 +77,7 @@ I'm **Truong**!
 <!-- Platform&Tools -->
 <li>Platform & Tools:<br>
  <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=windows&logoColor=00adef&message=Windows%2010&color=00adef&style=flat-square" /></a>&nbsp
- <a href="https://visualstudio.microsoft.com" rel=""><img alt="Visual" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=visual-studio&logoColor=5C2D91&message=Visual%20Studio%202019&color=5C2D91&style=flat-square" /></a>&nbsp
+ <a href="https://visualstudio.microsoft.com" rel=""><img alt="Visual" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=visual-studio&logoColor=5C2D91&message=Visual%20Studio%202022&color=5C2D91&style=flat-square" /></a>&nbsp
  <a href="https://code.visualstudio.com/?wt.mc_id=vscom_downloads" rel=""><img alt="vscode" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=visual-studio-code&logoColor=23a8f2&message=Visual%20Studio%20Code&color=007ACC&style=flat-square" /></a>&nbsp
   <a href="https://github.com/microsoft/terminal" rel=""><img alt="windows-terminal" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=windows-terminal&logoColor=4D4D4D&message=Windows Terminal&color=4D4D4D&style=flat-square" /></a>&nbsp
 <!--  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" rel=""><img alt="mssql" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=microsoft-sql-server&logoColor=f6a000&message=SSMS%2018&color=f6a000&style=flat-square" /></a>&nbsp -->
