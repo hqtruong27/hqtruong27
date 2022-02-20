@@ -7,15 +7,15 @@
   <a target="_blank" href="mailto:hqtruong27@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/Email-EA4748.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white" />
   </a>
-  <a target="_blank" href="https://www.facebook.com/hqtruong27/" target="_blank">
+<!--   <a target="_blank" href="https://www.facebook.com/hqtruong27/" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-4267b2.svg?&style=flat-square&logo=facebook&logoColor=white" />
-  </a> 
+  </a>  -->
 <!--   <a target="_blank" href="https://twitter.com/" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Truong Hoang-1da1f2.svg?&style=flat-square&logo=twitter&logoColor=white" />
   </a> -->
-  <a target="_blank" href="https://stackoverflow.com/users/10209464/truong-hoang" target="_blank">
+<!--   <a target="_blank" href="https://stackoverflow.com/users/10209464/truong-hoang" target="_blank">
     <img alt="stackoverflow" src="https://img.shields.io/badge/Stack overflow-f48024.svg?&style=flat-square&logo=stackoverflow&logoColor=white" />
-  </a> 
+  </a>  -->
   <a target="_blank" href="https://skype.com" target="_blank">
     <img alt="_blank" src="https://img.shields.io/badge/hqtruong27-46a2f1.svg?&style=flat-square&logo=Skype&logoColor=white" />
   </a>
