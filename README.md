@@ -76,7 +76,7 @@ I'm **Truong**!
   <img alt="mysql" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=mysql&logoColor=4479A1&message=MySQL&color=4479A1&style=flat-square" />
 <!-- Platform&Tools -->
 <li>Platform & Tools:<br>
- <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=windows&logoColor=00adef&message=Windows%2010&color=00adef&style=flat-square" /></a>&nbsp
+ <a href="https://www.microsoft.com/windows/get-windows-10" rel=""><img alt="Windows-10" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=windows&logoColor=00adef&message=Windows%2011&color=00adef&style=flat-square" /></a>&nbsp
  <a href="https://visualstudio.microsoft.com" rel=""><img alt="Visual" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=visual-studio&logoColor=5C2D91&message=Visual%20Studio%202022&color=5C2D91&style=flat-square" /></a>&nbsp
  <a href="https://code.visualstudio.com/?wt.mc_id=vscom_downloads" rel=""><img alt="vscode" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=visual-studio-code&logoColor=23a8f2&message=Visual%20Studio%20Code&color=007ACC&style=flat-square" /></a>&nbsp
   <a href="https://github.com/microsoft/terminal" rel=""><img alt="windows-terminal" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=windows-terminal&logoColor=4D4D4D&message=Windows Terminal&color=4D4D4D&style=flat-square" /></a>&nbsp
