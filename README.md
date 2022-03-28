@@ -16,7 +16,7 @@
 <!--   <a target="_blank" href="https://stackoverflow.com/users/10209464/truong-hoang" target="_blank">
     <img alt="stackoverflow" src="https://img.shields.io/badge/Stack overflow-f48024.svg?&style=flat-square&logo=stackoverflow&logoColor=white" />
   </a>  -->
-  <a target="_blank" href="live:hqtruong27" target="_blank">
+  <a target="_blank" href="skype:hqtruong27?chat">
     <img alt="_blank" src="https://img.shields.io/badge/hqtruong27-46a2f1.svg?&style=flat-square&logo=Skype&logoColor=white" />
   </a>
 </p>
