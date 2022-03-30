@@ -49,7 +49,7 @@ I'm **Truong**!
 <ul>
 <li>Experienced with:<br>
   <!-- primary -->
- <img alt="c#" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=1eab25&message=C%23%2010&color=1eab25&style=flat-square" />
+ <img alt="c#" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=178600&message=C%23%2010&color=178600&style=flat-square" />
  <img alt=".NET5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=.NET%206&color=1a98d8&style=flat-square" />
 <!--  <img alt=".NET" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=8661c5&message=ASP.NET&color=8661c5&style=flat-square" /> -->
  <img alt="javaScript" src="https://img.shields.io/badge/-javaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />
