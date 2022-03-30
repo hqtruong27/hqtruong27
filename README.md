@@ -19,6 +19,9 @@
   <a target="_blank" href="skype:hqtruong27?chat">
     <img alt="_blank" src="https://img.shields.io/badge/hqtruong27-46a2f1.svg?&style=flat-square&logo=Skype&logoColor=white" />
   </a>
+ <a target="_blank" href="https://linkedin.com/in/hqtruong27/">
+    <img alt="_blank" src="https://img.shields.io/badge/LinkedIn-0a66c2.svg?&style=flat-square&logo=LinkedIn&logoColor=white" />
+  </a>
 </p>
 
 > *Not today, maybe tomorrow*
