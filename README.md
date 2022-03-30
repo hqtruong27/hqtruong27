@@ -16,11 +16,11 @@
 <!--   <a target="_blank" href="https://stackoverflow.com/users/10209464/truong-hoang" target="_blank">
     <img alt="stackoverflow" src="https://img.shields.io/badge/Stack overflow-f48024.svg?&style=flat-square&logo=stackoverflow&logoColor=white" />
   </a>  -->
+ <a target="_blank" href="https://linkedin.com/in/hqtruong27/">
+    <img alt="_blank" src="https://img.shields.io/badge/Linkedin-0a66c2.svg?&style=flat-square&logo=LinkedIn&logoColor=white" />
+  </a>
   <a target="_blank" href="skype:hqtruong27?chat">
     <img alt="_blank" src="https://img.shields.io/badge/hqtruong27-46a2f1.svg?&style=flat-square&logo=Skype&logoColor=white" />
-  </a>
- <a target="_blank" href="https://linkedin.com/in/hqtruong27/">
-    <img alt="_blank" src="https://img.shields.io/badge/LinkedIn-0a66c2.svg?&style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
 </p>
 
