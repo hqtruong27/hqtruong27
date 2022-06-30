@@ -1,6 +1,5 @@
 ### Hi there!! 👋
 
-<!--<img align="right" src="https://github.com/xtenzQ/xtenzQ/blob/master/readme.png" style="max-width:10%;width:300px" />-->
 <!--Find me-->
  <h4>Where to find me:</h4>
 <p>
