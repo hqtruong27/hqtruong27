@@ -20,7 +20,7 @@ jobs:
     - run: npm ci
     - name: crawl cover image
       # run script
-      run: npm run crawl
+      run: npm run index.js
     - name: Update README.md
       # update code
       run: |
