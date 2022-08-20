@@ -23,17 +23,21 @@
   </a>
 </p>
 
-> *Not today, maybe tomorrow*
+> _Not today, maybe tomorrow_
 
 I'm **Truong**!
+
+<p style="text-align:center">
+  <img alt="Truong Hoang" src="/img/image.png" />
+</p>
 
 <!-- - 🔭 Junior **[.Net Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)** at   <img title="Vietnam" alt="Vietnam" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="18"/> -->
 
 - 🔭 I’m currently working on AspNetCore and JavaScript
 <!-- - 🎓 I'm a certificate student at Aptech. -->
 - 🌱 I'm currently learning **[Reactjs](https://reactjs.org/)** and improving `Specialized English`;
-<!-- - <img title="South Korea" alt="South Korea" src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" width="14"/> I want to learn Japanese | ~~but no chance yet~~ -->
-<!-- - <img src="https://komarev.com/ghpvc/?username=hqtruong27&label=Views&labelColor=eff0f2&style=flat" alt="hqtruong27" /> -->
+  <!-- - <img title="South Korea" alt="South Korea" src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" width="14"/> I want to learn Japanese | ~~but no chance yet~~ -->
+  <!-- - <img src="https://komarev.com/ghpvc/?username=hqtruong27&label=Views&labelColor=eff0f2&style=flat" alt="hqtruong27" /> -->
 
 <h4>📚 Currently reading</h4>
 <ul>
@@ -64,7 +68,7 @@ I'm **Truong**!
    <br/>
  <img alt="html5" src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=html5&logoColor=E34F26&message=HTML5&color=E34F26&style=flat-square" /> -->
   <!-- other -->
-  
+
   <!-- web -->
 </li>
 <li>Familiar with:<br>
@@ -105,18 +109,3 @@ I'm **Truong**!
    <a href="https://github.com/Hqtruong27/"><img alt="bs3" src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=bootstrap&logoColor=7952b3&message=Web%20Example%20[PVT]&color=7952b3&style=flat-square" /></a>&nbsp
  </li>
 </ul> -->
-<!--
-**hqtruong27/hqtruong27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-I'm looking for a **job** Junior.NET
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ....
--->
