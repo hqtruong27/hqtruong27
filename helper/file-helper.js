@@ -46,6 +46,7 @@ const fileHelper = {
         return new Promise(async (resolve, reject) => {
             if (!fs.existsSync(dir)) {
                 fs.mkdirSync(dir)
+                console.log('created folder')
             }
 
             const file = fs.createWriteStream(`${dir}/${fileName}`)
