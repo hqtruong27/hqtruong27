@@ -40,7 +40,7 @@ const crawl = async () => {
             // }
 
             const data = await page.$$('#app > div:nth-child(4) > div.column.bg-white > div.p-lr-l.p-tb-l.bg-background > div.has-text-centered > a')
-            await page.click(`#app > div:nth-child(4) > div.column.bg-white > div.p-lr-l.p-tb-l.bg-background > div.has-text-centered > a:nth-child(1)`)
+            await page.click(`#app > div:nth-child(4) > div.column.bg-white > div.p-lr-l.p-tb-l.bg-background > div.has-text-centered > a:nth-child(2)`)
             await delay(1000)
 
             // Transparent
@@ -48,7 +48,7 @@ const crawl = async () => {
             await delay(1000)
             await page.click('#app > div:nth-child(4) > div.column.bg-white > div.p-lr-l.p-tb-l.bg-background > div:nth-child(16) > div.tab-container.m-b-l > div > ul > li:nth-child(2)')
             await delay(1000)
-            await page.click('div.has-text-centered > div:nth-child(2) > a > div.image')
+            await page.click('div.has-text-centered > div:nth-child(1) > a > div.image')
             await delay(1000)
             const img = await page.evaluate(() => document.querySelector('#app > div:nth-child(4) > div.column.bg-white > div.p-lr-l.p-tb-l.bg-background > div:nth-child(16) > div.has-text-centered > div:nth-child(1) > div > div.modal-card > div.modal-card-body.has-text-centered > div.image.is-inline-block')
                 .getElementsByTagName('img')[0].getAttribute('src'))
