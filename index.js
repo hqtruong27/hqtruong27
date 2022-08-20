@@ -10,10 +10,16 @@ const url = 'https://bestdori.com/info/cards'
 const crawl = async () => {
 
     const browser = await puppeteer.launch({
-        headless: false,
-        defaultViewport: null,
-        args: ['--no-sandbox']
+        headless: true,
+        args: [
+            `--no-sandbox`
+                `--disable-setuid-sandbox`
+                `--disable-extensions-except=${extensionPath}`,
+            `--load-extension=${extensionPath}`
+        ],
+        slowMo: 50
     })
+
     const page = await browser.newPage()
 
     await page.goto(url)
