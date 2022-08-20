@@ -18,6 +18,12 @@ jobs:
       with:
         node-version: v14.17.6
     - run: npm ci
+    - name: 'Create env file'
+      run: |
+        touch .env
+        echo URI_BANDORI=${{ secrets.URI_BANDORI }} .env
+        echo URI_BANDORI_IMAGE=${{ secrets.URI_BANDORI_IMAGE }} >> .env
+        cat .env
     - name: crawl cover image
       # run script
       run: npm run crawl
