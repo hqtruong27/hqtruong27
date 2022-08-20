@@ -1,9 +1,11 @@
 const axios = require('axios')
 // const request = require("request")
-const cherio = require('cherio')
+// const cherio = require('cherio')
 const puppeteer = require('puppeteer')
 const fs = require('fs')
 var path = require("path")
+const fileHelper = require('./helper/file-helper')
+require('dotenv').config()
 
 const url = 'https://bestdori.com/info/cards'
 
@@ -54,12 +56,15 @@ const crawl = async () => {
         .getElementsByTagName('img')[0].getAttribute('src'))
 
 
-    //fs.rm('./img/', { recursive: true }, (err) => { console.log(err) })
+    if (fileHelper.hasAnyFile('/img')) {
+        fileHelper.removeAllFile('/img')
+    }
+
     const urlImage = 'https://bestdori.com/' + img
     const fileName = path.basename(img)
     //save file to folder img use fs
-    console.log(fileName)
-    const file = fs.createWriteStream(`./img/image.png`)
+    console.log(fileName) + lo
+    const file = fs.createWriteStream(`./img/${fileName}`)
     const request = await axios({
         url: urlImage,
         method: 'GET',
