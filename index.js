@@ -57,7 +57,9 @@ const crawl = async () => {
             //remove all file in folder
             if (await fileHelper.hasAnyFile(imgDic)) {
                 await fileHelper.removeAllFile(imgDic)
+
                 console.log('remove all file success!!! \n')
+
             }
 
             //let fileName = path.basename(img)
