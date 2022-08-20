@@ -20,14 +20,10 @@
 </p>
 
 > _Not today, maybe tomorrow_
+  <img style="float: right;display:inline" width="360" align="right" alt="Truong Hoang" src="./image/cover_photo.png" />
 
-
-<p align="left">
-  
+<p align="left">  
   <span>I'm <strong>Truong</strong>!</span>
-  <img style="float: right;display:inline" width="400" align="right" alt="Truong Hoang" src="./image/cover_photo.png" />
-  
-  <br />
 <ul>
   <li>🔭 I’m currently working on AspNetCore and JavaScript</li>
   <li>🌱 I'm currently learning <strong><a href="https://reactjs.org/">Reactjs</a></strong> and improving
