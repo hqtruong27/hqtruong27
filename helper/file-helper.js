@@ -8,6 +8,10 @@ const axios = require('axios')
 ///////////////////////////////////////////////////////////////////////////////////////////////
 //check has any file in directory
 const fileHelper = {
+    exists: (path) => {
+        return fs.existsSync(path)
+    },
+
     hasAnyFile: (dir) => {
         return new Promise((resolve, reject) => {
             fs.readdir(dir, (err, files) => {

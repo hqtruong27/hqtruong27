@@ -1,12 +1,13 @@
 const puppeteer = require('puppeteer')
 const fileHelper = require('./helper/file-helper')
+const { BANDORI } = require('./constants/constants')
 require('dotenv').config()
 const imgDic = './image'
 
 const crawl = async () => {
     let duration = 0
     let recursive = true
-    while (recursive) {
+    while (recursive && duration <= 5) {
         const browser = await puppeteer.launch({
             headless: true,
             defaultViewport: null,
@@ -15,60 +16,94 @@ const crawl = async () => {
 
         try {
             const page = await browser.newPage()
-
+            console.log('Start crawling.....\n')
             await page.goto(process.env.URI_BANDORI)
 
-            await page.click('.modal-card-foot')
-            await delay(1000)
-            await page.click('.fas.fa-grip-horizontal')
-            await delay(1000)
+            const firstPopup = await page.waitForSelector(BANDORI.FIST_POPUP)
+            await firstPopup.evaluate(x => x.click())
+            //close first popup
+            //await firstPopup.click() -> Node is either not clickable or not an HTMLElement
 
-            // //
-            // await page.click('.fas.fa-filter')
-            // await page.click('#app > div:nth-child(4) > div.column.bg-white > div.p-lr-l.p-tb-l.bg-background > div:nth-child(2) > div.m-b-l > div:nth-child(3) > div.field-body > div > div > div > a.button.is-rounded.button-all.is-focused')
-            // await delay(200)
-            // await page.click('#app > div:nth-child(4) > div.column.bg-white > div.p-lr-l.p-tb-l.bg-background > div:nth-child(2) > div.m-b-l > div:nth-child(3) > div.field-body > div > div > div > a:nth-child(4) > span > img')
+            const viewType = await page.waitForSelector(BANDORI.VIEW_TYPE)
+            await viewType.evaluate(x => x.click())
 
-            // let isShowMore = true
-            // while (isShowMore) {
-            //     var showMore = await page.evaluate(() => document.querySelector('#app > div:nth-child(4) > div.column.bg-white > div.p-lr-l.p-tb-l.bg-background > div.has-text-centered > a.button.is-fullwidth > span:nth-child(2)'))
-            //     if (showMore) {
-            //         await autoScroll(page)
-            //     } else {
-            //         isShowMore = false
-            //     }
-            // }
+            console.log('Change type view success.....\n')
 
-            const data = await page.$$('#app > div:nth-child(4) > div.column.bg-white > div.p-lr-l.p-tb-l.bg-background > div.has-text-centered > a')
-            await page.click(`#app > div:nth-child(4) > div.column.bg-white > div.p-lr-l.p-tb-l.bg-background > div.has-text-centered > a:nth-child(2)`)
-            await delay(1000)
+            const filter = await page.waitForSelector(BANDORI.FILTER)
+            await filter.evaluate(x => x.click())
 
-            // Transparent
-            await autoScroll(page)
-            await delay(1000)
-            await page.click('#app > div:nth-child(4) > div.column.bg-white > div.p-lr-l.p-tb-l.bg-background > div:nth-child(16) > div.tab-container.m-b-l > div > ul > li:nth-child(2)')
-            await delay(1000)
-            await page.click('div.has-text-centered > div:nth-child(1) > a > div.image')
-            await delay(1000)
-            const img = await page.evaluate(() => document.querySelector('#app > div:nth-child(4) > div.column.bg-white > div.p-lr-l.p-tb-l.bg-background > div:nth-child(16) > div.has-text-centered > div:nth-child(1) > div > div.modal-card > div.modal-card-body.has-text-centered > div.image.is-inline-block')
-                .getElementsByTagName('img')[0].getAttribute('src'))
+            const _1star = await page.waitForSelector(BANDORI.FILTER_STAR.replace('{0}', 1))
+            await _1star.evaluate(x => x.click())
+            console.log('Un filter card 1 star success .....\n')
 
+            const _2star = await page.waitForSelector(BANDORI.FILTER_STAR.replace('{0}', 2))
+            await _2star.evaluate(x => x.click())
+            console.log('Un filter card 2 star success .....\n')
 
-            //remove all file in folder
-            if (await fileHelper.hasAnyFile(imgDic)) {
-                fileHelper.removeAllFile('./image').then(() => {
-                    console.log('remove all file success!!! \n')
-                })
+            const _3star = await page.waitForSelector(BANDORI.FILTER_STAR.replace('{0}', 3))
+            await _3star.evaluate(x => x.click())
+            console.log('Un filter card 3 star success .....\n')
+
+            await delay(100)
+            await page.waitForSelector(BANDORI.SHOW_MORE_CARD)
+            let duration = 1
+            let isShowMore = true
+            while (isShowMore && duration == 50) {
+                var showMore = await page.$(BANDORI.SHOW_MORE_CARD)
+                if (showMore) {
+                    duration += 1
+                    console.log(`Show: ${duration} times`)
+                    await autoScroll(page)
+                } else {
+                    console.log('\nEnd....\n')
+                    isShowMore = false
+                }
             }
 
-            //let fileName = path.basename(img)
-            const fileName = 'cover_photo.png'
+            const cards = await page.$$(BANDORI.BLOCK_CARD)
+            const totalCards = cards.length
+            console.log(`Total cards: ${totalCards} \n`)
 
-            const urlImage = process.env.URI_BANDORI_IMAGE.concat(img)
-            //save file to folder img use fs
-            await fileHelper.downloadFile(urlImage, imgDic, fileName)
+            const chooseRandomCard = getRandomInt(1, totalCards)
+            const card = cards[chooseRandomCard - 1]
+            await card.click()
+            console.log(`card number: ${chooseRandomCard} clicked \n`)
+            await delay(1500) //wait for load page
+
+            // Transparent
+            const tab_transparent = await page.waitForSelector(BANDORI.TRANSPARENT.TAB)
+            await autoScroll(page)
+            await tab_transparent.evaluate(x => x.click())
+            let tab_transparent_clicked = false
+            while (!tab_transparent_clicked) {
+                tab_transparent_clicked = await tab_transparent.evaluate(el => el.textContent == 'Transparent')
+                console.log('Transparent tab clicked yet?:->', tab_transparent_clicked)
+            }
+
+            await delay(500) //wait load block transparent
+            var links = await page.$$(BANDORI.TRANSPARENT.BLOCK_IMG)
+            const randomClickTransparentImg = getRandomInt(1, links.length)
+            console.log(`Transparent image ${randomClickTransparentImg} clicked \n`)
+            const link = links[randomClickTransparentImg - 1]
+            await link.click()
+
+            const popUpImage = await page.waitForSelector(BANDORI.TRANSPARENT.POPUP_IMG.replace('{0}', randomClickTransparentImg))
+            const img = await popUpImage.evaluate((e) => e.querySelector('img').src)
+
+            console.log('img:->', img + '\n')
+            const fileName = 'cover_photo.png'
+            const filePath = imgDic + '/' + fileName
+
+            if (fileHelper.exists(filePath)) {
+                fileHelper.removeFile(imgDic, fileName)
+                console.log('remove file success!!' + '\n')
+            }
+
+            //save file to directory
+            await fileHelper.downloadFile(img, imgDic, fileName)
 
             await browser.close()
+
             recursive = false
             console.log("Crawl success!!!")
         } catch (error) {
@@ -82,11 +117,11 @@ const crawl = async () => {
 }
 
 crawl()
-
+//get random number with seed
 function getRandomInt(min, max) {
     min = Math.ceil(min)
     max = Math.floor(max)
-    return Math.floor(Math.random() * (max - min) + min) //The maximum is exclusive and the minimum is inclusive
+    return Math.floor(Math.random() * (max - min + 1)) + min
 }
 
 const delay = async (time) => {
