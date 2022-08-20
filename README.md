@@ -28,7 +28,7 @@
 I'm **Truong**!
 
 <p style="text-align:center">
-  <img alt="Truong Hoang" src="/img/image.png" />
+  <img alt="Truong Hoang" src="/img/cover_photo.png" />
 </p>
 
 <!-- - 🔭 Junior **[.Net Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)** at   <img title="Vietnam" alt="Vietnam" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="18"/> -->

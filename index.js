@@ -63,8 +63,8 @@ const crawl = async () => {
                 console.log(err)
             })
 
-            let fileName = path.basename(img)
-            fileName = Date.now().toString().concat('_', fileName)
+            //let fileName = path.basename(img)
+            const fileName = 'cover_photo.png'
 
             const urlImage = process.env.URI_BANDORI_IMAGE.concat(img)
             //save file to folder img use fs
