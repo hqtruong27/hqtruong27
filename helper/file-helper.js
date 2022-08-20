@@ -44,6 +44,10 @@ const fileHelper = {
     //down load file from url
     downloadFile: (url, dir, fileName) => {
         return new Promise(async (resolve, reject) => {
+            if (!fs.existsSync(dir)) {
+                fs.mkdirSync(dir)
+            }
+
             const file = fs.createWriteStream(`${dir}/${fileName}`)
             const request = await axios({
                 url: url,
