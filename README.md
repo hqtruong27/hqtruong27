@@ -4,7 +4,6 @@
 <h4>Where to find me:</h4>
 
 
-<img style="float: right;display:inline" width="350" align="right" alt="Truong Hoang" src="./image/cover_photo.png" />
 <p>
   <a target="_blank" href="mailto:hqtruong27@gmail.com" target="_blank">
     <img alt="Email"
@@ -24,7 +23,10 @@
 
 
 <p align="left">
+  
   <span>I'm <strong>Truong</strong>!</span>
+  <img style="float: right;display:inline" width="400" align="right" alt="Truong Hoang" src="./image/cover_photo.png" />
+  
   <br />
 <ul>
   <li>🔭 I’m currently working on AspNetCore and JavaScript</li>
@@ -32,6 +34,7 @@
     <code>Specialized English</code>;
   </li>
 </ul>
+
 <h4>📚 Currently reading</h4>
 
 <ul>
