@@ -25,14 +25,9 @@
 
 > _Not today, maybe tomorrow_
 
-I'm **Truong**!
-
-<p style="text-align:center">
-  <img alt="Truong Hoang" src="/image/cover_photo.png" />
-</p>
-
-<!-- - 🔭 Junior **[.Net Core 3.1](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-3.1)** at   <img title="Vietnam" alt="Vietnam" src="https://www.flaticon.com/svg/static/icons/svg/555/555515.svg" width="18"/> -->
-
+<div>
+    I'm <span style="font-weight: 600;">Truong</span>!
+    <br/>
 - 🔭 I’m currently working on AspNetCore and JavaScript
 <!-- - 🎓 I'm a certificate student at Aptech. -->
 - 🌱 I'm currently learning **[Reactjs](https://reactjs.org/)** and improving `Specialized English`;
@@ -44,7 +39,9 @@ I'm **Truong**!
 <!--   <li>Clean Code <a target="_blank" href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"><img src="https://image.flaticon.com/icons/svg/25/25284.svg" width="14" /></a></li> -->
  <li style="color:#fff"><span style="color:#ff0000">Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</span>  <a target="_blank" href="https://www.amazon.co.jp/-/en/gp/product/B09S35QG1B?ref_=dbs_p_nmg_rwt_anx_cl_2&storeType=ebooks"><img src="https://cdn-icons-png.flaticon.com/512/1828/1828954.png" width="14" /></a></li>
 </ul>
+</div>
 <p align="center"></p>
+<img  style="float: right;display:inline" width="500" alt="Truong Hoang" src="/image/cover_photo.png" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtruong27&layout=compact&hide=java,css,html,TSQL,ASP.NET,PHP,shell)](https://github.com/anuraghazra/github-readme-stats)
 
