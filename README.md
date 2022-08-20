@@ -1,5 +1,5 @@
 ### Hi there!! 👋
-
+<img style="float: right;display:inline" width="360" align="right" alt="Truong Hoang" src="./image/cover_photo.png" />
 <!--Find me-->
 <h4>Where to find me:</h4>
 
@@ -13,6 +13,7 @@
     <img alt="_blank"
       src="https://img.shields.io/badge/Linkedin-0a66c2.svg?&style=flat-square&logo=LinkedIn&logoColor=white" />
   </a>
+    
   <a target="_blank" href="skype:hqtruong27?chat">
     <img alt="_blank"
       src="https://img.shields.io/badge/hqtruong27-46a2f1.svg?&style=flat-square&logo=Skype&logoColor=white" />
@@ -20,7 +21,6 @@
 </p>
 
 > _Not today, maybe tomorrow_
-  <img style="float: right;display:inline" width="360" align="right" alt="Truong Hoang" src="./image/cover_photo.png" />
 
 <p align="left">  
   <span>I'm <strong>Truong</strong>!</span>
