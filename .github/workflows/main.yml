@@ -20,8 +20,8 @@ jobs:
     - run: npm ci
     - name: crawl cover image
       # run script
-      run: npm run index.js
-    - name: Update README.md
+      run: npm run crawl
+    - name: Update cover image
       # update code
       run: |
         git config --global user.email "hqtruong27@gmail.com"
