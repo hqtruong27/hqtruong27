@@ -32,23 +32,17 @@ const crawl = async () => {
             const filter = await page.waitForSelector(BANDORI.FILTER)
             await filter.evaluate(x => x.click())
 
-            const _1star = await page.waitForSelector(BANDORI.FILTER_STAR.replace('{0}', 1))
-            await _1star.evaluate(x => x.click())
-            console.log('Un filter card 1 star success .....\n')
-
-            const _2star = await page.waitForSelector(BANDORI.FILTER_STAR.replace('{0}', 2))
-            await _2star.evaluate(x => x.click())
-            console.log('Un filter card 2 star success .....\n')
-
-            const _3star = await page.waitForSelector(BANDORI.FILTER_STAR.replace('{0}', 3))
-            await _3star.evaluate(x => x.click())
-            console.log('Un filter card 3 star success .....\n')
+            for (let i = 1; i <= 3; i++) {
+                const _star = await page.waitForSelector(BANDORI.FILTER_STAR.replace('{0}', 1))
+                await _star.evaluate(x => x.click())
+                console.log(`Un filter card ${i} star success .....\n`)
+            }
 
             await delay(100)
             await page.waitForSelector(BANDORI.SHOW_MORE_CARD)
             let duration = 1
             let isShowMore = true
-            while (isShowMore && duration <= 50) {
+            while (isShowMore && duration <= 10) {
                 var showMore = await page.$(BANDORI.SHOW_MORE_CARD)
                 if (showMore) {
                     duration += 1
@@ -62,23 +56,19 @@ const crawl = async () => {
 
             const cards = await page.$$(BANDORI.BLOCK_CARD)
             const totalCards = cards.length
-            console.log(`Total cards: ${totalCards} \n`)
+            console.log(`\nTotal cards: ${totalCards} \n`)
+
 
             const chooseRandomCard = getRandomInt(1, totalCards)
             const card = cards[chooseRandomCard - 1]
             await card.click()
             console.log(`card number: ${chooseRandomCard} clicked \n`)
-            await delay(1500) //wait for load page
-
+            await page.waitForNavigation({ timeout: 10000 })
+            await page.waitForSelector(BANDORI.TRANSPARENT.TAB, { timeout: 10000 })
             // Transparent
-            const tab_transparent = await page.waitForSelector(BANDORI.TRANSPARENT.TAB)
             await autoScroll(page)
-            await tab_transparent.evaluate(x => x.click())
-            let tab_transparent_clicked = false
-            while (!tab_transparent_clicked) {
-                tab_transparent_clicked = await tab_transparent.evaluate(el => el.textContent == 'Transparent')
-                console.log('Transparent tab clicked yet?:->', tab_transparent_clicked)
-            }
+            let tab_transparent = await page.$(BANDORI.TRANSPARENT.TAB)
+            await tab_transparent.click()
 
             await delay(500) //wait load block transparent
             var links = await page.$$(BANDORI.TRANSPARENT.BLOCK_IMG)
@@ -89,8 +79,9 @@ const crawl = async () => {
 
             const popUpImage = await page.waitForSelector(BANDORI.TRANSPARENT.POPUP_IMG.replace('{0}', randomClickTransparentImg))
             const img = await popUpImage.evaluate((e) => e.querySelector('img').src)
-
-            console.log('img:->', img + '\n')
+            const alt = await popUpImage.evaluate((e) => e.querySelector('img').alt)
+            console.log(`Who?: -> ${alt} \n`)
+            //console.log('img:->', img + '\n')
             const fileName = 'cover_photo.png'
             const filePath = imgDic + '/' + fileName
 
