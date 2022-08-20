@@ -40,7 +40,7 @@ const fileHelper = {
                 if (err) {
                     reject(err)
                 } else {
-                    files.filter(name => name != '.gitkeep').forEach(file => {
+                    files?.filter(name => name != '.gitkeep').forEach(file => {
                         fs.unlink(path.join(dir, file), err => {
                             if (err) {
                                 reject(err)

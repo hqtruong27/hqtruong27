@@ -4,6 +4,7 @@ require('dotenv').config()
 const imgDic = './image'
 
 const crawl = async () => {
+    let duration = 0
     let recursive = true
     while (recursive) {
         const browser = await puppeteer.launch({
@@ -55,7 +56,7 @@ const crawl = async () => {
 
             //remove all file in folder
             if (await fileHelper.hasAnyFile(imgDic)) {
-                await fileHelper.removeFile(imgDic)
+                await fileHelper.removeAllFile(imgDic)
                 console.log('remove all file success!!! \n')
             }
 
@@ -71,7 +72,9 @@ const crawl = async () => {
             console.log("Crawl success!!!")
         } catch (error) {
             await browser.close()
-            console.log("Retry....")
+            duration += 1
+            console.log(error.message || error + '\n')
+            console.log(`Retry ${duration} times....`)
             recursive = true
         }
     }
