@@ -25,11 +25,12 @@
 
 > _Not today, maybe tomorrow_
 
-<div>
+<div style="display: inline-block; position: relative;">
     I'm <span style="font-weight: 600;">Truong</span>!
     <br/>
+ 
 - 🔭 I’m currently working on AspNetCore and JavaScript
-<!-- - 🎓 I'm a certificate student at Aptech. -->
+
 - 🌱 I'm currently learning **[Reactjs](https://reactjs.org/)** and improving `Specialized English`;
   <!-- - <img title="South Korea" alt="South Korea" src="https://www.flaticon.com/svg/static/icons/svg/197/197604.svg" width="14"/> I want to learn Japanese | ~~but no chance yet~~ -->
   <!-- - <img src="https://komarev.com/ghpvc/?username=hqtruong27&label=Views&labelColor=eff0f2&style=flat" alt="hqtruong27" /> -->
@@ -40,8 +41,11 @@
  <li style="color:#fff"><span style="color:#ff0000">Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</span>  <a target="_blank" href="https://www.amazon.co.jp/-/en/gp/product/B09S35QG1B?ref_=dbs_p_nmg_rwt_anx_cl_2&storeType=ebooks"><img src="https://cdn-icons-png.flaticon.com/512/1828/1828954.png" width="14" /></a></li>
 </ul>
 </div>
+
+<div style="text-align: right;display: inline;position: absolute;">
+   <img  style="float: right;display:inline" width="500" alt="Truong Hoang" src="/image/cover_photo.png" />
+</div>
 <p align="center"></p>
-<img  style="float: right;display:inline" width="500" alt="Truong Hoang" src="/image/cover_photo.png" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtruong27&layout=compact&hide=java,css,html,TSQL,ASP.NET,PHP,shell)](https://github.com/anuraghazra/github-readme-stats)
 
