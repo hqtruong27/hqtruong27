@@ -1,0 +1,31 @@
+name: main
+
+on:
+  # Cho phép chạy bằng tay từ giao diện Github
+  workflow_dispatch:
+  # Lên lịch chạy hàng ngày vào lúc 00:00 UTC
+  schedule:
+  - cron: "*/5 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/setup-node@v1
+      # Create env nodejs
+      with:
+        node-version: 16
+    - run: npm ci
+    - name: crawl cover image
+      # run script
+      run: npm run crawl
+    - name: Update README.md
+      # update code
+      run: |
+        git config --global user.email "hqtruong27@gmail.com"
+        git config --global user.name "Truong Hoang"
+        git add .
+        git commit -m "Updated cover image" || echo "No changes to commit"
+        git push
