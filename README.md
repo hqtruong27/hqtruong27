@@ -4,7 +4,7 @@
 <h4>Where to find me:</h4>
 
 
-<img style="float: right;display:inline" width="370" align="right" alt="Truong Hoang" src="./image/cover_photo.png" />
+<img style="float: right;display:inline" width="350" align="right" alt="Truong Hoang" src="./image/cover_photo.png" />
 <p>
   <a target="_blank" href="mailto:hqtruong27@gmail.com" target="_blank">
     <img alt="Email"
