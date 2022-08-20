@@ -1,18 +1,18 @@
 const puppeteer = require('puppeteer')
-var path = require("path")
 const fileHelper = require('./helper/file-helper')
 require('dotenv').config()
+const imgDic = './image'
 
 const crawl = async () => {
     let recursive = true
     while (recursive) {
-        try {
-            const browser = await puppeteer.launch({
-                headless: true,
-                defaultViewport: null,
-                args: ['--no-sandbox']
-            })
+        const browser = await puppeteer.launch({
+            headless: true,
+            defaultViewport: null,
+            args: ['--no-sandbox']
+        })
 
+        try {
             const page = await browser.newPage()
 
             await page.goto(process.env.URI_BANDORI)
@@ -53,27 +53,25 @@ const crawl = async () => {
                 .getElementsByTagName('img')[0].getAttribute('src'))
 
 
-            //remove file in folder if exist
-            fileHelper.hasAnyFile('./img').then(hasFile => {
-                if (hasFile) {
-                    fileHelper.removeAllFile('./img')
-                    console.log('remove all file in folder')
-                }
-            }).catch(err => {
-                console.log(err)
-            })
+            //remove all file in folder
+            if (await fileHelper.hasAnyFile(imgDic)) {
+                await fileHelper.removeFile(imgDic)
+                console.log('remove all file success!!! \n')
+            }
 
             //let fileName = path.basename(img)
             const fileName = 'cover_photo.png'
 
             const urlImage = process.env.URI_BANDORI_IMAGE.concat(img)
             //save file to folder img use fs
-            fileHelper.downloadFile(urlImage, './img', fileName)
+            await fileHelper.downloadFile(urlImage, imgDic, fileName)
 
             await browser.close()
             recursive = false
+            console.log("Crawl success!!!")
         } catch (error) {
-            console.log(error)
+            await browser.close()
+            console.log("Retry....")
             recursive = true
         }
     }

@@ -20,6 +20,19 @@ const fileHelper = {
         })
     },
 
+    //save file to folder
+    saveFile: (dir, fileName, data) => {
+        return new Promise((resolve, reject) => {
+            fs.writeFile(path.join(dir, fileName), data, (err) => {
+                if (err) {
+                    reject(err)
+                } else {
+                    resolve()
+                }
+            })
+        })
+    },
+
     //remove all file in directory
     removeAllFile: (dir) => {
         return new Promise((resolve, reject) => {
@@ -27,7 +40,7 @@ const fileHelper = {
                 if (err) {
                     reject(err)
                 } else {
-                    files.forEach(file => {
+                    files.filter(name => name != '.gitkeep').forEach(file => {
                         fs.unlink(path.join(dir, file), err => {
                             if (err) {
                                 reject(err)
@@ -43,28 +56,43 @@ const fileHelper = {
 
     //down load file from url
     downloadFile: (url, dir, fileName) => {
-        return new Promise(async (resolve, reject) => {
-            if (!fs.existsSync(dir)) {
-                fs.mkdirSync(dir)
-                console.log('created folder')
-            }
+        //create folder if not exist
+        if (!fs.existsSync(dir)) {
+            fs.mkdirSync(dir)
+        }
 
-            const file = fs.createWriteStream(`${dir}/${fileName}`)
-            const request = await axios({
+        return new Promise((resolve, reject) => {
+            axios({
+                method: 'get',
                 url: url,
-                method: 'GET',
                 responseType: 'stream'
-            })
-            request.data.pipe(file)
-            file.on('finish', () => {
-                file.close(resolve)
-            }).on('error', (err) => {
-                fs.unlink(file.path, () => {
-                    reject(err)
+            }).then((response) => {
+                response.data.pipe(fs.createWriteStream(path.join(dir, fileName)))
+                let error = null
+                response.data.on('error', err => {
+                    error = err
+                    reject(error)
+                })
+                response.data.on('end', () => {
+                    if (!error) {
+                        resolve(true)
+                    }
                 })
             })
         })
-    }
+    },
+    //remove file in directory
+    removeFile: (dir, fileName) => {
+        return new Promise((resolve, reject) => {
+            fs.unlink(path.join(dir, fileName), err => {
+                if (err) {
+                    reject(err)
+                } else {
+                    resolve()
+                }
+            })
+        })
+    },
 }
 
 module.exports = fileHelper
