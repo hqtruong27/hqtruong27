@@ -1,6 +1,11 @@
+
 const fs = require('fs')
 const path = require('path')
+const axios = require('axios')
 
+///////////////////////////////////////////////////////////////////////////////////////////////
+//////////////All the function at here are being auto generate by github copilot///////////////
+///////////////////////////////////////////////////////////////////////////////////////////////
 //check has any file in directory
 const fileHelper = {
     hasAnyFile: (dir) => {
@@ -32,6 +37,26 @@ const fileHelper = {
                         })
                     })
                 }
+            })
+        })
+    },
+
+    //down load file from url
+    downloadFile: (url, dir, fileName) => {
+        return new Promise(async (resolve, reject) => {
+            const file = fs.createWriteStream(`${dir}/${fileName}`)
+            const request = await axios({
+                url: url,
+                method: 'GET',
+                responseType: 'stream'
+            })
+            request.data.pipe(file)
+            file.on('finish', () => {
+                file.close(resolve)
+            }).on('error', (err) => {
+                fs.unlink(file.path, () => {
+                    reject(err)
+                })
             })
         })
     }

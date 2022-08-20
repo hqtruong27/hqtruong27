@@ -1,13 +1,7 @@
-const axios = require('axios')
-// const request = require("request")
-// const cherio = require('cherio')
 const puppeteer = require('puppeteer')
-const fs = require('fs')
 var path = require("path")
 const fileHelper = require('./helper/file-helper')
 require('dotenv').config()
-
-const url = 'https://bestdori.com/info/cards'
 
 const crawl = async () => {
 
@@ -16,9 +10,10 @@ const crawl = async () => {
         defaultViewport: null,
         args: ['--no-sandbox']
     })
+
     const page = await browser.newPage()
 
-    await page.goto(url)
+    await page.goto(process.env.URI_BANDORI)
 
     await page.click('.modal-card-foot')
     await delay(1000)
@@ -56,27 +51,22 @@ const crawl = async () => {
         .getElementsByTagName('img')[0].getAttribute('src'))
 
 
-    if (fileHelper.hasAnyFile('/img')) {
-        fileHelper.removeAllFile('/img')
-    }
-
-    const urlImage = 'https://bestdori.com/' + img
-    const fileName = path.basename(img)
-    //save file to folder img use fs
-    console.log(fileName) + lo
-    const file = fs.createWriteStream(`./img/${fileName}`)
-    const request = await axios({
-        url: urlImage,
-        method: 'GET',
-        responseType: 'stream'
+    //remove file in folder if exist
+    fileHelper.hasAnyFile('./img').then(hasFile => {
+        if (hasFile) {
+            fileHelper.removeAllFile('./img')
+            console.log('remove all file in folder')
+        }
+    }).catch(err => {
+        console.log(err)
     })
-    request.data.pipe(file)
 
+    let fileName = path.basename(img)
+    fileName = Date.now().toString().concat('_', fileName)
 
-    // await page.screenshot({
-    //     path: 'img/test.png',
-    //     fullPage: true
-    // })
+    const urlImage = process.env.URI_BANDORI_IMAGE.concat(img)
+    //save file to folder img use fs
+    fileHelper.downloadFile(urlImage, './img', fileName)
 
     await browser.close()
 }

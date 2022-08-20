@@ -18,11 +18,8 @@
   "homepage": "https://github.com/hqtruong27/hqtruong27#readme",
   "dependencies": {
     "axios": "^0.27.2",
-    "cherio": "^1.0.0-rc.2",
     "dotenv": "^16.0.1",
     "fs": "0.0.1-security",
-    "pixiv-illust": "^0.2.0",
-    "pixiv-img": "^1.0.0",
     "puppeteer": "^16.2.0"
   }
 }
