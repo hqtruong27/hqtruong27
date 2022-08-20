@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   # Run every 5minute
   schedule:
-  - cron: "*/5 * * * *"
+  - cron: "0 */2 * * *"
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
     - name: 'Create env file'
       run: |
         touch .env
-        echo URI_BANDORI=${{ secrets.URI_BANDORI }} .env
+        echo URI_BANDORI=${{ secrets.URI_BANDORI }} >> .env
         echo URI_BANDORI_IMAGE=${{ secrets.URI_BANDORI_IMAGE }} >> .env
         cat .env
     - name: crawl cover image
