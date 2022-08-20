@@ -11,15 +11,9 @@ const crawl = async () => {
 
     const browser = await puppeteer.launch({
         headless: true,
-        args: [
-            `--no-sandbox`
-                `--disable-setuid-sandbox`
-                `--disable-extensions-except=${extensionPath}`,
-            `--load-extension=${extensionPath}`
-        ],
-        slowMo: 50
+        defaultViewport: null,
+        args: ['--no-sandbox']
     })
-
     const page = await browser.newPage()
 
     await page.goto(url)
