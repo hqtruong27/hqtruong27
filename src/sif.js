@@ -27,19 +27,9 @@ const schoolido = async () => {
             let img = await divImage.evaluate(x => x.style.backgroundImage.slice(4, -1).replace(/"/g, ""))
             console.log('Found image 🖋️: -> ' + img.split('/').pop())
 
-            const oldFileName = (await _file.readAsJson('./temp', 'temp.json')).fileName || defaultFileName
-            const tempPath = imgDic + '/' + oldFileName
-            if (_file.exists(tempPath)) {
-                _file.remove(imgDic, oldFileName)
-                console.log('Remove old file image success!! ✅' + '\n')
-            }
 
-            const fileName = Date.now().toString() + '_' + defaultFileName
-            await _file.download('https:' + img, imgDic, fileName)
-            console.log('Download file image success!! ✅' + '\n')
+            await saveImage('https:' + img)
 
-            //Why? This to clear the cache image on github
-            await replaceTextREADME(oldFileName, fileName)
 
             await browser.close()
             recursive = false
@@ -62,59 +52,65 @@ const kirara = async () => {
     while (recursive && duration <= 5) {
         try {
             const res = await axios.get(KIRARA.DICTIONARY_URI)
-            if (res.status === 200) {
-                const { data: { dictionary } } = res
-                const dictionaries = []
-                for (const key in dictionary) {
-                    if (Object.hasOwnProperty.call(dictionary, key)) {
-                        const { target, value } = dictionary[key]
-                        dictionaries.push({
-                            key: key,
-                            target: target,
-                            value: value
-                        })
-                    }
-                }
-
-                const members = dictionaries.filter(x => x.target === 'member')
-                const rarities = dictionaries.filter(x => x.target === 'rarity')
-                // const membersGroup = dictionaries.filter(x => x.target === 'member_group')
-
-                const response = await axios.post(KIRARA.URL_SEARCH,
-                    {
-                        "rarity": rarities.filter(x => x.key !== 'ur').map(x => x.value),// include only UR
-                        'member': members[Math.floor(Math.random() * members.length)].value
-                    })
-
-                if (response.status === 200) {
-                    const { data: { result } } = response
-                    const id_card = result[Math.floor(Math.random() * result.length)]
-                    if (id_card != null) {
-                        const img_transparent = KIRARA.TRANSPARENT_IMG_CARD.replace('{0}', id_card)
-                        const img_transparent_idz = KIRARA.TRANSPARENT_IMG_CARD_IDZ.replace('{0}', id_card)
-
-                        console.log({ img_transparent, img_transparent_idz })
-                        let images = (await Promise.all(
-                            [
-                                isImage(img_transparent),
-                                isImage(img_transparent_idz)
-                            ])
-                        ).filter(x => x != null)
-
-                        const rndImage = images[
-                            Math.floor(
-                                Math.random() * images.length
-                            )
-                        ]
-
-                        console.log('Found image 🖋️: -> ' + rndImage)
-                    }
-                }
-
-                recursive = false
+            if (res.status != 200) {
+                console.log('❌ fetch failed response status:' + response.status)
+                return false
             }
 
-            recursive = true
+            const { data: { dictionary } } = res
+            const dictionaries = []
+            for (const key in dictionary) {
+                if (Object.hasOwnProperty.call(dictionary, key)) {
+                    const { target, value } = dictionary[key]
+                    dictionaries.push({
+                        key: key,
+                        target: target,
+                        value: value
+                    })
+                }
+            }
+
+            const members = dictionaries.filter(x => x.target === 'member')
+            const rarities = dictionaries.filter(x => x.target === 'rarity')
+            // const membersGroup = dictionaries.filter(x => x.target === 'member_group')
+
+            const response = await axios.post(
+                KIRARA.URL_SEARCH,
+                {
+                    "rarity": rarities.filter(x => x.key !== 'ur').map(x => x.value),// include only UR
+                    'member': members[Math.floor(Math.random() * members.length)].value
+                })
+
+            if (response.status != 200) {
+                console.log('❌ fetch failed response status:' + response.status)
+                return false
+            }
+
+            const { data: { result } } = response
+            const id_card = result[Math.floor(Math.random() * result.length)]
+            if (id_card != null) {
+                const img_transparent = KIRARA.TRANSPARENT_IMG_CARD.replace('{0}', id_card)
+                const img_transparent_idz = KIRARA.TRANSPARENT_IMG_CARD_IDZ.replace('{0}', id_card)
+
+                console.log({ img_transparent, img_transparent_idz })
+                let images = (await Promise.all(
+                    [
+                        isImage(img_transparent),
+                        isImage(img_transparent_idz)
+                    ])
+                ).filter(x => x != null)
+
+                const rndImage = images[
+                    Math.floor(
+                        Math.random() * images.length
+                    )
+                ]
+
+                console.log('Found image 🖋️: -> ' + rndImage)
+
+                await saveImage(rndImage)
+                return recursive
+            }
         } catch (error) {
             console.log('❌ ' + (error.message || error) + '\n')
             console.log(`Retry ${duration} times.... ⚠️`)
@@ -124,8 +120,6 @@ const kirara = async () => {
 
     return !recursive
 }
-
-kirara()
 
 const isImage = async (url) => {
     try {
@@ -144,6 +138,7 @@ const isImage = async (url) => {
 
 const replaceTextREADME = async (oldText, newText) => {
     console.log('------------------------------------------------')
+
     await Promise.all([
         _file.replaceText('./', 'README.md', oldText, newText),
         _file.replaceText('./temp', 'temp.json', oldText, newText)
@@ -151,5 +146,22 @@ const replaceTextREADME = async (oldText, newText) => {
 
     console.log('Change text success!! ✅✅ ' + oldText + ' -> ' + newText)
     console.log('------------------------------------------------')
+}
+
+
+const saveImage = async (urlImage) => {
+    const oldFileName = (await _file.readAsJson('./temp', 'temp.json')).fileName || defaultFileName
+    const tempPath = imgDic + '/' + oldFileName
+    if (_file.exists(tempPath)) {
+        _file.remove(imgDic, oldFileName)
+        console.log('Remove old file image success!! ✅' + '\n')
+    }
+
+    const fileName = Date.now().toString() + '_' + defaultFileName
+    await _file.download(urlImage, imgDic, fileName)
+    console.log('Download file image success!! ✅' + '\n')
+
+    //Why? This to clear the cache image on github
+    await replaceTextREADME(oldFileName, fileName)
 }
 module.exports = { schoolido, kirara }
