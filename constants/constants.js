@@ -18,6 +18,8 @@ const LOVELIVE = {
     DIV_IMAGE: 'body > main > div.talking-character.hidden-sm.hidden-xs'
 }
 
+const DURATION = 5
+
 const KIRARA = {
     URL_SEARCH: 'https://sif.kirara.ca/api/ds/neo-search/cards/results.json',
     DICTIONARY_URI: 'https://sif.kirara.ca/static/neo-search/dictionary.json',
@@ -29,4 +31,4 @@ const KIRARA = {
 }
 
 
-module.exports = { BANDORI, LOVELIVE, KIRARA }
+module.exports = { BANDORI, LOVELIVE, KIRARA, DURATION }

@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer')
 const _file = require('../helper/file-helper')
-const { LOVELIVE, KIRARA } = require('../constants/constants')
+const { LOVELIVE, KIRARA, DURATION } = require('../constants/constants')
 const { default: axios } = require('axios')
 require('dotenv').config()
 
@@ -10,7 +10,7 @@ const defaultFileName = 'cover_photo.png'
 const schoolido = async () => {
     let duration = 0
     let recursive = true
-    while (recursive && duration <= 5) {
+    while (recursive && duration <= DURATION) {
         const browser = await puppeteer.launch({
             headless: true,
             defaultViewport: null,
@@ -27,9 +27,7 @@ const schoolido = async () => {
             let img = await divImage.evaluate(x => x.style.backgroundImage.slice(4, -1).replace(/"/g, ""))
             console.log('Found image 🖋️: -> ' + img.split('/').pop())
 
-
             await saveImage('https:' + img)
-
 
             await browser.close()
             recursive = false
@@ -49,7 +47,7 @@ const schoolido = async () => {
 const kirara = async () => {
     const duration = 0
     let recursive = true
-    while (recursive && duration <= 5) {
+    while (recursive && duration <= DURATION) {
         try {
             const res = await axios.get(KIRARA.DICTIONARY_URI)
             if (res.status != 200) {

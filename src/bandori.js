@@ -1,6 +1,6 @@
 const puppeteer = require('puppeteer')
 const _file = require('../helper/file-helper')
-const { BANDORI } = require('../constants/constants')
+const { BANDORI, DURATION } = require('../constants/constants')
 require('dotenv').config()
 const imgDic = './image'
 const defaultFileName = 'cover_photo.png'
@@ -8,7 +8,7 @@ const defaultFileName = 'cover_photo.png'
 const crawl = async () => {
     let duration = 0
     let recursive = true
-    while (recursive && duration <= 5) {
+    while (recursive && duration <= DURATION) {
         const browser = await puppeteer.launch({
             headless: true,
             defaultViewport: null,
