@@ -43,6 +43,7 @@ const crawl = async () => {
             await page.waitForSelector(BANDORI.SHOW_MORE_CARD)
             let duration = 0
             let isShowMore = true
+            console.log('\nStart Crawling card 🕖🕗🕘...\n')
             while (isShowMore) {
                 var showMore = await page.$(BANDORI.SHOW_MORE_CARD)
                 if (showMore) {
@@ -50,7 +51,7 @@ const crawl = async () => {
                     //console.log(`Show: ${duration} times`)
                     await autoScroll(page)
                 } else {
-                    console.log('\nEnd....\n')
+                    console.log('\nEnd ✅✅....\n')
                     isShowMore = false
                 }
             }
