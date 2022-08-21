@@ -43,7 +43,7 @@ const crawl = async () => {
             await page.waitForSelector(BANDORI.SHOW_MORE_CARD)
             let duration = 0
             let isShowMore = true
-            while (isShowMore && duration <= 60) {
+            while (isShowMore) {
                 var showMore = await page.$(BANDORI.SHOW_MORE_CARD)
                 if (showMore) {
                     duration += 1
