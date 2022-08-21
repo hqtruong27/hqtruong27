@@ -1,4 +1,4 @@
-<img style="float: right;display:inline" width="360" align="right" alt="Truong Hoang" src="./image/1661083595437_cover_photo.png" />
+<img style="float: right;display:inline" width="360" align="right" alt="Truong Hoang" src="./image/1661091163577_cover_photo.png" />
 
 
 ### Hi there!! 👋
@@ -30,7 +30,7 @@
   <li>🌱 <em> I'm currently learning <strong><a href="https://reactjs.org/">Reactjs</a></strong> and improving <code>Specialized English</code></em>
   </li>
    <li>---------------------------------------------------------------------------</li>
-  <li>🌸 <em>This image will change every 2 hours! （づ￣3￣）づ╭❤️～ ---></em></li>
+  <li>🌸 <em>This image will be changed every 2 hours!（づ￣3￣）づ╭❤️～></em></li>
 </ul>
 
 <h4>📚 Currently reading</h4>
