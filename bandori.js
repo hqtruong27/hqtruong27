@@ -47,7 +47,7 @@ const crawl = async () => {
                 var showMore = await page.$(BANDORI.SHOW_MORE_CARD)
                 if (showMore) {
                     duration += 1
-                    console.log(`Show: ${duration} times`)
+                    //console.log(`Show: ${duration} times`)
                     await autoScroll(page)
                 } else {
                     console.log('\nEnd....\n')
