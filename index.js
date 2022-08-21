@@ -1,8 +1,9 @@
 const puppeteer = require('puppeteer')
-const fileHelper = require('./helper/file-helper')
+const _file = require('./helper/file-helper')
 const { BANDORI } = require('./constants/constants')
 require('dotenv').config()
 const imgDic = './image'
+const defaultFileName = 'cover_photo.png'
 
 const crawl = async () => {
     let duration = 0
@@ -58,7 +59,6 @@ const crawl = async () => {
             const totalCards = cards.length
             console.log(`\nTotal cards: ${totalCards} \n`)
 
-
             const chooseRandomCard = getRandomInt(1, totalCards)
             const card = cards[chooseRandomCard - 1]
             await card.click()
@@ -80,18 +80,26 @@ const crawl = async () => {
             const popUpImage = await page.waitForSelector(BANDORI.TRANSPARENT.POPUP_IMG.replace('{0}', randomClickTransparentImg))
             const img = await popUpImage.evaluate((e) => e.querySelector('img').src)
             const alt = await popUpImage.evaluate((e) => e.querySelector('img').alt)
-            console.log(`Who?: -> ${alt} \n`)
-            //console.log('img:->', img + '\n')
-            const fileName = 'cover_photo.png'
-            const filePath = imgDic + '/' + fileName
 
-            if (fileHelper.exists(filePath)) {
-                fileHelper.removeFile(imgDic, fileName)
+            console.log('------------------------------------------------')
+            console.log(`Who?: -> ${alt} \n`)
+            console.log('------------------------------------------------')
+            //console.log('img:->', img + '\n')
+
+            const oldFileName = (await _file.readAsJson('./temp', 'temp.json')).fileName || defaultFileName
+            const tempPath = `${imgDic}/${oldFileName}`
+            console.log({ tempPath })
+            if (_file.exists(tempPath)) {
+                _file.remove(imgDic, oldFileName)
                 console.log('remove file success!!' + '\n')
             }
 
+            const fileName = Date.now().toString() + '_' + defaultFileName
             //save file to directory
-            await fileHelper.downloadFile(img, imgDic, fileName)
+            await _file.download(img, imgDic, fileName)
+
+
+            await replaceTextREADME(oldFileName, fileName)
 
             await browser.close()
 
@@ -121,4 +129,24 @@ const delay = async (time) => {
 
 async function autoScroll(page) {
     await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight))
+}
+
+const replaceTextREADME = async (oldText, newText) => {
+    let readmeText = await _file.read('./', 'README.md')
+
+    let tempJson = {}
+    if (readmeText.includes(oldText)) {
+        console.log('------------------------------------------------')
+        console.log('Found old text in file README...\n')
+
+        readmeText = readmeText.replace(oldText, newText)
+
+        await _file.writeTo('./', 'README.md', readmeText)
+
+        //new fileName
+        tempJson.fileName = newText
+        await _file.writeTo('./temp', 'temp.json', JSON.stringify(tempJson))
+        console.log('Change text success!! ✅✅ ' + JSON.stringify(tempJson))
+        console.log('------------------------------------------------')
+    }
 }

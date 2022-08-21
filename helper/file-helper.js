@@ -7,7 +7,7 @@ const axios = require('axios')
 //////////////All the function at here are being auto generate by github copilot///////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////
 //check has any file in directory
-const fileHelper = {
+const file = {
     exists: (path) => {
         return fs.existsSync(path)
     },
@@ -19,19 +19,6 @@ const fileHelper = {
                     reject(err)
                 } else {
                     resolve(files.length > 0)
-                }
-            })
-        })
-    },
-
-    //save file to folder
-    saveFile: (dir, fileName, data) => {
-        return new Promise((resolve, reject) => {
-            fs.writeFile(path.join(dir, fileName), data, (err) => {
-                if (err) {
-                    reject(err)
-                } else {
-                    resolve()
                 }
             })
         })
@@ -59,7 +46,7 @@ const fileHelper = {
     },
 
     //down load file from url
-    downloadFile: (url, dir, fileName) => {
+    download: (url, dir, fileName) => {
         //create folder if not exist
         if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir)
@@ -86,7 +73,7 @@ const fileHelper = {
         })
     },
     //remove file in directory
-    removeFile: (dir, fileName) => {
+    remove: (dir, fileName) => {
         return new Promise((resolve, reject) => {
             fs.unlink(path.join(dir, fileName), err => {
                 if (err) {
@@ -97,6 +84,41 @@ const fileHelper = {
             })
         })
     },
+    writeTo: (dir, fileName, data) => {
+        return new Promise((resolve, reject) => {
+            fs.writeFile(path.join(dir, fileName), data, (err) => {
+                if (err) {
+                    reject(err)
+                } else {
+                    resolve()
+                }
+            })
+        })
+    },
+    //read file
+    read: (dir, fileName) => {
+        return new Promise((resolve, reject) => {
+            fs.readFile(path.join(dir, fileName), 'utf8', (err, data) => {
+                if (err) {
+                    reject(err)
+                } else {
+                    resolve(data)
+                }
+            })
+        })
+    },
+    //read file and parse to json
+    readAsJson: (dir, fileName) => {
+        return new Promise((resolve, reject) => {
+            fs.readFile(path.join(dir, fileName), 'utf8', (err, data) => {
+                if (err) {
+                    reject(err)
+                } else {
+                    resolve(JSON.parse(data))
+                }
+            })
+        })
+    }
 }
 
-module.exports = fileHelper
+module.exports = file

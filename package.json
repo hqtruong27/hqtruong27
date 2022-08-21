@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "crawl": "node index.js",
-    "c": "node index.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
