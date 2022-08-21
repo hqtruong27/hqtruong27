@@ -2,10 +2,9 @@ const puppeteer = require('puppeteer')
 const _file = require('../helper/file-helper')
 const { LOVELIVE, KIRARA, DURATION } = require('../constants/constants')
 const { default: axios } = require('axios')
+const { saveImage } = require('./base')
 require('dotenv').config()
-
-const imgDic = './image'
-const defaultFileName = 'cover_photo.png'
+const pathImage = './image'
 
 const schoolido = async () => {
     let duration = 0
@@ -27,11 +26,12 @@ const schoolido = async () => {
             let img = await divImage.evaluate(x => x.style.backgroundImage.slice(4, -1).replace(/"/g, ""))
             console.log('Found image 🖋️: -> ' + img.split('/').pop())
 
-            await saveImage('https:' + img)
+            await saveImage('https:' + img, './image')
 
-            await browser.close()
-            recursive = false
             console.log('END: Crawl image success ✅✅....\n')
+            recursive = false
+            await browser.close()
+            return true
         } catch (error) {
             await browser.close()
             duration += 1
@@ -93,8 +93,8 @@ const kirara = async () => {
                 console.log({ img_transparent, img_transparent_idz })
                 let images = (await Promise.all(
                     [
-                        isImage(img_transparent),
-                        isImage(img_transparent_idz)
+                        _file.isImage(img_transparent),
+                        _file.isImage(img_transparent_idz)
                     ])
                 ).filter(x => x != null)
 
@@ -106,7 +106,8 @@ const kirara = async () => {
 
                 console.log('Found image 🖋️: -> ' + rndImage)
 
-                await saveImage(rndImage)
+                await saveImage(rndImage, pathImage)
+                console.log('END: Get image success ✅✅....\n')
                 return recursive
             }
         } catch (error) {
@@ -119,47 +120,4 @@ const kirara = async () => {
     return !recursive
 }
 
-const isImage = async (url) => {
-    try {
-        const response = await axios.get(url)
-        if (response.status === 200) {
-            if (((response.headers['content-type']).match(/(image)+\//g)).length != 0) {
-                return url
-            }
-        }
-
-        return null
-    } catch (error) {
-        return null
-    }
-}
-
-const replaceTextREADME = async (oldText, newText) => {
-    console.log('------------------------------------------------')
-
-    await Promise.all([
-        _file.replaceText('./', 'README.md', oldText, newText),
-        _file.replaceText('./temp', 'temp.json', oldText, newText)
-    ])
-
-    console.log('Change text success!! ✅✅ ' + oldText + ' -> ' + newText)
-    console.log('------------------------------------------------')
-}
-
-
-const saveImage = async (urlImage) => {
-    const oldFileName = (await _file.readAsJson('./temp', 'temp.json')).fileName || defaultFileName
-    const tempPath = imgDic + '/' + oldFileName
-    if (_file.exists(tempPath)) {
-        _file.remove(imgDic, oldFileName)
-        console.log('Remove old file image success!! ✅' + '\n')
-    }
-
-    const fileName = Date.now().toString() + '_' + defaultFileName
-    await _file.download(urlImage, imgDic, fileName)
-    console.log('Download file image success!! ✅' + '\n')
-
-    //Why? This to clear the cache image on github
-    await replaceTextREADME(oldFileName, fileName)
-}
 module.exports = { schoolido, kirara }

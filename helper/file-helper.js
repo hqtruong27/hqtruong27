@@ -140,6 +140,20 @@ const file = {
                 }
             })
         })
+    },
+    isImage: async (url) => {
+        try {
+            const response = await axios.get(url)
+            if (response.status === 200) {
+                if (((response.headers['content-type']).match(/(image)+\//g)).length != 0) {
+                    return url
+                }
+            }
+
+            return null
+        } catch {
+            return null
+        }
     }
 }
 
