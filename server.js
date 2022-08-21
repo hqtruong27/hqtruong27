@@ -8,7 +8,7 @@ const main = async () => {
         //What to choose this time?
         console.log('What to choose this time ❓❓❓ 🤔🤔🤔')
         console.log('------------------------------------------------')
-        const random = Math.floor(Math.random() * 0)
+        const random = 1//Math.floor(Math.random() * 0)
         arr.splice(random, 1)
         console.log(`Remaining: ${JSON.stringify(arr)} \n`)
         switch (random) {
