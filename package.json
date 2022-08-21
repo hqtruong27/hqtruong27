@@ -6,7 +6,6 @@
   "scripts": {
     "start": "node server.js",
     "test": "node test.js",
-    "lovelive": "node lovelive.js",
     "bandori": "node bandori.js"
   },
   "repository": {

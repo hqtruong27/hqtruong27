@@ -19,8 +19,13 @@ const LOVELIVE = {
 }
 
 const KIRARA = {
-    URL_SEARCH: 'https://sif.kirara.ca/search',
-    DICTIONARY_URI: 'https://sif.kirara.ca/static/neo-search/dictionary.json'
+    URL_SEARCH: 'https://sif.kirara.ca/api/ds/neo-search/cards/results.json',
+    DICTIONARY_URI: 'https://sif.kirara.ca/static/neo-search/dictionary.json',
+    TRANSPARENT_IMG_CARD: 'https://lostone.kirara.ca/card/navi_{0}.png',
+    TRANSPARENT_IMG_CARD_IDZ: 'https://lostone.kirara.ca/card/navi_{0}_t.png',
+    CLEAR_IMG_CARD: 'https://lostone.kirara.ca/card/card_{0}_ct.png',
+    DEFAULT_IMG_CARD: 'https://lostone.kirara.ca/card/card_{0}_st.png',
+    SCT_IMG_CARD: 'https://lostone.kirara.ca/card/card_{0}_sct.png'
 }
 
 

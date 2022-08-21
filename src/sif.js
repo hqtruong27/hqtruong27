@@ -56,27 +56,92 @@ const schoolido = async () => {
     return !recursive
 }
 
-
 const kirara = async () => {
+    const duration = 0
     let recursive = true
+    while (recursive && duration <= 5) {
+        try {
+            const res = await axios.get(KIRARA.DICTIONARY_URI)
+            if (res.status === 200) {
+                const { data: { dictionary } } = res
+                const dictionaries = []
+                for (const key in dictionary) {
+                    if (Object.hasOwnProperty.call(dictionary, key)) {
+                        const { target, value } = dictionary[key]
+                        dictionaries.push({
+                            key: key,
+                            target: target,
+                            value: value
+                        })
+                    }
+                }
 
+                const members = dictionaries.filter(x => x.target === 'member')
+                const rarities = dictionaries.filter(x => x.target === 'rarity')
+                // const membersGroup = dictionaries.filter(x => x.target === 'member_group')
 
-    const response = await axios.get(KIRARA.DICTIONARY_URI)
-    if (response.status === 200) {
-        const { data } = response
-        let result = []
-        for (const dictionary of data) {
-            console.log(dictionary)
-            break;
-            // for (const { target, value } of dictionary) {
+                const response = await axios.post(KIRARA.URL_SEARCH,
+                    {
+                        "rarity": rarities.filter(x => x.key !== 'ur').map(x => x.value),// include only UR
+                        'member': members[Math.floor(Math.random() * members.length)].value
+                    })
 
-            // }
+                if (response.status === 200) {
+                    const { data: { result } } = response
+                    const id_card = result[Math.floor(Math.random() * result.length)]
+                    if (id_card != null) {
+                        const img_transparent = KIRARA.TRANSPARENT_IMG_CARD.replace('{0}', id_card)
+                        const img_transparent_idz = KIRARA.TRANSPARENT_IMG_CARD_IDZ.replace('{0}', id_card)
+
+                        console.log({ img_transparent, img_transparent_idz })
+                        let images = (await Promise.all(
+                            [
+                                isImage(img_transparent),
+                                isImage(img_transparent_idz)
+                            ])
+                        ).filter(x => x != null)
+
+                        const rndImage = images[
+                            Math.floor(
+                                Math.random() * images.length
+                            )
+                        ]
+
+                        console.log('Found image 🖋️: -> ' + rndImage)
+                    }
+                }
+
+                recursive = false
+            }
+
+            recursive = true
+        } catch (error) {
+            console.log('❌ ' + (error.message || error) + '\n')
+            console.log(`Retry ${duration} times.... ⚠️`)
+            recursive = true
+        }
+    }
+
+    return !recursive
+}
+
+kirara()
+
+const isImage = async (url) => {
+    try {
+        const response = await axios.get(url)
+        if (response.status === 200) {
+            if (((response.headers['content-type']).match(/(image)+\//g)).length != 0) {
+                return url
+            }
         }
 
-        return !recursive
+        return null
+    } catch (error) {
+        return null
     }
 }
-kirara()
+
 const replaceTextREADME = async (oldText, newText) => {
     console.log('------------------------------------------------')
     await Promise.all([
