@@ -35,7 +35,7 @@ const crawl = async () => {
 
             const fileName = Date.now().toString() + '_' + defaultFileName
             await _file.download('https:' + img, imgDic, fileName)
-            console.log('Download file image success!! ✅ -> ' + img + '\n')
+            console.log('Download file image success!! ✅' + '\n')
 
             //Why? This to clear the cache image on github
             await replaceTextREADME(oldFileName, fileName)
