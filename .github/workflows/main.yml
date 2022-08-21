@@ -1,4 +1,4 @@
-name: bandori
+name: main
 
 on:
   # Enable manual run from Github interface
@@ -23,10 +23,11 @@ jobs:
           touch .env
           echo URI_BANDORI=${{ secrets.URI_BANDORI }} >> .env
           echo URI_BANDORI_IMAGE=${{ secrets.URI_BANDORI_IMAGE }} >> .env
+          echo URI_LOVE_LIVE=${{ secrets.URI_LOVE_LIVE }} >> .env
           cat .env
       - name: CRAWL COVER PHOTO 🌪️🌪️🌪️
         # run script
-        run: npm run crawl
+        run: npm run start
       - name: UPDATE COVER PHOTO (PUSH ON GITHUB) ⬆️⬆️
         # update code
         run: |

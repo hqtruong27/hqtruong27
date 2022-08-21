@@ -14,4 +14,9 @@ const BANDORI = {
     }
 }
 
-module.exports = { BANDORI }
+const LOVELIVE = {
+    DIV_IMAGE: 'body > main > div.talking-character.hidden-sm.hidden-xs'
+}
+
+
+module.exports = { BANDORI, LOVELIVE }

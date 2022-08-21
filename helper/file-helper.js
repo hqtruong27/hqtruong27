@@ -118,6 +118,28 @@ const file = {
                 }
             })
         })
+    },
+    //replace text in file
+    replaceText: (dir, fileName, text, newText) => {
+        return new Promise((resolve, reject) => {
+            fs.readFile(path.join(dir, fileName), 'utf8', (err, data) => {
+                if (err) {
+                    reject(err)
+                } else {
+                    if (data.includes(text)) {
+                        fs.writeFile(path.join(dir, fileName), data.replace(text, newText), (err) => {
+                            if (err) {
+                                reject(err)
+                            } else {
+                                resolve()
+                            }
+                        })
+                    } else {
+                        resolve()
+                    }
+                }
+            })
+        })
     }
 }
 

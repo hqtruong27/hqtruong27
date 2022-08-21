@@ -4,8 +4,10 @@
   "description": "<!--Find me-->\r  <h4>Where to find me:</h4>\r <p>\r   <a target=\"_blank\" href=\"mailto:hqtruong27@gmail.com\" target=\"_blank\">\r     <img alt=\"Email\" src=\"https://img.shields.io/badge/Email-EA4748.svg?&style=flat-square&logo=Microsoft-Outlook&logoColor=white\" />\r   </a>\r <!--   <a target=\"_blank\" href=\"https://www.facebook.com/hqtruong27/\" target=\"_blank\">\r     <img alt=\"Facebook\" src=\"https://img.shields.io/badge/Facebook-4267b2.svg?&style=flat-square&logo=facebook&logoColor=white\" />\r   </a>  -->\r <!--   <a target=\"_blank\" href=\"https://twitter.com/\" target=\"_blank\">\r     <img alt=\"Discord\" src=\"https://img.shields.io/badge/Truong Hoang-1da1f2.svg?&style=flat-square&logo=twitter&logoColor=white\" />\r   </a> -->\r <!--   <a target=\"_blank\" href=\"https://stackoverflow.com/users/10209464/truong-hoang\" target=\"_blank\">\r     <img alt=\"stackoverflow\" src=\"https://img.shields.io/badge/Stack overflow-f48024.svg?&style=flat-square&logo=stackoverflow&logoColor=white\" />\r   </a>  -->\r  <a target=\"_blank\" href=\"https://linkedin.com/in/hqtruong27/\">\r     <img alt=\"_blank\" src=\"https://img.shields.io/badge/Linkedin-0a66c2.svg?&style=flat-square&logo=LinkedIn&logoColor=white\" />\r   </a>\r   <a target=\"_blank\" href=\"skype:hqtruong27?chat\">\r     <img alt=\"_blank\" src=\"https://img.shields.io/badge/hqtruong27-46a2f1.svg?&style=flat-square&logo=Skype&logoColor=white\" />\r   </a>\r </p>",
   "main": "index.js",
   "scripts": {
-    "crawl": "node bandori.js",
-    "test": "node test.js"
+    "start": "node server.js",
+    "test": "node test.js",
+    "lovelive": "node lovelive.js",
+    "bandori": "node bandori.js"
   },
   "repository": {
     "type": "git",
