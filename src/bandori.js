@@ -75,7 +75,7 @@ const crawl = async () => {
 
             await _base.delay(500) //wait load block transparent
             var links = await page.$$(BANDORI.TRANSPARENT.BLOCK_IMG)
-            const randomClickTransparentImg = delay.getRandomInt(1, links.length)
+            const randomClickTransparentImg = _base.getRandomInt(1, links.length)
             console.log(`Transparent image ${randomClickTransparentImg} clicked 👆 \n`)
             const link = links[randomClickTransparentImg - 1]
             await link.click()
