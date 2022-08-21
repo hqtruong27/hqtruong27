@@ -92,7 +92,7 @@ const crawl = async () => {
 
             console.log('END: Crawl image success ✅✅....\n')
             await browser.close()
-            return true;
+            return true
         } catch (error) {
             await browser.close()
             console.log('❌ ' + (error.message || error) + '\n')
@@ -103,7 +103,7 @@ const crawl = async () => {
 
     }
 
-    return !recursive
+    return false
 }
 
 module.exports = crawl

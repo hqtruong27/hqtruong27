@@ -41,7 +41,7 @@ const schoolido = async () => {
         }
     }
 
-    return !recursive
+    return false
 }
 
 const kirara = async () => {
@@ -108,7 +108,7 @@ const kirara = async () => {
 
                 await saveImage(rndImage, pathImage)
                 console.log('END: Get image success ✅✅....\n')
-                return recursive
+                return true
             }
         } catch (error) {
             console.log('❌ ' + (error.message || error) + '\n')
@@ -118,7 +118,7 @@ const kirara = async () => {
         }
     }
 
-    return !recursive
+    return false
 }
 
 module.exports = { schoolido, kirara }
