@@ -26,10 +26,11 @@
 <p align="left">
   <span>I'm <strong>Truong</strong>!</span>
 <ul>
-  <li>🔭 I’m currently working on AspNetCore and JavaScript</li>
-  <li>🌱 I'm currently learning <strong><a href="https://reactjs.org/">Reactjs</a></strong> and improving
-    <code>Specialized English</code>;
+  <li>🔭 <em> I’m currently working on AspNetCore and JavaScript</li>
+  <li>🌱 <em> I'm currently learning <strong><a href="https://reactjs.org/">Reactjs</a></strong> and improving <code>Specialized English</code></em>
   </li>
+   <li>---------------------------------------------------------------------------</li>
+  <li>🌸 <em>This image will change every 2 hours! （づ￣3￣）づ╭❤️～ ---></em></li>
 </ul>
 
 <h4>📚 Currently reading</h4>
@@ -39,7 +40,7 @@
       href="https://www.amazon.co.jp/-/en/gp/product/B09S35QG1B?ref_=dbs_p_nmg_rwt_anx_cl_2&storeType=ebooks"><img
         src="https://cdn-icons-png.flaticon.com/512/1828/1828954.png" width="14" /></a></li>
 </ul>
-<!--<p align="right">alt</p>-->
+
 </p>
 
 
