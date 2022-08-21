@@ -15,17 +15,17 @@ const main = async () => {
             case 0:
                 console.log('Oh, bandori has been chosen!')
                 success = await bandori()
-                if (!success) console.log('Oh, bandori has been failed!')
+                if (!success) console.log('❌ Oh, bandori has been failed!')
                 break
             case 1:
                 console.log('Oh, love live from [kirara] has been chosen!')
                 success = await kirara()
-                if (!success) console.log('Oh, [kirara] has been failed!')
+                if (!success) console.log('❌ Oh, [kirara] has been failed!')
                 break
             case 2:
                 console.log('Oh, lovelive from [schoolido] has been chosen!')
                 success = await schoolido()
-                if (!success) console.log('Oh, [lovelive] has been failed!')
+                if (!success) console.log(' ❌ Oh, [lovelive] has been failed!')
                 break
             default:
                 console.log('No, let check the code!! ⚠️⚠️⚠️')
