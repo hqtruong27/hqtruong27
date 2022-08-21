@@ -1,4 +1,4 @@
-name: main
+name: bandori
 
 on:
   # Enable manual run from Github interface
@@ -18,20 +18,20 @@ jobs:
         with:
           node-version: v14.17.6
       - run: npm ci
-      - name: CREATE .ENV FILE
+      - name: CREATE .ENV FILE 🕐🕑🕒
         run: |
           touch .env
           echo URI_BANDORI=${{ secrets.URI_BANDORI }} >> .env
           echo URI_BANDORI_IMAGE=${{ secrets.URI_BANDORI_IMAGE }} >> .env
           cat .env
-      - name: CRAWL COVER PHOTO >>>>>>
+      - name: CRAWL COVER PHOTO 🌪️🌪️🌪️
         # run script
         run: npm run crawl
-      - name: UPDATE COVER PHOTO >>>>>
+      - name: UPDATE COVER PHOTO (PUSH ON GITHUB) ⬆️⬆️
         # update code
         run: |
           git config --global user.email "hqtruong27@gmail.com"
           git config --global user.name "Truong Hoang"
           git add .
-          git commit -m "Updated cover photo 🍃🔥🍃🔥🍃" || echo "No changes to commit"
+          git commit -m "Updated cover photo 🌸🌸🌸" || echo "No changes to commit"
           git push -f

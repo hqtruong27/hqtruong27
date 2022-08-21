@@ -8,7 +8,7 @@ const defaultFileName = 'cover_photo.png'
 const crawl = async () => {
     let duration = 0
     let recursive = true
-    while (recursive && duration <= 5) {
+    while (recursive && duration <= 10) {
         const browser = await puppeteer.launch({
             headless: true,
             defaultViewport: null,
@@ -41,9 +41,9 @@ const crawl = async () => {
 
             await delay(100)
             await page.waitForSelector(BANDORI.SHOW_MORE_CARD)
-            let duration = 1
+            let duration = 0
             let isShowMore = true
-            while (isShowMore && duration <= 59) {
+            while (isShowMore && duration <= 60) {
                 var showMore = await page.$(BANDORI.SHOW_MORE_CARD)
                 if (showMore) {
                     duration += 1
@@ -98,7 +98,7 @@ const crawl = async () => {
             //save file to directory
             await _file.download(img, imgDic, fileName)
 
-
+            //Why? This to clear the cache image on github
             await replaceTextREADME(oldFileName, fileName)
 
             await browser.close()
