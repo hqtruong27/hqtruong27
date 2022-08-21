@@ -39,9 +39,9 @@
       href="https://www.amazon.co.jp/-/en/gp/product/B09S35QG1B?ref_=dbs_p_nmg_rwt_anx_cl_2&storeType=ebooks"><img
         src="https://cdn-icons-png.flaticon.com/512/1828/1828954.png" width="14" /></a></li>
 </ul>
-<p align="right"> 🌸🌸This image will change every 2 hours!🌸🌸</p>
-</p>
 
+</p>
+<p align="right"> aa</p>
 
 
 [![Top
