@@ -7,7 +7,7 @@ require('dotenv').config()
 const pathImage = './image'
 
 const schoolido = async () => {
-    let duration = 0
+    let duration = 1
     let recursive = true
     while (recursive && duration <= DURATION) {
         const browser = await puppeteer.launch({
@@ -34,9 +34,9 @@ const schoolido = async () => {
             return true
         } catch (error) {
             await browser.close()
-            duration += 1
             console.log('❌ ' + (error.message || error) + '\n')
             console.log(`Retry ${duration} times.... ⚠️`)
+            duration += 1
             recursive = true
         }
     }
@@ -45,7 +45,7 @@ const schoolido = async () => {
 }
 
 const kirara = async () => {
-    const duration = 0
+    let duration = 1
     let recursive = true
     while (recursive && duration <= DURATION) {
         try {
@@ -113,6 +113,7 @@ const kirara = async () => {
         } catch (error) {
             console.log('❌ ' + (error.message || error) + '\n')
             console.log(`Retry ${duration} times.... ⚠️`)
+            duration += 1
             recursive = true
         }
     }

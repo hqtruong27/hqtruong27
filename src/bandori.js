@@ -6,7 +6,7 @@ const { saveImage, _base } = require('./base')
 const imgDic = './image'
 
 const crawl = async () => {
-    let duration = 0
+    let duration = 1
     let recursive = true
     while (recursive && duration <= DURATION) {
         const browser = await puppeteer.launch({
@@ -95,9 +95,9 @@ const crawl = async () => {
             return true;
         } catch (error) {
             await browser.close()
-            duration += 1
             console.log('❌ ' + (error.message || error) + '\n')
             console.log(`Retry ${duration} times.... ⚠️`)
+            duration += 1
             recursive = true
         }
 
