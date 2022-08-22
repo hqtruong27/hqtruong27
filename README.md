@@ -22,11 +22,8 @@
 </p>
 
 <blockquote>
-  <p><em>Wisdom, compassion, and courage are the three universally recognized moral qualities of men.</em></p>
+  <p><em>Wisdom, compassion, and courage are the three universally recognized moral qualities of men. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
-<p align="right">
-  <span><strong>Confucius ㅤㅤㅤㅤㅤ</strong></span>
-</p>
 
 <p align="left">
   <span>I'm <strong>Truong</strong>!</span>
