@@ -22,10 +22,10 @@
 </p>
 
 <blockquote>
-  <p><em>Arriving at one point is the starting point to another.</em></p>
+  <p><em>Wisdom, compassion, and courage are the three universally recognized moral qualities of men.</em></p>
 </blockquote>
 <p align="right">
-  <span><strong>John Dewey ㅤㅤㅤㅤㅤ</strong></span>
+  <span><strong>Confucius ㅤㅤㅤㅤㅤ</strong></span>
 </p>
 
 <p align="left">
