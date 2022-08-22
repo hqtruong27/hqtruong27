@@ -22,10 +22,10 @@
 </p>
 
 <blockquote>
-  <p><em>Whoso loves, believes the impossible.</em></p>
+  <p><em>Arriving at one point is the starting point to another.</em></p>
 </blockquote>
 <p align="right">
-  <span><strong>Elizabeth Browning ㅤㅤㅤㅤㅤ</strong></span>
+  <span><strong>John Dewey ㅤㅤㅤㅤㅤ</strong></span>
 </p>
 
 <p align="left">
