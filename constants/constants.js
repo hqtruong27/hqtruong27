@@ -29,6 +29,15 @@ const KIRARA = {
     DEFAULT_IMG_CARD: 'https://lostone.kirara.ca/card/card_{0}_st.png',
     SCT_IMG_CARD: 'https://lostone.kirara.ca/card/card_{0}_sct.png'
 }
+const QUOTES = {
+    QUOTABLE_URL: 'https://api.quotable.io',
+    ANIME_CHAN_URL: 'https://animechan.vercel.app/api/random',
+}
 
-
-module.exports = { BANDORI, LOVELIVE, KIRARA, DURATION }
+module.exports = {
+    BANDORI,
+    LOVELIVE,
+    KIRARA,
+    DURATION,
+    QUOTES
+}

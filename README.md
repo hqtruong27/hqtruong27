@@ -1,7 +1,7 @@
 <img style="float: right;display:inline" width="360" align="right" alt="Truong Hoang" src="./image/1661171444203_cover_photo.png" />
 
-
 ### Hi there!! 👋
+
 <!--Find me-->
 <h4>Where to find me:</h4>
 
@@ -21,7 +21,12 @@
   </a>
 </p>
 
-> _Not today, maybe tomorrow_
+<blockquote>
+  <p><em>Whoso loves, believes the impossible.</em></p>
+</blockquote>
+<p align="right">
+  <span><strong>Elizabeth Browning ㅤㅤㅤㅤㅤ</strong></span>
+</p>
 
 <p align="left">
   <span>I'm <strong>Truong</strong>!</span>
@@ -42,8 +47,6 @@
 </ul>
 
 </p>
-
-
 
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtruong27&layout=compact&hide=java,css,html,TSQL,ASP.NET,PHP,shell)](https://github.com/anuraghazra/github-readme-stats)
@@ -70,7 +73,6 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtruong27
       src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Gitlab&logoColor=&message=Gitlab&color=FCA121&style=flat-square" />
     <img alt="java"
       src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=java&logoColor=007396&message=Java&color=007396&style=flat-square" />
-
 
   </li>
   <li>Familiar with:<br>
@@ -102,5 +104,11 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtruong27
         src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Docker&logoColor=2496ED&message=Docker%20Desktop&color=2496ED&style=flat-square" /></a>&nbsp
     <a href="https://netbeans.apache.org/" rel=""><img alt="netbeans"
         src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Apache-NetBeans-IDE&logoColor=1B6AC6&message=NetBeans%20IDE&color=1B6AC6&style=flat-square" /></a>&nbsp
+  </li>
+</ul>
+  </li>
+</ul>
+  </li>
+</ul>
   </li>
 </ul>
