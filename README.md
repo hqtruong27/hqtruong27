@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Wisdom, compassion, and courage are the three universally recognized moral qualities of men. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares. - <strong>Henri Nouwen ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
