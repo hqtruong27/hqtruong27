@@ -22,10 +22,10 @@
 </p>
 
 <blockquote>
-  <p><em>Arriving at one point is the starting point to another.</em></p>
+  <p><em>The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it.</em></p>
 </blockquote>
 <p align="right">
-  <span><strong>John Dewey ㅤㅤㅤㅤㅤ</strong></span>
+  <span><strong>Hugh Jackman ㅤㅤㅤㅤㅤ</strong></span>
 </p>
 
 <p align="left">
