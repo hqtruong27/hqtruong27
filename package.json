@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
+    "quotes": "node src/quotes.js",
     "test": "jest"
   },
   "repository": {
