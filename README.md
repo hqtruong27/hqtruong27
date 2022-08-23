@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The friend who can be silent with us in a moment of despair or confusion, who can stay with us in an hour of grief and bereavement, who can tolerate not knowing... not healing, not curing... that is a friend who cares. - <strong>Henri Nouwen ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In every walk with nature, one receives far more than he seeks. - <strong>John Muir ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
