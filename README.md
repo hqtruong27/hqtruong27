@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In every walk with nature, one receives far more than he seeks. - <strong>John Muir ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>People may doubt what you say, but they will believe what you do. - <strong>Lewis Cass ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
