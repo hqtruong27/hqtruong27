@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>People may doubt what you say, but they will believe what you do. - <strong>Lewis Cass ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The ballot is stronger than the bullet. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
