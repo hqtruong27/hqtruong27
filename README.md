@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The ballot is stronger than the bullet. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Nothing is at last sacred but the integrity of your own mind. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
