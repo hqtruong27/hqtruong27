@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Nothing is at last sacred but the integrity of your own mind. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Excellence is to do a common thing in an uncommon way. - <strong>Booker T. Washington ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
