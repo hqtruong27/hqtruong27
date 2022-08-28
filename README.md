@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Excellence is to do a common thing in an uncommon way. - <strong>Booker T. Washington ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is better to travel well than to arrive. - <strong>Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
