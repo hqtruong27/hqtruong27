@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is better to travel well than to arrive. - <strong>Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Experience is not what happens to a man. It is what a man does with what happens to him. - <strong>Aldous Huxley ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
