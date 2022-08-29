@@ -29,7 +29,7 @@
   <span>I'm <strong>Truong</strong>!</span>
 <ul>
   <li>🔭 <em> I’m currently working on AspNetCore and JavaScript</li>
-  <li>🌱 <em> I'm currently learning <strong><a href="https://reactjs.org/">Reactjs</a></strong> and improving <code>Specialized English</code></em>
+  <li>🌱 <em> I'm currently learning <strong><a href="https://nodejs.org/">Nodejs</a></strong> and improving <code>Specialized English</code></em>
   </li>
    <li>---------------------------------------------------------------------------</li>
   <li>🌸 <em>This image will be changed every 2 hours!（づ￣3￣）づ╭❤️～></em></li>
