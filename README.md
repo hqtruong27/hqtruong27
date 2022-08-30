@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Experience is not what happens to a man. It is what a man does with what happens to him. - <strong>Aldous Huxley ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The world is round and the place which may seem like the end may also be the beginning. - <strong>Ivy Baker Priest ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
