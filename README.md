@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Pain and foolishness lead to great bliss and complete knowledge, for Eternal Wisdom created nothing under the sun in vain. - <strong>Kahlil Gibran ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Honesty is the best policy. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
