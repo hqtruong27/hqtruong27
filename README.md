@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Honesty is the best policy. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All things change; nothing perishes. - <strong>Ovid ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
