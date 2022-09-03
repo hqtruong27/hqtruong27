@@ -106,7 +106,7 @@ const SendRandomQuotes = async () => {
         console.log(random)
         arr.splice(random, 1)
         console.log(`Remaining: ${JSON.stringify(arr)} \n`)
-        const channel = client.channels.cache.filter(x => x.name === 'chung')
+        const channel = client.channels.cache.find(x => x.name === 'chung')
         if (channel) {
             switch (randomText) {
                 case 'quotes':
