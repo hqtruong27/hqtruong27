@@ -1,0 +1,29 @@
+name: discord-auto-send-quotes
+
+on:
+  # Enable manual run from Github interface
+  workflow_dispatch:
+  # Run at 0:0h every day
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        # Create env nodejs
+        with:
+          node-version: v16.17.0
+      - run: npm ci
+     - name: CREATE .ENV FILE 🕐🕑🕒
+        run: |
+          touch .env
+          echo TOKEN_DISCORD=${{ secrets.TOKEN_DISCORD }} >> .env
+          echo CLIENT_ID=${{ secrets.CLIENT_ID }} >> .env
+          cat .env
+      - name: SEND RANDOM QUOTES TO DISCORD =))
+        # run script
+        run: npm run send-quotes-to-discord

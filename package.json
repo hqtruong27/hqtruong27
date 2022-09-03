@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "quotes": "node src/quotes.js",
+    "send-quotes-to-discord": "node src/bot-discord.js",
     "test": "jest"
   },
   "repository": {
@@ -20,6 +21,7 @@
   "homepage": "https://github.com/hqtruong27/hqtruong27#readme",
   "dependencies": {
     "axios": "^0.27.2",
+    "discord.js": "^14.3.0",
     "dotenv": "^16.0.1",
     "fs": "0.0.1-security",
     "puppeteer": "^16.2.0"
