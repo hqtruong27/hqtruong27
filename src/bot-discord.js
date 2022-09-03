@@ -170,6 +170,6 @@ const buildQuotes = async (channel) => {
     const { content, author } = await getRandomQuotes()
     if (!content || !author) return false
 
-    message.channel.send(content.textItalic() + ' - ' + author.textBold().textItalic())
+    channel.send(content.textItalic() + ' - ' + author.textBold().textItalic())
     return true
 }
