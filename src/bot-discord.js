@@ -111,9 +111,11 @@ const SendRandomQuotes = async () => {
             switch (randomText) {
                 case 'quotes':
                     success = await buildQuotes(channel)
+                    client.destroy()
                     break
                 case 'quotes-anime':
                     success = await buildQuotesAnime(channel)
+                    client.destroy()
                 default:
                     success = true
                     break
