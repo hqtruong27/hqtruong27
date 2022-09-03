@@ -49,6 +49,7 @@ const rest = new REST({ version: '10' }).setToken(process.env.TOKEN_DISCORD);
 client.once('ready', async () => {
     console.log('Ready! 🌸🌸🌸')
     await SendRandomQuotes()
+    client.destroy()
 })
 
 client.on('interactionCreate', async (interaction) => {
@@ -111,11 +112,9 @@ const SendRandomQuotes = async () => {
             switch (randomText) {
                 case 'quotes':
                     success = await buildQuotes(channel)
-                    client.destroy()
                     break
                 case 'quotes-anime':
                     success = await buildQuotesAnime(channel)
-                    client.destroy()
                 default:
                     success = true
                     break
