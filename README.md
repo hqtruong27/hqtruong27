@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All things change; nothing perishes. - <strong>Ovid ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wisdom, compassion, and courage are the three universally recognized moral qualities of men. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
