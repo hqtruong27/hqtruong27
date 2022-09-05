@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Eternal nothingness is fine if you happen to be dressed for it. - <strong>Woody Allen ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The shoe that fits one person pinches another; there is no recipe for living that suits all cases. - <strong>Carl Jung ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
