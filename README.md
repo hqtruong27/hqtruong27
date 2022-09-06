@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The shoe that fits one person pinches another; there is no recipe for living that suits all cases. - <strong>Carl Jung ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Can you imagine what I would do if I could do all I can? - <strong>Sun Tzu ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
