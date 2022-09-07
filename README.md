@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Can you imagine what I would do if I could do all I can? - <strong>Sun Tzu ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing. - <strong>Elie Wiesel ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
