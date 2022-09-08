@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Friendship marks a life even more deeply than love. Love risks degenerating into obsession, friendship is never anything but sharing. - <strong>Elie Wiesel ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Knowledge without justice ought to be called cunning rather than wisdom. - <strong>Plato ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
