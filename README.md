@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Knowledge without justice ought to be called cunning rather than wisdom. - <strong>Plato ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love is the flower you've got to let grow. - <strong>John Lennon ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
