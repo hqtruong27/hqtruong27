@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love is the flower you've got to let grow. - <strong>John Lennon ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Patience is the companion of wisdom. - <strong>Augustine of Hippo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
