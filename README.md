@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The essence of true friendship is to make allowance for another's little lapses. - <strong>Ovid ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Fortune favors the brave. - <strong>Virgil ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
