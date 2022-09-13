@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Fortune favors the brave. - <strong>Virgil ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The most formidable weapon against errors of every kind is reason. - <strong>Thomas Paine ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
