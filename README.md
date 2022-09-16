@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My motto was always to keep swinging. Whether I was in a slump or feeling badly or having trouble off the field, the only thing to do was keep swinging. - <strong>Hank Aaron ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Living at risk is jumping off the cliff and building your wings on the way down. - <strong>Ray Bradbury ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
