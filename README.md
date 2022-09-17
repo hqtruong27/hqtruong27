@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Living at risk is jumping off the cliff and building your wings on the way down. - <strong>Ray Bradbury ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Correction does much, but encouragement does more. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
