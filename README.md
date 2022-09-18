@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Correction does much, but encouragement does more. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The least of things with a meaning is worth more in life than the greatest of things without it. - <strong>Carl Jung ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
