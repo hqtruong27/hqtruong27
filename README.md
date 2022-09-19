@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The least of things with a meaning is worth more in life than the greatest of things without it. - <strong>Carl Jung ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All our knowledge has its origins in our perceptions. - <strong>Leonardo da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
