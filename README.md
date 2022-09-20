@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All our knowledge has its origins in our perceptions. - <strong>Leonardo da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts. - <strong>Booker T. Washington ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
