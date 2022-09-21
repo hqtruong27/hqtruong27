@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The world cares very little about what a man or woman knows; it is what a man or woman is able to do that counts. - <strong>Booker T. Washington ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I think people who are creative are the luckiest people on earth. I know that there are no shortcuts, but you must keep your faith in something Greater than you and keep doing what you love. Do what you love, and you will find the way to get it out to the world. - <strong>Judy Collins ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
