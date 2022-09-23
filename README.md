@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be the chief but never the lord. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living. - <strong>Anaïs Nin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
