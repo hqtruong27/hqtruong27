@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Dreams pass into the reality of action. From the actions stems the dream again; and this interdependence produces the highest form of living. - <strong>Anaïs Nin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
