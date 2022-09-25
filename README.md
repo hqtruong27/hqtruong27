@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>But the attitude of faith is to let go, and become open to truth, whatever it might turn out to be. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
