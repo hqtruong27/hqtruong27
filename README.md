@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Always remember that you are absolutely unique. Just like everyone else. - <strong>Margaret Mead ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
