@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Always remember that you are absolutely unique. Just like everyone else. - <strong>Margaret Mead ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It has become appallingly obvious that our technology has exceeded our humanity. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
