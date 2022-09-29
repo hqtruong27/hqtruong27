@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It has become appallingly obvious that our technology has exceeded our humanity. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Formula for success: under promise and over deliver. - <strong>Tom Peters ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
