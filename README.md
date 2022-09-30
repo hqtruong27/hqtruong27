@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Formula for success: under promise and over deliver. - <strong>Tom Peters ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you have one true friend, you have more than your share. - <strong>Thomas Fuller ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
