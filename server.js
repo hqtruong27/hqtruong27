@@ -1,7 +1,7 @@
 const bandori = require('./src/bandori')
-const { schoolido, kirara } = require('./src/sif')
+const { kirara } = require('./src/sif')
 
-const arr = ['bandori', 'kirara', 'schoolido']
+const arr = ['bandori' /*,'kirara', 'schoolido'-->*/] // run only bandori
 const main = async () => {
     let success = false
     while (!success) {

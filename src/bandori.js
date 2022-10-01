@@ -5,7 +5,7 @@ const { saveImage, _base } = require('./base')
 
 const imgDic = './image'
 
-const crawl = async () => {
+const crawl_full = async () => {
     let duration = 1
     let recursive = true
     while (recursive && duration <= DURATION) {
@@ -104,6 +104,89 @@ const crawl = async () => {
     }
 
     return false
+}
+
+const crawl = async () => {
+    const browser = await puppeteer.launch({
+        headless: false,
+        defaultViewport: null,
+        args: ['--no-sandbox']
+    })
+
+    let duration = 1
+    let recursive = true
+    while (recursive) {
+        try {
+
+            const page = await browser.newPage()
+            console.log('START:.....\n')
+            await page.goto(process.env.URI_BANDORI)
+
+            const firstPopup = await page.waitForSelector(BANDORI.FIST_POPUP)
+            await firstPopup.evaluate(x => x.click())
+
+            const viewType = await page.waitForSelector(BANDORI.VIEW_TYPE)
+            await viewType.evaluate(x => x.click())
+
+            const filter = await page.waitForSelector(BANDORI.FILTER)
+            await filter.evaluate(x => x.click())
+
+            const rfs = await page.waitForSelector(BANDORI.REMOVE_ALL_FILTER_STAR)
+            await rfs.evaluate(x => x.click())
+
+            const filter4Star = await page.waitForSelector(BANDORI.FILTER_4_STAR)
+            await filter4Star.evaluate(x => x.click())
+
+            await page.waitForSelector(BANDORI.SHOW_MORE_CARD)
+
+            await _base.scrollToBottom(page, 3)
+
+            const cards = (await page.$$(BANDORI.BLOCK_CARD)).slice(0, 21)
+            const totalCards = cards.length
+            console.log(`\nTotal cards: ${totalCards} \n`)
+
+            const chooseRandomCard = _base.getRandomInt(1, totalCards)
+            const card = cards[chooseRandomCard - 1]
+            await card.click()
+
+            console.log('----------------------------------------------------')
+            console.log(`Card number ${chooseRandomCard} has been selected 👆`)
+            console.log('----------------------------------------------------\n')
+
+            await page.waitForNavigation({ waitUntil: 'networkidle2' })
+            const transparentTab = await page.waitForSelector(BANDORI.TRANSPARENT.TAB, { timeout: 2000 })
+            await transparentTab.evaluate(x => x.click())
+
+            await _base.delay(500) //wait load block transparent
+            var links = await page.$$(BANDORI.TRANSPARENT.BLOCK_IMG)
+            const randomClickTransparentImg = _base.getRandomInt(1, links.length)
+            console.log(`Transparent image ${randomClickTransparentImg} clicked 👆 \n`)
+            const link = links[randomClickTransparentImg - 1]
+            await link.click()
+
+            const popUpImage = await page.waitForSelector(BANDORI.TRANSPARENT.POPUP_IMG.replace('{0}', randomClickTransparentImg))
+            const img = await popUpImage.evaluate((e) => e.querySelector('img').src)
+            const alt = await popUpImage.evaluate((e) => e.querySelector('img').alt)
+
+            console.log('------------------------------------------------')
+            console.log(`Who 🤔❓: -> ${alt} \n`)
+            console.log('------------------------------------------------')
+
+            await saveImage(img, imgDic)
+
+            console.log('END: Crawl image success ✅✅....\n')
+            recursive = false
+            await browser.close()
+        } catch (error) {
+            await browser.close()
+            console.log('❌ ' + (error.message || error) + '\n')
+            console.log(`Retry ${duration} times.... ⚠️`)
+            duration += 1
+            recursive = duration <= DURATION
+        }
+    }
+
+    return !recursive
 }
 
 module.exports = crawl
