@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you have one true friend, you have more than your share. - <strong>Thomas Fuller ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The young man knows the rules, but the old man knows the exceptions. - <strong>Oliver Wendell Holmes Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
