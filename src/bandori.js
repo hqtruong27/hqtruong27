@@ -10,7 +10,7 @@ const crawl_full = async () => {
     let recursive = true
     while (recursive && duration <= DURATION) {
         const browser = await puppeteer.launch({
-            headless: false,
+            headless: true,
             defaultViewport: null,
             args: ['--no-sandbox']
         })
@@ -108,7 +108,7 @@ const crawl_full = async () => {
 
 const crawl = async () => {
     const browser = await puppeteer.launch({
-        headless: false,
+        headless: true,
         defaultViewport: null,
         args: ['--no-sandbox']
     })
