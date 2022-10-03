@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Eighty percent of success is showing up. - <strong>Woody Allen ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You can only grow if you're willing to feel awkward and uncomfortable when you try something new. - <strong>Brian Tracy ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
