@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You can only grow if you're willing to feel awkward and uncomfortable when you try something new. - <strong>Brian Tracy ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Blessed are the hearts that can bend; they shall never be broken. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
