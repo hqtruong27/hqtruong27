@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Blessed are the hearts that can bend; they shall never be broken. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The least of things with a meaning is worth more in life than the greatest of things without it. - <strong>Carl Jung ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
