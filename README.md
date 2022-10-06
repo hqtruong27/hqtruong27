@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The least of things with a meaning is worth more in life than the greatest of things without it. - <strong>Carl Jung ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sometimes it is better to lose and do the right thing than to win and do the wrong thing. - <strong>Tony Blair ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
