@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sometimes it is better to lose and do the right thing than to win and do the wrong thing. - <strong>Tony Blair ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In the end we retain from our studies only that which we practically apply. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
