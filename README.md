@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In the end we retain from our studies only that which we practically apply. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Good thoughts are no better than good dreams, unless they be executed. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
