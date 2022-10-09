@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Good thoughts are no better than good dreams, unless they be executed. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is good even for old men to learn wisdom. - <strong>Aeschylus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
