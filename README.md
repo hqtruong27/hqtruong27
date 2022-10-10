@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is good even for old men to learn wisdom. - <strong>Aeschylus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let us sacrifice our today so that our children can have a better tomorrow. - <strong>A. P. J. Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
