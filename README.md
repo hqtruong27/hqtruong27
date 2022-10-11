@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let us sacrifice our today so that our children can have a better tomorrow. - <strong>A. P. J. Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life is so constructed that an event does not, cannot, will not, match the expectation. - <strong>Charlotte Brontë ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
