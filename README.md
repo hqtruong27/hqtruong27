@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life is so constructed that an event does not, cannot, will not, match the expectation. - <strong>Charlotte Brontë ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A ruffled mind makes a restless pillow. - <strong>Charlotte Brontë ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
