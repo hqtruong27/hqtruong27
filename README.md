@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A ruffled mind makes a restless pillow. - <strong>Charlotte Brontë ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The only limit to your impact is your imagination and commitment. - <strong>Tony Robbins ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
