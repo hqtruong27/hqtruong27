@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The only limit to your impact is your imagination and commitment. - <strong>Tony Robbins ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I always wanted to be somebody, but I should have been more specific. - <strong>Lily Tomlin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
