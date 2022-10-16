@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'm astounded by people who want to 'know' the universe when it's hard enough to find your way around Chinatown. - <strong>Woody Allen ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Anybody can make history. Only a great man can write it. - <strong>Oscar Wilde ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
