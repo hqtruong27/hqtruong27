@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Anybody can make history. Only a great man can write it. - <strong>Oscar Wilde ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The universe is made of stories, not atoms. - <strong>Muriel Rukeyser ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
