@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The universe is made of stories, not atoms. - <strong>Muriel Rukeyser ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation. - <strong>George Washington ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
