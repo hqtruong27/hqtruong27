@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation. - <strong>George Washington ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No one saves us but ourselves. No one can and no one may. We ourselves must walk the path. - <strong>Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
