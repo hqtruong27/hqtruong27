@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No one saves us but ourselves. No one can and no one may. We ourselves must walk the path. - <strong>Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To accomplish great things, we must dream as well as act. - <strong>Anatole France ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
