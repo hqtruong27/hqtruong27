@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To accomplish great things, we must dream as well as act. - <strong>Anatole France ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Friendship is Love without his wings! - <strong>Lord Byron ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
