@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking. - <strong>Alfred Korzybski ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Remembering a wrong is like carrying a burden on the mind. - <strong>Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
