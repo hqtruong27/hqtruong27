@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Remembering a wrong is like carrying a burden on the mind. - <strong>Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The truest wisdom is a resolute determination. - <strong>Napoleon ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
