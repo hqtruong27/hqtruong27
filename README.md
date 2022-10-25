@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The truest wisdom is a resolute determination. - <strong>Napoleon ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let the beauty of what you love be what you do. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
