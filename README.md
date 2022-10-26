@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let the beauty of what you love be what you do. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I cannot always control what goes on outside. But I can always control what goes on inside. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
