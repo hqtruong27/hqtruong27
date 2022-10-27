@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I cannot always control what goes on outside. But I can always control what goes on inside. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek. - <strong>Barack Obama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
