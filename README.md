@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart. - <strong>Helen Keller ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
