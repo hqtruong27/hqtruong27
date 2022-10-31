@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Great indeed is the sublimity of the Creative, to which all beings owe their beginning, and which permeates all heaven. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Think for yourselves and let others enjoy the privilege to do so too. - <strong>Voltaire ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
