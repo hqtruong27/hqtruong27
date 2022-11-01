@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Think for yourselves and let others enjoy the privilege to do so too. - <strong>Voltaire ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be slow to fall into friendship; but when thou art in, continue firm and constant. - <strong>Isocrates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
