@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it. - <strong>Michelangelo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never accept ultimatums, conventional wisdom, or absolutes. - <strong>Christopher Reeve ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
