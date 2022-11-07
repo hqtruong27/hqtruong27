@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never complain and never explain. - <strong>Benjamin Disraeli ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Follow your instincts. That is where true wisdom manifests itself. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
