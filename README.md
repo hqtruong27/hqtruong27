@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Follow your instincts. That is where true wisdom manifests itself. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One's friends are that part of the human race with which one can be human. - <strong>George Santayana ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
