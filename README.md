@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you want to succeed you should strike out on new paths, rather than travel the worn paths of accepted success. - <strong>John Locke ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A good plan violently executed now is better than a perfect plan executed next week. - <strong>George S. Patton ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
