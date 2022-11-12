@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A good plan violently executed now is better than a perfect plan executed next week. - <strong>George S. Patton ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>They can conquer who believe they can. - <strong>Virgil ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
