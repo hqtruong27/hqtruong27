@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>They can conquer who believe they can. - <strong>Virgil ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I find hope in the darkest of days, and focus in the brightest. I do not judge the universe. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
