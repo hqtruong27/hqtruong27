@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I find hope in the darkest of days, and focus in the brightest. I do not judge the universe. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You've got to go out on a limb sometimes because that's where the fruit is. - <strong>Will Rogers ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
