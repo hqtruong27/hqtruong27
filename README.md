@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You've got to go out on a limb sometimes because that's where the fruit is. - <strong>Will Rogers ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when? - <strong>Rabbi Hillel ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
