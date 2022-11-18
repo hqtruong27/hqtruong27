@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is time to remember that old wisdom our soldiers will never forget: that whether we are black or brown or white, we all bleed the same red blood of patriots, we all enjoy the same glorious freedoms, and we all salute the same great American Flag. - <strong>Donald Trump ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I have friends in overalls whose friendship I would not swap for the favor of the kings of the world. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
