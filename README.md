@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I have friends in overalls whose friendship I would not swap for the favor of the kings of the world. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He is no fool who gives what he cannot keep to gain what he cannot lose. - <strong>Jim Elliot ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
