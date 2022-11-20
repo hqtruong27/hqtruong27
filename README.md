@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He is no fool who gives what he cannot keep to gain what he cannot lose. - <strong>Jim Elliot ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't be afraid to go out on a limb. That's where the fruit is. - <strong>H. Jackson Brown Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
