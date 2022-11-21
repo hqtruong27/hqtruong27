@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't be afraid to go out on a limb. That's where the fruit is. - <strong>H. Jackson Brown Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You cannot find yourself by going into the past. You can find yourself by coming into the present. - <strong>Eckhart Tolle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
