@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You cannot find yourself by going into the past. You can find yourself by coming into the present. - <strong>Eckhart Tolle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Watch the little things; a small leak will sink a great ship. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
