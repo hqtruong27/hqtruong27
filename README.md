@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Watch the little things; a small leak will sink a great ship. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A jug fills drop by drop. - <strong>Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
