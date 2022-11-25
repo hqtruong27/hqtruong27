@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity. - <strong>Calvin Coolidge ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings. - <strong>Arthur Rubinstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
