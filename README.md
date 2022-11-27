@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Of course there is no formula for success except perhaps an unconditional acceptance of life and what it brings. - <strong>Arthur Rubinstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The greatest way to live with honor in this world is to be what we pretend to be. - <strong>Socrates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
