@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The greatest way to live with honor in this world is to be what we pretend to be. - <strong>Socrates ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Happiness often sneaks in through a door you didn't know you left open. - <strong>John Barrymore ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
