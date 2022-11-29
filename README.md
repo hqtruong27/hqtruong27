@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Happiness often sneaks in through a door you didn't know you left open. - <strong>John Barrymore ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The art challenges the technology, and the technology inspires the art. - <strong>John Lasseter ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
