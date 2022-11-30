@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The art challenges the technology, and the technology inspires the art. - <strong>John Lasseter ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
