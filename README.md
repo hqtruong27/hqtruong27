@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I have realized that the past and future are real illusions, that they exist in the present, which is what there is and all there is. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Our kindness may be the most persuasive argument for that which we believe. - <strong>Gordon Hinckley ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
