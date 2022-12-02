@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Our kindness may be the most persuasive argument for that which we believe. - <strong>Gordon Hinckley ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh. - <strong>Francis of Assisi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
