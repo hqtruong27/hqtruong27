@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Pure, holy simplicity confounds all the wisdom of this world and the wisdom of the flesh. - <strong>Francis of Assisi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today. - <strong>Tryon Edwards ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
