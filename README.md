@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today. - <strong>Tryon Edwards ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We must not allow ourselves to become like the system we oppose. - <strong>Desmond Tutu ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
