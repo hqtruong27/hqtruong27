@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We must not allow ourselves to become like the system we oppose. - <strong>Desmond Tutu ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One today is worth two tomorrows. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
