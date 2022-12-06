@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>One today is worth two tomorrows. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Every artist dips his brush in his own soul, and paints his own nature into his pictures. - <strong>Henry Ward Beecher ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
