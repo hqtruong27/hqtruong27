@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Every artist dips his brush in his own soul, and paints his own nature into his pictures. - <strong>Henry Ward Beecher ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise? - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
