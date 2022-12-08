@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Being in humaneness is good. If we select other goodness and thus are far apart from humaneness, how can we be the wise? - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
