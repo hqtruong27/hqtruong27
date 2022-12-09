@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Now this is not the end. It is not even the beginning of the end. But it is, perhaps, the end of the beginning. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never idealize others. They will never live up to your expectations. - <strong>Leo Buscaglia ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
