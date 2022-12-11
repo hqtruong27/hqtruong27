@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The man of knowledge must be able not only to love his enemies but also to hate his friends. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Once you label me you negate me. - <strong>Søren Kierkegaard ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
