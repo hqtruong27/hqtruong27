@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Once you label me you negate me. - <strong>Søren Kierkegaard ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What do we live for, if it is not to make life less difficult for each other? - <strong>George Eliot ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
