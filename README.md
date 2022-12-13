@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What do we live for, if it is not to make life less difficult for each other? - <strong>George Eliot ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We can only be said to be alive in those moments when our hearts are conscious of our treasures. - <strong>Thornton Wilder ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
