@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We can only be said to be alive in those moments when our hearts are conscious of our treasures. - <strong>Thornton Wilder ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A goal is a dream with a deadline. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
