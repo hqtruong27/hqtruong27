@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A goal is a dream with a deadline. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>From error to error one discovers the entire truth. - <strong>Sigmund Freud ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
