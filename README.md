@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>From error to error one discovers the entire truth. - <strong>Sigmund Freud ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Stay committed to your decisions, but stay flexible in your approach. - <strong>Tony Robbins ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
