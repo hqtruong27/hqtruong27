@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Stay committed to your decisions, but stay flexible in your approach. - <strong>Tony Robbins ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life is like a sewer. What you get out of it depends on what you put into it. - <strong>Tom Lehrer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
