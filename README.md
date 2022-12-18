@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life is like a sewer. What you get out of it depends on what you put into it. - <strong>Tom Lehrer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Just trust yourself, then you will know how to live. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
