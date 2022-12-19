@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Just trust yourself, then you will know how to live. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never do things others can do and will do, if there are things others cannot do or will not do. - <strong>Amelia Earhart ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
