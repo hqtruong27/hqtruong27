@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never do things others can do and will do, if there are things others cannot do or will not do. - <strong>Amelia Earhart ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You got to be careful if you don't know where you're going, because you might not get there. - <strong>Yogi Berra ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
