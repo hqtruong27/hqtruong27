@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You got to be careful if you don't know where you're going, because you might not get there. - <strong>Yogi Berra ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you have knowledge, let others light their candles in it. - <strong>Margaret Fuller ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
