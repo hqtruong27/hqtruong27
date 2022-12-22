@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you have knowledge, let others light their candles in it. - <strong>Margaret Fuller ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>So long as a person is capable of self-renewal they are a living being. - <strong>Henri-Frédéric Amiel ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
