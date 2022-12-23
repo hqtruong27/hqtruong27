@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>So long as a person is capable of self-renewal they are a living being. - <strong>Henri-Frédéric Amiel ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you wish to be a writer, write. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
