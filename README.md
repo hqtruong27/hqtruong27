@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you wish to be a writer, write. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I am always doing that which I cannot do, in order that I may learn how to do it. - <strong>Pablo Picasso ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
