@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What you get by achieving your goals is not as important as what you become by achieving your goals. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Two persons cannot long be friends if they cannot forgive each other's little failings. - <strong>Jean de La Bruyère ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
