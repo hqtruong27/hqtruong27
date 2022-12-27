@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Two persons cannot long be friends if they cannot forgive each other's little failings. - <strong>Jean de La Bruyère ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
