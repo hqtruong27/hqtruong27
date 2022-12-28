@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct. - <strong>Elizabeth Kapu'uwailani Lindsey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
