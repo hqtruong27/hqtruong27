@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We live in a society bloated with data yet starved for wisdom. We're connected 24/7, yet anxiety, fear, depression and loneliness are at an all-time high. We must course-correct. - <strong>Elizabeth Kapu'uwailani Lindsey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The function of wisdom is to discriminate between good and evil. - <strong>Cicero ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
