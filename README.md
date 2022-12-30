@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The function of wisdom is to discriminate between good and evil. - <strong>Cicero ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
