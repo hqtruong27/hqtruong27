@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God. - <strong>Aeschylus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
