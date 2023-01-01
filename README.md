@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who learns must suffer. And even in our sleep pain that cannot forget falls drop by drop upon the heart, and in our own despair, against our will, comes wisdom to us by the awful grace of God. - <strong>Aeschylus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Things turn out best for those who make the best of the way things turn out. - <strong>Jack Buck ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
