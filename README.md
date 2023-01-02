@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Things turn out best for those who make the best of the way things turn out. - <strong>Jack Buck ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself. - <strong>Henry Miller ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
