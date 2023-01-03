@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The moment one gives close attention to anything, even a blade of grass, it becomes a mysterious, awesome, indescribably magnificent world in itself. - <strong>Henry Miller ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship. - <strong>Harbhajan Singh ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
