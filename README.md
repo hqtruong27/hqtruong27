@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I define friendship as a bond that transcends all barriers. When you are ready to expect anything and everything from friends, good, bad or ugly... that's what I call true friendship. - <strong>Harbhajan Singh ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The function of wisdom is to discriminate between good and evil. - <strong>Cicero ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
