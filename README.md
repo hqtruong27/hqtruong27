@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The function of wisdom is to discriminate between good and evil. - <strong>Cicero ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Parents can only give good advice or put them on the right paths, but the final forming of a person's character lies in their own hands. - <strong>Anne Frank ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
