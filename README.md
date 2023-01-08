@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The superior man understands what is right; the inferior man understands what will sell. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Study the past, if you would divine the future. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
