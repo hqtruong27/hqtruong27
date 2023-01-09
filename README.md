@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Study the past, if you would divine the future. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Correction does much, but encouragement does more. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
