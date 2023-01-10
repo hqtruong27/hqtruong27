@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Correction does much, but encouragement does more. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I will prepare and some day my chance will come. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
