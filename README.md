@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Excellence, then, is a state concerned with choice, lying in a mean, relative to us, this being determined by reason and in the way in which the man of practical wisdom would determine it. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do you want to know who you are? Don't ask. Act! Action will delineate and define you. - <strong>Thomas Jefferson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
