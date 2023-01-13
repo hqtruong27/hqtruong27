@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do you want to know who you are? Don't ask. Act! Action will delineate and define you. - <strong>Thomas Jefferson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whenever something negative happens to you, there is a deep lesson concealed within it. - <strong>Eckhart Tolle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
