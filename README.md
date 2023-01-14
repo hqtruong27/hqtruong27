@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whenever something negative happens to you, there is a deep lesson concealed within it. - <strong>Eckhart Tolle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I can't imagine a person becoming a success who doesn't give this game of life everything he's got. - <strong>Walter Cronkite ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
