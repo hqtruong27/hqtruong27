@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I cannot always control what goes on outside. But I can always control what goes on inside. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A friend in power is a friend lost. - <strong>Henry Adams ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
