@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A friend in power is a friend lost. - <strong>Henry Adams ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't talk about what you have done or what you are going to do. - <strong>Thomas Jefferson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
