@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't talk about what you have done or what you are going to do. - <strong>Thomas Jefferson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love and friendship exclude each other. - <strong>Jean de La Bruyère ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
