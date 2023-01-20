@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The truest greatness lies in being kind, the truest wisdom in a happy mind. - <strong>Ella Wheeler Wilcox ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You can stand tall without standing on someone. You can be a victor without having victims. - <strong>Harriet Woods ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
