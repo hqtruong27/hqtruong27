@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You can stand tall without standing on someone. You can be a victor without having victims. - <strong>Harriet Woods ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day. - <strong>George Foreman ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
