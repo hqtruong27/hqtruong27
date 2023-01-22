@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day. - <strong>George Foreman ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
