@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I am fond of pigs. Dogs look up to us. Cats look down on us. Pigs treat us as equals. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration. - <strong>Niccolò Machiavelli ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
