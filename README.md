@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration. - <strong>Niccolò Machiavelli ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whatever you do in life, surround yourself with smart people who'll argue with you. - <strong>John Wooden ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
