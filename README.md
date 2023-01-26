@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You have to believe in yourself. - <strong>Sun Tzu ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Know that although in the eternal scheme of things you are small, you are also unique and irreplaceable, as are all your fellow humans everywhere in the world. - <strong>Margaret Laurence ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
