@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A day of worry is more exhausting than a day of work. - <strong>John Lubbock ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Men in general judge more from appearances than from reality. All men have eyes, but few have the gift of penetration. - <strong>Niccolò Machiavelli ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
