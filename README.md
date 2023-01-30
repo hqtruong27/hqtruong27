@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Courage is rightly esteemed the first of human qualities... because it is the quality which guarantees all others. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The truest greatness lies in being kind, the truest wisdom in a happy mind. - <strong>Ella Wheeler Wilcox ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
