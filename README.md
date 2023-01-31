@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The truest greatness lies in being kind, the truest wisdom in a happy mind. - <strong>Ella Wheeler Wilcox ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own. - <strong>Jessamyn West ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
