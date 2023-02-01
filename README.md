@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is very easy to forgive others their mistakes; it takes more grit to forgive them for having witnessed your own. - <strong>Jessamyn West ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We can only learn to love by loving. - <strong>Iris Murdoch ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
