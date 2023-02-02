@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We can only learn to love by loving. - <strong>Iris Murdoch ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is impossible to love and to be wise. - <strong>Francis Bacon ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
