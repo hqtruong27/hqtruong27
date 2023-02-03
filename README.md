@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is impossible to love and to be wise. - <strong>Francis Bacon ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. - <strong>Marie Curie ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
