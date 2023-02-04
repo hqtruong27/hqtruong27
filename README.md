@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. - <strong>Marie Curie ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Spectacular achievement is always preceded by unspectacular preparation. - <strong>Robert Schuller ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
