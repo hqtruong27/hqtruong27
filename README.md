@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Spectacular achievement is always preceded by unspectacular preparation. - <strong>Robert Schuller ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity. - <strong>Louis Pasteur ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
