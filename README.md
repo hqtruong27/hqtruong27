@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let me tell you the secret that has led me to my goal: my strength lies solely in my tenacity. - <strong>Louis Pasteur ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never do things others can do and will do, if there are things others cannot do or will not do. - <strong>Amelia Earhart ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
