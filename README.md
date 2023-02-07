@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never do things others can do and will do, if there are things others cannot do or will not do. - <strong>Amelia Earhart ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you fell down yesterday, stand up today. - <strong>H. G. Wells ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
