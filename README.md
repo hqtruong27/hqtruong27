@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives. - <strong>Vince Lombardi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The greatest part of our happiness depends on our dispositions, not our circumstances. - <strong>Martha Washington ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
