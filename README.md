@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The greatest part of our happiness depends on our dispositions, not our circumstances. - <strong>Martha Washington ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The young man knows the rules, but the old man knows the exceptions. - <strong>Oliver Wendell Holmes Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
