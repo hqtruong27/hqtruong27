@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The young man knows the rules, but the old man knows the exceptions. - <strong>Oliver Wendell Holmes Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There never was a good knife made of bad steel. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
