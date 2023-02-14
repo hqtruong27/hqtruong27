@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists. - <strong>Eric Hoffer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sincerity is the way of Heaven. The attainment of sincerity is the way of men. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
