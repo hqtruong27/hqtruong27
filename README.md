@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sincerity is the way of Heaven. The attainment of sincerity is the way of men. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The mind unlearns with difficulty what it has long learned. - <strong>Seneca the Younger ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
