@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The mind unlearns with difficulty what it has long learned. - <strong>Seneca the Younger ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The future belongs to those who believe in the beauty of their dreams. - <strong>Eleanor Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
