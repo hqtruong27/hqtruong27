@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The future belongs to those who believe in the beauty of their dreams. - <strong>Eleanor Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There are no limitations to the mind except those we acknowledge. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
