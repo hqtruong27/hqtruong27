@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There are no limitations to the mind except those we acknowledge. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Happiness is a perfume you cannot pour on others without getting a few drops on yourself. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
