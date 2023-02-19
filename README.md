@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Happiness is a perfume you cannot pour on others without getting a few drops on yourself. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Character develops itself in the stream of life. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
