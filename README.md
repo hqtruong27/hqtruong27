@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Character develops itself in the stream of life. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Music is a higher revelation than all wisdom and philosophy. - <strong>Ludwig van Beethoven ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
