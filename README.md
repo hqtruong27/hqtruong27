@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Music is a higher revelation than all wisdom and philosophy. - <strong>Ludwig van Beethoven ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The way we communicate with others and with ourselves ultimately determines the quality of our lives. - <strong>Tony Robbins ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
