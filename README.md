@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The way we communicate with others and with ourselves ultimately determines the quality of our lives. - <strong>Tony Robbins ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Of all possessions a friend is the most precious. - <strong>Herodotus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
