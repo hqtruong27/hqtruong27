@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Of all possessions a friend is the most precious. - <strong>Herodotus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Friendship, like credit, is highest when it is not used. - <strong>Elbert Hubbard ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
