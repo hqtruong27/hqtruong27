@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Friendship, like credit, is highest when it is not used. - <strong>Elbert Hubbard ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it. - <strong>Lou Holtz ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
