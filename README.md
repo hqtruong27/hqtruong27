@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it. - <strong>Lou Holtz ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The sincere friends of this world are as ship lights in the stormiest of nights. - <strong>Giotto ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
