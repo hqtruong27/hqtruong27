@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best. - <strong>Margaret Thatcher ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Freedom is the right to live as we wish. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
