@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Freedom is the right to live as we wish. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To lead people walk behind them. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
