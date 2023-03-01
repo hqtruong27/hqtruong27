@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To lead people walk behind them. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Good advice is always certain to be ignored, but that's no reason not to give it. - <strong>Agatha Christie ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
