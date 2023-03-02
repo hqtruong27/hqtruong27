@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Good advice is always certain to be ignored, but that's no reason not to give it. - <strong>Agatha Christie ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do not wait; the time will never be 'just right.' Start where you stand, and work with whatever tools you may have at your command, and better tools will be found as you go along. - <strong>George Herbert ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
