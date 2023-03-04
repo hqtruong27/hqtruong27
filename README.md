@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Friendship is one mind in two bodies. - <strong>Mencius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You can always count on Americans to do the right thing - after they've tried everything else. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
