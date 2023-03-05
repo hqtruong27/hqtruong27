@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You can always count on Americans to do the right thing - after they've tried everything else. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is impossible to experience one's death objectively and still carry a tune. - <strong>Woody Allen ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
