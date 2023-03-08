@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Government of the people, by the people, for the people, shall not perish from the Earth. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A jug fills drop by drop. - <strong>Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
