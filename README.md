@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love cures people - both the ones who give it and the ones who receive it. - <strong>Karl Menninger ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Take rest; a field that has rested gives a bountiful crop. - <strong>Ovid ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
