@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We don't stop playing because we grow old; we grow old because we stop playing. - <strong>Bernard Shaw ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
