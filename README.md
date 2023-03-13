@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you meet someone better than yourself, turn your thoughts to becoming his equal. When you meet someone not as good as you are, look within and examine your own self. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth. - <strong>Marcus Aurelius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
