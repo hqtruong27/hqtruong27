@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth. - <strong>Marcus Aurelius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love is composed of a single soul inhabiting two bodies. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
