@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love is composed of a single soul inhabiting two bodies. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Music in the soul can be heard by the universe. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
