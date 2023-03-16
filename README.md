@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Music in the soul can be heard by the universe. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be your own hero, it's cheaper than a movie ticket. - <strong>Doug Horton ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
