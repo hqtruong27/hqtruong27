@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be your own hero, it's cheaper than a movie ticket. - <strong>Doug Horton ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future. - <strong>Vernon Cooper ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
