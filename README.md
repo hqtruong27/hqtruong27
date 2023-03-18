@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>These days people seek knowledge, not wisdom. Knowledge is of the past; wisdom is of the future. - <strong>Vernon Cooper ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The more man meditates upon good thoughts, the better will be his world and the world at large. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
