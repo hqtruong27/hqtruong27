@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The more man meditates upon good thoughts, the better will be his world and the world at large. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I can't believe that God put us on this earth to be ordinary. - <strong>Lou Holtz ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
