@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I can't believe that God put us on this earth to be ordinary. - <strong>Lou Holtz ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
