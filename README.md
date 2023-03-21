@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A hero is no braver than an ordinary man, but he is braver five minutes longer. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
