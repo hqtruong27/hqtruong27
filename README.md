@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>By accepting yourself and being fully what you are, your presence can make others happy. - <strong>Jane Roberts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
