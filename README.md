@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Education is the most powerful weapon which you can use to change the world. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
