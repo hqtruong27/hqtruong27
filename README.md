@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Education is the most powerful weapon which you can use to change the world. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In skating over thin ice our safety is in our speed. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
