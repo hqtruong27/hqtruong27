@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Knowledge comes, but wisdom lingers. It may not be difficult to store up in the mind a vast quantity of facts within a comparatively short time, but the ability to form judgments requires the severe discipline of hard work and the tempering heat of experience and maturity. - <strong>Calvin Coolidge ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world. - <strong>Blaise Pascal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
