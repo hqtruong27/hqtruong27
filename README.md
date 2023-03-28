@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world. - <strong>Blaise Pascal ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A wise man will make more opportunities than he finds. - <strong>Francis Bacon ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
