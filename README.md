@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A hero is no braver than an ordinary man, but he is braver five minutes longer. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Meetings are indispensable when you don't want to do anything. - <strong>John Kenneth Galbraith ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
