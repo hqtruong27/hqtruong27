@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Meetings are indispensable when you don't want to do anything. - <strong>John Kenneth Galbraith ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Our intention creates our reality. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
