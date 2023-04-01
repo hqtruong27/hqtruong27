@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Our intention creates our reality. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Quality means doing it right when no one is looking. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
