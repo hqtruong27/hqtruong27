@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Quality means doing it right when no one is looking. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We do not quit playing because we grow old, we grow old because we quit playing. - <strong>Oliver Wendell Holmes Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
