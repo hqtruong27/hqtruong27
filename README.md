@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We do not quit playing because we grow old, we grow old because we quit playing. - <strong>Oliver Wendell Holmes Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be great in act, as you have been in thought. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
