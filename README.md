@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Happiness is found in doing, not merely possessing. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The least of things with a meaning is worth more in life than the greatest of things without it. - <strong>Carl Jung ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
