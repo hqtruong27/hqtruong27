@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The least of things with a meaning is worth more in life than the greatest of things without it. - <strong>Carl Jung ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Freedom is what you do with what's been done to you. - <strong>Jean-Paul Sartre ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
