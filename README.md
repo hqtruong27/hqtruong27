@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Freedom is what you do with what's been done to you. - <strong>Jean-Paul Sartre ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Two persons cannot long be friends if they cannot forgive each other's little failings. - <strong>Jean de La Bruyère ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
