@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Two persons cannot long be friends if they cannot forgive each other's little failings. - <strong>Jean de La Bruyère ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Impossibilities are merely things which we have not yet learned. - <strong>Charles W. Chesnutt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
