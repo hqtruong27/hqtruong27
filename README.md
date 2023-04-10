@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Impossibilities are merely things which we have not yet learned. - <strong>Charles W. Chesnutt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>However rare true love may be, it is less so than true friendship. - <strong>François de La Rochefoucauld ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
