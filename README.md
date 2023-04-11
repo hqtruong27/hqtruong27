@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>However rare true love may be, it is less so than true friendship. - <strong>François de La Rochefoucauld ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love all, trust a few, do wrong to none. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
