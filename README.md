@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love all, trust a few, do wrong to none. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One's friends are that part of the human race with which one can be human. - <strong>George Santayana ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
