@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>One's friends are that part of the human race with which one can be human. - <strong>George Santayana ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
