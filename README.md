@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If the single man plant himself indomitably on his instincts, and there abide, the huge world will come round to him. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>God always takes the simplest way. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
