@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>God always takes the simplest way. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A really great talent finds its happiness in execution. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
