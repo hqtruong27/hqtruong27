@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A really great talent finds its happiness in execution. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A friend is what the heart needs all the time. - <strong>Henry van Dyke Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
