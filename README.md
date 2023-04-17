@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A friend is what the heart needs all the time. - <strong>Henry van Dyke Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are. - <strong>Bernice Reagon ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
