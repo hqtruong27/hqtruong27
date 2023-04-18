@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life's challenges are not supposed to paralyze you, they're supposed to help you discover who you are. - <strong>Bernice Reagon ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Happiness is the reward we get for living to the highest right we know. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
