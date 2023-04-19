@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Happiness is the reward we get for living to the highest right we know. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do one thing every day that scares you. - <strong>Eleanor Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
