@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do one thing every day that scares you. - <strong>Eleanor Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Those who cling to perceptions and views wander the world offending people. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
