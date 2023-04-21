@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Those who cling to perceptions and views wander the world offending people. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The more you care, the stronger you can be. - <strong>Jim Rohn ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
