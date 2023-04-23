@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You spend a good piece of your life gripping a baseball and in the end it turns out that it was the other way around all the time. - <strong>Jim Bouton ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life is the flower for which love is the honey. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
