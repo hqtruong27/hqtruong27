@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life is the flower for which love is the honey. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much. - <strong>Jim Rohn ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
