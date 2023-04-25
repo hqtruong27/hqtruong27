@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much. - <strong>Jim Rohn ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life is a travelling to the edge of knowledge, then a leap taken. - <strong>Laurence J. Peter ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
