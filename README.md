@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life is a travelling to the edge of knowledge, then a leap taken. - <strong>Laurence J. Peter ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
