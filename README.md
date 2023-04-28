@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable. - <strong>Kathleen Norris ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wisdom often times consists of knowing what to do next. - <strong>Herbert Hoover ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
