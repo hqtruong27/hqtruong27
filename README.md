@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Wisdom often times consists of knowing what to do next. - <strong>Herbert Hoover ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another. - <strong>Eustace Budgell ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
