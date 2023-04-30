@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Friendship is a strong and habitual inclination in two persons to promote the good and happiness of one another. - <strong>Eustace Budgell ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Hell, there are no rules here-- we're trying to accomplish something. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
