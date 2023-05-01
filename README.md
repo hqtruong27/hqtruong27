@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Hell, there are no rules here-- we're trying to accomplish something. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Our greatest glory is not in never falling, but in rising every time we fall. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
