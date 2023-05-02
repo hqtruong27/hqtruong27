@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Our greatest glory is not in never falling, but in rising every time we fall. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>And when the world is created, it is created in such a way that those eternal objects of God's loving wisdom become actualities - interacting with one another, relating to God in the finite realm. - <strong>Rowan Williams ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
