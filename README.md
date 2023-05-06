@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The dream was always running ahead of me. To catch up, to live for a moment in unison with it, that was the miracle. - <strong>Anaïs Nin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Friendship is like money, easier made than kept. - <strong>Samuel Butler ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
