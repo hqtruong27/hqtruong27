@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Friendship is like money, easier made than kept. - <strong>Samuel Butler ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
