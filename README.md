@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Happiness does not come about only due to external circumstances; it mainly derives from inner attitudes. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To climb steep hills requires a slow pace at first. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
