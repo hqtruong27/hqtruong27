@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never make friends with people who are above or below you in status. Such friendships will never give you any happiness. - <strong>Chanakya ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The more sand that has escaped from the hourglass of our life, the clearer we should see through it. - <strong>Jean-Paul Sartre ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
