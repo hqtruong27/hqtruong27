@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The more sand that has escaped from the hourglass of our life, the clearer we should see through it. - <strong>Jean-Paul Sartre ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Doing what you love is the cornerstone of having abundance in your life. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
