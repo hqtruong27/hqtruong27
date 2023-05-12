@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Doing what you love is the cornerstone of having abundance in your life. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
