@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely. - <strong>Frank Abagnale ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
