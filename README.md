@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We all grow up. Hopefully, we get wiser. Age brings wisdom, and fatherhood changes one's life completely. - <strong>Frank Abagnale ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction. - <strong>Eckhart Tolle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
