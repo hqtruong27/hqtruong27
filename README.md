@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The greatest achievement of humanity is not its works of art, science, or technology, but the recognition of its own dysfunction. - <strong>Eckhart Tolle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I never think of the future. It comes soon enough. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
