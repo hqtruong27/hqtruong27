@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I never think of the future. It comes soon enough. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Most powerful is he who has himself in his own power. - <strong>Seneca the Younger ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
