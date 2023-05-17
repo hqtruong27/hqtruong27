@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Most powerful is he who has himself in his own power. - <strong>Seneca the Younger ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sooner or later, those who win are those who think they can. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
