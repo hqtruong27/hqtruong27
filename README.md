@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sooner or later, those who win are those who think they can. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Humanity is acquiring all the right technology for all the wrong reasons. - <strong>Buckminster Fuller ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
