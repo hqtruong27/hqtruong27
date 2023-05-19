@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Humanity is acquiring all the right technology for all the wrong reasons. - <strong>Buckminster Fuller ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate. - <strong>Zhuang Zhou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
