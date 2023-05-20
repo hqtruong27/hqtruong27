@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Flow with whatever is happening and let your mind be free. Stay centered by accepting whatever you are doing. This is the ultimate. - <strong>Zhuang Zhou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life is a travelling to the edge of knowledge, then a leap taken. - <strong>Laurence J. Peter ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
