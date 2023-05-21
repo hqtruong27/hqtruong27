@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life is a travelling to the edge of knowledge, then a leap taken. - <strong>Laurence J. Peter ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>But at any rate, the point is that God is what nobody admits to being, and everybody really is. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
