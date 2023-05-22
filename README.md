@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>But at any rate, the point is that God is what nobody admits to being, and everybody really is. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whether you think you can or you think you can't, you are right. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
