@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whether you think you can or you think you can't, you are right. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts. - <strong>Alan Cohen ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
