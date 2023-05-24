@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Appreciation is the highest form of prayer, for it acknowledges the presence of good wherever you shine the light of your thankful thoughts. - <strong>Alan Cohen ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The heart has its reasons which reason knows not of. - <strong>Blaise Pascal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
