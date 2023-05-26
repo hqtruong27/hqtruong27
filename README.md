@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports. - <strong>Richard Burton ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine. - <strong>Thomas Jefferson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
