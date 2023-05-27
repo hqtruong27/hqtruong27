@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine. - <strong>Thomas Jefferson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Happiness is not something ready-made. It comes from your own actions. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
