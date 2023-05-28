@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Happiness is not something ready-made. It comes from your own actions. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Most people are about as happy as they make up their minds to be - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
