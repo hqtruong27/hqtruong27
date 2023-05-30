@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I cannot always control what goes on outside. But I can always control what goes on inside. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men. - <strong>Thomas Fuller ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
