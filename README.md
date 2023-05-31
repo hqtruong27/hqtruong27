@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men. - <strong>Thomas Fuller ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To be what we are, and to become what we are capable of becoming, is the only end of life. - <strong>Robert Louis Stevenson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
