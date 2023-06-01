@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To be what we are, and to become what we are capable of becoming, is the only end of life. - <strong>Robert Louis Stevenson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>They can do all because they think they can. - <strong>Virgil ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
