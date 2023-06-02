@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>They can do all because they think they can. - <strong>Virgil ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Fame usually comes to those who are thinking about something else. - <strong>Oliver Wendell Holmes Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
