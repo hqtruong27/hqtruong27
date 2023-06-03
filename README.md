@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Fame usually comes to those who are thinking about something else. - <strong>Oliver Wendell Holmes Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Our distrust is very expensive. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
