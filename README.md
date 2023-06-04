@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Our distrust is very expensive. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Success is getting what you want. Happiness is wanting what you get. - <strong>Dale Carnegie ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
