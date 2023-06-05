@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Success is getting what you want. Happiness is wanting what you get. - <strong>Dale Carnegie ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Along with success comes a reputation for wisdom. - <strong>Euripides ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
