@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Along with success comes a reputation for wisdom. - <strong>Euripides ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What we achieve inwardly will change outer reality. - <strong>Plutarch ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
