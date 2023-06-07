@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What we achieve inwardly will change outer reality. - <strong>Plutarch ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This is why I loved technology: if you used it right, it could give you power and privacy. - <strong>Cory Doctorow ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
