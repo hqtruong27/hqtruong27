@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This is why I loved technology: if you used it right, it could give you power and privacy. - <strong>Cory Doctorow ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Respect should be earned by actions, and not acquired by years. - <strong>Frank Lloyd Wright ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
