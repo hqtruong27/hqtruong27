@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The bird of paradise alights only upon the hand that does not grasp. - <strong>John Berry ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
