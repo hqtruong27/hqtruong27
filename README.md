@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The bird of paradise alights only upon the hand that does not grasp. - <strong>John Berry ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - <strong>Isocrates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
