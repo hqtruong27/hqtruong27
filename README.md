@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. - <strong>Isocrates ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whatever you do in life, surround yourself with smart people who'll argue with you. - <strong>John Wooden ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
