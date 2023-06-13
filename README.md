@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whatever you do in life, surround yourself with smart people who'll argue with you. - <strong>John Wooden ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Dreams come true. Without that possibility, nature would not incite us to have them. - <strong>John Updike ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
