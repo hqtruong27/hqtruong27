@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Dreams come true. Without that possibility, nature would not incite us to have them. - <strong>John Updike ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Fame usually comes to those who are thinking about something else. - <strong>Oliver Wendell Holmes Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
