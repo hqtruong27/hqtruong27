@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is not fair to ask of others what you are unwilling to do yourself. - <strong>Eleanor Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A business that makes nothing but money is a poor business. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
