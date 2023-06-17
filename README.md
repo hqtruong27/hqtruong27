@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A business that makes nothing but money is a poor business. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you'll not settle for anything less than your best, you will be amazed at what you can accomplish in your lives. - <strong>Vince Lombardi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
