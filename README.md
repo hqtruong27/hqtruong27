@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The world makes way for the man who knows where he is going. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Speak when you are angry, and you will make the best speech you will ever regret. - <strong>Ambrose Bierce ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
