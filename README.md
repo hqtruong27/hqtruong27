@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Speak when you are angry, and you will make the best speech you will ever regret. - <strong>Ambrose Bierce ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise. - <strong>Anne Brontë ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
