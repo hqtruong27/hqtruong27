@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All our talents increase in the using, and every faculty, both good and bad, strengthen by exercise. - <strong>Anne Brontë ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Nothing in life is so exhilarating as to be shot at without result. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
