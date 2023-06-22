@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Nothing in life is so exhilarating as to be shot at without result. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one. - <strong>Oscar Wilde ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
