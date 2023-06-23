@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Laughter is not at all a bad beginning for a friendship, and it is far the best ending for one. - <strong>Oscar Wilde ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If one does not know to which port one is sailing, no wind is favorable. - <strong>Seneca the Younger ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
