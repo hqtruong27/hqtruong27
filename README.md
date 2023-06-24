@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If one does not know to which port one is sailing, no wind is favorable. - <strong>Seneca the Younger ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When times are bad is when the real entrepreneurs emerge. - <strong>Robert Kiyosaki ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
