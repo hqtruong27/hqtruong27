@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When times are bad is when the real entrepreneurs emerge. - <strong>Robert Kiyosaki ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>They can conquer who believe they can. - <strong>Virgil ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
