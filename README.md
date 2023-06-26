@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>They can conquer who believe they can. - <strong>Virgil ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I can't believe that God put us on this earth to be ordinary. - <strong>Lou Holtz ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
