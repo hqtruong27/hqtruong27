@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I can't believe that God put us on this earth to be ordinary. - <strong>Lou Holtz ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A true friend is the most precious of all possessions and the one we take the least thought about acquiring. - <strong>François de La Rochefoucauld ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
