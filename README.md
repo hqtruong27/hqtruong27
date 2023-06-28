@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A true friend is the most precious of all possessions and the one we take the least thought about acquiring. - <strong>François de La Rochefoucauld ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool. - <strong>Joseph Roux ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
