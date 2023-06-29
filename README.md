@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool. - <strong>Joseph Roux ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I gave my life to become the person I am right now. Was it worth it? - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
