@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you see a good person, think of becoming like him. When you see someone not so good, reflect on your own weak points. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
