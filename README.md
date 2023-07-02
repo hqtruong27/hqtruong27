@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is no scarcity of opportunity to make a living at what you love; there's only scarcity of resolve to make it happen. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds. - <strong>Will Durant ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
