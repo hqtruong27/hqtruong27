@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The trouble with most people is that they think with their hopes or fears or wishes rather than with their minds. - <strong>Will Durant ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Everything has beauty, but not everyone sees it. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
