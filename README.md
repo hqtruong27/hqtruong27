@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Everything has beauty, but not everyone sees it. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What you do today can improve all your tomorrows. - <strong>Ralph Marston ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
