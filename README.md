@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What you do today can improve all your tomorrows. - <strong>Ralph Marston ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day. - <strong>George Foreman ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
