@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Forgiveness is that subtle thread that binds both love and friendship. Without forgiveness, you may not even have a child one day. - <strong>George Foreman ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
