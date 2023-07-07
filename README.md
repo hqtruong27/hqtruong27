@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>People may doubt what you say, but they will believe what you do. - <strong>Lewis Cass ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
