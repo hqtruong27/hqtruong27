@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>People may doubt what you say, but they will believe what you do. - <strong>Lewis Cass ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The only true wisdom is in knowing you know nothing. - <strong>Isocrates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
