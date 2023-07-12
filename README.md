@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Some do not understand that we must die, But those who do realize this settle their quarrels. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Habit, if not resisted, soon becomes necessity. - <strong>Augustine of Hippo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
