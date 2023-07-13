@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Habit, if not resisted, soon becomes necessity. - <strong>Augustine of Hippo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The two most powerful warriors are patience and time. - <strong>Leo Tolstoy ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
