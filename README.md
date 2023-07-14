@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The two most powerful warriors are patience and time. - <strong>Leo Tolstoy ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Many men go fishing all of their lives without knowing that it is not fish they are after. - <strong>Henry David Thoreau ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
