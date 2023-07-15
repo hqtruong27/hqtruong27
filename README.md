@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Many men go fishing all of their lives without knowing that it is not fish they are after. - <strong>Henry David Thoreau ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The years teach much which the days never know. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
