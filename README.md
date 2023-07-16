@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The years teach much which the days never know. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The truth you believe and cling to makes you unavailable to hear anything new. - <strong>Pema Chödrön ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
