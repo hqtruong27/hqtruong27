@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The truth you believe and cling to makes you unavailable to hear anything new. - <strong>Pema Chödrön ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is only one happiness in life, to love and be loved. - <strong>George Sand ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
