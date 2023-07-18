@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is only one happiness in life, to love and be loved. - <strong>George Sand ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In life, all good things come hard, but wisdom is the hardest to come by. - <strong>Lucille Ball ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
