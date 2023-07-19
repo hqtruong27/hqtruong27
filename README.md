@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In life, all good things come hard, but wisdom is the hardest to come by. - <strong>Lucille Ball ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We gain the strength of the temptation we resist. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
