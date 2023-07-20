@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We gain the strength of the temptation we resist. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live. - <strong>Mortimer J. Adler ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
