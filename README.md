@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live. - <strong>Mortimer J. Adler ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We can change our lives. We can do, have, and be exactly what we wish. - <strong>Tony Robbins ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
