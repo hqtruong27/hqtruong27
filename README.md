@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We can change our lives. We can do, have, and be exactly what we wish. - <strong>Tony Robbins ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Problems are not stop signs, they are guidelines. - <strong>Robert Schuller ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
