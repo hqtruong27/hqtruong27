@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Problems are not stop signs, they are guidelines. - <strong>Robert Schuller ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The personal life deeply lived always expands into truths beyond itself. - <strong>Anaïs Nin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
