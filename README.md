@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The personal life deeply lived always expands into truths beyond itself. - <strong>Anaïs Nin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I can't believe that God put us on this earth to be ordinary. - <strong>Lou Holtz ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
