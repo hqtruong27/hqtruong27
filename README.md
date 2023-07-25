@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I can't believe that God put us on this earth to be ordinary. - <strong>Lou Holtz ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wrinkles should merely indicate where smiles have been. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
