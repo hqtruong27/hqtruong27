@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Wrinkles should merely indicate where smiles have been. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is never too late to be what you might have been. - <strong>George Eliot ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
