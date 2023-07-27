@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is never too late to be what you might have been. - <strong>George Eliot ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Only do what your heart tells you. - <strong>Princess Diana ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
