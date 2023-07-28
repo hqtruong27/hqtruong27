@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Only do what your heart tells you. - <strong>Princess Diana ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Attitude is a little thing that makes a big difference. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
