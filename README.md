@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Attitude is a little thing that makes a big difference. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is nothing so useless as doing efficiently that which should not be done at all. - <strong>Peter Drucker ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
