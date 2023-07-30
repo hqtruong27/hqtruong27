@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is nothing so useless as doing efficiently that which should not be done at all. - <strong>Peter Drucker ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If there is such a thing as a good marriage, it is because it resembles friendship rather than love. - <strong>Michel de Montaigne ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
