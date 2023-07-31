@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If there is such a thing as a good marriage, it is because it resembles friendship rather than love. - <strong>Michel de Montaigne ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
