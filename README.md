@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The pessimist sees difficulty in every opportunity. The optimist sees the opportunity in every difficulty. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Watch the little things; a small leak will sink a great ship. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
