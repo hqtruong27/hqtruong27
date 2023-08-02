@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Watch the little things; a small leak will sink a great ship. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth. - <strong>Robert Southey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
