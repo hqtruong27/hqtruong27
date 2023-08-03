@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No distance of place or lapse of time can lessen the friendship of those who are thoroughly persuaded of each other's worth. - <strong>Robert Southey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The best way to predict your future is to create it. - <strong>Peter Drucker ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
