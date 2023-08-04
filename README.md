@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The best way to predict your future is to create it. - <strong>Peter Drucker ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Each misfortune you encounter will carry in it the seed of tomorrows good luck. - <strong>Og Mandino ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
