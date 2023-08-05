@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Each misfortune you encounter will carry in it the seed of tomorrows good luck. - <strong>Og Mandino ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Between saying and doing, many a pair of shoes is worn out. - <strong>Iris Murdoch ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
