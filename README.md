@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Between saying and doing, many a pair of shoes is worn out. - <strong>Iris Murdoch ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along. - <strong>Lisa Alther ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
