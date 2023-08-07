@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>That's the risk you take if you change: that people you've been involved with won't like the new you. But other people who do will come along. - <strong>Lisa Alther ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We will develop and cultivate the liberation of mind by lovingkindness, make it our vehicle, make it our basis, stabilize it, exercise ourselves in it, and fully perfect it. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
