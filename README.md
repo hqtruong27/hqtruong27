@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We will develop and cultivate the liberation of mind by lovingkindness, make it our vehicle, make it our basis, stabilize it, exercise ourselves in it, and fully perfect it. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life is really simple, but we insist on making it complicated. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
