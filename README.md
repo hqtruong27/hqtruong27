@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life is really simple, but we insist on making it complicated. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All things change; nothing perishes. - <strong>Ovid ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
