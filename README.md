@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All things change; nothing perishes. - <strong>Ovid ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One that desires to excel should endeavor in those things that are in themselves most excellent. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
