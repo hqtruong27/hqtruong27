@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Reviewing what you have learned and learning anew, you are fit to be a teacher. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I never think of the future. It comes soon enough. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
