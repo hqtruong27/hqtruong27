@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I never think of the future. It comes soon enough. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
