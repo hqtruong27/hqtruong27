@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The world is afflicted by death and decay. But the wise do not grieve, having realized the nature of the world. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
