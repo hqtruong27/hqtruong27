@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is only one way to happiness and that is to cease worrying about things which are beyond the power of our will. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Loss is nothing else but change, and change is Nature's delight. - <strong>Marcus Aurelius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
