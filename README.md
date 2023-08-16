@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Loss is nothing else but change, and change is Nature's delight. - <strong>Marcus Aurelius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You are always free to change your mind and choose a different future, or a different past. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
