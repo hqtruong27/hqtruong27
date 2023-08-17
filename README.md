@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You are always free to change your mind and choose a different future, or a different past. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. - <strong>Chuck Swindoll ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
