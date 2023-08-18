@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We are all faced with a series of great opportunities brilliantly disguised as impossible situations. - <strong>Chuck Swindoll ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Rejoicing in our joy, not suffering over our suffering, makes someone a friend. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
