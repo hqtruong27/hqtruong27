@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Rejoicing in our joy, not suffering over our suffering, makes someone a friend. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger. - <strong>Michelle Obama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
