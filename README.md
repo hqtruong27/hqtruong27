@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The fact is, with every friendship you make, and every bond of trust you establish, you are shaping the image of America projected to the rest of the world. That is so important. So when you study abroad, you're actually helping to make America stronger. - <strong>Michelle Obama ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you cannot do great things, do small things in a great way. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
