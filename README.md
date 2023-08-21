@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you cannot do great things, do small things in a great way. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The best way to predict your future is to create it. - <strong>Peter Drucker ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
