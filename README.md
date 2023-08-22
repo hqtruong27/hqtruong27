@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The best way to predict your future is to create it. - <strong>Peter Drucker ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love is the wisdom of the fool and the folly of the wise. - <strong>Samuel Johnson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
