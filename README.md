@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love is the wisdom of the fool and the folly of the wise. - <strong>Samuel Johnson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world. - <strong>Hannah Szenes ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
