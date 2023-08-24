@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that one's life has meaning, that one is needed in this world. - <strong>Hannah Szenes ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Practice yourself, for heaven's sake in little things, and then proceed to greater. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
