@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Practice yourself, for heaven's sake in little things, and then proceed to greater. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement. - <strong>Ralph Marston ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
