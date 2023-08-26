@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement. - <strong>Ralph Marston ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>True friends stab you in the front. - <strong>Oscar Wilde ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
