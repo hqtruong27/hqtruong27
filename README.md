@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>True friends stab you in the front. - <strong>Oscar Wilde ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One loyal friend is worth ten thousand relatives. - <strong>Euripides ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
