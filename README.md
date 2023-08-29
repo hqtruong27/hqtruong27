@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Bodily exercise, when compulsory, does no harm to the body; but knowledge which is acquired under compulsion obtains no hold on the mind. - <strong>Plato ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>By accepting yourself and being fully what you are, your presence can make others happy. - <strong>Jane Roberts ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
