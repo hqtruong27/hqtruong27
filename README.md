@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>By accepting yourself and being fully what you are, your presence can make others happy. - <strong>Jane Roberts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Where there is great love, there are always miracles. - <strong>Willa Cather ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
