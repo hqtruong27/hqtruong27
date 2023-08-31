@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Where there is great love, there are always miracles. - <strong>Willa Cather ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do one thing every day that scares you. - <strong>Eleanor Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
