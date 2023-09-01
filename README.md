@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do one thing every day that scares you. - <strong>Eleanor Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You can't let praise or criticism get to you. It's a weakness to get caught up in either one. - <strong>John Wooden ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
