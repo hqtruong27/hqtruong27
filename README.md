@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You can't let praise or criticism get to you. It's a weakness to get caught up in either one. - <strong>John Wooden ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You're not obligated to win. You're obligated to keep trying to do the best you can every day. - <strong>Marian Wright Edelman ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
