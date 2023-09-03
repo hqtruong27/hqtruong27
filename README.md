@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You're not obligated to win. You're obligated to keep trying to do the best you can every day. - <strong>Marian Wright Edelman ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
