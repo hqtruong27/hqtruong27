@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The sum of wisdom is that time is never lost that is devoted to work. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
