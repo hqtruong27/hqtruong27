@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The sum of wisdom is that time is never lost that is devoted to work. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The cautious seldom err. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
