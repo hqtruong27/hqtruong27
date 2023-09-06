@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The cautious seldom err. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life is divided into the horrible and the miserable. - <strong>Woody Allen ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
