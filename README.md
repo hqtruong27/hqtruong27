@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life is divided into the horrible and the miserable. - <strong>Woody Allen ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To change one's life, start immediately, do it flamboyantly, no exceptions. - <strong>William James ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
