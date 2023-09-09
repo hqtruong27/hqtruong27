@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To be beautiful means to be yourself. You don't need to be accepted by others. You need to accept yourself. - <strong>Thích Nhất Hạnh ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You are a product of your environment. So choose the environment that will best develop you toward your objective. Analyze your life in terms of its environment. Are the things around you helping you toward success - or are they holding you back? - <strong>W. Clement Stone ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
