@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You have to believe in yourself. - <strong>Sun Tzu ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
