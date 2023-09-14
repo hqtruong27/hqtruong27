@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No snowflake in an avalanche ever feels responsible. - <strong>Voltaire ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is not fair to ask of others what you are unwilling to do yourself. - <strong>Eleanor Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
