@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is not fair to ask of others what you are unwilling to do yourself. - <strong>Eleanor Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
