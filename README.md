@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>First comes thought; then organization of that thought, into ideas and plans; then transformation of those plans into reality. The beginning, as you will observe, is in your imagination. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
