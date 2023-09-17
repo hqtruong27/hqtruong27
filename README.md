@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As a water bead on a lotus leaf, as water on a red lily, does not adhere, so the sage does not adhere to the seen, the heard, or the sensed. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A friend is someone who gives you total freedom to be yourself. - <strong>Jim Morrison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
