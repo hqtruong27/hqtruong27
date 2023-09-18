@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A friend is someone who gives you total freedom to be yourself. - <strong>Jim Morrison ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The sincere friends of this world are as ship lights in the stormiest of nights. - <strong>Giotto ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
