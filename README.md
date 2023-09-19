@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The sincere friends of this world are as ship lights in the stormiest of nights. - <strong>Giotto ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The attempt to combine wisdom and power has only rarely been successful and then only for a short while. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
