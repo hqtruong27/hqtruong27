@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The attempt to combine wisdom and power has only rarely been successful and then only for a short while. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whoever doesn't flare up at someone who's angry wins a battle hard to win. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
