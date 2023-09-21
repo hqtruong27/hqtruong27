@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whoever doesn't flare up at someone who's angry wins a battle hard to win. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We never live; we are always in the expectation of living. - <strong>Voltaire ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
