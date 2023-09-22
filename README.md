@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We never live; we are always in the expectation of living. - <strong>Voltaire ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Better to have loved and lost, than to have never loved at all. - <strong>Augustine of Hippo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
