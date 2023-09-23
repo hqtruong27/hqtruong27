@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Better to have loved and lost, than to have never loved at all. - <strong>Augustine of Hippo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better. - <strong>Plutarch ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
