@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better. - <strong>Plutarch ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. - <strong>George Bernard Shaw ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
