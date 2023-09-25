@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing. - <strong>George Bernard Shaw ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
