@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>People are so constituted that everybody would rather undertake what they see others do, whether they have an aptitude for it or not. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We have committed the Golden Rule to memory; let us now commit it to life. - <strong>Edwin Markham ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
