@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We have committed the Golden Rule to memory; let us now commit it to life. - <strong>Edwin Markham ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You're not obligated to win. You're obligated to keep trying to do the best you can every day. - <strong>Marian Wright Edelman ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
