@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You're not obligated to win. You're obligated to keep trying to do the best you can every day. - <strong>Marian Wright Edelman ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If the stars should appear but one night every thousand years how man would marvel and adore. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
