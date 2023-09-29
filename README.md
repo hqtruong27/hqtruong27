@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If the stars should appear but one night every thousand years how man would marvel and adore. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable. - <strong>Kathleen Norris ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
