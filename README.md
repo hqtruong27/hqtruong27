@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All that is necessary is to accept the impossible, do without the indispensable, and bear the intolerable. - <strong>Kathleen Norris ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Happiness does not come from having much, but from being attached to little. - <strong>Cheng Yen ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
