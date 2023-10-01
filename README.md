@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Happiness does not come from having much, but from being attached to little. - <strong>Cheng Yen ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>On every thorn, delightful wisdom grows, in every rill a sweet instruction flows. - <strong>Edward Young ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
