@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>On every thorn, delightful wisdom grows, in every rill a sweet instruction flows. - <strong>Edward Young ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You cannot be lonely if you like the person you're alone with. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
