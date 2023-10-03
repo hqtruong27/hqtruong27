@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You cannot be lonely if you like the person you're alone with. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Only two things are infinite, the universe and human stupidity, and I'm not sure about the former. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
