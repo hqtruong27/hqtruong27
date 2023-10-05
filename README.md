@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek. - <strong>Barack Obama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
