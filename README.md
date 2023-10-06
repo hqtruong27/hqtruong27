@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek. - <strong>Barack Obama ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Only I can change my life. No one can do it for me. - <strong>Carol Burnett ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
