@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Only I can change my life. No one can do it for me. - <strong>Carol Burnett ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A wise man will make more opportunities than he finds. - <strong>Francis Bacon ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
