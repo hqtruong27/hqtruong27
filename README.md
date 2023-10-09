@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I can't imagine a person becoming a success who doesn't give this game of life everything he's got. - <strong>Walter Cronkite ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
