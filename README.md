@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never put off till tomorrow what you can do today. - <strong>Thomas Jefferson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you spend too much time thinking about a thing, you'll never get it done. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
