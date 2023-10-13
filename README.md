@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The path to success is to take massive, determined action. - <strong>Tony Robbins ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The ballot is stronger than the bullet. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
