@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The ballot is stronger than the bullet. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A rolling stone gathers no moss. - <strong>Publilius Syrus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
