@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A rolling stone gathers no moss. - <strong>Publilius Syrus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Remember that the most valuable antiques are dear old friends. - <strong>H. Jackson Brown Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
