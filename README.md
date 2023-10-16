@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Remember that the most valuable antiques are dear old friends. - <strong>H. Jackson Brown Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Knowing others is wisdom, knowing yourself is Enlightenment. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
