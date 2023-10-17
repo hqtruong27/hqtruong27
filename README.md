@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Knowing others is wisdom, knowing yourself is Enlightenment. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
