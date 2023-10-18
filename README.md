@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is nothing permanent except change. - <strong>Heraclitus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
