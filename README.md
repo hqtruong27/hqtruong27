@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Only through our connectedness to others can we really know and enhance the self. And only through working on the self can we begin to enhance our connectedness to others. - <strong>Harriet Lerner ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I will prepare and some day my chance will come. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
