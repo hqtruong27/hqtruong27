@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No work or love will flourish out of guilt, fear, or hollowness of heart, just as no valid plans for the future can be made by those who have no capacity for living now. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I can't imagine a person becoming a success who doesn't give this game of life everything he's got. - <strong>Walter Cronkite ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
