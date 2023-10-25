@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Friendship is Love without his wings! - <strong>Lord Byron ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Everything that happens as it should, and if you observe carefully, you will find this to be so. - <strong>Marcus Aurelius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
