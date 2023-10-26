@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Everything that happens as it should, and if you observe carefully, you will find this to be so. - <strong>Marcus Aurelius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The mark of your ignorance is the depth of your belief in injustice and tragedy. What the caterpillar calls the end of the world, the Master calls the butterfly. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
