@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The wisdom of the wise, and the experience of ages, may be preserved by quotation. - <strong>Isaac D'Israeli ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Anybody can make history. Only a great man can write it. - <strong>Oscar Wilde ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
