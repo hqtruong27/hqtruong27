@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Anybody can make history. Only a great man can write it. - <strong>Oscar Wilde ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children. - <strong>Kahlil Gibran ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
