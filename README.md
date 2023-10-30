@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Keep me away from the wisdom which does not cry, the philosophy which does not laugh and the greatness which does not bow before children. - <strong>Kahlil Gibran ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
