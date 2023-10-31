@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The most important thing is transforming our minds, for a new way of thinking, a new outlook: we should strive to develop a new inner world. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It always seems impossible until it's done. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
