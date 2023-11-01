@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It always seems impossible until it's done. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It has become appallingly obvious that our technology has exceeded our humanity. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
