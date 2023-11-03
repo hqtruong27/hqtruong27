@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A true friend is the greatest of all blessings, and that which we take the least care of all to acquire. - <strong>François de La Rochefoucauld ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wisdom has its root in goodness, not goodness its root in wisdom. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
