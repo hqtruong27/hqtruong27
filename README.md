@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Wisdom has its root in goodness, not goodness its root in wisdom. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Know how to listen, and you will profit even from those who talk badly. - <strong>Plutarch ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
