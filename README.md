@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Know how to listen, and you will profit even from those who talk badly. - <strong>Plutarch ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone. - <strong>John Burroughs ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
