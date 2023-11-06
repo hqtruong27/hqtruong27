@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone. - <strong>John Burroughs ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Arriving at one point is the starting point to another. - <strong>John Dewey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
