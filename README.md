@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Arriving at one point is the starting point to another. - <strong>John Dewey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We know the truth, not only by the reason, but by the heart. - <strong>Blaise Pascal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
