@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We know the truth, not only by the reason, but by the heart. - <strong>Blaise Pascal ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is not one big cosmic meaning for all, there is only the meaning we each give to our life. - <strong>Anaïs Nin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
