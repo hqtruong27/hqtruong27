@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is not one big cosmic meaning for all, there is only the meaning we each give to our life. - <strong>Anaïs Nin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The greatest danger for most of us is not that our aim is too high, and we miss it, but that it is too low, and we reach it. - <strong>Michelangelo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
