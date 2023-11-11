@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity. - <strong>John F. Kennedy ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The doors of wisdom are never shut. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
