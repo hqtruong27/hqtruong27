@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The doors of wisdom are never shut. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing. - <strong>Margaret Thatcher ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
