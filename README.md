@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you set out to be liked, you would be prepared to compromise on anything at any time, and you would achieve nothing. - <strong>Margaret Thatcher ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The World is my country, all mankind are my brethren, and to do good is my religion. - <strong>Thomas Paine ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
