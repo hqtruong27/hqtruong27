@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The World is my country, all mankind are my brethren, and to do good is my religion. - <strong>Thomas Paine ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't look back. Something might be gaining on you. - <strong>Satchel Paige ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
