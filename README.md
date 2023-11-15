@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't look back. Something might be gaining on you. - <strong>Satchel Paige ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you correct your mind, the rest of your life will fall into place. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
