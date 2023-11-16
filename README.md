@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you correct your mind, the rest of your life will fall into place. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you love someone, set them free. If they come back, they're yours; if they don't, they never were. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
