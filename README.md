@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you love someone, set them free. If they come back, they're yours; if they don't, they never were. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate. - <strong>Albert Schweitzer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
