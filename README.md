@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Constant kindness can accomplish much. As the sun makes ice melt, kindness causes misunderstanding, mistrust, and hostility to evaporate. - <strong>Albert Schweitzer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>And the attitude of faith is the very opposite of clinging to belief, of holding on. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
