@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>And the attitude of faith is the very opposite of clinging to belief, of holding on. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>From error to error one discovers the entire truth. - <strong>Sigmund Freud ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
