@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>From error to error one discovers the entire truth. - <strong>Sigmund Freud ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
