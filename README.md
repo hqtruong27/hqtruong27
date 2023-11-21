@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance. - <strong>Thomas Carlyle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
