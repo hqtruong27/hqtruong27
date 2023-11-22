@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Instead of saying that man is the creature of circumstance, it would be nearer the mark to say that man is the architect of circumstance. - <strong>Thomas Carlyle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Learn from yesterday, live for today, hope for tomorrow. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
