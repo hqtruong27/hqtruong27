@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We must be as courteous to a man as we are to a picture, which we are willing to give the advantage of a good light. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Imagination is the highest kite one can fly. - <strong>Lauren Bacall ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
