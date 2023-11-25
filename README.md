@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Imagination is the highest kite one can fly. - <strong>Lauren Bacall ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The greatest healing therapy is friendship and love. - <strong>Hubert Humphrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
