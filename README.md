@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The greatest healing therapy is friendship and love. - <strong>Hubert Humphrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To be happy is to be able to become aware of oneself without fright. - <strong>Walter Benjamin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
