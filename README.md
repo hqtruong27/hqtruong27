@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To be happy is to be able to become aware of oneself without fright. - <strong>Walter Benjamin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The hours of folly are measured by the clock; but of wisdom, no clock can measure. - <strong>William Blake ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
