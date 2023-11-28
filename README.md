@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The hours of folly are measured by the clock; but of wisdom, no clock can measure. - <strong>William Blake ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I'm not interested in age. People who tell me their age are silly. You're as old as you feel. - <strong>Elizabeth Arden ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
