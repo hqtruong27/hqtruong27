@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'm not interested in age. People who tell me their age are silly. You're as old as you feel. - <strong>Elizabeth Arden ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>How wonderful it is that nobody need wait a single moment before starting to improve the world. - <strong>Anne Frank ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
