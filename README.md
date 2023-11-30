@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>How wonderful it is that nobody need wait a single moment before starting to improve the world. - <strong>Anne Frank ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The best thing in every noble dream is the dreamer... - <strong>Moncure D. Conway ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
