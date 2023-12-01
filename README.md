@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The best thing in every noble dream is the dreamer... - <strong>Moncure D. Conway ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>And as we let our own light shine, we unconsciously give other people permission to do the same. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
