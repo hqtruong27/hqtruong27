@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>And as we let our own light shine, we unconsciously give other people permission to do the same. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do more than dream: work. - <strong>William Arthur Ward ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
