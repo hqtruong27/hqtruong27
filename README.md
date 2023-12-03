@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do more than dream: work. - <strong>William Arthur Ward ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sports do not build character. They reveal it. - <strong>Heywood Broun ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
