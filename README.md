@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sports do not build character. They reveal it. - <strong>Heywood Broun ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Both formerly and now, it is only suffering that I describe, and the cessation of suffering. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
