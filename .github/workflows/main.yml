@@ -27,7 +27,6 @@ jobs:
           echo URI_BANDORI=${{ secrets.URI_BANDORI }} >> .env
           echo URI_BANDORI_IMAGE=${{ secrets.URI_BANDORI_IMAGE }} >> .env
           echo URI_LOVE_LIVE=${{ secrets.URI_LOVE_LIVE }} >> .env
-          cat .env
       - name: CRAWL COVER PHOTO 🌪️🌪️🌪️
         # run script
         run: npm run start
