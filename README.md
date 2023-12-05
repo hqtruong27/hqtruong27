@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship. - <strong>Johann Kaspar Lavater ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Of all possessions a friend is the most precious. - <strong>Herodotus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
