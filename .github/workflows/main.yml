@@ -16,7 +16,7 @@ jobs:
       - uses: actions/setup-node@v1
         # Create env nodejs
         with:
-          node-version: v14.17.6
+          node-version: latest
       - run: npm ci
       - name: CREATE .ENV FILE 🕐🕑🕒
         run: |
