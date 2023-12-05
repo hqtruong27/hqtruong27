@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Genius is one per cent inspiration, ninety-nine per cent perspiration. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Important principles may, and must, be inflexible. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
