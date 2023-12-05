@@ -210,6 +210,7 @@ const crawlImage = async () => {
       await page.click(BANDORI.VIEW_TYPE);
       await page.click(BANDORI.FILTER);
       await page.click(BANDORI.REMOVE_ALL_FILTER_STAR);
+      await page.waitForSelector(BANDORI.FILTER_4_STAR); // Wait for the "4-star" filter to be available
       await page.click(BANDORI.FILTER_4_STAR);
 
       await page.waitForSelector(BANDORI.SHOW_MORE_CARD);
@@ -228,7 +229,10 @@ const crawlImage = async () => {
       console.log('----------------------------------------------------\n');
 
       await page.waitForNavigation({ waitUntil: 'networkidle2' });
-      await page.click(BANDORI.TRANSPARENT.TAB, { timeout: 2000 });
+
+      // Switch to the transparent tab
+      const transparentTab = await page.waitForSelector(BANDORI.TRANSPARENT.TAB, { timeout: 2000 });
+      await transparentTab.click();
 
       await _base.delay(500); // Wait for the transparent block to load
 
