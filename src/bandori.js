@@ -268,4 +268,4 @@ const crawlImage = async () => {
   return !recursive;
 };
 
-module.exports = crawlImage
+module.exports = crawl
