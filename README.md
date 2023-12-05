@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Both formerly and now, it is only suffering that I describe, and the cessation of suffering. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be as you wish to seem. - <strong>Socrates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
