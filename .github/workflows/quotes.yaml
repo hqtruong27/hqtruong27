@@ -12,11 +12,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         # Create env nodejs
         with:
-          node-version: v14.17.6
+          node-version: 'latest'
       - run: npm ci
       - name: GET RANDOM QUOTES
         # run script
