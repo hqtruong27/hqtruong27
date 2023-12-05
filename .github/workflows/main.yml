@@ -15,8 +15,6 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v1
         # Create env nodejs
-        with:
-          node-version: latest
       - run: npm ci
       - name: CREATE .ENV FILE 🕐🕑🕒
         run: |
