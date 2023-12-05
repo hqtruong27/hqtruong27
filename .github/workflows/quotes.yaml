@@ -6,7 +6,9 @@ on:
   # Run at 0:0h every day
   schedule:
     - cron: "0 0 * * *"
-
+  push:
+    branches:
+      - master
 jobs:
   build:
     runs-on: ubuntu-latest
