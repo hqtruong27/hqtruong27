@@ -1,6 +1,9 @@
 name: main
 
 on:
+  push:
+    branches:
+      - master
   # Enable manual run from Github interface
   workflow_dispatch:
   # Run every 2 hours
