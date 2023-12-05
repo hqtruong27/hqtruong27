@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Of all possessions a friend is the most precious. - <strong>Herodotus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Genius is one per cent inspiration, ninety-nine per cent perspiration. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
