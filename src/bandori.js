@@ -189,4 +189,79 @@ const crawl = async () => {
     return !recursive
 }
 
-module.exports = crawl
+const crawlImage = async () => {
+  const browser = await puppeteer.launch({
+    headless: true,
+    defaultViewport: null,
+    args: ['--no-sandbox']
+  });
+
+  let duration = 1;
+  let recursive = true;
+
+  while (recursive) {
+    try {
+      const page = await browser.newPage();
+      console.log('START:.....\n');
+
+      await page.goto(process.env.URI_BANDORI);
+
+      await page.click(BANDORI.FIST_POPUP);
+      await page.click(BANDORI.VIEW_TYPE);
+      await page.click(BANDORI.FILTER);
+      await page.click(BANDORI.REMOVE_ALL_FILTER_STAR);
+      await page.click(BANDORI.FILTER_4_STAR);
+
+      await page.waitForSelector(BANDORI.SHOW_MORE_CARD);
+      await _base.scrollToBottom(page, 3);
+
+      const cards = await page.$$(BANDORI.BLOCK_CARD);
+      const totalCards = Math.min(cards.length, 21);
+      console.log(`\nTotal cards: ${totalCards} \n`);
+
+      const chooseRandomCard = _base.getRandomInt(1, totalCards);
+      const card = cards[chooseRandomCard - 1];
+      await card.click();
+
+      console.log('----------------------------------------------------');
+      console.log(`Card number ${chooseRandomCard} has been selected 👆`);
+      console.log('----------------------------------------------------\n');
+
+      await page.waitForNavigation({ waitUntil: 'networkidle2' });
+      await page.click(BANDORI.TRANSPARENT.TAB, { timeout: 2000 });
+
+      await _base.delay(500); // Wait for the transparent block to load
+
+      const links = await page.$$(BANDORI.TRANSPARENT.BLOCK_IMG);
+      const randomClickTransparentImg = _base.getRandomInt(1, links.length);
+      console.log(`Transparent image ${randomClickTransparentImg} clicked 👆 \n`);
+
+      const link = links[randomClickTransparentImg - 1];
+      await link.click();
+
+      const popUpImage = await page.waitForSelector(BANDORI.TRANSPARENT.POPUP_IMG.replace('{0}', randomClickTransparentImg));
+      const img = await popUpImage.evaluate((e) => e.querySelector('img').src);
+      const alt = await popUpImage.evaluate((e) => e.querySelector('img').alt);
+
+      console.log('------------------------------------------------');
+      console.log(`Who 🤔❓: -> ${alt} \n`);
+      console.log('------------------------------------------------');
+
+      await saveImage(img, imgDic);
+
+      console.log('END: Crawl image success ✅✅....\n');
+      recursive = false;
+      await browser.close();
+    } catch (error) {
+      await browser.close();
+      console.log('❌ ' + (error.message || error) + '\n');
+      console.log(`Retry ${duration} times.... ⚠️`);
+      duration += 1;
+      recursive = duration <= DURATION;
+    }
+  }
+
+  return !recursive;
+};
+
+module.exports = crawlImage
