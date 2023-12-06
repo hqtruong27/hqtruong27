@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Important principles may, and must, be inflexible. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
