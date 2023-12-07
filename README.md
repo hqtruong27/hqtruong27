@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As an elephant in the battlefield withstands arrows shot from bows all around, even so shall I endure abuse. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Bad times have a scientific value. These are occasions a good learner would not miss. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
