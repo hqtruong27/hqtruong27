@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Bad times have a scientific value. These are occasions a good learner would not miss. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you do not change direction, you may end up where you are heading. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
