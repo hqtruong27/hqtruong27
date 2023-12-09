@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you do not change direction, you may end up where you are heading. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is fatal to enter any war without the will to win it. - <strong>Douglas MacArthur ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
