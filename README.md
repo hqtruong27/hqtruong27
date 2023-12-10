@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is fatal to enter any war without the will to win it. - <strong>Douglas MacArthur ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Believe deep down in your heart that you're destined to do great things. - <strong>Joe Paterno ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
