@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No day in which you learn something is a complete loss. - <strong>David Eddings ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
