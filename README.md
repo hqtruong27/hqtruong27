@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No day in which you learn something is a complete loss. - <strong>David Eddings ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Anything you really want, you can attain, if you really go after it. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
