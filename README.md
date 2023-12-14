@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Anything you really want, you can attain, if you really go after it. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>With pride, there are many curses. With humility, there come many blessings. - <strong>Ezra Taft Benson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
