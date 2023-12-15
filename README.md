@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>With pride, there are many curses. With humility, there come many blessings. - <strong>Ezra Taft Benson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
