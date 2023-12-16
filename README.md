@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wisdom cannot come by railroad or automobile or airplane or be hurried up by telegraph or telephone. - <strong>John Burroughs ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
