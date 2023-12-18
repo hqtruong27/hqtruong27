@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Opportunity does not knock, it presents itself when you beat down the door. - <strong>Kyle Chandler ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It requires wisdom to understand wisdom: the music is nothing if the audience is deaf. - <strong>Walter Lippmann ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
