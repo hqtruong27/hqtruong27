@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It requires wisdom to understand wisdom: the music is nothing if the audience is deaf. - <strong>Walter Lippmann ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief. - <strong>Cicero ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
