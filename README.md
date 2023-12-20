@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Friendship improves happiness and abates misery, by the doubling of our joy and the dividing of our grief. - <strong>Cicero ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
