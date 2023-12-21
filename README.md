@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Should someone do good, let them do it again and again. They should develop this habit, for the accumulation of goodness brings joy. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
