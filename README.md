@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There are many ways of going forward, but only one way of standing still. - <strong>Franklin D. Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
