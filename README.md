@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There are many ways of going forward, but only one way of standing still. - <strong>Franklin D. Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No yesterdays are ever wasted for those who give themselves to today. - <strong>Brendan Behan ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
