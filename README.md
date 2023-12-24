@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No yesterdays are ever wasted for those who give themselves to today. - <strong>Brendan Behan ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently. - <strong>William Arthur Ward ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
