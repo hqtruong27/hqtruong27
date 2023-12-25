@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently. - <strong>William Arthur Ward ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life is like a sewer. What you get out of it depends on what you put into it. - <strong>Tom Lehrer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
