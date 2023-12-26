@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life is like a sewer. What you get out of it depends on what you put into it. - <strong>Tom Lehrer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Opportunity does not knock, it presents itself when you beat down the door. - <strong>Kyle Chandler ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
