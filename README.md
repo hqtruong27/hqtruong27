@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Opportunity does not knock, it presents itself when you beat down the door. - <strong>Kyle Chandler ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Joy is what happens to us when we allow ourselves to recognize how good things really are. - <strong>Marianne Williamson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
