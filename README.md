@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Joy is what happens to us when we allow ourselves to recognize how good things really are. - <strong>Marianne Williamson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best. - <strong>Margaret Thatcher ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
