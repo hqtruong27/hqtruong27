@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To wear your heart on your sleeve isn't a very good plan; you should wear it inside, where it functions best. - <strong>Margaret Thatcher ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
