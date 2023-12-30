@@ -1,4 +1,4 @@
-<img style="float: right;display:inline" width="360" align="right" alt="Truong Hoang" src="./image/1703929034464_cover_photo.png" />
+<img style="float: right;display:inline" width="360" align="right" alt="Truong Hoang" src="./image/1703924021344_cover_photo.png" />
 
 ### Hi there!! 👋
 
@@ -22,13 +22,13 @@
 </p>
 
 <blockquote>
-  <p><em>Kind words can be short and easy to speak, but their echoes are truly endless. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots. - <strong>H. Jackson Brown Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
   <span>I'm <strong>Truong</strong>!</span>
 <ul>
-  <li>🔭 <em> I’m currently working on c# and JavaScript</li>
+  <li>🔭 <em> I’m currently working on <code>C#</code> and <code>JavaScript</code></em></li>
 <!--   <li>🌱 <em> I'm currently learning <strong><a href="https://nodejs.org/">Nodejs</a></strong> and improving <code>Specialized English</code></em>
   </li> -->
    <li>---------------------------------------------------------------------------</li>
@@ -53,9 +53,9 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtruong27
   <li>Experienced with:<br>
     <!-- primary -->
     <img alt="c#"
-      src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=178600&message=C%23%2010&color=178600&style=flat-square" />
-    <img alt=".NET5"
-      src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=.NET%206&color=1a98d8&style=flat-square" />
+      src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=c-sharp&logoColor=178600&message=C%23%2012&color=178600&style=flat-square" />
+    <img alt=".NET8"
+      src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=%2ENET&logoColor=1a98d8&message=.NET%208&color=1a98d8&style=flat-square" />
     <img alt="javaScript"
       src="https://img.shields.io/badge/-javaScript-d0b500?style=flat-square&logo=javascript&logoColor=fff" />
     <img alt="nodejs"
