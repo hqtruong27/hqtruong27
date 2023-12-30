@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>'As I am, so are they; as they are, so am I.' Comparing others with oneself, do not kill nor cause others to kill. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Kind words can be short and easy to speak, but their echoes are truly endless. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
