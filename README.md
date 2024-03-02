@@ -31,8 +31,8 @@
   <li>🔭 <em> I’m currently working on <code>C#</code> and <code>JavaScript</code></em></li>
 <!--   <li>🌱 <em> I'm currently learning <strong><a href="https://nodejs.org/">Nodejs</a></strong> and improving <code>Specialized English</code></em>
   </li> -->
-   <li>---------------------------------------------------------------------------</li>
-  <li>🌸 <em>This image will be changed every 2 hours!（づ￣3￣）づ╭❤️～></em></li>
+<!--    <li>---------------------------------------------------------------------------</li>
+  <li>🌸 <em>This image will be changed every 2 hours!（づ￣3￣）づ╭❤️～></em></li> -->
 </ul>
 
 <h4>📚 Currently reading</h4>
