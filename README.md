@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Acquaintances we meet, enjoy, and can easily leave behind; but friendship grows deep roots. - <strong>H. Jackson Brown Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Through perseverance many people win success out of what seemed destined to be certain failure. - <strong>Benjamin Disraeli ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
