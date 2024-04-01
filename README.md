@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Through perseverance many people win success out of what seemed destined to be certain failure. - <strong>Benjamin Disraeli ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Half the lies they tell about me aren't true. - <strong>Yogi Berra ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
