@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. - <strong>Marie Curie ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur. - <strong>Vince Lombardi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
