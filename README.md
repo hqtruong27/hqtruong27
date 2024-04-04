@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The spirit, the will to win, and the will to excel, are the things that endure. These qualities are so much more important than the events that occur. - <strong>Vince Lombardi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All wisdom does not reside in Delhi. - <strong>P. Chidambaram ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
