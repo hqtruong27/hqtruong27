@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A good hockey player plays where the puck is. A great hockey player plays where the puck is going to be. - <strong>Wayne Gretzky ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love is a friendship set to music. - <strong>Joseph Campbell ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
