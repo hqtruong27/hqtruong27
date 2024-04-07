@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love is a friendship set to music. - <strong>Joseph Campbell ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The world has the habit of making room for the man whose actions show that he knows where he is going. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
