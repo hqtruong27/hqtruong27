@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The world has the habit of making room for the man whose actions show that he knows where he is going. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Trust your hunches. They're usually based on facts filed away just below the conscious level. - <strong>Joyce Brothers ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
