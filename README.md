@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Trust your hunches. They're usually based on facts filed away just below the conscious level. - <strong>Joyce Brothers ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it. - <strong>Hugh Jackman ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
