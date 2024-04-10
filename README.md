@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The word philosophy sounds high-minded, but it simply means the love of wisdom. If you love something, you don't just read about it; you hug it, you mess with it, you play with it, you argue with it. - <strong>Hugh Jackman ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
