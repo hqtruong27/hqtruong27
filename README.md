@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
