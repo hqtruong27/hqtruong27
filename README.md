@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I am a firm believer in the people. If given the truth, they can be depended upon to meet any national crisis. The great point is to bring them the real facts. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity. - <strong>Billie Jean King ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
