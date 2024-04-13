@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Tennis is a perfect combination of violent action taking place in an atmosphere of total tranquillity. - <strong>Billie Jean King ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Treat people as if they were what they ought to be, and you help them to become what they are capable of being. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
