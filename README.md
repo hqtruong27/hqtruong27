@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Treat people as if they were what they ought to be, and you help them to become what they are capable of being. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Things that were hard to bear are sweet to remember. - <strong>Seneca the Younger ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
