@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Things that were hard to bear are sweet to remember. - <strong>Seneca the Younger ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Friendship always benefits; love sometimes injures. - <strong>Seneca the Younger ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
