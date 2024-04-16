@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Friendship always benefits; love sometimes injures. - <strong>Seneca the Younger ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A leader is one who knows the way, goes the way, and shows the way. - <strong>John C. Maxwell ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
