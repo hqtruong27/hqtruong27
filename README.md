@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A leader is one who knows the way, goes the way, and shows the way. - <strong>John C. Maxwell ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action. - <strong>Jawaharlal Nehru ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
