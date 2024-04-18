@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action. - <strong>Jawaharlal Nehru ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never reach out your hand unless you're willing to extend an arm. - <strong>Pope Paul VI ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
