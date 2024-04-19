@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never reach out your hand unless you're willing to extend an arm. - <strong>Pope Paul VI ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Technology has to be invented or adopted. - <strong>Jared Diamond ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
