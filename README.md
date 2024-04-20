@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Technology has to be invented or adopted. - <strong>Jared Diamond ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Hope arouses, as nothing else can arouse, a passion for the possible. - <strong>William Sloane Coffin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
