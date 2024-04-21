@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Hope arouses, as nothing else can arouse, a passion for the possible. - <strong>William Sloane Coffin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A long habit of not thinking a thing wrong gives it a superficial appearance of being right. - <strong>Thomas Paine ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
