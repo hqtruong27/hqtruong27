@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A long habit of not thinking a thing wrong gives it a superficial appearance of being right. - <strong>Thomas Paine ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
