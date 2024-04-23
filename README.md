@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A youth, when at home, should be filial and, abroad, respectful to his elders. He should be earnest and truthful. He should overflow in love to all and cultivate the friendship of the good. When he has time and opportunity, after the performance of these things, he should employ them in polite studies. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre. - <strong>Uta Hagen ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
