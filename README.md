@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre. - <strong>Uta Hagen ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who knows, does not speak. He who speaks, does not know. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
