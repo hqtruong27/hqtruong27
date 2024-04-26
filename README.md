@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who knows, does not speak. He who speaks, does not know. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Everything that happens as it should, and if you observe carefully, you will find this to be so. - <strong>Marcus Aurelius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
