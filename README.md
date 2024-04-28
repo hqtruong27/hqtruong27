@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When the solution is simple, God is answering. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Reality is merely an illusion, albeit a very persistent one. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
