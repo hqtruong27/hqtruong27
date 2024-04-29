@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Reality is merely an illusion, albeit a very persistent one. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today. - <strong>Tryon Edwards ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
