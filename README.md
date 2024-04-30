@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He that never changes his opinions, never corrects his mistakes, and will never be wiser on the morrow than he is today. - <strong>Tryon Edwards ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Half the lies they tell about me aren't true. - <strong>Yogi Berra ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
