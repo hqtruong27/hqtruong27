@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Half the lies they tell about me aren't true. - <strong>Yogi Berra ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Not engaging in ignorance is wisdom. - <strong>Bodhidharma ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
