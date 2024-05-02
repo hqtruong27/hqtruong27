@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Not engaging in ignorance is wisdom. - <strong>Bodhidharma ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Work for something because it is good, not just because it stands a chance to succeed. - <strong>Václav Havel ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
