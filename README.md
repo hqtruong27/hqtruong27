@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Work for something because it is good, not just because it stands a chance to succeed. - <strong>Václav Havel ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Things turn out best for those who make the best of the way things turn out. - <strong>Jack Buck ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
