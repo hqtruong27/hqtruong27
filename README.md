@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Things turn out best for those who make the best of the way things turn out. - <strong>Jack Buck ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom. - <strong>Marcel Proust ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
