@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let us be grateful to people who make us happy; they are the charming gardeners who make our souls blossom. - <strong>Marcel Proust ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action. - <strong>Jawaharlal Nehru ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
