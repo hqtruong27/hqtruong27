@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A leader or a man of action in a crisis almost always acts subconsciously and then thinks of the reasons for his action. - <strong>Jawaharlal Nehru ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Take no thought of who is right or wrong or who is better than. Be not for or against. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
