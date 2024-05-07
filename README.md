@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Take no thought of who is right or wrong or who is better than. Be not for or against. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We need never be ashamed of our tears. - <strong>Charles Dickens ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
