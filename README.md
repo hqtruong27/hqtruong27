@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We need never be ashamed of our tears. - <strong>Charles Dickens ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Every man is a volume if you know how to read him. - <strong>William Ellery Channing ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
