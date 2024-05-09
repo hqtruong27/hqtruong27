@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Every man is a volume if you know how to read him. - <strong>William Ellery Channing ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Write your plans in pencil and give God the eraser. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
