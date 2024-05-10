@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Write your plans in pencil and give God the eraser. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What is necessary to change a person is to change his awareness of himself. - <strong>Abraham Maslow ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
