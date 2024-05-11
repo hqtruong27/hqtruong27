@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What is necessary to change a person is to change his awareness of himself. - <strong>Abraham Maslow ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You might well remember that nothing can bring you success but yourself. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
