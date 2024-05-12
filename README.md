@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You might well remember that nothing can bring you success but yourself. - <strong>Napoleon Hill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All our dreams can come true, if we have the courage to pursue them. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
