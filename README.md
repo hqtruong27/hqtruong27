@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All our dreams can come true, if we have the courage to pursue them. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The greatest mistake you can make in life is to be continually fearing you will make one. - <strong>Elbert Hubbard ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
