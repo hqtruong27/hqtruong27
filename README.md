@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The awareness of our own strength makes us modest. - <strong>Paul Cézanne ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We never live; we are always in the expectation of living. - <strong>Voltaire ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
