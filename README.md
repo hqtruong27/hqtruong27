@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We never live; we are always in the expectation of living. - <strong>Voltaire ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We cannot do everything at once, but we can do something at once. - <strong>Calvin Coolidge ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
