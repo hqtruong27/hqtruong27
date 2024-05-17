@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We cannot do everything at once, but we can do something at once. - <strong>Calvin Coolidge ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The greatest part of our happiness depends on our dispositions, not our circumstances. - <strong>Martha Washington ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
