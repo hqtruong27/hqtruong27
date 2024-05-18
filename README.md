@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The greatest part of our happiness depends on our dispositions, not our circumstances. - <strong>Martha Washington ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No act of kindness, no matter how small, is ever wasted. - <strong>Aesop ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
