@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No act of kindness, no matter how small, is ever wasted. - <strong>Aesop ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>True friendship ought never to conceal what it thinks. - <strong>Jerome ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
