@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>True friendship ought never to conceal what it thinks. - <strong>Jerome ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The differences between friends cannot but reinforce their friendship. - <strong>Mao Zedong ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
