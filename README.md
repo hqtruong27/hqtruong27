@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The differences between friends cannot but reinforce their friendship. - <strong>Mao Zedong ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sometimes our fate resembles a fruit tree in winter. Who would think that those branches would turn green again and blossom, but we hope it, we know it. - <strong>Johann Wolfgang von Goethe ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
