@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All great achievements require time. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It's supposed to be automatic, but actually you have to push this button. - <strong>John Brunner ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
