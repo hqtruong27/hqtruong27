@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It's supposed to be automatic, but actually you have to push this button. - <strong>John Brunner ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I can't change the direction of the wind, but I can adjust my sails to always reach my destination. - <strong>Jimmy Dean ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
