@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I can't change the direction of the wind, but I can adjust my sails to always reach my destination. - <strong>Jimmy Dean ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else? - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
