@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The thing that is disliked by me is also disliked by others. Since I dislike this thing, how can I inflict it on someone else? - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
