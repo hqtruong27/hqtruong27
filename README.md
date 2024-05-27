@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What we think determines what happens to us, so if we want to change our lives, we need to stretch our minds. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is the mark of an educated mind to be able to entertain a thought without accepting it. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
