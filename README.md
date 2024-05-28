@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is the mark of an educated mind to be able to entertain a thought without accepting it. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The superior man acts before he speaks, and afterwards speaks according to his action. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
