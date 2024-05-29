@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The superior man acts before he speaks, and afterwards speaks according to his action. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do. - <strong>Kahlil Gibran ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
