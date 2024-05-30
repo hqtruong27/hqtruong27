@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to do. - <strong>Kahlil Gibran ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What we see depends mainly on what we look for. - <strong>John Lubbock ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
