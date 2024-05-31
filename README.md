@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What we see depends mainly on what we look for. - <strong>John Lubbock ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there? - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
