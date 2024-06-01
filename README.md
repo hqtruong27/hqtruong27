@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Can miles truly separate you from friends... If you want to be with someone you love, aren't you already there? - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is not a lack of love, but a lack of friendship that makes unhappy marriages. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
