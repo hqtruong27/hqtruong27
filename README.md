@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is not a lack of love, but a lack of friendship that makes unhappy marriages. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Genius unrefined resembles a flash of lightning, but wisdom is like the sun. - <strong>Franz Grillparzer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
