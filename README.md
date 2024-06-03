@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Genius unrefined resembles a flash of lightning, but wisdom is like the sun. - <strong>Franz Grillparzer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Habit, if not resisted, soon becomes necessity. - <strong>Augustine of Hippo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
