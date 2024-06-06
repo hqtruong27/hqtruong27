@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Pick battles big enough to matter, small enough to win. - <strong>Jonathan Kozol ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No valid plans for the future can be made by those who have no capacity for living now. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
