@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No valid plans for the future can be made by those who have no capacity for living now. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We know the truth, not only by the reason, but by the heart. - <strong>Blaise Pascal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
