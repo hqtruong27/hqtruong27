@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We know the truth, not only by the reason, but by the heart. - <strong>Blaise Pascal ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!' - <strong>Bill Bradley ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
