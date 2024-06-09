@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Imagination allows us to escape the predictable. It enables us to reply to the common wisdom that we cannot soar by saying, 'Just watch!' - <strong>Bill Bradley ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation. - <strong>George Washington ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
