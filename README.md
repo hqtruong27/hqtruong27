@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity, before it is entitled to the appellation. - <strong>George Washington ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Time you enjoy wasting, was not wasted. - <strong>John Lennon ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
