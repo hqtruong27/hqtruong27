@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Time you enjoy wasting, was not wasted. - <strong>John Lennon ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time. - <strong>Leonardo da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
