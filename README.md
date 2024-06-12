@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time. - <strong>Leonardo da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Reason and free inquiry are the only effectual agents against error. - <strong>Thomas Jefferson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
