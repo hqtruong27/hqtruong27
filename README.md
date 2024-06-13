@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Reason and free inquiry are the only effectual agents against error. - <strong>Thomas Jefferson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them. - <strong>Sophocles ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
