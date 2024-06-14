@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Men of perverse opinion do not know the excellence of what is in their hands, till someone dash it from them. - <strong>Sophocles ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The more you like yourself, the less you are like anyone else, which makes you unique. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
