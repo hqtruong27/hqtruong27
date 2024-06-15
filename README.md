@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The more you like yourself, the less you are like anyone else, which makes you unique. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
