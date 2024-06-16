@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Kindness in words creates confidence. Kindness in thinking creates profoundness. Kindness in giving creates love. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The fewer rules a coach has, the fewer rules there are for players to break. - <strong>John Madden ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
