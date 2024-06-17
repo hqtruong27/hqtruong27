@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The fewer rules a coach has, the fewer rules there are for players to break. - <strong>John Madden ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Superior Man is aware of Righteousness, the inferior man is aware of advantage. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
