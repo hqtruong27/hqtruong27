@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Superior Man is aware of Righteousness, the inferior man is aware of advantage. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
