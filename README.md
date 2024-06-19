@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>'All conditioned things are impermanent' — when one sees this with wisdom, one turns away from suffering. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking. - <strong>Alfred Korzybski ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
