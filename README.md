@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There are two ways to slide easily through life: to believe everything or to doubt everything; both ways save us from thinking. - <strong>Alfred Korzybski ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort. - <strong>Franklin D. Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
