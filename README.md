@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Happiness is not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort. - <strong>Franklin D. Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Most folks are as happy as they make up their minds to be. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
