@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Most folks are as happy as they make up their minds to be. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You can't win unless you learn how to lose. - <strong>Kareem Abdul-Jabbar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
