@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You can't win unless you learn how to lose. - <strong>Kareem Abdul-Jabbar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If I had only known, I would have been a locksmith. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
