@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If I had only known, I would have been a locksmith. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The greatest obstacle to connecting with our joy is resentment. - <strong>Pema Chödrön ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
