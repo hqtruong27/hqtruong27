@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The greatest obstacle to connecting with our joy is resentment. - <strong>Pema Chödrön ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
