@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Much though he recites the sacred texts, but acts not accordingly, that heedless man is like a cowherd who only counts the cows of others - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The person who lives life fully, glowing with life's energy, is the person who lives a successful life. - <strong>Daisaku Ikeda ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
