@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The person who lives life fully, glowing with life's energy, is the person who lives a successful life. - <strong>Daisaku Ikeda ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you spend your whole life waiting for the storm, you'll never enjoy the sunshine. - <strong>Morris West ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
