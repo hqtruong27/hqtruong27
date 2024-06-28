@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you spend your whole life waiting for the storm, you'll never enjoy the sunshine. - <strong>Morris West ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To avoid criticism, do nothing, say nothing, be nothing. - <strong>Elbert Hubbard ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
