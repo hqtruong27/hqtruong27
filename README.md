@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To avoid criticism, do nothing, say nothing, be nothing. - <strong>Elbert Hubbard ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair. - <strong>Samuel Johnson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
