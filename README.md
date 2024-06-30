@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If a man does not make new acquaintances as he advances through life, he will soon find himself left alone. A man, sir, should keep his friendship in a constant repair. - <strong>Samuel Johnson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god. - <strong>Napoleon ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
