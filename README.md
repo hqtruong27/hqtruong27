@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To do all that one is able to do, is to be a man; to do all that one would like to do, is to be a god. - <strong>Napoleon ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Remember that the most valuable antiques are dear old friends. - <strong>H. Jackson Brown Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
