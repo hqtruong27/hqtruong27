@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Remember that the most valuable antiques are dear old friends. - <strong>H. Jackson Brown Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Everything you can imagine is real. - <strong>Pablo Picasso ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
