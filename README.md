@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Everything you can imagine is real. - <strong>Pablo Picasso ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is on our failures that we base a new and different and better success. - <strong>Havelock Ellis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
