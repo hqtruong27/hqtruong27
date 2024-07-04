@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is on our failures that we base a new and different and better success. - <strong>Havelock Ellis ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The universe is full of magical things, patiently waiting for our wits to grow sharper. - <strong>Eden Phillpotts ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
