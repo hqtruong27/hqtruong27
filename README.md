@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As we are liberated from our own fear, our presence automatically liberates others. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We must learn our limits. We are all something, but none of us are everything. - <strong>Blaise Pascal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
