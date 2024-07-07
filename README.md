@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We must learn our limits. We are all something, but none of us are everything. - <strong>Blaise Pascal ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life has no blessing like a prudent friend. - <strong>Euripides ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
