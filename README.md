@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life has no blessing like a prudent friend. - <strong>Euripides ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To change one's life, start immediately, do it flamboyantly, no exceptions. - <strong>William James ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
