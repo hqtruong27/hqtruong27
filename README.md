@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To change one's life, start immediately, do it flamboyantly, no exceptions. - <strong>William James ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Only when we are no longer afraid do we begin to live. - <strong>Dorothy Thompson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
