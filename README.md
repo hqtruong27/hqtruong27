@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Only when we are no longer afraid do we begin to live. - <strong>Dorothy Thompson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In seed time learn, in harvest teach, in winter enjoy. - <strong>William Blake ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
