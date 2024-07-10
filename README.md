@@ -37,10 +37,13 @@
 
 <h4>📚 Currently reading</h4>
 <ul>
-  <li style="color:#fff"><span style="color:#ff0000">Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e</span> <a
+  <li style="color:#fff"><span style="color:#ff0000">---</span> 
+<!--     <a
       target="_blank"
       href="https://www.amazon.co.jp/-/en/gp/product/B09S35QG1B?ref_=dbs_p_nmg_rwt_anx_cl_2&storeType=ebooks"><img
-        src="https://cdn-icons-png.flaticon.com/512/1828/1828954.png" width="14" /></a></li>
+        src="https://cdn-icons-png.flaticon.com/512/1828/1828954.png" width="14" />
+    </a> -->
+  </li>
 </ul>
 
 </p>
