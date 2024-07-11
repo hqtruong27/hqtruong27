@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In seed time learn, in harvest teach, in winter enjoy. - <strong>William Blake ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't smother each other. No one can grow in the shade. - <strong>Leo Buscaglia ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
