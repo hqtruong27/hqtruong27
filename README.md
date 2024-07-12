@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't smother each other. No one can grow in the shade. - <strong>Leo Buscaglia ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Unless one is able to live fully in the present, the future is a hoax. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
