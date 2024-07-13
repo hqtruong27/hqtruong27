@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Unless one is able to live fully in the present, the future is a hoax. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>While we stop to think, we often miss our opportunity. - <strong>Publilius Syrus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
