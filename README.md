@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>While we stop to think, we often miss our opportunity. - <strong>Publilius Syrus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One that desires to excel should endeavor in those things that are in themselves most excellent. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
