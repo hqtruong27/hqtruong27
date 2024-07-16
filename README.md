@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Silence is deep as Eternity; Speech is shallow as Time. - <strong>Thomas Carlyle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world. - <strong>Blaise Pascal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
