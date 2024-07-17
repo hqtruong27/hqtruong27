@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Imagination disposes of everything; it creates beauty, justice, and happiness, which are everything in this world. - <strong>Blaise Pascal ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I never see what has been done; I only see what remains to be done. - <strong>Marie Curie ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
