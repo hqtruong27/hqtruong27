@@ -20,7 +20,7 @@ jobs:
         with:
           node-version: 'latest'
         # Create env nodejs
-      - run: npm ci
+      - run: npm ci && npm install
       - name: CREATE .ENV FILE 🕐🕑🕒
         run: |
           touch .env
