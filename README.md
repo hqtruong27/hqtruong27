@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When times are bad is when the real entrepreneurs emerge. - <strong>Robert Kiyosaki ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Every gift from a friend is a wish for your happiness. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
