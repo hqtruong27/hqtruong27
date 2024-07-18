@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I never see what has been done; I only see what remains to be done. - <strong>Marie Curie ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let us sacrifice our today so that our children can have a better tomorrow. - <strong>A. P. J. Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
