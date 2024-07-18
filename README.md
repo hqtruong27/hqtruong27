@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The universe is full of magical things, patiently waiting for our wits to grow sharper. - <strong>Eden Phillpotts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To conquer fear is the beginning of wisdom. - <strong>Bertrand Russell ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
