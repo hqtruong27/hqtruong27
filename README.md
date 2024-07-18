@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To conquer fear is the beginning of wisdom. - <strong>Bertrand Russell ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In all chaos there is a cosmos, in all disorder a secret order. - <strong>Carl Jung ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
