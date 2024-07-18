@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let us sacrifice our today so that our children can have a better tomorrow. - <strong>A. P. J. Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When times are bad is when the real entrepreneurs emerge. - <strong>Robert Kiyosaki ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
