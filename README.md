@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Every gift from a friend is a wish for your happiness. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Much wisdom often goes with fewest words. - <strong>Sophocles ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
