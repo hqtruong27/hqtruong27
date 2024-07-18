@@ -110,8 +110,7 @@ const crawl = async () => {
     const browser = await puppeteer.launch({
         headless: true,
         defaultViewport: null,
-        args: ['--no-sandbox'],
-        ignoreDefaultArgs: [ '--disable-extensions' ]
+        args: ['--no-sandbox']
     })
 
     let duration = 1
