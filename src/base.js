@@ -47,7 +47,7 @@ const BASE = {
         let d = 0
         while (await page.evaluate(() => document.scrollingElement.scrollTop + window.innerHeight < document.scrollingElement.scrollHeight)) {
             await page.evaluate(() => { document.scrollingElement.scrollTo(0, document.body.scrollHeight) })
-            await page.waitForTimeout(50)
+            await BASE.delay(50)
             if (duration) {
                 d++
                 if (d >= duration) break
