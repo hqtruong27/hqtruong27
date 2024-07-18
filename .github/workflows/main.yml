@@ -29,7 +29,7 @@ jobs:
           echo URI_LOVE_LIVE=${{ secrets.URI_LOVE_LIVE }} >> .env
       - name: CRAWL COVER PHOTO 🌪️🌪️🌪️
         # run script
-        run: npm instal && npm run start
+        run: sudo rm -rf node_modules && npm install && npm run start
       - name: UPDATE COVER PHOTO (PUSH ON GITHUB) ⬆️⬆️
         # update code
         run: |
