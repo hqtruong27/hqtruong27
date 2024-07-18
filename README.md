@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In all chaos there is a cosmos, in all disorder a secret order. - <strong>Carl Jung ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Friendship is certainly the finest balm for the pangs of disappointed love. - <strong>Jane Austen ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
