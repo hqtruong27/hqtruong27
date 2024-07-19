@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Friendship is certainly the finest balm for the pangs of disappointed love. - <strong>Jane Austen ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you smile when no one else is around, you really mean it. - <strong>Andy Rooney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
