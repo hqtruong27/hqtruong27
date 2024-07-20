@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you smile when no one else is around, you really mean it. - <strong>Andy Rooney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All our dreams can come true, if we have the courage to pursue them. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
