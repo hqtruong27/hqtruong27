@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All our dreams can come true, if we have the courage to pursue them. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To change one's life, start immediately, do it flamboyantly, no exceptions. - <strong>William James ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
