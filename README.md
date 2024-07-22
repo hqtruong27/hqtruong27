@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To change one's life, start immediately, do it flamboyantly, no exceptions. - <strong>William James ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who knows others is wise. He who knows himself is enlightened. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
