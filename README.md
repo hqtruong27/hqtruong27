@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who knows others is wise. He who knows himself is enlightened. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care. - <strong>William C. Menninger ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
