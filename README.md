@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who is taught to live upon little owes more to his father's wisdom than he who has a great deal left him does to his father's care. - <strong>William C. Menninger ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love. - <strong>Don Miguel Ruiz ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
