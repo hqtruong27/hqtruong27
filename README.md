@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be Impeccable with Your Word. Speak with integrity. Say only what you mean. Avoid using the word to speak against yourself or to gossip about others. Use the power of your word in the direction of truth and love. - <strong>Don Miguel Ruiz ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit. - <strong>Helen Keller ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
