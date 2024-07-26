@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No pessimist ever discovered the secrets of the stars, or sailed to an uncharted land, or opened a new heaven to the human spirit. - <strong>Helen Keller ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Technology made large populations possible; large populations now make technology indispensable. - <strong>Joseph Wood Krutch ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
