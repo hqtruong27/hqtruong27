@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Technology made large populations possible; large populations now make technology indispensable. - <strong>Joseph Wood Krutch ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Neatness begets order; but from order to taste there is the same difference as from taste to genius, or from love to friendship. - <strong>Johann Kaspar Lavater ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
