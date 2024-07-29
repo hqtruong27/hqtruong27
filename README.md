@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The greatest healing therapy is friendship and love. - <strong>Hubert Humphrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Fans don't boo nobodies. - <strong>Reggie Jackson (basketball, born 1990) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
