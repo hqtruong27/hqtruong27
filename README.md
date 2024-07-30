@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Fans don't boo nobodies. - <strong>Reggie Jackson (basketball, born 1990) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This is the final test of a gentleman: his respect for those who can be of no possible value to him. - <strong>William Lyon Phelps ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
