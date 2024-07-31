@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This is the final test of a gentleman: his respect for those who can be of no possible value to him. - <strong>William Lyon Phelps ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy. - <strong>Thích Nhất Hạnh ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
