@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy. - <strong>Thích Nhất Hạnh ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Allow the world to live as it chooses, and allow yourself to live as you choose. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
