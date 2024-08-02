@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Allow the world to live as it chooses, and allow yourself to live as you choose. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Opportunity is missed by most because it is dressed in overalls and looks like work. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
