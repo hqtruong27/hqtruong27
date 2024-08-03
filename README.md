@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Opportunity is missed by most because it is dressed in overalls and looks like work. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If I know what love is, it is because of you. - <strong>Hermann Hesse ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
