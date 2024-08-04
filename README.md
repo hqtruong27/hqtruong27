@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If I know what love is, it is because of you. - <strong>Hermann Hesse ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To listen well is as powerful a means of communication and influence as to talk well. - <strong>John Marshall ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
