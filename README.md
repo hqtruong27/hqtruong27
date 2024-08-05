@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To listen well is as powerful a means of communication and influence as to talk well. - <strong>John Marshall ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
