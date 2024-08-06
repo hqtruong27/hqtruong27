@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All tremble at violence; all fear death. Putting oneself in the place of another, one should not kill nor cause another to kill. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What is a weed? A plant whose virtues have not yet been discovered. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
