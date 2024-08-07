@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What is a weed? A plant whose virtues have not yet been discovered. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whether you think you can or you think you can't, you are right. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
