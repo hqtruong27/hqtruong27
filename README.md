@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whether you think you can or you think you can't, you are right. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When you reach the end of your rope, tie a knot in it and hang on. - <strong>Franklin D. Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
