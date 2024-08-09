@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you reach the end of your rope, tie a knot in it and hang on. - <strong>Franklin D. Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When the solution is simple, God is answering. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
