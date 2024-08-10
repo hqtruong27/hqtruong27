@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When the solution is simple, God is answering. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment. - <strong>William Penn ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
