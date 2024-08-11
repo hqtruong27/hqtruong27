@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment. - <strong>William Penn ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Either you run the day or the day runs you. - <strong>Jim Rohn ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
