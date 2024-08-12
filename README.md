@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Either you run the day or the day runs you. - <strong>Jim Rohn ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A single lamp may light hundreds of thousands of lamps without itself being diminished. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
