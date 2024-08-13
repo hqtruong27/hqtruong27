@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A single lamp may light hundreds of thousands of lamps without itself being diminished. - <strong>The Buddha ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We gain the strength of the temptation we resist. - <strong>Ralph Waldo Emerson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
