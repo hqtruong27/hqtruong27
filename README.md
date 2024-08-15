@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In dwelling, live close to the ground. In thinking, keep to the simple. In conflict, be fair and generous. In governing, don't try to control. In work, do what you enjoy. In family life, be completely present. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community. - <strong>Steven Van Zandt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
