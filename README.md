@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Rock n' roll as a genre is different from pop and hip hop: it is about bands, and that for me suggests brotherhood, family, friendship and community. - <strong>Steven Van Zandt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sometimes the most important thing in a whole day is the rest we take between two deep breaths. - <strong>Etty Hillesum ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
