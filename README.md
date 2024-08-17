@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sometimes the most important thing in a whole day is the rest we take between two deep breaths. - <strong>Etty Hillesum ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Friendship is one mind in two bodies. - <strong>Mencius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
