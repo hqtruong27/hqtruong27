@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Friendship is one mind in two bodies. - <strong>Mencius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let the beauty of what you love be what you do. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
