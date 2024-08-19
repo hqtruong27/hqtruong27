@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let the beauty of what you love be what you do. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
