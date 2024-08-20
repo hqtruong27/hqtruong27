@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. - <strong>Richard Bach ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The only way to make sense out of change is to plunge into it, move with it, and join the dance. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
