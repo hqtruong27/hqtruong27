@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The only way to make sense out of change is to plunge into it, move with it, and join the dance. - <strong>Alan Watts ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If one is lucky, a solitary fantasy can totally transform one million realities. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
