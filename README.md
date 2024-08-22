@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If one is lucky, a solitary fantasy can totally transform one million realities. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink. - <strong>Sophocles ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
