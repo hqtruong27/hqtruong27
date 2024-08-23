@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you were to offer a thirsty man all wisdom, you would not please him more than if you gave him a drink. - <strong>Sophocles ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Your attitude, not your aptitude, will determine your altitude. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
