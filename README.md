@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Your attitude, not your aptitude, will determine your altitude. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The world turns aside to let any man pass who knows where he is going. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
