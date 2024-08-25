@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The world turns aside to let any man pass who knows where he is going. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The differences between friends cannot but reinforce their friendship. - <strong>Mao Zedong ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
