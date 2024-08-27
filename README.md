@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Just because something doesn't do what you planned it to do doesn't mean it's useless. - <strong>Thomas Edison ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love is a friendship set to music. - <strong>Joseph Campbell ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
