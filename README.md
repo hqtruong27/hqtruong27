@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love is a friendship set to music. - <strong>Joseph Campbell ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Real magic in relationships means an absence of judgement of others. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
