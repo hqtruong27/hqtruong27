@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Real magic in relationships means an absence of judgement of others. - <strong>Wayne Dyer ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To see things in the seed, that is genius. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
