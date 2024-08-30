@@ -903,9 +903,9 @@ bare-fs@^2.1.1:
     bare-stream "^2.0.0"
 
 bare-os@^2.1.0:
-  version "2.4.1"
-  resolved "https://registry.npmjs.org/bare-os/-/bare-os-2.4.1.tgz"
-  integrity sha512-yQC/blMP/eUdULsF7hrcC9tUFXlUmAWRbSQndEln77nOIh/N4Loaqch/MA4hyoDKhw1Zd1Wj+uLV/bT6lC/4BQ==
+  version "2.4.2"
+  resolved "https://registry.npmjs.org/bare-os/-/bare-os-2.4.2.tgz"
+  integrity sha512-HZoJwzC+rZ9lqEemTMiO0luOePoGYNBgsLLgegKR/cljiJvcDNhDZQkzC+NC5Oh0aHbdBNSOHpghwMuB5tqhjg==
 
 bare-path@^2.0.0, bare-path@^2.1.0:
   version "2.1.3"
