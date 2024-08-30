@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To see things in the seed, that is genius. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love is never lost. If not reciprocated, it will flow back and soften and purify the heart. - <strong>Washington Irving ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
