@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love is never lost. If not reciprocated, it will flow back and soften and purify the heart. - <strong>Washington Irving ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you do what you've always done, you'll get what you've always gotten. - <strong>Tony Robbins ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
