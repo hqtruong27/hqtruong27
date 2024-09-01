@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you do what you've always done, you'll get what you've always gotten. - <strong>Tony Robbins ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No man is free who is not master of himself. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
