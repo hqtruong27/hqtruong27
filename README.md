@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No man is free who is not master of himself. - <strong>Epictetus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you don't know where you are going, you will probably end up somewhere else. - <strong>Laurence J. Peter ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
