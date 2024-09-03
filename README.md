@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you don't know where you are going, you will probably end up somewhere else. - <strong>Laurence J. Peter ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Take things as they are. Punch when you have to punch. Kick when you have to kick. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
