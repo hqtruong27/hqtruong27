@@ -818,7 +818,7 @@ axios@^1.7.2:
     form-data "^4.0.0"
     proxy-from-env "^1.1.0"
 
-b4a@^1.6.4:
+b4a@^1.6.4, b4a@^1.6.6:
   version "1.6.6"
   resolved "https://registry.npmjs.org/b4a/-/b4a-1.6.6.tgz"
   integrity sha512-5Tk1HLk6b6ctmjIkAcU/Ujv/1WqiDl0F0JdRCR80VsOcUlHcu7pWeWRlOqQLHfDEsVx9YH/aif5AG4ehoCtTmg==
@@ -915,10 +915,11 @@ bare-path@^2.0.0, bare-path@^2.1.0:
     bare-os "^2.1.0"
 
 bare-stream@^2.0.0:
-  version "2.2.0"
-  resolved "https://registry.npmjs.org/bare-stream/-/bare-stream-2.2.0.tgz"
-  integrity sha512-+o9MG5bPRRBlkVSpfFlMag3n7wMaIZb4YZasU2+/96f+3HTQ4F9DKQeu3K/Sjz1W0umu6xvVq1ON0ipWdMlr3A==
+  version "2.2.1"
+  resolved "https://registry.npmjs.org/bare-stream/-/bare-stream-2.2.1.tgz"
+  integrity sha512-YTB47kHwBW9zSG8LD77MIBAAQXjU2WjAkMHeeb7hUplVs6+IoM5I7uEVQNPMB7lj9r8I76UMdoMkGnCodHOLqg==
   dependencies:
+    b4a "^1.6.6"
     streamx "^2.18.0"
 
 base64-js@^1.3.1:
