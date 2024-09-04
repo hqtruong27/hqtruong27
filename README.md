@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Take things as they are. Punch when you have to punch. Kick when you have to kick. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool. - <strong>Francis Bacon ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
