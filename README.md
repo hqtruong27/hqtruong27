@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is a difference between happiness and wisdom: he that thinks himself the happiest man is really so; but he that thinks himself the wisest is generally the greatest fool. - <strong>Francis Bacon ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. - <strong>Helen Keller ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
