@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. - <strong>Helen Keller ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>False friendship, like the ivy, decays and ruins the walls it embraces; but true friendship gives new life and animation to the object it supports. - <strong>Richard Burton ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
