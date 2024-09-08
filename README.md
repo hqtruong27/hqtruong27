@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let the beauty of what you love be what you do. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is impossible to love and to be wise. - <strong>Francis Bacon ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
