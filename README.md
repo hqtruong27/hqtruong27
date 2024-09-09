@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is impossible to love and to be wise. - <strong>Francis Bacon ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To see things in the seed, that is genius. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
