@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To see things in the seed, that is genius. - <strong>Laozi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who fears being conquered is sure of defeat. - <strong>Napoleon ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
