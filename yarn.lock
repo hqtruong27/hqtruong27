@@ -913,9 +913,9 @@ bare-path@^2.0.0, bare-path@^2.1.0:
     bare-os "^2.1.0"
 
 bare-stream@^2.0.0:
-  version "2.6.0"
-  resolved "https://registry.npmjs.org/bare-stream/-/bare-stream-2.6.0.tgz"
-  integrity sha512-4omnbbguWZra7365XDM4ak5WDI9E/JFVYj2fQDnbp35wO+vcGcHiVvCmgD8IIyMdPTHKsvnvH30vpr1e1Phq3Q==
+  version "2.6.1"
+  resolved "https://registry.npmjs.org/bare-stream/-/bare-stream-2.6.1.tgz"
+  integrity sha512-eVZbtKM+4uehzrsj49KtCy3Pbg7kO1pJ3SKZ1SFrIH/0pnj9scuGGgUlNDf/7qS8WKtGdiJY5Kyhs/ivYPTB/g==
   dependencies:
     streamx "^2.21.0"
 
