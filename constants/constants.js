@@ -33,6 +33,7 @@ const KIRARA = {
 const QUOTES = {
     QUOTABLE_URL: 'https://api.quotable.io',
     ANIME_CHAN_URL: 'https://animechan.vercel.app/api',
+    DUMMY_JSON_URL:'https://dummyjson.com/quotes/random'
 }
 
 module.exports = {

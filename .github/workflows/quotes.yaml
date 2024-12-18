@@ -1,11 +1,9 @@
 name: quotes
 
 on:
-  # Enable manual run from Github interface
   workflow_dispatch:
-  # Run at 0:0h every day
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
   push:
     branches:
       - master
