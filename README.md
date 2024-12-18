@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Expect The Best. Prepare For The Worst. Capitalize On What Comes. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sometimes the people with the worst past, create the best future. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
