@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who fears being conquered is sure of defeat. - <strong>Napoleon ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Expect The Best. Prepare For The Worst. Capitalize On What Comes. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
