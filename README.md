@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sometimes the people with the worst past, create the best future. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Avoidance of sin is lighter than the pain of remorse. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
