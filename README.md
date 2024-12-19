@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Avoidance of sin is lighter than the pain of remorse. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When you're right, nobody remembers. When you're wrong, nobody forgets. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
