@@ -1,4 +1,4 @@
-<img style="float: right;display:inline" width="360" align="right" alt="Truong Hoang" src="./image/1734668270333_cover_photo.png" />
+<img style="float: right;display:inline" width="360" align="right" alt="Truong Hoang" src="./image/1734675631469_cover_photo.png" />
 
 ### Hi there!! 👋
 
