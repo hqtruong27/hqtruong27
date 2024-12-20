@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Can Tell Whether A Man Is Clever By His Answers. You Can Tell Whether A Man Is Wise By His Questions. - <strong>Naguib Mahfouz ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who builds a masjid in the way of Allah, God will build a house for him in the paradise. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
