@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you're right, nobody remembers. When you're wrong, nobody forgets. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Can Tell Whether A Man Is Clever By His Answers. You Can Tell Whether A Man Is Wise By His Questions. - <strong>Naguib Mahfouz ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
