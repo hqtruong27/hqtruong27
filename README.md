@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Make A Living By What We Get, But We Make A Life By What We Give. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You may learn to imitate a birdcall, but do you experience what the nightingale feels for the rose? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
