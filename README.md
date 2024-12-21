@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who builds a masjid in the way of Allah, God will build a house for him in the paradise. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Make A Living By What We Get, But We Make A Life By What We Give. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
