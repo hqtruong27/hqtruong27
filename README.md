@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You may learn to imitate a birdcall, but do you experience what the nightingale feels for the rose? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whoever Would Overthrow The Liberty Of A Nation Must Begin By Subduing The Freeness Of Speech. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
