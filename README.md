@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>These pains you feel are messengers. Listen to them. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Where Sense Is Wanting, Everything Is Wanting. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
