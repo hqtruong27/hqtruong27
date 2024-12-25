@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Have Enemies? Good. That Means You'Ve Stood Up For Something, Sometime In Your Life. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is Very Dangerous To Have Your Self-Worth Riding On Your Results As An Athlete. - <strong>Jim Courier ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
