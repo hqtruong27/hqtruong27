@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If You Go On With This Nuclear Arms Race, All You Are Going To Do Is Make The Rubble Bounce. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You should not quarrel with your neighbor, for he will remain where he is, but your high handedness will become the talk of the people. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
