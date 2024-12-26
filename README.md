@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You should not quarrel with your neighbor, for he will remain where he is, but your high handedness will become the talk of the people. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Behind All Their Personal Vanity, Women Themselves Always Have An Impersonal Contempt For Woman. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
