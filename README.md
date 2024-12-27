@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Behind All Their Personal Vanity, Women Themselves Always Have An Impersonal Contempt For Woman. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Can Be Changed By What Happens To Me. But I Refuse To Be Reduced By It. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
