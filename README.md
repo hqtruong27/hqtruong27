@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Can Be Changed By What Happens To Me. But I Refuse To Be Reduced By It. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Don'T Like That Man. I Must Get To Know Him Better. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
