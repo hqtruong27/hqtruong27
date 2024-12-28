@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Don'T Like That Man. I Must Get To Know Him Better. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I am the greatest, I said that even before I knew I was. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
