@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I am the greatest, I said that even before I knew I was. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To The Master'S Honor All Must Turn, Each In Its Track, Without A Sound, Forever Tracing Newton'S Ground. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
