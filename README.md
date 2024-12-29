@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To The Master'S Honor All Must Turn, Each In Its Track, Without A Sound, Forever Tracing Newton'S Ground. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who trusts the world, the world betrays him. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
