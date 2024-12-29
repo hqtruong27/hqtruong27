@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who trusts the world, the world betrays him. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Lead such a life, that, when you die, the people may mourn you, and while you are alive they long for your company. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
