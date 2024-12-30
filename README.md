@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Should I Kill Myself, Or Have A Cup Of Coffee? - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I will be patient till even patience tires of my patience. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
