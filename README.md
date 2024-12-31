@@ -75,10 +75,10 @@ Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hqtruong27
       src="https://img.shields.io/static/v1?label=&labelColor=eff0f2&logoWidth=&logo=Redis&logoColor=AD353B&message=Redis&color=DC382D&style=flat-square" />
   </li>
   <li>Familiar with:<br>
-    <img alt="React"
-      src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=react&logoColor=61DAFB&message=React&color=61c9fb&style=flat-square" />
-    <img alt="React"
+   <img alt="scylladb"
       src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=scylladb&logoColor=1287B1&message=Scylladb&color=1287B1&style=flat-square" />
+    <img alt="React"
+      src="https://img.shields.io/static/v1?label=&labelColor=dfe2e5&logoWidth=&logo=react&logoColor=007ACC&message=React&color=007ACC&style=flat-square" />
     <!-- Platform&Tools -->
   <li>Platform & Tools:<br>
     <a href="https://code.visualstudio.com/?wt.mc_id=vscom_downloads" rel=""><img alt="vscode"
