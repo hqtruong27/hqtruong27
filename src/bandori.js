@@ -80,7 +80,13 @@ const crawl_full = async () => {
             const link = links[randomClickTransparentImg - 1]
             await link.click()
 
-            const popUpImage = await page.waitForSelector(BANDORI.TRANSPARENT.POPUP_IMG.replace('{0}', randomClickTransparentImg))
+            const popUpImage = await page.waitForSelector(
+                BANDORI.TRANSPARENT.POPUP_IMG.replace('{0}', randomClickTransparentImg),
+                {
+                    waitUntil: 'networkidle0'
+                }
+            ); // Wait for network to be idle
+
             const img = await popUpImage.evaluate((e) => e.querySelector('img').src)
             const alt = await popUpImage.evaluate((e) => e.querySelector('img').alt)
 
@@ -154,7 +160,7 @@ const crawl = async () => {
             console.log('----------------------------------------------------\n')
 
             await page.waitForNavigation({ waitUntil: 'networkidle2' })
-            const transparentTab = await page.waitForSelector(BANDORI.TRANSPARENT.TAB, { timeout: 2000 })
+            const transparentTab = await page.waitForSelector(BANDORI.TRANSPARENT.TAB, { timeout: 1000 * 6 })
             await transparentTab.evaluate(x => x.click())
 
             await _base.delay(500) //wait load block transparent
@@ -164,13 +170,28 @@ const crawl = async () => {
             const link = links[randomClickTransparentImg - 1]
             await link.click()
 
-            const popUpImage = await page.waitForSelector(BANDORI.TRANSPARENT.POPUP_IMG.replace('{0}', randomClickTransparentImg))
+            const popUpImage = await page.waitForSelector(
+                BANDORI.TRANSPARENT.POPUP_IMG.replace('{0}', randomClickTransparentImg),
+                {
+                    waitUntil: 'networkidle0'
+                }
+            ); // Wait for network to be idle
+
+            await page.waitForFunction(
+                (selector) => {
+                    const img = document.querySelector(selector + " img");
+                    return img && !img.src.includes("data:image/gif;base64");
+                },
+                {}, // Empty options object
+                BANDORI.TRANSPARENT.POPUP_IMG.replace("{0}", randomClickTransparentImg)
+            );
+
             const img = await popUpImage.evaluate((e) => e.querySelector('img').src)
             const alt = await popUpImage.evaluate((e) => e.querySelector('img').alt)
 
             console.log('------------------------------------------------')
             console.log(`Who 🤔❓: -> ${alt} \n`)
-            console.log(`image: -> ${img.toString()} \n`)
+            console.log(`image: -> ${img} \n`)
             console.log('------------------------------------------------')
 
             await saveImage(img, imgDic)
@@ -191,82 +212,87 @@ const crawl = async () => {
 }
 
 const crawlImage = async () => {
-  const browser = await puppeteer.launch({
-    headless: true,
-    defaultViewport: null,
-    args: ['--no-sandbox']
-  });
+    const browser = await puppeteer.launch({
+        headless: true,
+        defaultViewport: null,
+        args: ['--no-sandbox']
+    });
 
-  let duration = 1;
-  let recursive = true;
+    let duration = 1;
+    let recursive = true;
 
-  while (recursive) {
-    try {
-      const page = await browser.newPage();
-      console.log('START:.....\n');
+    while (recursive) {
+        try {
+            const page = await browser.newPage();
+            console.log('START:.....\n');
 
-      await page.goto(process.env.URI_BANDORI);
+            await page.goto(process.env.URI_BANDORI);
 
-      await page.click(BANDORI.FIST_POPUP);
-      await page.click(BANDORI.VIEW_TYPE);
-      await page.click(BANDORI.FILTER);
-      await page.click(BANDORI.REMOVE_ALL_FILTER_STAR);
-      await page.waitForSelector(BANDORI.FILTER_4_STAR); // Wait for the "4-star" filter to be available
-      await page.click(BANDORI.FILTER_4_STAR);
+            await page.click(BANDORI.FIST_POPUP);
+            await page.click(BANDORI.VIEW_TYPE);
+            await page.click(BANDORI.FILTER);
+            await page.click(BANDORI.REMOVE_ALL_FILTER_STAR);
+            await page.waitForSelector(BANDORI.FILTER_4_STAR); // Wait for the "4-star" filter to be available
+            await page.click(BANDORI.FILTER_4_STAR);
 
-      await page.waitForSelector(BANDORI.SHOW_MORE_CARD);
-      await _base.scrollToBottom(page, 3);
+            await page.waitForSelector(BANDORI.SHOW_MORE_CARD);
+            await _base.scrollToBottom(page, 3);
 
-      const cards = await page.$$(BANDORI.BLOCK_CARD);
-      const totalCards = Math.min(cards.length, 21);
-      console.log(`\nTotal cards: ${totalCards} \n`);
+            const cards = await page.$$(BANDORI.BLOCK_CARD);
+            const totalCards = Math.min(cards.length, 21);
+            console.log(`\nTotal cards: ${totalCards} \n`);
 
-      const chooseRandomCard = _base.getRandomInt(1, totalCards);
-      const card = cards[chooseRandomCard - 1];
-      await card.click();
+            const chooseRandomCard = _base.getRandomInt(1, totalCards);
+            const card = cards[chooseRandomCard - 1];
+            await card.click();
 
-      console.log('----------------------------------------------------');
-      console.log(`Card number ${chooseRandomCard} has been selected 👆`);
-      console.log('----------------------------------------------------\n');
+            console.log('----------------------------------------------------');
+            console.log(`Card number ${chooseRandomCard} has been selected 👆`);
+            console.log('----------------------------------------------------\n');
 
-      await page.waitForNavigation({ waitUntil: 'networkidle2' });
+            await page.waitForNavigation({ waitUntil: 'networkidle2' });
 
-      // Switch to the transparent tab
-      const transparentTab = await page.waitForSelector(BANDORI.TRANSPARENT.TAB, { timeout: 2000 });
-      await transparentTab.click();
+            // Switch to the transparent tab
+            const transparentTab = await page.waitForSelector(BANDORI.TRANSPARENT.TAB, { timeout: 2000 });
+            await transparentTab.click();
 
-      await _base.delay(500); // Wait for the transparent block to load
+            await _base.delay(500); // Wait for the transparent block to load
 
-      const links = await page.$$(BANDORI.TRANSPARENT.BLOCK_IMG);
-      const randomClickTransparentImg = _base.getRandomInt(1, links.length);
-      console.log(`Transparent image ${randomClickTransparentImg} clicked 👆 \n`);
+            const links = await page.$$(BANDORI.TRANSPARENT.BLOCK_IMG);
+            const randomClickTransparentImg = _base.getRandomInt(1, links.length);
+            console.log(`Transparent image ${randomClickTransparentImg} clicked 👆 \n`);
 
-      const link = links[randomClickTransparentImg - 1];
-      await link.click();
+            const link = links[randomClickTransparentImg - 1];
+            await link.click();
 
-      const popUpImage = await page.waitForSelector(BANDORI.TRANSPARENT.POPUP_IMG.replace('{0}', randomClickTransparentImg));
-      const img = await popUpImage.evaluate((e) => e.querySelector('img').src);
-      const alt = await popUpImage.evaluate((e) => e.querySelector('img').alt);
+            const popUpImage = await page.waitForSelector(
+                BANDORI.TRANSPARENT.POPUP_IMG.replace('{0}', randomClickTransparentImg),
+                {
+                    waitUntil: 'networkidle0'
+                }
+            ); // Wait for network to be idle
+            const img = await popUpImage.evaluate((e) => e.querySelector('img').src);
+            const alt = await popUpImage.evaluate((e) => e.querySelector('img').alt);
 
-      console.log('------------------------------------------------');
-      console.log(`Who 🤔❓: -> ${alt} \n`);
-      console.log('------------------------------------------------');
+            console.log('------------------------------------------------');
+            console.log(`Who 🤔❓: -> ${alt} \n`);
+            console.log('------------------------------------------------');
 
-      await saveImage(img, imgDic);
+            await saveImage(img, imgDic);
 
-      console.log('END: Crawl image success ✅✅....\n');
-      recursive = false;
-      await browser.close();
-    } catch (error) {
-      await browser.close();
-      console.log('❌ ' + (error.message || error) + '\n');
-      console.log(`Retry ${duration} times.... ⚠️`);
-      duration += 1;
-      recursive = duration <= DURATION;
+            console.log('END: Crawl image success ✅✅....\n');
+            recursive = false;
+            await browser.close();
+        } catch (error) {
+            await browser.close();
+            console.log('❌ ' + (error.message || error) + '\n');
+            console.log(`Retry ${duration} times.... ⚠️`);
+            duration += 1;
+            recursive = duration <= DURATION;
+        }
     }
-  }
 
-  return !recursive;
+    return !recursive;
 };
 
 module.exports = crawl
