@@ -18,7 +18,7 @@ const crawl_full = async () => {
         try {
             const page = await browser.newPage()
             console.log('START:.....\n')
-            await page.goto(process.env.URI_BANDORI)
+            await page.goto(BANDORI.URL)
 
             const firstPopup = await page.waitForSelector(BANDORI.FIST_POPUP)
             await firstPopup.evaluate(x => x.click())
@@ -120,7 +120,7 @@ const crawl = async () => {
 
             const page = await browser.newPage()
             console.log('START:.....\n')
-            await page.goto(process.env.URI_BANDORI)
+            await page.goto(BANDORI.URL)
 
             const firstPopup = await page.waitForSelector(BANDORI.FIST_POPUP)
             await firstPopup.evaluate(x => x.click())

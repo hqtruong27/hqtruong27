@@ -1,4 +1,5 @@
 const BANDORI = {
+    URL: 'https://bestdori.com/info/cards',
     FIST_POPUP: '#app > div.modal.is-active > div.modal-card > div.modal-card-foot > a > span:nth-child(2)',
     VIEW_TYPE: ".fas.fa-grip-horizontal",
     FILTER: '.fas.fa-filter',
