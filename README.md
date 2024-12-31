@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I will be patient till even patience tires of my patience. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No one starts out on top. You have to work your way up. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
