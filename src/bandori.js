@@ -112,7 +112,7 @@ const crawl_full = async () => {
     return false
 }
 
-const crawl = async () => {
+const crawlOld = async () => {
     const browser = await puppeteer.launch({
         headless: true,
         defaultViewport: null,
@@ -210,6 +210,123 @@ const crawl = async () => {
 
     return !recursive
 }
+
+const crawl = async () => {
+  const browser = await puppeteer.launch({
+    headless: true,
+    defaultViewport: null,
+    args: ["--no-sandbox"],
+  });
+
+  // Open main page outside the loop
+  const page = await browser.newPage();
+  console.log("START:.....\n");
+
+  let duration = 1;
+  let recursive = true;
+  while (recursive) {
+    try {
+      await page.goto(BANDORI.URL, { waitUntil: "networkidle2" });
+
+      // Use page.click (it implicitly waits)
+      await page.click(BANDORI.FIST_POPUP);
+      await page.click(BANDORI.VIEW_TYPE);
+      await page.click(BANDORI.FILTER);
+      await page.click(BANDORI.REMOVE_ALL_FILTER_STAR);
+      await page.click(BANDORI.FILTER_4_STAR);
+
+      await page.waitForSelector(BANDORI.SHOW_MORE_CARD);
+      await _base.scrollToBottom(page, 3);
+
+      const cards = (await page.$$(BANDORI.BLOCK_CARD)).slice(0, 21);
+      const totalCards = cards.length;
+      console.log(`\nTotal cards: ${totalCards} \n`);
+
+      const chooseRandomCard = _base.getRandomInt(1, totalCards);
+      const card = cards[chooseRandomCard - 1];
+
+      // Click the card and wait for the new element on the next page
+      const [response] = await Promise.all([
+          page.waitForNavigation({waitUntil: 'networkidle2'}),
+          card.click(),
+      ]);
+      
+
+      console.log("----------------------------------------------------");
+      console.log(`Card number ${chooseRandomCard} has been selected 👆`);
+      console.log("----------------------------------------------------\n");
+
+      // Open a new page for transparent image (to keep main page intact)
+      const transparentPage = await browser.newPage();
+      await transparentPage.goto(page.url(), { waitUntil: "networkidle2" });
+
+      await transparentPage.click(BANDORI.TRANSPARENT.TAB);
+
+      var links = await transparentPage.$$(BANDORI.TRANSPARENT.BLOCK_IMG);
+      const randomClickTransparentImg = _base.getRandomInt(1, links.length);
+
+      console.log(`Transparent image ${randomClickTransparentImg} clicked 👆 \n`);
+      const link = links[randomClickTransparentImg - 1];
+      await link.click();
+
+      const popUpImageSelector = BANDORI.TRANSPARENT.POPUP_IMG.replace(
+        "{0}",
+        randomClickTransparentImg
+      );
+      const popUpImage = await transparentPage.waitForSelector(
+        popUpImageSelector,
+        {
+          waitUntil: "networkidle0",
+        }
+      );
+
+      await transparentPage.waitForFunction(
+        (selector) => {
+          const img = document.querySelector(selector + " img");
+          return img && !img.src.includes("data:image/gif;base64");
+        },
+        {},
+        popUpImageSelector
+      );
+
+      // Get img and alt concurrently
+      const [img, alt] = await Promise.all([
+        popUpImage.evaluate((e) => e.querySelector("img").src),
+        popUpImage.evaluate((e) => e.querySelector("img").alt),
+      ]);
+
+      console.log("------------------------------------------------");
+      console.log(`Who 🤔❓: -> ${alt} \n`);
+      console.log(`image: -> ${img} \n`);
+      console.log("------------------------------------------------");
+
+      await saveImage(img, imgDic);
+
+      console.log("END: Crawl image success ✅✅....\n");
+      recursive = false;
+
+      // Close the transparent image page
+      await transparentPage.close();
+    } catch (error) {
+      console.log("❌ " + (error.message || error) + "\n");
+      console.log(`Retry ${duration} times.... ⚠️`);
+      duration += 1;
+      recursive = duration <= DURATION;
+
+      // You might want more specific error handling here
+      // For example:
+      // if (error.message.includes('Navigation timeout')) {
+      //   // Handle navigation timeouts differently, maybe refresh the page
+      // } else {
+      //   // Other errors, maybe exit
+      //   recursive = false;
+      // }
+    }
+  }
+
+  await browser.close();
+  return !recursive;
+};
 
 const crawlImage = async () => {
     const browser = await puppeteer.launch({
