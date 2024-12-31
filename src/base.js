@@ -9,7 +9,7 @@ const saveImage = async (url, path) => {
     }
 
     const fileName = Date.now().toString() + '_' + defaultFileName
-    await _file.download(url, path, fileName)
+    await _file.downloadAndSaveImage(url, path, fileName)
     console.log('Download file image success!! ✅' + '\n')
 
     //Why? This to clear the cache image on github

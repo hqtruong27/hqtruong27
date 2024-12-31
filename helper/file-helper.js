@@ -72,6 +72,31 @@ const file = {
             })
         })
     },
+    
+    downloadAndSaveImage: async (url, dir, fileName) => {
+        // Create the directory if it doesn't exist
+        if (!fs.existsSync(dir)) {
+          fs.mkdirSync(dir, { recursive: true });
+        }
+      
+        try {
+          const response = await axios.get(url, { responseType: 'stream' });
+      
+          // Construct the full file path
+          const filePath = path.join(dir, fileName);
+          const writer = fs.createWriteStream(filePath);
+      
+          response.data.pipe(writer);
+      
+          return new Promise((resolve, reject) => {
+            writer.on('finish', () => resolve(fileName));
+            writer.on('error', reject);
+          });
+        } catch (error) {
+          console.error(`Error downloading ${url}:`, error.message);
+          return null; // Return null for failed downloads
+        }
+    },
     //remove file in directory
     remove: (dir, fileName) => {
         return new Promise((resolve, reject) => {
