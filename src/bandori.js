@@ -170,7 +170,7 @@ const crawl = async () => {
 
             console.log('------------------------------------------------')
             console.log(`Who 🤔❓: -> ${alt} \n`)
-            console.log(`image: -> ${alt} \n`)
+            console.log(`image: -> ${img} \n`)
             console.log('------------------------------------------------')
 
             await saveImage(img, imgDic)
