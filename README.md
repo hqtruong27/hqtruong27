@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No one starts out on top. You have to work your way up. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Are Never Too Old To Set Another Goal Or To Dream A New Dream. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
