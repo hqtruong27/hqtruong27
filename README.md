@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Are Never Too Old To Set Another Goal Or To Dream A New Dream. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Everything in the universe is within you. Ask all from yourself. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
