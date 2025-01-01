@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Everything in the universe is within you. Ask all from yourself. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We should remember that there are nations which meet more than 30 to 60% of their power requirements through the nuclear power system. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
