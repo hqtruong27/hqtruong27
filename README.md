@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To the people that have said I'm too small, I'm not fast enough, I don't have what it takes, I'm not strong enough. THANK YOU. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
