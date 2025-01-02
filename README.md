@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We should remember that there are nations which meet more than 30 to 60% of their power requirements through the nuclear power system. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
