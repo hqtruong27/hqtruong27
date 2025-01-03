@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let Me Alone, And Go In Search Of Someone Else. - <strong>Ali Ibn Abi Talib ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Am The Greatest, I Said That Even Before I Knew I Was. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
