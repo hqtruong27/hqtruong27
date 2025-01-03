@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To the people that have said I'm too small, I'm not fast enough, I don't have what it takes, I'm not strong enough. THANK YOU. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let Me Alone, And Go In Search Of Someone Else. - <strong>Ali Ibn Abi Talib ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
