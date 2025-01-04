@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Am The Greatest, I Said That Even Before I Knew I Was. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Want Others To Be Happy, Practice Compassion. If You Want To Be Happy, Practice Compassion. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
