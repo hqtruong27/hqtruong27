@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Try To Be A Rainbow In Someone'S Cloud. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Word To The Wise Ain'T Necessary - It'S The Stupid Ones That Need The Advice. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
