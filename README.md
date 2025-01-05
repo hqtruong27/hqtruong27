@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let silence take you to the core of life. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Try To Be A Rainbow In Someone'S Cloud. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
