@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Word To The Wise Ain'T Necessary - It'S The Stupid Ones That Need The Advice. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Beware Of Little Expenses. A Small Leak Will Sink A Great Ship. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
