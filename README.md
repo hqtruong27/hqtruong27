@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Problems are common, but attitude makes the difference. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I have been a seeker and I still am, but I stopped asking the books and the stars. I started listening to the teaching of my Soul. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
