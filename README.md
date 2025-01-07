@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The So-Called Peace Path Is Not Peace And It Is Not A Substitute For Jihad And Resistance. - <strong>Ahmed Yassin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Problems are common, but attitude makes the difference. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
