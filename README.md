@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Tolerance and understanding won't 'trickle down' in our society any more than wealth does. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Know You Are On The Road To Success If You Would Do Your Job, And Not Be Paid For It. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
