@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I have been a seeker and I still am, but I stopped asking the books and the stars. I started listening to the teaching of my Soul. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Tolerance and understanding won't 'trickle down' in our society any more than wealth does. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
