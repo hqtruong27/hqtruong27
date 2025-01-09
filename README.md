@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Know You Are On The Road To Success If You Would Do Your Job, And Not Be Paid For It. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known? - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
