@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known? - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is no nobility with bad manners. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
