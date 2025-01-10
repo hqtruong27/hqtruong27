@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Our Greatest Fear Should Not Be Of Failure But Of Succeeding At Things In Life That Don'T Really Matter. - <strong>Francis Chan ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My Books Are Like Water; Those Of The Great Geniuses Are Wine. (Fortunately) Everybody Drinks Water. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
