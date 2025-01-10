@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is no nobility with bad manners. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Our Greatest Fear Should Not Be Of Failure But Of Succeeding At Things In Life That Don'T Really Matter. - <strong>Francis Chan ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
