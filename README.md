@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is The Supreme Art Of The Teacher To Awaken Joy In Creative Expression And Knowledge. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When You Have Really Exhausted An Experience You Always Reverence And Love It. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
