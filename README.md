@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When You Have Really Exhausted An Experience You Always Reverence And Love It. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Success Is Not Final, Failure Is Not Fatal: It Is The Courage To Continue That Counts. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
