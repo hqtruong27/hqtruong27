@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Success Is Not Final, Failure Is Not Fatal: It Is The Courage To Continue That Counts. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Hunger For Love Is Much More Difficult To Remove Than The Hunger For Bread. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
