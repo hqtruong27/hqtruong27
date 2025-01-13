@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Hunger For Love Is Much More Difficult To Remove Than The Hunger For Bread. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Why Do They Call It Rush Hour When Nothing Moves? - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
