@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When One Has Not Had A Good Father, One Must Create One. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
