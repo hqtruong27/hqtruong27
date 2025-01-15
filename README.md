@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is Always Consoling To Think Of Suicide: In That Way One Gets Through Many A Bad Night. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One best book is equal to hundred good friends but one good friend is equal to a library. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
