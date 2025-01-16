@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>One best book is equal to hundred good friends but one good friend is equal to a library. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Admiration For A Quality Or An Art Can Be So Strong That It Deters Us From Striving To Possess It. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
