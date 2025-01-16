@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Admiration For A Quality Or An Art Can Be So Strong That It Deters Us From Striving To Possess It. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To Be Perfectly Happy It Does Not Suffice To Possess Happiness, It Is Necessary To Have Deserved It. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
