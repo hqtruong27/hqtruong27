@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>God, our Creator, has stored within our minds and personalities, great potential strength and ability. Prayer helps us tap and develop these powers. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don'T Be Distracted By Criticism. Remember ~ The Only Taste Of Success Some People Have Is When They Take A Bite Out Of You. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
