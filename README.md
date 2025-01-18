@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I belong to no religion. My religion is love. Every heart is my temple. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do not be like those on whom advice has no effect and who require punishment to correct themselves. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
