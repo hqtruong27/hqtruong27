@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do not be like those on whom advice has no effect and who require punishment to correct themselves. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Experience Does Not Err. Only Your Judgments Err By Expecting From Her What Is Not In Her Power. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
