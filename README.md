@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Experience Does Not Err. Only Your Judgments Err By Expecting From Her What Is Not In Her Power. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>At Times One Remains Faithful To A Cause Only Because Its Opponents Do Not Cease To Be Insipid. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
