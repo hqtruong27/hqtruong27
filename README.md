@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>At Times One Remains Faithful To A Cause Only Because Its Opponents Do Not Cease To Be Insipid. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Failure Is Simply The Opportunity To Begin Again, This Time More Intelligently. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
