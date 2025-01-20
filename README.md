@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Failure Is Simply The Opportunity To Begin Again, This Time More Intelligently. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I died as a mineral and became a plant, I died as a plant and rose to animal, I died as an animal and I was Man. Why should I fear? When was I less by dying? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
