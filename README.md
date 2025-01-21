@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I died as a mineral and became a plant, I died as a plant and rose to animal, I died as an animal and I was Man. Why should I fear? When was I less by dying? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Champions have to have the skill and the will. But the will must be stronger than the skill. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
