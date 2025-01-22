@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don'T Let Schooling Interfere With Your Education. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Like Slavery And Apartheid, Poverty Is Not Natural. It Is Man-Made And It Can Be Overcome And Eradicated By The Actions Of Human Beings. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
