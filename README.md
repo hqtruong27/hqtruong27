@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Allah Will Help Him Who Moves In The Way Of Allah. - <strong>Abu Bakr ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
