@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It'S Better To Be A Lion For A Day Than A Sheep All Your Life. - <strong>Elizabeth Kenny ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
