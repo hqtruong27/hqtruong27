@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It'S Better To Be A Lion For A Day Than A Sheep All Your Life. - <strong>Elizabeth Kenny ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I'm too fast. I'm too smart. I'm too pretty. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
