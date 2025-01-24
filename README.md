@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'm too fast. I'm too smart. I'm too pretty. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Man needs his difficulties because they are necessary to enjoy success. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
