@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Man needs his difficulties because they are necessary to enjoy success. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Difficulties in your life do not come to destroy you, but to help you realize your hidden potential and power, let difficulties know that you too are difficult. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
