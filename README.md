@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Difficulties in your life do not come to destroy you, but to help you realize your hidden potential and power, let difficulties know that you too are difficult. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Without Freedom, No Art; Art Lives Only On The Restraints It Imposes On Itself, And Dies Of All Others. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
