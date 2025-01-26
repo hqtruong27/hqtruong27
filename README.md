@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Tolerance and understanding won't 'trickle down' in our society any more than wealth does. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Lot Of People Quit Looking For Work As Soon As They Find A Job. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
