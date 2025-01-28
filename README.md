@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'Ve Learned That Making A 'Living' Is Not The Same Thing As 'Making A Life'. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Authority, power, and wealth do not change a man; they only reveal him. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
