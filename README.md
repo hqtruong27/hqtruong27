@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Money cannot help lifting its head. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I'Ve Learned That Making A 'Living' Is Not The Same Thing As 'Making A Life'. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
