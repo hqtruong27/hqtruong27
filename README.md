@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Authority, power, and wealth do not change a man; they only reveal him. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If your ruler is just, then praise God; but if he is unjust, pray to God to rid you of him. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
