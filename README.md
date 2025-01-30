@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Only the soul knows what love is. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Can Never Solve A Problem On The Level On Which It Was Created. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
