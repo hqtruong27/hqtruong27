@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Can Never Solve A Problem On The Level On Which It Was Created. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Don'T Like Something, Change It. If You Can'T Change It, Change Your Attitude. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
