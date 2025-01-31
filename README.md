@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If You Don'T Like Something, Change It. If You Can'T Change It, Change Your Attitude. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sell your cleverness and buy bewilderment. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
