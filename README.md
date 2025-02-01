@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Guess I Don'T So Much Mind Being Old, As I Mind Being Fat And Old. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Lead such a life, that, when you die, the people may mourn you, and while you are alive they long for your company. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
