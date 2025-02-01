@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Disneyland Will Never Be Completed. It Will Continue To Grow As Long As There Is Imagination Left In The World. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Guess I Don'T So Much Mind Being Old, As I Mind Being Fat And Old. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
