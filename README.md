@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Lead such a life, that, when you die, the people may mourn you, and while you are alive they long for your company. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>An Explanation Of Cause Is Not A Justification By Reason. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
