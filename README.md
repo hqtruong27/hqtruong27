@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Hated Every Minute Of Training, But I Said, 'Don'T Quit. Suffer Now And Live The Rest Of Your Life As A Champion.' - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Peace Cannot Be Kept By Force; It Can Only Be Achieved By Understanding. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
