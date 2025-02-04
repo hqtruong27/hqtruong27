@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Peace Cannot Be Kept By Force; It Can Only Be Achieved By Understanding. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Common Sense Is The Collection Of Prejudices Acquired By Age Eighteen. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
