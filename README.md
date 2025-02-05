@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Lovers don't finally meet somewhere. They're in each other all along. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Israel, As The Jewish State, Must Disappear From The Map. - <strong>Ahmed Yassin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
