@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Israel, As The Jewish State, Must Disappear From The Map. - <strong>Ahmed Yassin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Like To See A Man Proud Of The Place In Which He Lives. I Like To See A Man Live So That His Place Will Be Proud Of Him. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
