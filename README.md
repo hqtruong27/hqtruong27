@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't be sad! Because God sends hope in the most desperate moments. Don't forget, the heaviest rain comes out of the darkest clouds. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If Music Be The Food Of Love, Play On, Give Me Excess Of It; That Surfeiting, The Appetite May Sicken, And So Die. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
