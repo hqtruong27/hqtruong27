@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Like To See A Man Proud Of The Place In Which He Lives. I Like To See A Man Live So That His Place Will Be Proud Of Him. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't be sad! Because God sends hope in the most desperate moments. Don't forget, the heaviest rain comes out of the darkest clouds. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
