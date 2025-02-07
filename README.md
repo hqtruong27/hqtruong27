@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The sweetness of life lies in dispensing with formalities. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
