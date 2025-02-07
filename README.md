@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If Music Be The Food Of Love, Play On, Give Me Excess Of It; That Surfeiting, The Appetite May Sicken, And So Die. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
