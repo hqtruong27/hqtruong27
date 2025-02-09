@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When my title was taken away boxing died. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do not get elated at any victory, for all such victory is subject to the will of God. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
