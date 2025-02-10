@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life is balance of holding on and letting go. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Muslims Should Live Like Brothers. - <strong>Abu Bakr ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
