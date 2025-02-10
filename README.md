@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do not get elated at any victory, for all such victory is subject to the will of God. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life is balance of holding on and letting go. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
