@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Move, but don't move the way fear makes you move. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>An Explanation Of Cause Is Not A Justification By Reason. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
