@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Denial Ain'T Just A River In Egypt. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>An Intelligent Hell Would Be Better Than A Stupid Paradise. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
