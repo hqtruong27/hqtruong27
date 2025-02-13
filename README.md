@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>An Intelligent Hell Would Be Better Than A Stupid Paradise. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Everyone Seems To Have A Clear Idea Of How Other People Should Lead Their Lives, But None About His Or Her Own. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
