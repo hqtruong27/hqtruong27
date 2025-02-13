@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Everyone Seems To Have A Clear Idea Of How Other People Should Lead Their Lives, But None About His Or Her Own. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The one who has no control over his desires has no control over his mind. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
