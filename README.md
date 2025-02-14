@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Can Complain Because Rose Bushes Have Thorns, Or Rejoice Because Thorn Bushes Have Roses. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>By Failing To Prepare, You Are Preparing To Fail. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
