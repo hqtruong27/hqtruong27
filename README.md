@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do we not realize that self respect comes with self reliance? - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This life is not real. I conquered the world and it did not bring me satisfaction. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
