@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>By Failing To Prepare, You Are Preparing To Fail. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do we not realize that self respect comes with self reliance? - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
