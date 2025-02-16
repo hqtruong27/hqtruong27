@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Things Should Be Made As Simple As Possible, But Not Any Simpler. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Would Have A Faithful Servant, And One That You Like, Serve Yourself. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
