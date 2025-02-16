@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This life is not real. I conquered the world and it did not bring me satisfaction. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Things Should Be Made As Simple As Possible, But Not Any Simpler. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
