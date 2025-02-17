@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If You Would Have A Faithful Servant, And One That You Like, Serve Yourself. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To Give Thanks In Solitude Is Enough. Thanksgiving Has Wings And Goes Where It Must Go. Your Prayer Knows Much More About It Than You Do. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
