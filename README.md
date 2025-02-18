@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If You Want Others To Be Happy, Practice Compassion. If You Want To Be Happy, Practice Compassion. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you love someone, you are always joined with them - in joy, in absence, in solitude, in strife. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
