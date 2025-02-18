@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A girl is a good deed and a boy is a bounty. Good deeds are rewarded while people are held accountable for bounties. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Want Others To Be Happy, Practice Compassion. If You Want To Be Happy, Practice Compassion. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
