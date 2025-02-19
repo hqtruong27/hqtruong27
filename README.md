@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you love someone, you are always joined with them - in joy, in absence, in solitude, in strife. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Every Day, Nay Every Moment, Try To Do Some Good Deed. - <strong>Abu Bakr ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
