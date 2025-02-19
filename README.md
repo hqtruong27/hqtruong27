@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Every Day, Nay Every Moment, Try To Do Some Good Deed. - <strong>Abu Bakr ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When we practice loving kindness and compassion we are the first ones to profit. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
