@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When we practice loving kindness and compassion we are the first ones to profit. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
