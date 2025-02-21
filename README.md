@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Become Dust - And They Will Throw Thee In The Air; Become Stone - And They Will Throw Thee On Glass. - <strong>Muhammad Iqbal ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There Is No Labor A Person Does That Is Undignified; If They Do It Right. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
