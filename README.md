@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If they can make penicillin out of moldy bread, then they can sure make something out of you. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Become Dust - And They Will Throw Thee In The Air; Become Stone - And They Will Throw Thee On Glass. - <strong>Muhammad Iqbal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
