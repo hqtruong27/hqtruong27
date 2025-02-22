@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Surely silence can sometimes be the most eloquent reply. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No Great Intellectual Thing Was Ever Done By Great Effort. - <strong>Theodore Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
