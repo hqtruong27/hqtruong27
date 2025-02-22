@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There Is No Labor A Person Does That Is Undignified; If They Do It Right. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Surely silence can sometimes be the most eloquent reply. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
