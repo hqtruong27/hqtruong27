@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Every Day, Nay Every Moment, Try To Do Some Good Deed. - <strong>Abu Bakr ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Tricks And Treachery Are The Practice Of Fools, That Don'T Have Brains Enough To Be Honest. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
