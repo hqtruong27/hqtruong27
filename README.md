@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Seek the wisdom that will untie your knot. Seek the path that demands your whole being. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Every Day, Nay Every Moment, Try To Do Some Good Deed. - <strong>Abu Bakr ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
