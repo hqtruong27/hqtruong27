@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Not Life, But Good Life, Is To Be Chiefly Valued. - <strong>Socrates ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whoever knocks persistently, ends by entering. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
