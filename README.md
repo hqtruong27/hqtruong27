@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Tricks And Treachery Are The Practice Of Fools, That Don'T Have Brains Enough To Be Honest. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Not Life, But Good Life, Is To Be Chiefly Valued. - <strong>Socrates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
