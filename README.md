@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>At Home I Am A Nice Guy: But I Don'T Want The World To Know. Humble People, I'Ve Found, Don'T Get Very Far. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Avoid Popularity If You Would Have Peace. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
