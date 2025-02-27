@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The So-Called Peace Path Is Not Peace And It Is Not A Substitute For Jihad And Resistance. - <strong>Ahmed Yassin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If they can make penicillin out of moldy bread, then they can sure make something out of you. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
