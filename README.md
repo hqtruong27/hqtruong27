@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Avoid Popularity If You Would Have Peace. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The So-Called Peace Path Is Not Peace And It Is Not A Substitute For Jihad And Resistance. - <strong>Ahmed Yassin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
