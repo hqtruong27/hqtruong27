@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let Us Not Be Too Particular; It Is Better To Have Old Secondhand Diamonds Than None At All. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Burdens are the foundations of ease and bitter things the forerunners of pleasure. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
