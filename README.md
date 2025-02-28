@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If they can make penicillin out of moldy bread, then they can sure make something out of you. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let Us Not Be Too Particular; It Is Better To Have Old Secondhand Diamonds Than None At All. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
