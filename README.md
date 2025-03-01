@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Burdens are the foundations of ease and bitter things the forerunners of pleasure. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Who do you think's better looking people in the north or people in the south? - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
