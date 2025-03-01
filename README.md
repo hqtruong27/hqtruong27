@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Who do you think's better looking people in the north or people in the south? - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Spread Love Everywhere You Go. Let No One Ever Come To You Without Leaving Happier. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
