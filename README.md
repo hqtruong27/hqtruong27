@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Spread Love Everywhere You Go. Let No One Ever Come To You Without Leaving Happier. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Love Of Heaven Makes One Heavenly. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
