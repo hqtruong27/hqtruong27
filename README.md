@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Love Of Heaven Makes One Heavenly. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If Past History Was All There Was To The Game, The Richest People Would Be Librarians. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
