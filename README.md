@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If Past History Was All There Was To The Game, The Richest People Would Be Librarians. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is A Mistake To Look Too Far Ahead. Only One Link Of The Chain Of Destiny Can Be Handled At A Time. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
