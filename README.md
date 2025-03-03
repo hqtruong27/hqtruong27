@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is A Mistake To Look Too Far Ahead. Only One Link Of The Chain Of Destiny Can Be Handled At A Time. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be Careless In Your Dress If You Will, But Keep A Tidy Soul. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
