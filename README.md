@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Can Have No Dominion Greater Or Less Than That Over Yourself. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Miracles Do Not, In Fact, Break The Laws Of Nature. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
