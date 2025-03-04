@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be Careless In Your Dress If You Will, But Keep A Tidy Soul. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Can Have No Dominion Greater Or Less Than That Over Yourself. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
