@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Miracles Do Not, In Fact, Break The Laws Of Nature. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I know you're tired but come, this is the way. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
