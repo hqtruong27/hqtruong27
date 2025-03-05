@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I know you're tired but come, this is the way. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Two Most Important Days In Your Life Are The Day You Are Born And The Day You Find Out Why. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
