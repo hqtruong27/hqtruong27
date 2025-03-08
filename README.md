@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No matter what is the environment around you, it is always possible to maintain your brand of integrity. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Imagination Will Often Carry Us To Worlds That Never Were. But Without It We Go Nowhere. - <strong>Carl Sagan ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
