@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Imagination Will Often Carry Us To Worlds That Never Were. But Without It We Go Nowhere. - <strong>Carl Sagan ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No Legacy Is So Rich As Honesty. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
