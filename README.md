@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Have Held Many Things In My Hands, And I Have Lost Them All; But Whatever I Have Placed In God'S Hands, That I Still Possess. - <strong>Martin Luther ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>God blesses him who helps his brother. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
