@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'm a fighter. I believe in the eye-for-an-eye business. I'm no cheek turner. I got no respect for a man who won't hit back. You kill my dog, you better hide your cat. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What Is Wanted Is Not The Will To Believe, But The Will To Find Out, Which Is The Exact Opposite. - <strong>Bertrand Russell ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
