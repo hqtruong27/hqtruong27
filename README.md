@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What Is Wanted Is Not The Will To Believe, But The Will To Find Out, Which Is The Exact Opposite. - <strong>Bertrand Russell ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This Is One Small Step For A Man, One Giant Leap For Mankind. - <strong>Neil Armstrong ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
