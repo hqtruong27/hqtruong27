@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This Is One Small Step For A Man, One Giant Leap For Mankind. - <strong>Neil Armstrong ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is Very Dangerous To Have Your Self-Worth Riding On Your Results As An Athlete. - <strong>Jim Courier ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
