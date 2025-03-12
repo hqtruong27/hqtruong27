@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is Very Dangerous To Have Your Self-Worth Riding On Your Results As An Athlete. - <strong>Jim Courier ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Does Not Matter How Slowly You Go As Long As You Do Not Stop. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
