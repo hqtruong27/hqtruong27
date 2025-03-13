@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Does Not Matter How Slowly You Go As Long As You Do Not Stop. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Are Out To Describe The Truth, Leave Elegance To The Tailor. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
