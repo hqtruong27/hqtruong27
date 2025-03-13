@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If You Are Out To Describe The Truth, Leave Elegance To The Tailor. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My toughest fight was with my first wife. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
