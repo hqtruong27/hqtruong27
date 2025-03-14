@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My toughest fight was with my first wife. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Allah Will Help Him Who Moves In The Way Of Allah. - <strong>Abu Bakr ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
