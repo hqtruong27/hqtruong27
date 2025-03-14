@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Allah Will Help Him Who Moves In The Way Of Allah. - <strong>Abu Bakr ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All Men'S Souls Are Immortal, But The Souls Of The Righteous Are Immortal And Divine. - <strong>Socrates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
