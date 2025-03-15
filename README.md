@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All Men'S Souls Are Immortal, But The Souls Of The Righteous Are Immortal And Divine. - <strong>Socrates ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Educated Differ From The Uneducated As Much As The Living From The Dead. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
