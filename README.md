@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Educated Differ From The Uneducated As Much As The Living From The Dead. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Cannot Escape The Responsibility Of Tomorrow By Evading It Today. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
