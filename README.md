@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Cannot Escape The Responsibility Of Tomorrow By Evading It Today. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Didn'T Attend The Funeral, But I Sent A Nice Letter Saying I Approved Of It. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
