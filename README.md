@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A calamity does not descend except due to a sin and it is not lifted except with repentance. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
