@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is greatness in the fear of God, contentment in faith of God, and honour in humility. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
