@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Virtue Has A Veil, Vice A Mask. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
