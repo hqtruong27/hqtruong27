@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Virtue Has A Veil, Vice A Mask. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never Do Anything Against Conscience Even If The State Demands It. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
