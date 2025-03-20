@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never Do Anything Against Conscience Even If The State Demands It. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who becomes a Muslim does so in his own interest. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
