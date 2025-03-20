@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who becomes a Muslim does so in his own interest. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Rule No.1: Never Lose Money. Rule No.2: Never Forget Rule No.1. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
