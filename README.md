@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Rule No.1: Never Lose Money. Rule No.2: Never Forget Rule No.1. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The true believer is rewarded in every thing, even in affliction. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
