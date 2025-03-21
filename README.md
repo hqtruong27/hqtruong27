@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The true believer is rewarded in every thing, even in affliction. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Don'T Know Who My Grandfather Was; I Am Much More Concerned To Know What His Grandson Will Be. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
