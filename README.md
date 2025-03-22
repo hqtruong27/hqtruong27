@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Don'T Know Who My Grandfather Was; I Am Much More Concerned To Know What His Grandson Will Be. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Learn the Arabic language; it will sharpen your wisdom. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
