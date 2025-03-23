@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What Do I Wear In Bed? Why, Chanel No. 5, Of Course. - <strong>Marilyn Monroe ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
