@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What Do I Wear In Bed? Why, Chanel No. 5, Of Course. - <strong>Marilyn Monroe ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The world is darkness; knowledge is light; but knowledge without truth is a mere shadow. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
