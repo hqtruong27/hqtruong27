@@ -900,9 +900,9 @@ bare-fs@^4.0.1:
     bare-stream "^2.6.4"
 
 bare-os@^3.0.1:
-  version "3.6.0"
-  resolved "https://registry.npmjs.org/bare-os/-/bare-os-3.6.0.tgz"
-  integrity sha512-BUrFS5TqSBdA0LwHop4OjPJwisqxGy6JsWVqV6qaFoe965qqtaKfDzHY5T2YA1gUL0ZeeQeA+4BBc1FJTcHiPw==
+  version "3.6.1"
+  resolved "https://registry.npmjs.org/bare-os/-/bare-os-3.6.1.tgz"
+  integrity sha512-uaIjxokhFidJP+bmmvKSgiMzj2sV5GPHaZVAIktcxcpCyBFFWO+YlikVAdhmUo2vYFvFhOXIAlldqV29L8126g==
 
 bare-path@^3.0.0:
   version "3.0.0"
