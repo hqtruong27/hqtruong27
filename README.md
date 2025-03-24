@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The world is darkness; knowledge is light; but knowledge without truth is a mere shadow. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Knowledge is of two kinds: that which is absorbed and that which is heard. And that which is heard does not profit if it is not absorbed. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
