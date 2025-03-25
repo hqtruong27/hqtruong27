@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Knowledge is of two kinds: that which is absorbed and that which is heard. And that which is heard does not profit if it is not absorbed. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
