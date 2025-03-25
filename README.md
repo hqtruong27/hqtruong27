@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Allah's the Arabic term for God. Stand up for God, fight for God, work for God and do the right thing, and go the right way, things will end up in your corner. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
