@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Cannot Escape The Responsibility Of Tomorrow By Evading It Today. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Have New Developing Ties With Japan Whom Always Supports Our Democratic Process And Economic Development. - <strong>Ali A. Saleh ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
