@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Have New Developing Ties With Japan Whom Always Supports Our Democratic Process And Economic Development. - <strong>Ali A. Saleh ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Lord Prefers Common-Looking People. That Is Why He Makes So Many Of Them. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
