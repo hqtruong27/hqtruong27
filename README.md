@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Lord Prefers Common-Looking People. That Is Why He Makes So Many Of Them. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>People Say Satire Is Dead. It'S Not Dead; It'S Alive And Living In The White House. - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
