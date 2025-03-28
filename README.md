@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is a candle in your heart, ready to be kindled. There is a void in your soul, ready to be filled. You feel it, don't you? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love Matches, So Called, Have Illusion For Their Father And Need For Their Mother. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
