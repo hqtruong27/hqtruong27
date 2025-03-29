@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>People Do Not Lack Strength; They Lack Will. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
