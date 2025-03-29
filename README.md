@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love Matches, So Called, Have Illusion For Their Father And Need For Their Mother. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Impossible is just a big word thrown around by small men who find it easier to live in the world they've been given than to explore the power they have to change it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
