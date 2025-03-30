@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>People Do Not Lack Strength; They Lack Will. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Respond to every call that excites your spirit. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
