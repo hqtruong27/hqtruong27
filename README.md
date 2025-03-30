@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Respond to every call that excites your spirit. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is Normal To Give Away A Little Of One'S Life In Order Not To Lose It All. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
