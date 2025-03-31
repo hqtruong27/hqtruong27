@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Asceticism is not that you should not own anything, but that nothing should own you. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Hesitation Increases In Relation To Risk In Equal Proportion To Age. - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
