@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Didn'T Attend The Funeral, But I Sent A Nice Letter Saying I Approved Of It. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The weakest man is the one who is able to correct his moral defects, but doesn't take action. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
