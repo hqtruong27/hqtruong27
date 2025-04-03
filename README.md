@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is very easy to defeat someone, but it is very hard to win someone. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Conduct, Which Involves A Decision Of The Ultimate Fate Of The Agent Cannot Be Based On Illusions. - <strong>Muhammed Iqbal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
