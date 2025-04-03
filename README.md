@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Conduct, Which Involves A Decision Of The Ultimate Fate Of The Agent Cannot Be Based On Illusions. - <strong>Muhammed Iqbal ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Hold on to your Salah, because if you lose that, you will lose everything else. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
