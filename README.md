@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Hold on to your Salah, because if you lose that, you will lose everything else. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There Are No Facts, Only Interpretations. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
