@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There Are No Facts, Only Interpretations. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Building capacity dissolves differences. It irons out inequalities. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
