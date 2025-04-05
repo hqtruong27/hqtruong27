@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Building capacity dissolves differences. It irons out inequalities. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Continue To Shape Our Personality All Our Life. If We Knew Ourselves Perfectly, We Should Die. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
