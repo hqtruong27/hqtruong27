@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Continue To Shape Our Personality All Our Life. If We Knew Ourselves Perfectly, We Should Die. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you want to shine like the sun, first burn like the sun. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
