@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you want to shine like the sun, first burn like the sun. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Humility Is Not Thinking Less Of Yourself, It'S Thinking Of Yourself Less. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
