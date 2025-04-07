@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Fear Allah, for that is fortune; indifference to Allah is misfortune. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
