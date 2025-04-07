@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Fear Allah, for that is fortune; indifference to Allah is misfortune. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't get lost in your pain, know that one day your pain will become your cure. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
