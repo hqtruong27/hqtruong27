@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No One Would Choose A Friendless Existence On Condition Of Having All The Other Things In The World. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
