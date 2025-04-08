@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't get lost in your pain, know that one day your pain will become your cure. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No One Would Choose A Friendless Existence On Condition Of Having All The Other Things In The World. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
