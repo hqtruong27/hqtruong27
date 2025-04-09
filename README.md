@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What Would Be Ugly In A Garden Constitutes Beauty In A Mountain. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Myself Prefer My New Zealand Eggs For Breakfast. - <strong>Elizabeth II ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
