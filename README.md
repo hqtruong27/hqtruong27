@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A man's worth depends upon the nobility of his aspirations. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I was the first one in the gym, and the last one to leave. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
