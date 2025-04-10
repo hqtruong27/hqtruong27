@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Myself Prefer My New Zealand Eggs For Breakfast. - <strong>Elizabeth II ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A man's worth depends upon the nobility of his aspirations. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
