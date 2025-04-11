@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>People Must Learn To Hate And If They Can Learn To Hate, They Can Be Taught To Love. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Past Is A Ghost, The Future A Dream, And All We Ever Have Is Now. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
