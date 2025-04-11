@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I was the first one in the gym, and the last one to leave. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>People Must Learn To Hate And If They Can Learn To Hate, They Can Be Taught To Love. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
