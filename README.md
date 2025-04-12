@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Try something different. Surrender. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This Is One Small Step For A Man, One Giant Leap For Mankind. - <strong>Neil Armstrong ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
