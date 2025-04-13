@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This Is One Small Step For A Man, One Giant Leap For Mankind. - <strong>Neil Armstrong ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When I Am Presented With Good Work, I Accept It. Wherever It Is. - <strong>Phylicia Rashad ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
