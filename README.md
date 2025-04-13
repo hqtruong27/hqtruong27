@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When I Am Presented With Good Work, I Accept It. Wherever It Is. - <strong>Phylicia Rashad ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life Well Spent Is Long. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
