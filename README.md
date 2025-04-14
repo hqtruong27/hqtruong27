@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life Well Spent Is Long. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The weakest man is the one who is able to correct his moral defects, but doesn't take action. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
