@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The weakest man is the one who is able to correct his moral defects, but doesn't take action. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This life is not real. I conquered the world and it did not bring me satisfaction. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
