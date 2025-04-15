@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This life is not real. I conquered the world and it did not bring me satisfaction. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Surely silence can sometimes be the most eloquent reply. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
