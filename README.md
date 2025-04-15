@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Surely silence can sometimes be the most eloquent reply. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be patient; patience is a pillar of faith. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
