@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Think Of All The Beauty Still Left Around You And Be Happy. - <strong>Anne Frank ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
