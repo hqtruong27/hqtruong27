@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Think Of All The Beauty Still Left Around You And Be Happy. - <strong>Anne Frank ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>How could they say that my religion, Islam was a 'race hate' religion after all the plunder and enslavement and domination of my people by white Christians in the name of white supremacy? - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
