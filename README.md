@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As long as you are pure of heart, you speak the truth. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Only Two Things Are Infinite, The Universe And Human Stupidity, And I'M Not Sure About The Former. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
