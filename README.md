@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I am the greatest. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As long as you are pure of heart, you speak the truth. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
