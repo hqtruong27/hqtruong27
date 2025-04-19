@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Have Always Found The Irish A Bit Odd. They Refuse To Be English. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Admiration For A Quality Or An Art Can Be So Strong That It Deters Us From Striving To Possess It. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
