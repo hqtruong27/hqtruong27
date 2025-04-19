@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Only Two Things Are Infinite, The Universe And Human Stupidity, And I'M Not Sure About The Former. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Have Always Found The Irish A Bit Odd. They Refuse To Be English. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
