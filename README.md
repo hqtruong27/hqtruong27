@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Admiration For A Quality Or An Art Can Be So Strong That It Deters Us From Striving To Possess It. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The minute I heard my first love story, I started looking for you, not knowing how blind that was. Lovers don't finally meet somewhere. They're in each other all along. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
