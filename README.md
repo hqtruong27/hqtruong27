@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Listen with ears of tolerance! See through the eyes of compassion! Speak with the language of love. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>An alert and learned man will take advice from any event. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
