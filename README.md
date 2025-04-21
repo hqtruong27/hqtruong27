@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>An alert and learned man will take advice from any event. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Fear Allah, for He alone lives; all other things are liable to perish. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
