@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Fear Allah, for He alone lives; all other things are liable to perish. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Woman Was God'S Second Mistake. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
