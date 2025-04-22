@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Woman Was God'S Second Mistake. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As a child of God, I am greater than anything that can happen to me. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
