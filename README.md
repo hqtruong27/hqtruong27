@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As a child of God, I am greater than anything that can happen to me. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Don'T Have To Be Great To Start, But You Have To Start To Be Great - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
