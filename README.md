@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Don'T Have To Be Great To Start, But You Have To Start To Be Great - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The weakest man is the one who is able to correct his moral defects, but doesn't take action. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
