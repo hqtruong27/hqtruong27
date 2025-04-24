@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Real Loss Is Only Possible When You Love Something More Than You Love Yourself. - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Best Way To Find Out If You Can Trust Somebody Is To Trust Them. - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
