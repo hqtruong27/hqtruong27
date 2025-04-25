@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Best Way To Find Out If You Can Trust Somebody Is To Trust Them. - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Your Time Is Limited, So Don'T Waste It Living Someone Else'S Life. - <strong>Steve Jobs ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
