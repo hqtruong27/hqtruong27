@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Your Time Is Limited, So Don'T Waste It Living Someone Else'S Life. - <strong>Steve Jobs ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
