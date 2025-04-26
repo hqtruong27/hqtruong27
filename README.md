@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Difference Between A Mountain And A Molehill Is Your Perspective. - <strong>Al Neuharth ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
