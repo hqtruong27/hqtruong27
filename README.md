@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Difference Between A Mountain And A Molehill Is Your Perspective. - <strong>Al Neuharth ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>God will not place a burden on a man's shoulders knowing that he cannot carry it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
