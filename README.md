@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To Shipbrokers, Coal Was Black Gold. - <strong>Roald Dahl ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
