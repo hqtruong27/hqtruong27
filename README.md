@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>God will not place a burden on a man's shoulders knowing that he cannot carry it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
