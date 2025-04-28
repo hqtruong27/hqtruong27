@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Your Most Unhappy Customers Are Your Greatest Source Of Learning. - <strong>Bill Gates ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I once had a thousand desires. But in my one desire to know you, all else melted away. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
