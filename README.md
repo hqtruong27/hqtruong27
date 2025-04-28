@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To Shipbrokers, Coal Was Black Gold. - <strong>Roald Dahl ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Your Most Unhappy Customers Are Your Greatest Source Of Learning. - <strong>Bill Gates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
