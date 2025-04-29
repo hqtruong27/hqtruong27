@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The sin which makes you sad and repentant is more liked by Allah than the good deed which turns you arrogant. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
