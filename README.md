@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I once had a thousand desires. But in my one desire to know you, all else melted away. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The sin which makes you sad and repentant is more liked by Allah than the good deed which turns you arrogant. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
