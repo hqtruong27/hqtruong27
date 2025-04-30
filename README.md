@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Go On With This Nuclear Arms Race, All You Are Going To Do Is Make The Rubble Bounce. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
