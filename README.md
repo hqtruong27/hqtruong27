@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Strive Not To Be A Success, But Rather To Be Of Value. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The less of the World, the freer you live. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
