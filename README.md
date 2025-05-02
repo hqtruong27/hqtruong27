@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>O Love, O pure deep Love, be here, be now, be all... - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Run away from greatness and greatness will follow you. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
