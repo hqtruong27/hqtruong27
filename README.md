@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Most Beautiful Thing We Can Experience Is The Mysterious. It Is The Source Of All True Art And Science. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>O Love, O pure deep Love, be here, be now, be all... - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
