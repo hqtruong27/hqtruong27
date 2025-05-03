@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Run away from greatness and greatness will follow you. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When A Man Is Out Of Sight, It Is Not Too Long Before He Is Out Of Mind. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
