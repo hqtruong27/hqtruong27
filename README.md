@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Law Is Reason, Free From Passion. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Soul Never Thinks Without A Picture. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
