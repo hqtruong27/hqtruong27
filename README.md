@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Function Of Muscle Is To Pull And Not To Push, Except In The Case Of The Genitals And The Tongue. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
