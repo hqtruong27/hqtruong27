@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Function Of Muscle Is To Pull And Not To Push, Except In The Case Of The Genitals And The Tongue. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't grieve. Anything you lose comes round in another form. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
