@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't grieve. Anything you lose comes round in another form. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You're not going to enjoy every minute of the journey, but the success you'll find at the end will make it all worth it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
