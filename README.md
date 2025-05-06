@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You're not going to enjoy every minute of the journey, but the success you'll find at the end will make it all worth it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Loyalty To The Country Always. Loyalty To The Government When It Deserves It. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
