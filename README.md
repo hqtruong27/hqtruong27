@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Loyalty To The Country Always. Loyalty To The Government When It Deserves It. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It'S Not What You'Ve Got, It'S What You Use That Makes A Difference. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
