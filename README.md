@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Can Have No Dominion Greater Or Less Than That Over Yourself. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Religions have different names, and they all contain truth, expressed in different ways forms and times. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
