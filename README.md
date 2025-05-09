@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Man Is Descended From A Hairy, Tailed Quadruped, Probably Arboreal In Its Habits. - <strong>Charles Darwin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Roots Of Education Are Bitter, But The Fruit Is Sweet. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
