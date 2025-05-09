@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Roots Of Education Are Bitter, But The Fruit Is Sweet. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I grow silent. Dear soul, you speak. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
