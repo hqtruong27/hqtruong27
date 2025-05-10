@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I grow silent. Dear soul, you speak. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who indulges in falsehood will find the paths of paradise shut to him. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
