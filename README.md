@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>God helps those who fear Him. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whatever pearl you seek, look for the pearl within the pearl! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
