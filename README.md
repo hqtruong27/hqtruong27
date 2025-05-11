@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whatever pearl you seek, look for the pearl within the pearl! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He That Rises Late Must Trot All Day. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
