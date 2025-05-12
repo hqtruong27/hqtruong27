@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We will be remembered only if we give to our younger generation a prosperous and safe India, resulting out of economic prosperity coupled with civilizational heritage. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One Does Not Leave A Convivial Party Before Closing Time. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
