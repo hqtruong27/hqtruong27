@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Good Life Is One Inspired By Love And Guided By Knowledge. - <strong>Bertrand Russell ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If We Cannot Now End Our Differences, At Least We Can Help Make The World Safe For Diversity. - <strong>John F. Kennedy ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
