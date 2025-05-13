@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>One Does Not Leave A Convivial Party Before Closing Time. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Good Life Is One Inspired By Love And Guided By Knowledge. - <strong>Bertrand Russell ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
