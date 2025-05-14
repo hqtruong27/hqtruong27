@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Secret To Humor Is Surprise. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whoever knocks persistently, ends by entering. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
