@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whoever knocks persistently, ends by entering. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Those Who Dare To Fail Miserably Can Achieve Greatly. - <strong>John F. Kennedy ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
