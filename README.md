@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Money Is Only A Tool. It Will Take You Wherever You Wish, But It Will Not Replace You As The Driver. - <strong>Ayn Rand ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Words Are Only Painted Fire; A Look Is The Fire Itself. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
