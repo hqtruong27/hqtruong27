@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>People's hearts are like wild animals. They attach their selves to those that love and train them. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Money Is Only A Tool. It Will Take You Wherever You Wish, But It Will Not Replace You As The Driver. - <strong>Ayn Rand ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
