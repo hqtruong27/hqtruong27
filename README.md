@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Words Are Only Painted Fire; A Look Is The Fire Itself. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The people who abandon Jihad fall a victim to humility and degradation. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
