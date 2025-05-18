@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In your light I learn how to love. In your beauty, how to make poems. You dance inside my chest where no-one sees you, but sometimes I do, and that sight becomes this art. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Technological Progress Is Like An Axe In The Hands Of A Pathological Criminal. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
