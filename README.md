@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Technological Progress Is Like An Axe In The Hands Of A Pathological Criminal. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I'Ve Learned That People Will Forget What You Said, People Will Forget What You Did, But People Will Never Forget How You Made Them Feel. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
