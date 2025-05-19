@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I don't count my situps. I only start counting once it starts hurting. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Inside you there's an artist you don't know about. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
