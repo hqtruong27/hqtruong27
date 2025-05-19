@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'Ve Learned That People Will Forget What You Said, People Will Forget What You Did, But People Will Never Forget How You Made Them Feel. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I don't count my situps. I only start counting once it starts hurting. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
