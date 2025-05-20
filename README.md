@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When Everything Seems To Be Going Against You, Remember That The Airplane Takes Off Against The Wind, Not With It. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Extreme Hopes Are Born From Extreme Misery. - <strong>Bertrand Russell ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
