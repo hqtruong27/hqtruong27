@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>O! Let Me Not Be Mad, Not Mad, Sweet Heaven; Keep Me In Temper; I Would Not Be Mad! - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Where there is ruin, there is hope for a treasure. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
