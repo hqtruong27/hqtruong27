@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Extreme Hopes Are Born From Extreme Misery. - <strong>Bertrand Russell ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>O! Let Me Not Be Mad, Not Mad, Sweet Heaven; Keep Me In Temper; I Would Not Be Mad! - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
