@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To forgive an oppressor is oppression upon the oppressed. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Character May Almost Be Called The Most Effective Means Of Persuasion. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
