@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Where there is ruin, there is hope for a treasure. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To forgive an oppressor is oppression upon the oppressed. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
