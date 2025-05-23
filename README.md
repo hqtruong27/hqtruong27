@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You don't want no pie in the sky when you die, You want something here on the ground while you're still around. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Dog Is A Gentleman; I Hope To Go To His Heaven Not Man'S. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
