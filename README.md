@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Dog Is A Gentleman; I Hope To Go To His Heaven Not Man'S. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Hide the good you do, and make known the good done to you. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
