@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Hide the good you do, and make known the good done to you. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Secret To Humor Is Surprise. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
