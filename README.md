@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Secret To Humor Is Surprise. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The wisest man is he who can account for his actions. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
