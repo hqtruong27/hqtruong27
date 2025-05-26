@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Tolerance and understanding won't 'trickle down' in our society any more than wealth does. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Getting Over A Painful Experience Is Much Like Crossing Monkey Bars. You Have To Let Go At Some Point In Order To Move Forward. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
