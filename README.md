@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Getting Over A Painful Experience Is Much Like Crossing Monkey Bars. You Have To Let Go At Some Point In Order To Move Forward. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Safety lies in silence. It is easier to rectify what you miss by silence, than to secure what you lose by speaking. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
