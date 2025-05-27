@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I learned that every mortal will taste death. But only some will taste life. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Only A Philosophy Of Eternity, In The World Today, Could Justify Non-Violence. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
