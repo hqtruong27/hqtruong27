@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Only A Philosophy Of Eternity, In The World Today, Could Justify Non-Violence. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Look Deep Into Nature, And Then You Will Understand Everything Better. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
