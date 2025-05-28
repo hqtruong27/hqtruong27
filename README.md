@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Look Deep Into Nature, And Then You Will Understand Everything Better. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Way To Get Started Is To Quit Talking And Begin Doing. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
