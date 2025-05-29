@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Am The Literary Equivalent Of A Big Mac And Fries. - <strong>Stephen King ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Convergence of our views on global trade issues under the WTO and our common resolve to combat terrorism provide a valuable base for mutual understanding. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
