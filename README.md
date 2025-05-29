@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Way To Get Started Is To Quit Talking And Begin Doing. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Am The Literary Equivalent Of A Big Mac And Fries. - <strong>Stephen King ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
