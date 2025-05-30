@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Always consider your intellect to be lacking; otherwise too much faith in it surely leads to error. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The people who abandon Jihad fall a victim to humility and degradation. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
