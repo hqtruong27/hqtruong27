@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The people who abandon Jihad fall a victim to humility and degradation. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be active! Take on responsibility! Work for the things you believe in. If you do not, you are surrendering your fate to others. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
