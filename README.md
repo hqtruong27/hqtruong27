@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Courtesy costs nothing, but buys everything. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When We Lose One Blessing, Another Is Often Most Unexpectedly Given In Its Place. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
