@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When We Lose One Blessing, Another Is Often Most Unexpectedly Given In Its Place. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Talent In Cheaper Than Table Salt. What Separates The Talented Individual From The Successful One Is A Lot Of Hard Work. - <strong>Stephen King ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
