@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If This Is Coffee, Please Bring Me Some Tea; But If This Is Tea, Please Bring Me Some Coffee. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
