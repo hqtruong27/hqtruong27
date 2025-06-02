@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Talent In Cheaper Than Table Salt. What Separates The Talented Individual From The Successful One Is A Lot Of Hard Work. - <strong>Stephen King ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Both Oligarch And Tyrant Mistrust The People, And Therefore Deprive Them Of Their Arms. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
