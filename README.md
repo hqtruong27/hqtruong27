@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All Of Our Dreams Can Come True. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Music Was My Refuge. I Could Crawl Into The Space Between The Notes And Curl My Back To Loneliness. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
