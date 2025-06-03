@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If This Is Coffee, Please Bring Me Some Tea; But If This Is Tea, Please Bring Me Some Coffee. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All Of Our Dreams Can Come True. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
