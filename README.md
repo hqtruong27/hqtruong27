@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Music Was My Refuge. I Could Crawl Into The Space Between The Notes And Curl My Back To Loneliness. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Truly great people in history never wanted to be great for themselves. All they wanted was the chance to do good for others and be close to God. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
