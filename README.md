@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Truly great people in history never wanted to be great for themselves. All they wanted was the chance to do good for others and be close to God. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known? - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
