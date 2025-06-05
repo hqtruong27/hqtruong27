@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known? - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Great dreams of great dreamers are always transcended. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
