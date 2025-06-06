@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Cursed Is The Man Who Dies, But The Evil Done By Him Survives. - <strong>Abu Bakr ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do we not realize that self respect comes with self reliance? - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
