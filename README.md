@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The weakest man is the one who is able to correct his moral defects, but doesn't take action. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love Begins At Home, And It Is Not How Much We Do... But How Much Love We Put In That Action. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
