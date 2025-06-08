@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>For 2,500 years, India has never invaded anybody. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Character May Almost Be Called The Most Effective Means Of Persuasion. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
