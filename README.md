@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love Begins At Home, And It Is Not How Much We Do... But How Much Love We Put In That Action. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>For 2,500 years, India has never invaded anybody. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
