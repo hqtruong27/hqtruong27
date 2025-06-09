@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Youth is not restored by the dyeing of your hair. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be like a flower that gives its fragrance even to the hand that crushed it. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
