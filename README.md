@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be like a flower that gives its fragrance even to the hand that crushed it. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Take account of your deeds before they are taken account of. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
