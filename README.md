@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Take account of your deeds before they are taken account of. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To Lengthen Thy Life, Lessen Thy Meals. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
