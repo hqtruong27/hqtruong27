@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Paint Self-Portraits Because I Am So Often Alone, Because I Am The Person I Know Best. - <strong>Frida Kahlo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Lord, Lord, How Subject We Old Men Are To This Vice Of Lying! - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
