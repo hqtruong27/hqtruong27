@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Lord, Lord, How Subject We Old Men Are To This Vice Of Lying! - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I don't count my sit-ups. I only start counting when it starts hurting. When I feel pain, that's when I start counting, because that's when it really counts. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
