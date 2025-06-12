@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I don't count my sit-ups. I only start counting when it starts hurting. When I feel pain, that's when I start counting, because that's when it really counts. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
