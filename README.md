@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let me define a leader. He must have vision and passion and not be afraid of any problem. Instead, he should know how to defeat it. Most importantly, he must work with integrity. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Roots Of All Goodness Lie In The Soil Of Appreciation For Goodness. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
