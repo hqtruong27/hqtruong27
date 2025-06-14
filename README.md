@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Are What We Believe We Are. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Listen with ears of tolerance! See through the eyes of compassion! Speak with the language of love. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
