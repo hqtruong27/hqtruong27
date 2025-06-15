@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If I Were Not A Physicist, I Would Probably Be A Musician. I Often Think In Music. I Live My Daydreams In Music. I See My Life In Terms Of Music. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Shall Require A Substantially New Manner Of Thinking If Mankind Is To Survive. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
