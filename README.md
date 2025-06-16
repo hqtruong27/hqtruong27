@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Man Should Never Neglect His Family For Business. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wherever You Go, Go With All Your Heart. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
