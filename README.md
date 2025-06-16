@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Shall Require A Substantially New Manner Of Thinking If Mankind Is To Survive. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Man Should Never Neglect His Family For Business. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
