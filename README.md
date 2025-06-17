@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I hated every minute of training, but I said, “Don't quit. Suffer now and live the rest of your life as a champion.” - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Impossible is nothing. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
