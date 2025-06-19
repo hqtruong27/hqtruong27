@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Shall The Effect Of This Good Lesson Keeps As Watchman To My Heart. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In a competition of love we'll all share in the victory, no matter who comes first. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
