@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In a competition of love we'll all share in the victory, no matter who comes first. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>People's hearts are like wild animals. They attach their selves to those that love and train them. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
