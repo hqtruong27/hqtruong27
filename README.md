@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who does now know evil will fall into it. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As you start to walk on the way, the way appears. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
