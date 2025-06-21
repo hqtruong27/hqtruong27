@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As you start to walk on the way, the way appears. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Every Aspect Of Western Culture Needs A New Code Of Ethics - A Rational Ethics - As A Precondition Of Rebirth. - <strong>Ayn Rand ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
