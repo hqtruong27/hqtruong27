@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Every Aspect Of Western Culture Needs A New Code Of Ethics - A Rational Ethics - As A Precondition Of Rebirth. - <strong>Ayn Rand ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My Mission In Life Is Not Merely To Survive, But To Thrive; And To Do So With Some Passion, Some Compassion, Some Humor, And Some Style - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
