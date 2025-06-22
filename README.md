@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My Mission In Life Is Not Merely To Survive, But To Thrive; And To Do So With Some Passion, Some Compassion, Some Humor, And Some Style - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Teaching is a very noble profession that shapes the character, caliber, and future of an individual. If the people remember me as a good teacher, that will be the biggest honour for me. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
