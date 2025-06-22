@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Teaching is a very noble profession that shapes the character, caliber, and future of an individual. If the people remember me as a good teacher, that will be the biggest honour for me. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He Who Fears To Weep, Should Learn To Be Kind To Those Who Weep. - <strong>Abu Bakr ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
