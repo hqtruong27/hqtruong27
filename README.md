@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He Who Fears To Weep, Should Learn To Be Kind To Those Who Weep. - <strong>Abu Bakr ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Don'T Have To Be Great To Start, But You Have To Start To Be Great - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
