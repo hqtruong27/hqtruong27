@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Don'T Have To Be Great To Start, But You Have To Start To Be Great - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When you're right, nobody remembers. When you're wrong, nobody forgets. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
