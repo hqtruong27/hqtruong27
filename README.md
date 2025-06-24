@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never Allow Someone To Be Your Priority While Allowing Yourself To Be Their Option. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This Is One Small Step For A Man, One Giant Leap For Mankind. - <strong>Neil Armstrong ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
