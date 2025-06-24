@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you're right, nobody remembers. When you're wrong, nobody forgets. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never Allow Someone To Be Your Priority While Allowing Yourself To Be Their Option. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
