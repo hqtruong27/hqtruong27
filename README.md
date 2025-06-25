@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This Is One Small Step For A Man, One Giant Leap For Mankind. - <strong>Neil Armstrong ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No Man Is Justified In Doing Evil On The Ground Of Expedience. - <strong>Theodore Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
