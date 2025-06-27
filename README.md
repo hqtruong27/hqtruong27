@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>O Love, O pure deep Love, be here, be now, be all... - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Words are a pretext. It is the inner bond that draws one person to another, not words. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
