@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Light up the fire of love inside and blaze the thoughts away. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The art of knowing is knowing what to ignore. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
