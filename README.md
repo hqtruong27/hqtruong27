@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The art of knowing is knowing what to ignore. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Silence is golden when you can't think of a good answer. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
