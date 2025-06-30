@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Like A Man Who Grins When He Fights. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Nations consist of people. And with their effort, a nation can accomplish all it could ever want. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
