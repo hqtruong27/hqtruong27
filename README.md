@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you are greeted then return the greetings more warmly. If you are favored, then repay the obligation manifold; but he who takes the initiative will always excel in merit. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Like A Man Who Grins When He Fights. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
