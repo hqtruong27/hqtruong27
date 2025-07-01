@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Gratitude is the wine for the soul. Go on. Get drunk. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I was willing to accept what I couldn't change. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
