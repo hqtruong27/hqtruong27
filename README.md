@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Nations consist of people. And with their effort, a nation can accomplish all it could ever want. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Gratitude is the wine for the soul. Go on. Get drunk. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
