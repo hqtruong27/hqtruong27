@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He That Can Have Patience Can Have What He Will. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One who thinks and reflects develops his foresight and vision. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
