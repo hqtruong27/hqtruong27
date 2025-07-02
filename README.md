@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I was willing to accept what I couldn't change. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He That Can Have Patience Can Have What He Will. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
