@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>One who thinks and reflects develops his foresight and vision. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>People are of two types, they are either your brothers in faith or your equals in humanity. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
