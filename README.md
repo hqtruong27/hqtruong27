@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Fool can become a Genius when he understands he is a Fool but. A Genius can become a Fool when he understands he is a Genius. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Difference Between A Mountain And A Molehill Is Your Perspective. - <strong>Al Neuharth ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
