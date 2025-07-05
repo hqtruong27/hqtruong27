@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Difference Between A Mountain And A Molehill Is Your Perspective. - <strong>Al Neuharth ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Abstinence from sins is better than seeking help afterwards. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
