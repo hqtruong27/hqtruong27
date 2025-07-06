@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Of all the follies the greatest is to love the world. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Give Me Six Hours To Chop Down A Tree And I Will Spend The First Four Sharpening The Axe. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
