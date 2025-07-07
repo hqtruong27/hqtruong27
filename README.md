@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The art of knowing is knowing what to ignore. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Anger Is Never Without A Reason, But Seldom With A Good One. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
