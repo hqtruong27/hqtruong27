@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A teacher should have a creative mind. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Love Sleep. My Life Has The Tendency To Fall Apart When I'M Awake, You Know? - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
