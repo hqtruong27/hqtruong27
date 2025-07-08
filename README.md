@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Love Sleep. My Life Has The Tendency To Fall Apart When I'M Awake, You Know? - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do not put off today's work until tomorrow, lest work accumulate and you achieve nothing. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
