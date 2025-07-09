@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Feel The Same Way About Disco As I Do About Herpes. - <strong>Hunter S. Thompson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Every nation has to follow a certain policy: Commercial, trade, various other types of policies. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
