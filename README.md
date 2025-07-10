@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Tear off the mask. Your face is glorious. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Wish I Could Give You A Taste Of The Burning Fire Of Love. There Is A Fire Blazing Inside Of Me. If I Cry About It, Or If I Don't, The Fire Is At Work, Night And Day. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
