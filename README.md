@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Every nation has to follow a certain policy: Commercial, trade, various other types of policies. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Tear off the mask. Your face is glorious. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
