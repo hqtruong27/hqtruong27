@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To Jaw-Jaw Is Always Better Than To War-War. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Courage Is What It Takes To Stand Up And Speak; Courage Is Also What It Takes To Sit Down And Listen. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
