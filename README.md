@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Courage Is What It Takes To Stand Up And Speak; Courage Is Also What It Takes To Sit Down And Listen. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who understands humanity seeks solitude. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
