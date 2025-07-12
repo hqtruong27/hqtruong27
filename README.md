@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who understands humanity seeks solitude. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Hated Every Minute Of Training, But I Said, 'Don'T Quit. Suffer Now And Live The Rest Of Your Life As A Champion.' - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
