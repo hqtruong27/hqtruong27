@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There Are Several Good Protections Against Temptation, But The Surest Is Cowardice. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When Everything Seems To Be Going Against You, Remember That The Airplane Takes Off Against The Wind, Not With It. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
