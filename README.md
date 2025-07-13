@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Hated Every Minute Of Training, But I Said, 'Don'T Quit. Suffer Now And Live The Rest Of Your Life As A Champion.' - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There Are Several Good Protections Against Temptation, But The Surest Is Cowardice. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
