@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A man's behavior is the index of the man, and his discourse is the index of his understanding. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do not be too hard, lest you be broken; do not be too soft, lest you be squeezed. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
