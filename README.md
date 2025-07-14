@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When Everything Seems To Be Going Against You, Remember That The Airplane Takes Off Against The Wind, Not With It. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A man's behavior is the index of the man, and his discourse is the index of his understanding. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
