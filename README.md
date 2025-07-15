@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Am The Greatest, I Said That Even Before I Knew I Was. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Have Nothing To Offer But Blood, Toil, Tears And Sweat. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
