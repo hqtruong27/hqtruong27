@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do not be too hard, lest you be broken; do not be too soft, lest you be squeezed. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Am The Greatest, I Said That Even Before I Knew I Was. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
