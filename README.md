@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My wealth is in my knowledge of self, love, and spirituality. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Must Be Global Christians With A Global Vision Because Our God Is A Global God. - <strong>John Stott ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
