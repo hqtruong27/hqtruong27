@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Must Be Global Christians With A Global Vision Because Our God Is A Global God. - <strong>John Stott ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What One Writer Can Make In The Solitude Of One Room Is Something No Power Can Easily Destroy. - <strong>Salman Rushdie ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
