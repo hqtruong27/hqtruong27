@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>God helps those who fear Him. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
