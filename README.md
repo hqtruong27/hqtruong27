@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Can Complain Because Rose Bushes Have Thorns, Or Rejoice Because Thorn Bushes Have Roses. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
