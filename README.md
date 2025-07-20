@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be a lamp, or a lifeboat, or a ladder. Help someone's soul heal. Walk out of your house like a shepherd. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Know Why Divorces Are So Expensive? They'Re Worth It. - <strong>Willie Nelson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
