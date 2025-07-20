@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Can Complain Because Rose Bushes Have Thorns, Or Rejoice Because Thorn Bushes Have Roses. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be a lamp, or a lifeboat, or a ladder. Help someone's soul heal. Walk out of your house like a shepherd. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
