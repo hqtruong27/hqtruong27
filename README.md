@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Know Why Divorces Are So Expensive? They'Re Worth It. - <strong>Willie Nelson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who does not live in the way of his beliefs starts to believe in the way he lives. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
