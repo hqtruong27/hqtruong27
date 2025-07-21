@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who does not live in the way of his beliefs starts to believe in the way he lives. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Others may know pleasure, but pleasure is not happiness. It has no more importance than a shadow following a man. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
