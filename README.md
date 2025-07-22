@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You were born with wings, why prefer to crawl through life? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be Happy In The Moment, That'S Enough. Each Moment Is All We Need, Not More. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
