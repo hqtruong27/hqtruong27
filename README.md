@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be Happy In The Moment, That'S Enough. Each Moment Is All We Need, Not More. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There Are No Facts, Only Interpretations. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
