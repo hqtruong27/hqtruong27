@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Indifference And Neglect Often Do Much More Damage Than Outright Dislike. - <strong>J. K. Rowling ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
