@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sell your cleverness and buy bewilderment. Cleverness is mere opinion. Bewilderment brings intuitive knowledge. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
