@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Indifference And Neglect Often Do Much More Damage Than Outright Dislike. - <strong>J. K. Rowling ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Didn'T Fail The Test, I Just Found 100 Ways To Do It Wrong. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
