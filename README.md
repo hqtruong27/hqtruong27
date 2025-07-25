@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Didn'T Fail The Test, I Just Found 100 Ways To Do It Wrong. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Object Of The Superior Man Is Truth. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
