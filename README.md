@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Object Of The Superior Man Is Truth. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Once We Accept Our Limits, We Go Beyond Them. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
