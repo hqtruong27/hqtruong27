@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Once We Accept Our Limits, We Go Beyond Them. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Not the ones speaking the same language, but the ones sharing the same feeling understand each other. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
