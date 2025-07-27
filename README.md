@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Not the ones speaking the same language, but the ones sharing the same feeling understand each other. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
