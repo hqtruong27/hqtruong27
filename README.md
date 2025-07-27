@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be good to others, that will protect you against evil. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
