@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When The Solution Is Simple, God Is Answering. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
