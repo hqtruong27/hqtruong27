@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be good to others, that will protect you against evil. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
