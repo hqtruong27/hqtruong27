@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When The Solution Is Simple, God Is Answering. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No One Has Ever Become Poor By Giving. - <strong>Anne Frank ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
