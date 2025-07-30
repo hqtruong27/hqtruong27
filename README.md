@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Where there is ruin, there is hope for a treasure. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Our death is our wedding with eternity. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
