@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If You Come To Fame Not Understanding Who You Are, It Will Define Who You Are. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Where there is ruin, there is hope for a treasure. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
