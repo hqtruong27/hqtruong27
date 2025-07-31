@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Our death is our wedding with eternity. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life Loves The Liver Of It. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
