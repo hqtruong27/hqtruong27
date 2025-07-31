@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life Loves The Liver Of It. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be Careless In Your Dress If You Will, But Keep A Tidy Soul. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
