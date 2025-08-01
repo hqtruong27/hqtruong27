@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Risk Comes From Not Knowing What You'Re Doing. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If Everyone Is Moving Forward Together, Then Success Takes Care Of Itself. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
