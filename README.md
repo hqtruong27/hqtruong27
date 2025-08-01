@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be Careless In Your Dress If You Will, But Keep A Tidy Soul. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Risk Comes From Not Knowing What You'Re Doing. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
