@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If Everyone Is Moving Forward Together, Then Success Takes Care Of Itself. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Believe You Can And You'Re Halfway There. - <strong>Theodore Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
