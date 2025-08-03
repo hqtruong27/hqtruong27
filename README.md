@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Feet, What Do I Need You For When I Have Wings To Fly? - <strong>Frida Kahlo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do Not Be Embarrassed By Your Failures, Learn From Them And Start Again. - <strong>Richard Branson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
