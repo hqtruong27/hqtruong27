@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do Not Be Embarrassed By Your Failures, Learn From Them And Start Again. - <strong>Richard Branson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Imagination Is More Important Than Knowledge. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
