@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No boxer in the history of boxing has had Parkinson's. There's no injury in my brain that suggests that the illness came from boxing. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Women are not a garment you wear and undress however you like. They are honored and have their rights. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
