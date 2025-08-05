@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Women are not a garment you wear and undress however you like. They are honored and have their rights. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Make Everything As Simple As Possible, But Not Simpler. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
