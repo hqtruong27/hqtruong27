@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To whatever extent a person's knowledge increases, his attention will be turned more towards his soul. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who becomes a Muslim does so in his own interest. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
