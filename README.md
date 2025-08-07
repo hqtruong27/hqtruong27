@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who becomes a Muslim does so in his own interest. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Make War That We May Live In Peace. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
