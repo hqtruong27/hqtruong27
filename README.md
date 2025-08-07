@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Make War That We May Live In Peace. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Use the same measure for selling that you use for purchasing. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
