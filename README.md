@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The word 'Islam' means 'peace.' The word 'Muslim' means 'one who surrenders to God.' But the press makes us seem like haters. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sit with those who constantly repent, for they have the softest hearts. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
