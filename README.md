@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You've seen my descent, now watch my rising. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The word 'Islam' means 'peace.' The word 'Muslim' means 'one who surrenders to God.' But the press makes us seem like haters. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
