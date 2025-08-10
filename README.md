@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This being human is a guest house. Every morning a new arrival. Welcome and entertain them all! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
