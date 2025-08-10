@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sit with those who constantly repent, for they have the softest hearts. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
