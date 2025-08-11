@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Why Do They Call It Rush Hour When Nothing Moves? - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I'M Not Even Kind Of A Lesbian. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
