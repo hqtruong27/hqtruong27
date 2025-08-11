@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This being human is a guest house. Every morning a new arrival. Welcome and entertain them all! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Why Do They Call It Rush Hour When Nothing Moves? - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
