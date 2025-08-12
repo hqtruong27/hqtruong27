@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Intellectuals Solve Problems, Geniuses Prevent Them. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Riot Is At Bottom The Language Of The Unheard. - <strong>Martin Luther King, Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
