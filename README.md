@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'M Not Even Kind Of A Lesbian. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Intellectuals Solve Problems, Geniuses Prevent Them. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
