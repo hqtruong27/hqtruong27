@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Riot Is At Bottom The Language Of The Unheard. - <strong>Martin Luther King, Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Others may know pleasure, but pleasure is not happiness. It has no more importance than a shadow following a man. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
