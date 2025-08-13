@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Others may know pleasure, but pleasure is not happiness. It has no more importance than a shadow following a man. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Intellectual Property Has The Shelf Life Of A Banana. - <strong>Bill Gates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
