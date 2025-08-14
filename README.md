@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is a matter of shame that in the morning the birds should be awake earlier than you. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Real Problem Is Not Why Some Pious, Humble, Believing People Suffer, But Why Some Do Not. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
