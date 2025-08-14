@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Intellectual Property Has The Shelf Life Of A Banana. - <strong>Bill Gates ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It is a matter of shame that in the morning the birds should be awake earlier than you. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
