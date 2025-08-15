@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Real Problem Is Not Why Some Pious, Humble, Believing People Suffer, But Why Some Do Not. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whether you love God or you love a human being, if you love enough you will come into the presence of Love itself. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
