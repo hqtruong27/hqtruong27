@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whether you love God or you love a human being, if you love enough you will come into the presence of Love itself. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Beautiful people are not always good, but good people are always beautiful. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
