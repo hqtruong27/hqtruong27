@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Beautiful people are not always good, but good people are always beautiful. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Become Dust - And They Will Throw Thee In The Air; Become Stone - And They Will Throw Thee On Glass. - <strong>Muhammad Iqbal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
