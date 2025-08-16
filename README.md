@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Become Dust - And They Will Throw Thee In The Air; Become Stone - And They Will Throw Thee On Glass. - <strong>Muhammad Iqbal ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Disneyland Will Never Be Completed. It Will Continue To Grow As Long As There Is Imagination Left In The World. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
