@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Art Is The Proper Task Of Life. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do Not Fear Mistakes. You Will Know Failure. Continue To Reach Out. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
