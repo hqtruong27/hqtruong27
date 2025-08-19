@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do Not Fear Mistakes. You Will Know Failure. Continue To Reach Out. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Shall The Effect Of This Good Lesson Keeps As Watchman To My Heart. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
