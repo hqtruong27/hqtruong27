@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Shall The Effect Of This Good Lesson Keeps As Watchman To My Heart. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In The Business World, The Rearview Mirror Is Always Clearer Than The Windshield. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
