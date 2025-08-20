@@ -24,7 +24,7 @@
     "discord.js": "^14.3.0",
     "dotenv": "^16.0.1",
     "fs": "0.0.1-security",
-    "puppeteer": "^24.16.2"
+    "puppeteer": "^24.17.0"
   },
   "devDependencies": {
     "jest": "^28.1.3"
