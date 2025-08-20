@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In The Business World, The Rearview Mirror Is Always Clearer Than The Windshield. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Death is the easiest of all things after it, and the hardest of all things before it. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
