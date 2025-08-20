@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Death is the easiest of all things after it, and the hardest of all things before it. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Have an earnestness for death and you will have life. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
