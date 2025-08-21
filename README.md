@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Out beyond ideas of wrongdoing and rightdoing there is a field. I'll meet you there. When the soul lies down in that grass the world is too full to talk about. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Am Certainly Not One Of Those Who Need To Be Prodded. In Fact, If Anything, I Am The Prod. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
