@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who went to the kings to seek favors went away from Allah. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Travel brings power and love back into your life. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
