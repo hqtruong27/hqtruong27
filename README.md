@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Am Certainly Not One Of Those Who Need To Be Prodded. In Fact, If Anything, I Am The Prod. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who went to the kings to seek favors went away from Allah. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
