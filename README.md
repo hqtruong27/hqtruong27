@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If Past History Was All There Was To The Game, The Richest People Would Be Librarians. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Man Wrapped Up In Himself Makes A Very Small Bundle. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
