@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Travel brings power and love back into your life. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If Past History Was All There Was To The Game, The Richest People Would Be Librarians. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
