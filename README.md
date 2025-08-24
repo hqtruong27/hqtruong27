@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Real Problem Is Not Why Some Pious, Humble, Believing People Suffer, But Why Some Do Not. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Patriotism Means To Stand By The Country. It Does Not Mean To Stand By The President. - <strong>Theodore Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
