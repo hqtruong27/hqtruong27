@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Man Wrapped Up In Himself Makes A Very Small Bundle. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Real Problem Is Not Why Some Pious, Humble, Believing People Suffer, But Why Some Do Not. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
