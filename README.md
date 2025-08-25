@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Patriotism Means To Stand By The Country. It Does Not Mean To Stand By The President. - <strong>Theodore Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When you feel a peaceful joy, that's when you are near truth. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
