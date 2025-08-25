@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you feel a peaceful joy, that's when you are near truth. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If your ruler is just, then praise God; but if he is unjust, pray to God to rid you of him. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
