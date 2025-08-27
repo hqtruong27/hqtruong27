@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In the silence of LOVE you will find the Spark of LIFE. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Greed makes man blind and foolish, and makes him an easy prey for death. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
