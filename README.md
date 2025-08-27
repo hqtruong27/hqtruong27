@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>History, Despite Its Wrenching Pain, Cannot Be Unlived, But If Faced With Courage, Need Not Be Lived Again. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In the silence of LOVE you will find the Spark of LIFE. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
