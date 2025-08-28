@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Words Are Only Painted Fire; A Look Is The Fire Itself. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This is a subtle truth. Whatever you love, you are. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
