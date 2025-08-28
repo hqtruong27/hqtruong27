@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Greed makes man blind and foolish, and makes him an easy prey for death. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Words Are Only Painted Fire; A Look Is The Fire Itself. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
