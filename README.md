@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The chess master says nothing, other than moving the silent chess piece. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The angel is free because of his knowledge, the beast because of his ignorance. Between the two remains the son of man to struggle. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
