@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Even The Darkest Night Will End And The Sun Will Rise. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The chess master says nothing, other than moving the silent chess piece. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
