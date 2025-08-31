@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The angel is free because of his knowledge, the beast because of his ignorance. Between the two remains the son of man to struggle. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Friendship is the hardest thing in the world to explain. It's not something you learn in school. But if you haven't learned the meaning of friendship, you really haven't learned anything. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
