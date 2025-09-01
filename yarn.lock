@@ -891,9 +891,9 @@ bare-events@*, bare-events@^2.2.0, bare-events@^2.5.4:
   integrity sha512-AuTJkq9XmE6Vk0FJVNq5QxETrSA/vKHarWVBG5l/JbdCL1prJemiyJqUS0jrlXO0MftuPq4m3YVYhoNc5+aE/g==
 
 bare-fs@^4.0.1:
-  version "4.2.1"
-  resolved "https://registry.npmjs.org/bare-fs/-/bare-fs-4.2.1.tgz"
-  integrity sha512-mELROzV0IhqilFgsl1gyp48pnZsaV9xhQapHLDsvn4d4ZTfbFhcghQezl7FTEDNBcGqLUnNI3lUlm6ecrLWdFA==
+  version "4.2.2"
+  resolved "https://registry.npmjs.org/bare-fs/-/bare-fs-4.2.2.tgz"
+  integrity sha512-5vn+bdnlCYMwETIm1FqQXDP6TYPbxr2uJd88ve40kr4oPbiTZJVrTNzqA3/4sfWZeWKuQR/RkboBt7qEEDtfMA==
   dependencies:
     bare-events "^2.5.4"
     bare-path "^3.0.0"
