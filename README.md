@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The days of life pass away like clouds, so do good while you are alive. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Achieving Life Is Not The Equivalent Of Avoiding Death. - <strong>Ayn Rand ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
