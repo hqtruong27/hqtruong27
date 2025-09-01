@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Achieving Life Is Not The Equivalent Of Avoiding Death. - <strong>Ayn Rand ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Associating with the wise and the knowledgeable people adds to the prestige of a person. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
