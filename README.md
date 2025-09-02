@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Associating with the wise and the knowledgeable people adds to the prestige of a person. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Christian Resolution To Find The World Ugly And Bad Has Made The World Ugly And Bad. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
