@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Christian Resolution To Find The World Ugly And Bad Has Made The World Ugly And Bad. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Think It'S Nice For Women To Try To Be Sexy For Their Man. - <strong>Salma Hayek ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
