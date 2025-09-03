@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He That Displays Too Often His Wife And His Wallet Is In Danger Of Having Both Of Them Borrowed. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
