@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Think It'S Nice For Women To Try To Be Sexy For Their Man. - <strong>Salma Hayek ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I know where I'm going and I know the truth, and I don't have to be what you want me to be. I'm free to be what I want. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
