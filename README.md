@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He That Displays Too Often His Wife And His Wallet Is In Danger Of Having Both Of Them Borrowed. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Come To Fame Not Understanding Who You Are, It Will Define Who You Are. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
