@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If You Come To Fame Not Understanding Who You Are, It Will Define Who You Are. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Like To See A Man Proud Of The Place In Which He Lives. I Like To See A Man Live So That His Place Will Be Proud Of Him. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
