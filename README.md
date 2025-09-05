@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>One Of The Greatest Diseases Is To Be Nobody To Anybody. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Lovely days don't come to you, you should walk to them. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
