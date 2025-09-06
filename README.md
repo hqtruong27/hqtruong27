@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Lovely days don't come to you, you should walk to them. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All That I Am, Or Hope To Be, I Owe To My Angel Mother. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
