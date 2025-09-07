@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>One best book is equal to hundred good friends but one good friend is equal to a library. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be dignified, honest and truthful. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
