@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be soulful. Be kind. Be in love. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One best book is equal to hundred good friends but one good friend is equal to a library. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
