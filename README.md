@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All That I Am, Or Hope To Be, I Owe To My Angel Mother. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
