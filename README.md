@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is Better To Deserve Honors And Not Have Them Than To Have Them And Not Deserve Them. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
