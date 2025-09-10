@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Time Is Always Right To Do What Is Right. - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>For The Woman, The Man Is A Means: The End Is Always The Child. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
