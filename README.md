@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The desire to know your own soul will end all other desires. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Time Is Always Right To Do What Is Right. - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
