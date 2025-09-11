@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>For The Woman, The Man Is A Means: The End Is Always The Child. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>War is never a lasting solution for any problem. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
