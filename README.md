@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>English is necessary as at present original works of science are in English. I believe that in two decades times original works of science will start coming out in our languages. Then we can move over like the Japanese. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is no greater wealth than wisdom, no greater poverty than ignorance; no greater heritage than culture and no greater support than consultation. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
