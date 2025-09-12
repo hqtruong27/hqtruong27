@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is no greater wealth than wisdom, no greater poverty than ignorance; no greater heritage than culture and no greater support than consultation. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't grieve. Anything you lose comes round in another form. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
