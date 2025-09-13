@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't grieve. Anything you lose comes round in another form. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It's lack of faith that makes people afraid of meeting challenges, and I believed in myself. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
