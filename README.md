@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If a sheep dies on the shore of the Euphrates I fear lest Allah ask me to account for it on the Day of Resurrection. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Asceticism is not that you should not own anything, but that nothing should own you. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
