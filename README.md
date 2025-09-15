@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wherever You Go, Go With All Your Heart. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
