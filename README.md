@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Asceticism is not that you should not own anything, but that nothing should own you. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
