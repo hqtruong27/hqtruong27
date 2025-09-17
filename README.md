@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be Brave. Take Risks. Nothing Can Substitute Experience. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If a sheep dies on the shore of the Euphrates I fear lest Allah ask me to account for it on the Day of Resurrection. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
