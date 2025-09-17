@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Raise your words, not voice. It is rain that grows flowers, not thunder. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be Brave. Take Risks. Nothing Can Substitute Experience. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
