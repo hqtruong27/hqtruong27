@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Now you see me, now you don't. George thinks he will, but I know he won't! - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
