@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If a sheep dies on the shore of the Euphrates I fear lest Allah ask me to account for it on the Day of Resurrection. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
