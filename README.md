@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Reciter and listener of the Qur'an are alike in prize and reward. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let Me Alone, And Go In Search Of Someone Else. - <strong>Ali Ibn Abi Talib ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
