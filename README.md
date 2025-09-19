@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Now you see me, now you don't. George thinks he will, but I know he won't! - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Reciter and listener of the Qur'an are alike in prize and reward. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
