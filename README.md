@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let Me Alone, And Go In Search Of Someone Else. - <strong>Ali Ibn Abi Talib ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Patience is the healthiest ingredient of our life. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
