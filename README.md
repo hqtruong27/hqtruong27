@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Patience is the healthiest ingredient of our life. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Failure Is A Detour, Not A Dead-End Street. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
