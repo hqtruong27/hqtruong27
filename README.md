@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Close your eyes, fall in Love, stay there. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It's hard to be humble when you're as great as I am. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
