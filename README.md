@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Travel brings power and love back into your life. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who wins through fraud is not a winner. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
