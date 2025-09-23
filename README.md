@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The More You Like Yourself, The Less You Are Like Anyone Else, Which Makes You Unique. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Travel brings power and love back into your life. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
