@@ -2332,10 +2332,10 @@ pump@^3.0.0:
     end-of-stream "^1.1.0"
     once "^1.3.1"
 
-puppeteer-core@24.22.0:
-  version "24.22.0"
-  resolved "https://registry.npmjs.org/puppeteer-core/-/puppeteer-core-24.22.0.tgz"
-  integrity sha512-oUeWlIg0pMz8YM5pu0uqakM+cCyYyXkHBxx9di9OUELu9X9+AYrNGGRLK9tNME3WfN3JGGqQIH3b4/E9LGek/w==
+puppeteer-core@24.22.1:
+  version "24.22.1"
+  resolved "https://registry.npmjs.org/puppeteer-core/-/puppeteer-core-24.22.1.tgz"
+  integrity sha512-2IuC+w6270i8uCr2wGzD9pOi+JUe1CZn4TgPaonsgNryY1BGMcccdO0XBmekFlLYxkqaHrUMzzZnpc+T33mF9g==
   dependencies:
     "@puppeteer/browsers" "2.10.10"
     chromium-bidi "8.0.0"
@@ -2345,16 +2345,16 @@ puppeteer-core@24.22.0:
     webdriver-bidi-protocol "0.2.11"
     ws "^8.18.3"
 
-puppeteer@^24.22.0:
-  version "24.22.0"
-  resolved "https://registry.npmjs.org/puppeteer/-/puppeteer-24.22.0.tgz"
-  integrity sha512-QabGIvu7F0hAMiKGHZCIRHMb6UoH0QAJA2OaqxEU2tL5noXPrxUcotg2l3ttOA4p1PFnVIGkr6PXRAWlM2evVQ==
+puppeteer@^24.22.1:
+  version "24.22.1"
+  resolved "https://registry.npmjs.org/puppeteer/-/puppeteer-24.22.1.tgz"
+  integrity sha512-jEeKDdJxXrv8Ki0I3q0amyv2FXZhucRG0Oh0EHF+igx8FiPG54y/E97j0+4WxITI7EjwoSxZFyxh61ZJ+TUo2w==
   dependencies:
     "@puppeteer/browsers" "2.10.10"
     chromium-bidi "8.0.0"
     cosmiconfig "^9.0.0"
     devtools-protocol "0.0.1495869"
-    puppeteer-core "24.22.0"
+    puppeteer-core "24.22.1"
     typed-query-selector "^2.12.0"
 
 react-is@^18.0.0:
