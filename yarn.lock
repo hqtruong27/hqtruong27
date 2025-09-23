@@ -1269,9 +1269,9 @@ esutils@^2.0.2:
   integrity sha512-kVscqXk4OCp68SZ0dkgEKVi6/8ij300KBWTJq32P/dYeWTSwK41WyTxalN1eRmA5Z9UU/LX9D7FWSmV9SAYx6g==
 
 events-universal@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/events-universal/-/events-universal-1.0.0.tgz"
-  integrity sha512-1KVXP1Oq8SiC0HsRraCryA4XGrZ2uJgIt/h4X+mB/8pzMKE7L8yBDN2lBlqJZeUwLAt7kf80m/5GX3HvoCrSGA==
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/events-universal/-/events-universal-1.0.1.tgz"
+  integrity sha512-LUd5euvbMLpwOF8m6ivPCbhQeSiYVNb8Vs0fQ8QjXo0JTkEHpz8pxdQf0gStltaPpw0Cca8b39KxvK9cfKRiAw==
   dependencies:
     bare-events "^2.7.0"
 
