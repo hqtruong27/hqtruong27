@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who wins through fraud is not a winner. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Come To Fame Not Understanding Who You Are, It Will Define Who You Are. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
