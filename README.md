@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If You Come To Fame Not Understanding Who You Are, It Will Define Who You Are. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Have New Developing Ties With Japan Whom Always Supports Our Democratic Process And Economic Development. - <strong>Ali A. Saleh ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
