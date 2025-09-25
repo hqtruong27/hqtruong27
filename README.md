@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Undiscovered Country From Whose Bourn No Traveler Returns. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A heart filled with love is like a phoenix that no cage can imprison. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
