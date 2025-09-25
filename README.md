@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Have New Developing Ties With Japan Whom Always Supports Our Democratic Process And Economic Development. - <strong>Ali A. Saleh ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Undiscovered Country From Whose Bourn No Traveler Returns. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
