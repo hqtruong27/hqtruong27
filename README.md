@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A heart filled with love is like a phoenix that no cage can imprison. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The sin which makes you sad and repentant is more liked by Allah than the good deed which turns you arrogant. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
