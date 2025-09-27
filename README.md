@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Money Has Never Made Man Happy, Nor Will It, There Is Nothing In Its Nature To Produce Happiness. The More Of It One Has The More One Wants. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My health is in the hands of Allah, who has ways of testing us. Whatever happens, happens. I a'int the greatest - it's Allah. I gave myself a job. I work for God. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
