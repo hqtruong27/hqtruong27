@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Anything That Won'T Sell, I Don'T Want To Invent. Its Sale Is Proof Of Utility, And Utility Is Success. - <strong>Thomas A. Edison ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
