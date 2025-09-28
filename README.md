@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My health is in the hands of Allah, who has ways of testing us. Whatever happens, happens. I a'int the greatest - it's Allah. I gave myself a job. I work for God. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Anything That Won'T Sell, I Don'T Want To Invent. Its Sale Is Proof Of Utility, And Utility Is Success. - <strong>Thomas A. Edison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
