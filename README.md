@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Champions are not generated from the championship. Champion is generated from something they have in them, desires, dreams, and visions. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I'm most proud of my family. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
