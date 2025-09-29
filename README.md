@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'm most proud of my family. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wherever You Go, Go With All Your Heart. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
