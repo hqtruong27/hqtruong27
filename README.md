@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Being The Richest Man In The Cemetery Doesn'T Matter To Me. Going To Bed At Night Saying We'Ve Done Something Wonderful, That'S What Matters To Me. - <strong>Steve Jobs ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Rest but never quit. Even the sun has a sinking spell each evening. But it always rises the next morning. At sunrise, every soul is born again. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
