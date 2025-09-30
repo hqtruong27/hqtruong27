@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Wherever You Go, Go With All Your Heart. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Being The Richest Man In The Cemetery Doesn'T Matter To Me. Going To Bed At Night Saying We'Ve Done Something Wonderful, That'S What Matters To Me. - <strong>Steve Jobs ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
