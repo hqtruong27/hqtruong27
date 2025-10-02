@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Fear the sins that you commit in secret, because the Witness of those sins is the Judge Himself! - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We are a people whom Allah gave might and glory to through Islam, so we will never seek glory through anything else. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
