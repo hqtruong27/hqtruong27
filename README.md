@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We are a people whom Allah gave might and glory to through Islam, so we will never seek glory through anything else. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Criminal Is Trying To Solve His Immediate Problems. - <strong>Naguib Mahfouz ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
