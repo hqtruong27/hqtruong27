@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It'S Not What You'Ve Got, It'S What You Use That Makes A Difference. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Reality Is Merely An Illusion, Albeit A Very Persistent One. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
