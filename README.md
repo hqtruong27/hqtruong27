@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Criminal Is Trying To Solve His Immediate Problems. - <strong>Naguib Mahfouz ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It'S Not What You'Ve Got, It'S What You Use That Makes A Difference. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
