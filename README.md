@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Allah will help him who moves in the way of Allah. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is The Supreme Art Of The Teacher To Awaken Joy In Creative Expression And Knowledge. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
