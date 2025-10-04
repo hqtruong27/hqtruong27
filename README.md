@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Reality Is Merely An Illusion, Albeit A Very Persistent One. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Allah will help him who moves in the way of Allah. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
