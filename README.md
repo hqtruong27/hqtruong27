@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When Obstacles Arise, You Change Your Direction To Reach Your Goal; You Do Not Change Your Decision To Get There. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Once We Accept Our Limits, We Go Beyond Them. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
