@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is The Supreme Art Of The Teacher To Awaken Joy In Creative Expression And Knowledge. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When Obstacles Arise, You Change Your Direction To Reach Your Goal; You Do Not Change Your Decision To Get There. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
