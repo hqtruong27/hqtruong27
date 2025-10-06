@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Once We Accept Our Limits, We Go Beyond Them. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Everyone's life is a page in the human history irrespective of the position he or she holds or the work he or she performs. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
