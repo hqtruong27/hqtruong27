@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life's search for love and wisdom. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>People of the world don't look at themselves, and so they blame one another. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
