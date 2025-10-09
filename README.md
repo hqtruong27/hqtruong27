@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Every Time You Smile At Someone, It Is An Action Of Love, A Gift To That Person, A Beautiful Thing. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Great dreams of great dreamers are always transcended. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
