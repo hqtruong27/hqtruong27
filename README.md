@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'Ve Learned That People Will Forget What You Said, People Will Forget What You Did, But People Will Never Forget How You Made Them Feel. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Every Time You Smile At Someone, It Is An Action Of Love, A Gift To That Person, A Beautiful Thing. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
