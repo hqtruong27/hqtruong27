@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Great dreams of great dreamers are always transcended. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Speak any language, Turkish, Greek, Persian, Arabic, but always speak with love. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
