@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Airplane Has Had A Big Impact On My Life. - <strong>Jim Courier ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Drag Your Thoughts Away From Your Troubles... By The Ears, By The Heels, Or Any Other Way You Can Manage It. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
