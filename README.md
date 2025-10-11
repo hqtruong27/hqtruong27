@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Impossible is nothing. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Airplane Has Had A Big Impact On My Life. - <strong>Jim Courier ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
