@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Drag Your Thoughts Away From Your Troubles... By The Ears, By The Heels, Or Any Other Way You Can Manage It. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Greed makes man blind and foolish, and makes him an easy prey for death. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
