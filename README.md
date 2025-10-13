@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A developed India by 2020, or even earlier, is not a dream. It need not be a mere vision in the minds of many Indians. It is a mission we can all take up - and succeed. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It's not bragging if you can back it up. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
