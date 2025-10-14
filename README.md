@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Lot Of People Quit Looking For Work As Soon As They Find A Job. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
