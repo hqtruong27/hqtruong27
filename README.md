@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If You Want Others To Be Happy, Practice Compassion. If You Want To Be Happy, Practice Compassion. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Our abode in this world is transitory, our life therein is but a loan, our breaths are numbered and our indolence is manifest. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
