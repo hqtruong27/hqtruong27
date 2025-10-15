@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Everything Has Its Limit - Iron Ore Cannot Be Educated Into Gold. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Want Others To Be Happy, Practice Compassion. If You Want To Be Happy, Practice Compassion. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
