@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Our abode in this world is transitory, our life therein is but a loan, our breaths are numbered and our indolence is manifest. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Where The Spirit Does Not Work With The Hand, There Is No Art. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
