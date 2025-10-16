@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Where The Spirit Does Not Work With The Hand, There Is No Art. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When I Look Into The Future, It'S So Bright It Burns My Eyes. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
