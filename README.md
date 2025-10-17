@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When I Look Into The Future, It'S So Bright It Burns My Eyes. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There Are Two Sides To Every Issue: One Side Is Right And The Other Is Wrong, But The Middle Is Always Evil. - <strong>Ayn Rand ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
