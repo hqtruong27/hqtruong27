@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There Are Two Sides To Every Issue: One Side Is Right And The Other Is Wrong, But The Middle Is Always Evil. - <strong>Ayn Rand ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Miracles Do Not, In Fact, Break The Laws Of Nature. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
