@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Miracles Do Not, In Fact, Break The Laws Of Nature. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When One Has Not Had A Good Father, One Must Create One. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
