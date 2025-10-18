@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When One Has Not Had A Good Father, One Must Create One. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you wish to be a mine of jewels, open the deep ocean within your heart. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
