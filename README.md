@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you wish to be a mine of jewels, open the deep ocean within your heart. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
