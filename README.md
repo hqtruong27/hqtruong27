@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Want You To Be Concerned About Your Next Door Neighbor. Do You Know Your Next Door Neighbor? - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
