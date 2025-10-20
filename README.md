@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>At Times One Remains Faithful To A Cause Only Because Its Opponents Do Not Cease To Be Insipid. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whoever listens to slander is himself a slanderer. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
