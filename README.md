@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whoever listens to slander is himself a slanderer. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Have Nothing To Offer But Blood, Toil, Tears And Sweat. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
