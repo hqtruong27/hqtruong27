@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Have Nothing To Offer But Blood, Toil, Tears And Sweat. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A man may be as straight as an arrow, but even then he will have some critics. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
