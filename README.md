@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A man may be as straight as an arrow, but even then he will have some critics. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There Are No Facts, Only Interpretations. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
