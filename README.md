@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I don't count my situps. I only start counting once it starts hurting. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
