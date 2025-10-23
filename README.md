@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Courtesy costs nothing, but buys everything. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
