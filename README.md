@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>One Of The Greatest Discoveries A Man Makes, One Of His Great Surprises, Is To Find He Can Do What He Was Afraid He Couldn'T Do. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is The Supreme Art Of The Teacher To Awaken Joy In Creative Expression And Knowledge. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
