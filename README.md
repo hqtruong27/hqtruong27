@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is The Supreme Art Of The Teacher To Awaken Joy In Creative Expression And Knowledge. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The people who abandon Jihad fall a victim to humility and degradation. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
