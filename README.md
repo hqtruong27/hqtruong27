@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Strength Does Not Come From Physical Capacity. It Comes From An Indomitable Will. - <strong>Mahatma Gandhi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
