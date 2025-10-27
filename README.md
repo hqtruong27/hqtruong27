@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who does not live in the way of his beliefs starts to believe in the way he lives. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be like a tree and let the dead leaves drop. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
