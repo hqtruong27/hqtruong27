@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Without Music, Life Would Be A Mistake. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Words are a pretext. It is the inner bond that draws one person to another, not words. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
