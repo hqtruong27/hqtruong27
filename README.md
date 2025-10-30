@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Words are a pretext. It is the inner bond that draws one person to another, not words. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The true believer is rewarded in every thing, even in affliction. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
