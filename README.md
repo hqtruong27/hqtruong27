@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Uneasy Lies The Head That Wears A Crown. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Were Born To Win, But To Be A Winner, You Must Plan To Win, Prepare To Win, And Expect To Win. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
