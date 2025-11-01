@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do not put off today's work until tomorrow, lest work accumulate and you achieve nothing. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When you seek advice, do not withhold any facts from the person whose advice you seek. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
