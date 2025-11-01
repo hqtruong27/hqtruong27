@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Acquire knowledge before you become leaders and pride prevents you from learning and you live in ignorance. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do not put off today's work until tomorrow, lest work accumulate and you achieve nothing. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
