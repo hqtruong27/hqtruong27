@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you seek advice, do not withhold any facts from the person whose advice you seek. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Men And Women Belong To Different Species And Communications Between Them Is Still In Its Infancy. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
