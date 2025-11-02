@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Men And Women Belong To Different Species And Communications Between Them Is Still In Its Infancy. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>May Allah bless the man who says less and does more. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
