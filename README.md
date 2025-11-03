@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Economy forced me to become a vegetarian, but I finally starting liking it. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Educated Differ From The Uneducated As Much As The Living From The Dead. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
