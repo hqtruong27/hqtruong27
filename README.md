@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>People's hearts are like wild animals. They attach their selves to those that love and train them. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>May Allah have mercy on him who sends me my faults as a present. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
