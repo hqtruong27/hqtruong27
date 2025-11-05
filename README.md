@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When we practice loving kindness and compassion we are the first ones to profit. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Don'T Believe In Failure. It Is Not Failure If You Enjoyed The Process. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
