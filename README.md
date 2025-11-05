@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>May Allah have mercy on him who sends me my faults as a present. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When we practice loving kindness and compassion we are the first ones to profit. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
