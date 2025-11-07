@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Turn Your Wounds Into Wisdom. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is From Books That Wise People Derive Consolation In The Troubles Of Life. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
