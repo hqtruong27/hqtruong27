@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't get lost in your pain, know that one day your pain will become your cure. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When One Has Not Had A Good Father, One Must Create One. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
