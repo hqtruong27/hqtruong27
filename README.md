@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is From Books That Wise People Derive Consolation In The Troubles Of Life. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't get lost in your pain, know that one day your pain will become your cure. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
