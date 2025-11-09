@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The person I like most is the one who points out my defects. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Silence is an ocean. Speech is a river. When the ocean is searching for you, don't walk into the river. Listen to the ocean. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
