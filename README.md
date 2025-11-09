@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When One Has Not Had A Good Father, One Must Create One. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The person I like most is the one who points out my defects. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
