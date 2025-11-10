@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't take rest after your first victory because if you fail in second, more lips are waiting to say that your first victory was just luck. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In your light I learn how to love. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
