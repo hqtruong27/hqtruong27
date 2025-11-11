@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In your light I learn how to love. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let yourself be silently drawn by the stronger pull of what you really love. In the depths there is a spring with all the water your heart is thirsty for. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
