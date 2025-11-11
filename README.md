@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let yourself be silently drawn by the stronger pull of what you really love. In the depths there is a spring with all the water your heart is thirsty for. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>God Doesn'T Require Us To Succeed, He Only Requires That You Try. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
