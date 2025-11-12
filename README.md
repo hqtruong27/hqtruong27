@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Will Praise Any Man That Will Praise Me. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The More You Like Yourself, The Less You Are Like Anyone Else, Which Makes You Unique. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
