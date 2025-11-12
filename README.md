@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>God Doesn'T Require Us To Succeed, He Only Requires That You Try. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Will Praise Any Man That Will Praise Me. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
