@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Ability Will Never Catch Up With The Demand For It. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>How many lessons there are and how little they are taken. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
