@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>How many lessons there are and how little they are taken. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Many Foxes Grow Gray But Few Grow Good. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
