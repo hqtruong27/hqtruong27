@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Roots Of Education Are Bitter, But The Fruit Is Sweet. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Microsoft Is Not About Greed. It'S About Innovation And Fairness. - <strong>Bill Gates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
