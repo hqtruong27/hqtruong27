@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be like a flower that gives its fragrance even to the hand that crushed it. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who indulges in falsehood will find the paths of paradise shut to him. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
