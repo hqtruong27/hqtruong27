@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Microsoft Is Not About Greed. It'S About Innovation And Fairness. - <strong>Bill Gates ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be like a flower that gives its fragrance even to the hand that crushed it. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
