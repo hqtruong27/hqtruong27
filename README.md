@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>English is necessary as at present original works of science are in English. I believe that in two decades times original works of science will start coming out in our languages. Then we can move over like the Japanese. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This Is The First Convention Of The Space Age - Where A Candidate Can Promise The Moon And Mean It. - <strong>David Brinkley ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
