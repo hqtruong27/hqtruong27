@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Talent In Cheaper Than Table Salt. What Separates The Talented Individual From The Successful One Is A Lot Of Hard Work. - <strong>Stephen King ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He Who Learns But Does Not Think, Is Lost. He Who Thinks But Does Not Learn Is In Great Danger. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
