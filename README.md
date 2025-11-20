@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This Is The First Convention Of The Space Age - Where A Candidate Can Promise The Moon And Mean It. - <strong>David Brinkley ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Talent In Cheaper Than Table Salt. What Separates The Talented Individual From The Successful One Is A Lot Of Hard Work. - <strong>Stephen King ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
