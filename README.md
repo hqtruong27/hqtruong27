@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He Who Learns But Does Not Think, Is Lost. He Who Thinks But Does Not Learn Is In Great Danger. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Give up to grace. The ocean takes care of each wave 'til it gets to shore. You need more help than you know. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
