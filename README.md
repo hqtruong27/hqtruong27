@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Avoidance of sin is lighter than the pain of remorse. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Myself Prefer My New Zealand Eggs For Breakfast. - <strong>Elizabeth II ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
