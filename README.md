@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Feel The Same Way About Disco As I Do About Herpes. - <strong>Hunter S. Thompson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Avoidance of sin is lighter than the pain of remorse. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
