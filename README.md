@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The days of life pass away like clouds, so do good while you are alive. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Cannot Escape The Responsibility Of Tomorrow By Evading It Today. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
