@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Am Enough Of An Artist To Draw Freely Upon My Imagination. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
