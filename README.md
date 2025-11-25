@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Am Enough Of An Artist To Draw Freely Upon My Imagination. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If Allah wants for a people ill, he gives them debates and takes away from them actions. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
