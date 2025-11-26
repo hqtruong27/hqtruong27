@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You are the soul of the soul of the universe, and your name is Love. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is A Mistake To Look Too Far Ahead. Only One Link Of The Chain Of Destiny Can Be Handled At A Time. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
