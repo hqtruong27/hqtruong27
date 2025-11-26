@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If Allah wants for a people ill, he gives them debates and takes away from them actions. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You are the soul of the soul of the universe, and your name is Love. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
