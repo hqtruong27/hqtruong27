@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is A Mistake To Look Too Far Ahead. Only One Link Of The Chain Of Destiny Can Be Handled At A Time. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Allah's the Arabic term for God. Stand up for God, fight for God, work for God and do the right thing, and go the right way, things will end up in your corner. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
