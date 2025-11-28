@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Denial Ain'T Just A River In Egypt. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To Be Happy We Must Not Be Too Concerned With Others. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
