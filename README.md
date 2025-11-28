@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To Be Happy We Must Not Be Too Concerned With Others. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All is known in the sacredness of silence. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
