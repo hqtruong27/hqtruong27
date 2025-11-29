@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is a candle in your heart, ready to be kindled. There is a void in your soul, ready to be filled. You feel it, don't you? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My toughest opponent has always been me. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
