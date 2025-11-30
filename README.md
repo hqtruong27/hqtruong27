@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My toughest opponent has always been me. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Religions have different names, and they all contain truth, expressed in different ways forms and times. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
