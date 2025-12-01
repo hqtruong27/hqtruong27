@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Only Real Progress Lies In Learning To Be Wrong All Alone. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
