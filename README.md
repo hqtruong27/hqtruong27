@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Are Never Too Old To Set Another Goal Or To Dream A New Dream. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
