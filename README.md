@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Only Real Progress Lies In Learning To Be Wrong All Alone. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Are Never Too Old To Set Another Goal Or To Dream A New Dream. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
