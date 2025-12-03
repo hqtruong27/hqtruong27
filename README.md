@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>How could they say that my religion, Islam was a 'race hate' religion after all the plunder and enslavement and domination of my people by white Christians in the name of white supremacy? - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
