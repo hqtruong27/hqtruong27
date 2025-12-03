@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>How could they say that my religion, Islam was a 'race hate' religion after all the plunder and enslavement and domination of my people by white Christians in the name of white supremacy? - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Were Born To Win, But To Be A Winner, You Must Plan To Win, Prepare To Win, And Expect To Win. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
