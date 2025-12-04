@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whatever happens, just keep smiling and lose yourself in Love. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Can'T Deny Laughter; When It Comes, It Plops Down In Your Favorite Chair And Stays As Long As It Wants. - <strong>Stephen King ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
