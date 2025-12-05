@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Just Feel Happy To Be In America, Like I Said, It'S The Most Beautiful Country In The World. - <strong>Ahmed Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A girl is a good deed and a boy is a bounty. Good deeds are rewarded while people are held accountable for bounties. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
