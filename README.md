@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I am the greatest. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I fear the day when the Kuffar are proud of their falsehood, and the Muslims are shy of their faith. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
