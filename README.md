@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Successful Man Is One Who Can Lay A Firm Foundation With The Bricks Others Have Thrown At Him. - <strong>David Brinkley ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I am the greatest. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
