@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Are Not Only Responsible For What You Say, But Also For What You Do Not Say. - <strong>Martin Luther ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Its good to leave each day behind, like flowing water, free of sadness. Yesterday is gone and its tale told. Today new seeds are growing. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
