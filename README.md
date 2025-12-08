@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I fear the day when the Kuffar are proud of their falsehood, and the Muslims are shy of their faith. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Are Not Only Responsible For What You Say, But Also For What You Do Not Say. - <strong>Martin Luther ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
