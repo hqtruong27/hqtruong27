@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Its good to leave each day behind, like flowing water, free of sadness. Yesterday is gone and its tale told. Today new seeds are growing. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Cannot Create Experience. You Must Undergo It. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
