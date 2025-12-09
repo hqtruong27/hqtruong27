@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Cannot Create Experience. You Must Undergo It. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My wealth is in my knowledge of self, love, and spirituality. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
