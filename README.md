@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My wealth is in my knowledge of self, love, and spirituality. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>These Capitalists Generally Act Harmoniously And In Concert, To Fleece The People. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
