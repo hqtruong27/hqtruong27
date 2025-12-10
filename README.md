@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>These Capitalists Generally Act Harmoniously And In Concert, To Fleece The People. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love Begins By Taking Care Of The Closest Ones - The Ones At Home. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
