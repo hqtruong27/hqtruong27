@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love Begins By Taking Care Of The Closest Ones - The Ones At Home. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Disneyland Will Never Be Completed. It Will Continue To Grow As Long As There Is Imagination Left In The World. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
