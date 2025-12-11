@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Disneyland Will Never Be Completed. It Will Continue To Grow As Long As There Is Imagination Left In The World. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There are forces in life working for you and against you. One must distinguish the beneficial forces from the malevolent ones and choose correctly between them. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
