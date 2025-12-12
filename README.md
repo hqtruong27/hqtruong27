@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Life Of Leisure And A Life Of Laziness Are Two Things. There Will Be Sleeping Enough In The Grave. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Eating Words Has Never Given Me Indigestion. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
