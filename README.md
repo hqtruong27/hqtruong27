@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There are forces in life working for you and against you. One must distinguish the beneficial forces from the malevolent ones and choose correctly between them. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Life Of Leisure And A Life Of Laziness Are Two Things. There Will Be Sleeping Enough In The Grave. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
