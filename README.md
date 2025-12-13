@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Eating Words Has Never Given Me Indigestion. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When proven wrong, the wise man will correct himself and the ignorant will keep arguing. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
