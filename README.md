@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Once your mind stretches to a new level it never goes back to its original dimension. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My only fault is that I don't realize how great I really am. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
