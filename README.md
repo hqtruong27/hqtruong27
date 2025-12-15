@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My only fault is that I don't realize how great I really am. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The More You Like Yourself, The Less You Are Like Anyone Else, Which Makes You Unique. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
