@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The More You Like Yourself, The Less You Are Like Anyone Else, Which Makes You Unique. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Was Influenced A Lot By Those Around Me - There Was A Lot Of Singing That Went On In The Cotton Fields. - <strong>Willie Nelson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
