@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Was Influenced A Lot By Those Around Me - There Was A Lot Of Singing That Went On In The Cotton Fields. - <strong>Willie Nelson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My soul is my guide, for my soul is of that abode. I will not speak of the earthly. I am of the unknown. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
