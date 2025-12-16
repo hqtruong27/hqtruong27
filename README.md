@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My soul is my guide, for my soul is of that abode. I will not speak of the earthly. I am of the unknown. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The highest person is he who is of most use to humankind. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
