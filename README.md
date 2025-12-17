@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Man needs his difficulties because they are necessary to enjoy success. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Has Become Appallingly Obvious That Our Technology Has Exceeded Our Humanity. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
