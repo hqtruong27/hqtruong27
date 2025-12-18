@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Has Become Appallingly Obvious That Our Technology Has Exceeded Our Humanity. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Real Loss Is Only Possible When You Love Something More Than You Love Yourself. - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
