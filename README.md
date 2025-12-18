@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Real Loss Is Only Possible When You Love Something More Than You Love Yourself. - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Beware Of Little Expenses. A Small Leak Will Sink A Great Ship. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
