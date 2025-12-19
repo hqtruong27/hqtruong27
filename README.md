@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Beware Of Little Expenses. A Small Leak Will Sink A Great Ship. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Person Who Never Made A Mistake Never Tried Anything New. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
