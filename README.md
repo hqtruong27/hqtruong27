@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Person Who Never Made A Mistake Never Tried Anything New. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Take account of your deeds before they are taken account of. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
