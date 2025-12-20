@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Value Of An Idea Lies In The Using Of It. - <strong>Thomas A. Edison ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Must Be Global Christians With A Global Vision Because Our God Is A Global God. - <strong>John Stott ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
