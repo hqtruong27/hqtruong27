@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Take account of your deeds before they are taken account of. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Value Of An Idea Lies In The Using Of It. - <strong>Thomas A. Edison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
