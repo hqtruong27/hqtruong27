@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Must Be Global Christians With A Global Vision Because Our God Is A Global God. - <strong>John Stott ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Problems are common, but attitude makes the difference. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
