@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Problems are common, but attitude makes the difference. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The time has come to turn your heart into a temple of fire. Your essence is gold hidden in dust. To reveal its splendor you need to burn in the fire of love. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
