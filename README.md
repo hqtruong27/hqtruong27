@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What Doesn'T Kill Us Makes Us Stronger. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You have to dream before your dreams can come true. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
