@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You have to dream before your dreams can come true. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Forgive people so that Allah may forgive you. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
