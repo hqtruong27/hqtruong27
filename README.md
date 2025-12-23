@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Forgive people so that Allah may forgive you. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In Order To Be An Immaculate Member Of A Flock Of Sheep, One Must Above All Be A Sheep Oneself. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
