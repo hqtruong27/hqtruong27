@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It'S Just A Job. Grass Grows, Birds Fly, Waves Pound The Sand. I Beat People Up. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I want to sing like the birds sing, not worrying about who hears or what they think. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
