@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I want to sing like the birds sing, not worrying about who hears or what they think. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is Easier To Stay Out Than Get Out. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
