@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who prays five times a day is in the protection of God, and he who is protected by God cannot be harmed by anyone. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Went To The Bank And Proposed That They Lend Money To The Poor People. The Bankers Almost Fell Over. - <strong>Muhammad Yunus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
