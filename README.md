@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Went To The Bank And Proposed That They Lend Money To The Poor People. The Bankers Almost Fell Over. - <strong>Muhammad Yunus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In General, Mankind, Since The Improvement Of Cookery, Eats Twice As Much As Nature Requires. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
