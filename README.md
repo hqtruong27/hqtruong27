@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Wise Man Can Learn More From A Foolish Question Than A Fool Can Learn From A Wise Answer. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All That I Am, Or Hope To Be, I Owe To My Angel Mother. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
