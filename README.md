@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In General, Mankind, Since The Improvement Of Cookery, Eats Twice As Much As Nature Requires. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Wise Man Can Learn More From A Foolish Question Than A Fool Can Learn From A Wise Answer. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
