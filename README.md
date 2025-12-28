@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Wear gratitude like a cloak and it will feed every corner of your life. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is no greater wealth than wisdom, no greater poverty than ignorance; no greater heritage than culture and no greater support than consultation. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
