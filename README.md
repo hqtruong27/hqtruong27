@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All That I Am, Or Hope To Be, I Owe To My Angel Mother. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wear gratitude like a cloak and it will feed every corner of your life. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
