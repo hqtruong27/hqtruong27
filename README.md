@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Goodbyes are only for those who love with their eyes. Because for those who love with heart and soul there is no such thing as separation. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
