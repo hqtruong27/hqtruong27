@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let Us Live So That When We Come To Die Even The Undertaker Will Be Sorry. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
