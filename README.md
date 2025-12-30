@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let Us Live So That When We Come To Die Even The Undertaker Will Be Sorry. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When In Doubt, Go For The Dick Joke. - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
