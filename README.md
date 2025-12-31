@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is greatness in the fear of God, contentment in faith of God, and honour in humility. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>And you? When will you begin that long journey into yourself? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
