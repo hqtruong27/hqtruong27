@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When In Doubt, Go For The Dick Joke. - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is greatness in the fear of God, contentment in faith of God, and honour in humility. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
