@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>And you? When will you begin that long journey into yourself? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You have escaped the cage. Your wings are stretched out. Now fly. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
