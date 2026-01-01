@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You have escaped the cage. Your wings are stretched out. Now fly. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Allah loves moderation and hates extravagance and excess. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
