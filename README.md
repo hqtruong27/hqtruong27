@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My wealth is in my knowledge of self, love, and spirituality. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The truth was a mirror in the hands of God. It fell, and broke into pieces. Everybody took a piece of it, and they looked at it and thought they had the truth. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
