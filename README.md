@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Allah loves moderation and hates extravagance and excess. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My wealth is in my knowledge of self, love, and spirituality. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
