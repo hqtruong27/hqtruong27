@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My impression of the American people can be summarized by a quotation from Benjamin Franklin, Those things that hurt instruct! I realized that people in this part of the world meet their problems head on. They attempt to get out of them rather than suffer them. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Because I cannot sleep I make music in the night. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
