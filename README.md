@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The truth was a mirror in the hands of God. It fell, and broke into pieces. Everybody took a piece of it, and they looked at it and thought they had the truth. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My impression of the American people can be summarized by a quotation from Benjamin Franklin, Those things that hurt instruct! I realized that people in this part of the world meet their problems head on. They attempt to get out of them rather than suffer them. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
