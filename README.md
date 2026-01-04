@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Because I cannot sleep I make music in the night. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Oh writer! An Angel watches over all you write. Make your writing meaningful for it will eventually return to you and you will be questioned about what you wrote. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
