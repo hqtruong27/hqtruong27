@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Lot Of People Quit Looking For Work As Soon As They Find A Job. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I was willing to accept what I couldn't change. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
