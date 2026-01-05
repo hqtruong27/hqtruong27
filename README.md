@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I was willing to accept what I couldn't change. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Thinking is the capital, Enterprise is the way, Hard Work is the solution. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
