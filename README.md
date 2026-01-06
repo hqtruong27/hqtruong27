@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Thinking is the capital, Enterprise is the way, Hard Work is the solution. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love Is The Only Force Capable Of Transforming An Enemy Into Friend. - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
