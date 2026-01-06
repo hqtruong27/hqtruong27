@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love Is The Only Force Capable Of Transforming An Enemy Into Friend. - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Well-Spent Day Brings Happy Sleep. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
