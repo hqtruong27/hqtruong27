@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Divine Life Is In Touch With The Whole Universe On The Analogy Of The Soul'S Contact With The Body. - <strong>Muhammed Iqbal ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Didn'T Fail The Test, I Just Found 100 Ways To Do It Wrong. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
