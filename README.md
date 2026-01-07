@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Well-Spent Day Brings Happy Sleep. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Divine Life Is In Touch With The Whole Universe On The Analogy Of The Soul'S Contact With The Body. - <strong>Muhammed Iqbal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
