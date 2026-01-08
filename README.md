@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In Order To Be An Immaculate Member Of A Flock Of Sheep, One Must Above All Be A Sheep Oneself. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Purify your eyes, and see the pure world. Your life will fill with radiant forms. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
