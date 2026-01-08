@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Didn'T Fail The Test, I Just Found 100 Ways To Do It Wrong. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In Order To Be An Immaculate Member Of A Flock Of Sheep, One Must Above All Be A Sheep Oneself. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
