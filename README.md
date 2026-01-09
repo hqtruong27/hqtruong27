@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Purify your eyes, and see the pure world. Your life will fill with radiant forms. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Will Carry On Writing, To Be Sure. But I Don'T Know If I Would Want To Publish Again After Harry Potter. - <strong>J. K. Rowling ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
