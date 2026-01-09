@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Will Carry On Writing, To Be Sure. But I Don'T Know If I Would Want To Publish Again After Harry Potter. - <strong>J. K. Rowling ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What keeps me going is goals. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
