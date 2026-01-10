@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What keeps me going is goals. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Time Is Always Right To Do What Is Right. - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
