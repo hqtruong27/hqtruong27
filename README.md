@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Give Me Six Hours To Chop Down A Tree And I Will Spend The First Four Sharpening The Axe. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>These Capitalists Generally Act Harmoniously And In Concert, To Fleece The People. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
