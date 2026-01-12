@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Champions come and go, but to be legendary you got to have heart, more heart than the next man, more than anyone in the world. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Death is teacher enough, true faith is wealth enough, and worship is action enough. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
