@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My soul is my guide, for my soul is of that abode. I will not speak of the earthly. I am of the unknown. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This place is a dream. Only a sleeper considers it real. Then death comes like dawn, and you wake up laughing at what you thought was your grief. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
