@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Death is teacher enough, true faith is wealth enough, and worship is action enough. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My soul is my guide, for my soul is of that abode. I will not speak of the earthly. I am of the unknown. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
