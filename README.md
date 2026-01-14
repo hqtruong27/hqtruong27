@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The middle path is the way to wisdom. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Music Expresses That Which Cannot Be Put Into Words. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
