@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This place is a dream. Only a sleeper considers it real. Then death comes like dawn, and you wake up laughing at what you thought was your grief. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The middle path is the way to wisdom. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
