@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Music Expresses That Which Cannot Be Put Into Words. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>People of the world don't look at themselves, and so they blame one another. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
