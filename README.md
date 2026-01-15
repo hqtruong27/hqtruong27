@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>People of the world don't look at themselves, and so they blame one another. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Many Marriages Would Be Better If The Husband And The Wife Clearly Understood That They Are On The Same Side. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
