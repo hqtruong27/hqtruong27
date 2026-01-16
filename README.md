@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Many Marriages Would Be Better If The Husband And The Wife Clearly Understood That They Are On The Same Side. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Fear only the will of God and you will have no cause to fear anyone else. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
