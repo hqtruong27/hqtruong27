@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Fear only the will of God and you will have no cause to fear anyone else. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is No Use Saying, 'We Are Doing Our Best.' You Have Got To Succeed In Doing What Is Necessary. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
