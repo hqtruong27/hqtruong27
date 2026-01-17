@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Intentions count in your actions. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Women are the field that produces our nation. And if you can't protect your women, you can't protect your nation. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
