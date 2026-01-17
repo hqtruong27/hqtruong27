@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is No Use Saying, 'We Are Doing Our Best.' You Have Got To Succeed In Doing What Is Necessary. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Intentions count in your actions. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
