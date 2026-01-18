@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Women are the field that produces our nation. And if you can't protect your women, you can't protect your nation. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Secret Of Getting Ahead Is Getting Started - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
