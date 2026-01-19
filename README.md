@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Allah's Generosity is connected to gratitude, and gratitude is linked to increase in His generosity. The generosity of Allah will not stop increasing unless the gratitude of the servant ceases. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Feel The Same Way About Disco As I Do About Herpes. - <strong>Hunter S. Thompson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
