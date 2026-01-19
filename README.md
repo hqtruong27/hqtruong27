@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Feel The Same Way About Disco As I Do About Herpes. - <strong>Hunter S. Thompson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Geologists Have A Saying - Rocks Remember. - <strong>Neil Armstrong ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
