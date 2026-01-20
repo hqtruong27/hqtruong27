@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Tolerance Implies No Lack Of Commitment To One'S Own Beliefs. Rather It Condemns The Oppression Or Persecution Of Others. - <strong>John F. Kennedy ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Run away from greatness and greatness will follow you. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
