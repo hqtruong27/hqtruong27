@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Geologists Have A Saying - Rocks Remember. - <strong>Neil Armstrong ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Tolerance Implies No Lack Of Commitment To One'S Own Beliefs. Rather It Condemns The Oppression Or Persecution Of Others. - <strong>John F. Kennedy ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
