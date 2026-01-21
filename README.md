@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Character May Almost Be Called The Most Effective Means Of Persuasion. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who guards his secrets retains control in his own hands. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
