@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Run away from greatness and greatness will follow you. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Character May Almost Be Called The Most Effective Means Of Persuasion. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
