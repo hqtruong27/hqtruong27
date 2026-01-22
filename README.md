@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Champions have to have the skill and the will. But the will must be stronger than the skill. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Greatest Discovery Of All Time Is That A Person Can Change His Future By Merely Changing His Attitude. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
