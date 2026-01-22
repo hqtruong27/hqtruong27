@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who guards his secrets retains control in his own hands. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Champions have to have the skill and the will. But the will must be stronger than the skill. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
