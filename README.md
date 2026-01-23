@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Greatest Discovery Of All Time Is That A Person Can Change His Future By Merely Changing His Attitude. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A calamity does not descend except due to a sin and it is not lifted except with repentance. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
