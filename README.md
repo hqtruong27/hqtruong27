@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A calamity does not descend except due to a sin and it is not lifted except with repentance. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Blessed is he whose own faults keep him from seeing the faults of others. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
