@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When A Person Cannot Deceive Himself The Chances Are Against His Being Able To Deceive Other People. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>That's how you came here, like a star without a name. Move across the night sky with those anonymous lights. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
