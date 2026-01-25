@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>That's how you came here, like a star without a name. Move across the night sky with those anonymous lights. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is one way of breathing that is shameful and constricted. Then, there's another way: a breath of love that takes you all the way to infinity. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
