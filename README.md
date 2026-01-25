@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is one way of breathing that is shameful and constricted. Then, there's another way: a breath of love that takes you all the way to infinity. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Everything Has Its Limit - Iron Ore Cannot Be Educated Into Gold. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
