@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Everything Has Its Limit - Iron Ore Cannot Be Educated Into Gold. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When a nation is surrounded by weaponized nations, she has to equip herself. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
