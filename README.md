@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do we not realize that self respect comes with self reliance? - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My Religion Is Very Simple. My Religion Is Kindness. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
