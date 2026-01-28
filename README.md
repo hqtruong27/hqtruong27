@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My Religion Is Very Simple. My Religion Is Kindness. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Champions Keep Playing Until They Get It Right. - <strong>Billie Jean King ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
