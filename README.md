@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>One who rushes madly after inordinate desire, runs the risk of encountering destruction and death. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Soul Never Thinks Without A Picture. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
