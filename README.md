@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Champions Keep Playing Until They Get It Right. - <strong>Billie Jean King ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One who rushes madly after inordinate desire, runs the risk of encountering destruction and death. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
