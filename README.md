@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Soul Never Thinks Without A Picture. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There Are No Moral Phenomena At All, But Only A Moral Interpretation Of Phenomena. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
