@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Enjoy The Process Far More Than The Proceeds. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Well-Spent Day Brings Happy Sleep. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
