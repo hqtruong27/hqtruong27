@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It is better to listen to a wise enemy than to seek counsel from a foolish friend. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Enjoy The Process Far More Than The Proceeds. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
