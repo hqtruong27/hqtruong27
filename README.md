@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Am Enough Of An Artist To Draw Freely Upon My Imagination. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One May Sometimes Tell A Lie, But The Grimace That Accompanies It Tells The Truth. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
