@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Well-Spent Day Brings Happy Sleep. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Am Enough Of An Artist To Draw Freely Upon My Imagination. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
