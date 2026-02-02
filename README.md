@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>One May Sometimes Tell A Lie, But The Grimace That Accompanies It Tells The Truth. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is Better To Remain Silent And Be Thought A Fool Than To Open One'S Mouth And Remove All Doubt. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
