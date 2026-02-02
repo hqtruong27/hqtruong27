@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is Better To Remain Silent And Be Thought A Fool Than To Open One'S Mouth And Remove All Doubt. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The days of life pass away like clouds, so do good while you are alive. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
