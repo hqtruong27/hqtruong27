@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Airplane Has Had A Big Impact On My Life. - <strong>Jim Courier ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To Give Thanks In Solitude Is Enough. Thanksgiving Has Wings And Goes Where It Must Go. Your Prayer Knows Much More About It Than You Do. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
