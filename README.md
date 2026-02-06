@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be Happy For This Moment. This Moment Is Your Life. - <strong>Omar Khayyam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Faith Is Permitting Ourselves To Be Seized By The Things We Do Not See. - <strong>Martin Luther ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
