@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Faith Is Permitting Ourselves To Be Seized By The Things We Do Not See. - <strong>Martin Luther ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To maintain nice relation with the people is half of intelligence, nice questioning is half of knowledge, and nice domestic arrangements is half of the management of livelihood. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
