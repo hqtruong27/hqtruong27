@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To maintain nice relation with the people is half of intelligence, nice questioning is half of knowledge, and nice domestic arrangements is half of the management of livelihood. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Waiting Is Painful. Forgetting Is Painful. But Not Knowing Which To Do Is The Worse Kind Of Suffering. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
