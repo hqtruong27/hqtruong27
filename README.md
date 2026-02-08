@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All My Life I'Ve Looked At Words As Though I Were Seeing Them For The First Time. - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sit with those who constantly repent, for they have the softest hearts. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
