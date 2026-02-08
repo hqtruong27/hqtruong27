@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sit with those who constantly repent, for they have the softest hearts. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Way You See People Is The Way You Treat Them. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
