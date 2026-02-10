@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The minute I heard my first love story, I started looking for you, not knowing how blind that was. Lovers don't finally meet somewhere. They're in each other all along. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When mother is happy, family is happy. When family is happy, nation is happy. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
