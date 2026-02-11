@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Total commitment is the common denominator among all successful men and women. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Happiness Is When What You Think, What You Say, And What You Do Are In Harmony. - <strong>Mahatma Gandhi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
