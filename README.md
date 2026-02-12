@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Happiness Is When What You Think, What You Say, And What You Do Are In Harmony. - <strong>Mahatma Gandhi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Too Many Have Dispensed With Generosity In Order To Practice Charity. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
