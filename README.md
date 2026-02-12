@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Too Many Have Dispensed With Generosity In Order To Practice Charity. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Suit The Action To The Word, The Word To The Action. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
