@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Suit The Action To The Word, The Word To The Action. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What Can You Do To Promote World Peace? Go Home And Love Your Family. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
