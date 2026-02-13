@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What Can You Do To Promote World Peace? Go Home And Love Your Family. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who wins through fraud is not a winner. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
