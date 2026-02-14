@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who wins through fraud is not a winner. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Good actions are a guard against the blows of adversity. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
