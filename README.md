@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We should remember that there are nations which meet more than 30 to 60% of their power requirements through the nuclear power system. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Are Responsible For Your Life. You Can'T Keep Blaming Somebody Else For Your Dysfunction. Life Is Really About Moving On. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
