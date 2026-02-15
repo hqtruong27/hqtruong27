@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Dream, Dream Dream Dreams transform into thoughts And thoughts result in action. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We should remember that there are nations which meet more than 30 to 60% of their power requirements through the nuclear power system. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
