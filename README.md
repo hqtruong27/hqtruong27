@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Can Complain Because Rose Bushes Have Thorns, Or Rejoice Because Thorn Bushes Have Roses. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who understands humanity seeks solitude. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
