@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who understands humanity seeks solitude. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Very Ink With Which History Is Written Is Merely Fluid Prejudice. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
