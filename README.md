@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Very Ink With Which History Is Written Is Merely Fluid Prejudice. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Hope Is A Waking Dream. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
