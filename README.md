@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Wise Man Can Learn More From A Foolish Question Than A Fool Can Learn From A Wise Answer. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is no nobility with bad manners. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
