@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Hope Is A Waking Dream. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Wise Man Can Learn More From A Foolish Question Than A Fool Can Learn From A Wise Answer. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
