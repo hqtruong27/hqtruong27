@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is no nobility with bad manners. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Common Sense Is The Collection Of Prejudices Acquired By Age Eighteen. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
