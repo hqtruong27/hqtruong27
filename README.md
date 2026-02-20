@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Religions have different names, and they all contain truth, expressed in different ways forms and times. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A heart filled with love is like a phoenix that no cage can imprison. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
