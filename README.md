@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The man with no imagination has no wings. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
