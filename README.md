@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A heart filled with love is like a phoenix that no cage can imprison. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The man with no imagination has no wings. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
