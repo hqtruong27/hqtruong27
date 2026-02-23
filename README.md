@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Quality, Not The Longevity, Of One'S Life Is What Is Important. - <strong>Martin Luther King, Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Have Nothing To Offer But Blood, Toil, Tears And Sweat. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
