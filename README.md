@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Have Nothing To Offer But Blood, Toil, Tears And Sweat. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>God, our Creator, has stored within our minds and personalities, great potential strength and ability. Prayer helps us tap and develop these powers. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
