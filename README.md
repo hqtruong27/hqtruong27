@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never Put Off Till Tomorrow What You Can Do The Day After Tomorrow. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Patience is of two kinds: patience over what pains you, and patience against what you covet. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
