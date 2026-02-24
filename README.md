@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>God, our Creator, has stored within our minds and personalities, great potential strength and ability. Prayer helps us tap and develop these powers. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never Put Off Till Tomorrow What You Can Do The Day After Tomorrow. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
