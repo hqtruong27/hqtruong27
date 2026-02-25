@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Many a spoken word is more piercing than an attack. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whoever knocks persistently, ends by entering. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
