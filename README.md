@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Patience is of two kinds: patience over what pains you, and patience against what you covet. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Many a spoken word is more piercing than an attack. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
