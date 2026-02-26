@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let Blockheads Read What Blockheads Wrote. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Am Certainly Not One Of Those Who Need To Be Prodded. In Fact, If Anything, I Am The Prod. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
