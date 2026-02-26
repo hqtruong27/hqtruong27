@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whoever knocks persistently, ends by entering. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let Blockheads Read What Blockheads Wrote. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
