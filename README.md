@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life is a difficult game. You can win it only by retaining your birthright to be a person. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Success Is A Lousy Teacher. It Seduces Smart People Into Thinking They Can'T Lose. - <strong>Bill Gates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
