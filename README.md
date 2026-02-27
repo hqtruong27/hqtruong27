@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Am Certainly Not One Of Those Who Need To Be Prodded. In Fact, If Anything, I Am The Prod. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life is a difficult game. You can win it only by retaining your birthright to be a person. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
