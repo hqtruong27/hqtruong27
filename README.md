@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Make A Living By What We Get, But We Make A Life By What We Give. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who wins through fraud is not a winner. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
