@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do Not Impose On Others What You Yourself Do Not Desire. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The more knowledge you have, the greater will be your fear of Allah. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
