@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who wins through fraud is not a winner. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do Not Impose On Others What You Yourself Do Not Desire. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
