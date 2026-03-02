@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The more knowledge you have, the greater will be your fear of Allah. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Wish They Would Only Take Me As I Am. - <strong>Vincent Van Gogh ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
