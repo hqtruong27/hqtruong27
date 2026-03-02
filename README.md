@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Wish They Would Only Take Me As I Am. - <strong>Vincent Van Gogh ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Can Have No Dominion Greater Or Less Than That Over Yourself. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
