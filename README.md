@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Can Have No Dominion Greater Or Less Than That Over Yourself. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A man's behavior is the index of the man, and his discourse is the index of his understanding. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
