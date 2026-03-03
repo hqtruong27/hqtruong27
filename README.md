@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A man's behavior is the index of the man, and his discourse is the index of his understanding. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Success is not achieved by winning all the time. Real success comes when we rise after we fall. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
