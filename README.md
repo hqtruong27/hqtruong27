@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It's the repetition of affirmations that leads to belief. And once that belief becomes a deep conviction, things begin to happen. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Lack Of Money Is The Root Of All Evil. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
