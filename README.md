@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Success is not achieved by winning all the time. Real success comes when we rise after we fall. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It's the repetition of affirmations that leads to belief. And once that belief becomes a deep conviction, things begin to happen. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
