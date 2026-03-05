@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Lack Of Money Is The Root Of All Evil. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>And you? When will you begin that long journey into yourself? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
