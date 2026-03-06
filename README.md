@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Dance, when you're broken open. Dance, if you've torn the bandage off. Dance in the middle of the fighting. Dance in your blood. Dance when you're perfectly free. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
