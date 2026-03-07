@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We should not give up and we should not allow the problem to defeat us. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To succeed in your mission, you must have single-minded devotion to your goal. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
