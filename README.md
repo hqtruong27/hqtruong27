@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To succeed in your mission, you must have single-minded devotion to your goal. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If Everyone Is Moving Forward Together, Then Success Takes Care Of Itself. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
