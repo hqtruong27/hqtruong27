@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If Everyone Is Moving Forward Together, Then Success Takes Care Of Itself. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Age is whatever you think it is. You are as old as you think you are. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
