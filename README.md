@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Developing nations want to become developed nations. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There Is More Treasure In Books Than In All The Pirate'S Loot On Treasure Island. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
