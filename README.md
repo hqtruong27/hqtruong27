@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Age is whatever you think it is. You are as old as you think you are. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Developing nations want to become developed nations. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
