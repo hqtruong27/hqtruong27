@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Like A Man Who Grins When He Fights. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Scientific Thought And Its Creation Is The Common And Shared Heritage Of Mankind. - <strong>Abdus Salam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
