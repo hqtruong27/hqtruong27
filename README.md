@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There Is More Treasure In Books Than In All The Pirate'S Loot On Treasure Island. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Like A Man Who Grins When He Fights. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
