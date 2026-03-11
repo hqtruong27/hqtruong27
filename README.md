@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Scientific Thought And Its Creation Is The Common And Shared Heritage Of Mankind. - <strong>Abdus Salam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Your body is sacred. You're far more precious than diamonds and pearls, and you should be covered too. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
