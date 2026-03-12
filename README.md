@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Those who cannot work with their hearts achieve but a hollow, half-hearted success that breeds bitterness all around. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All wars signify the failure of conflict resolution mechanisms, and they need post-war rebuilding of faith, trust and confidence. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
