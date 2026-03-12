@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All wars signify the failure of conflict resolution mechanisms, and they need post-war rebuilding of faith, trust and confidence. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Golden Age Is Before Us, Not Behind Us. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
