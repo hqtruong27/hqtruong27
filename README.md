@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Golden Age Is Before Us, Not Behind Us. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We'Ve All Got Both Light And Dark Inside Us. What Matters Is The Part We Choose To Act On. That'S Who We Really Are. - <strong>J. K. Rowling ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
