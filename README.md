@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We'Ve All Got Both Light And Dark Inside Us. What Matters Is The Part We Choose To Act On. That'S Who We Really Are. - <strong>J. K. Rowling ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I went inside my heart to see how it was. Something there makes me hear the whole world weeping. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
