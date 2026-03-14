@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I went inside my heart to see how it was. Something there makes me hear the whole world weeping. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whatever purifies you is the right path, I will not try to define it. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
