@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whatever purifies you is the right path, I will not try to define it. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Are Responsible For Your Life. You Can'T Keep Blaming Somebody Else For Your Dysfunction. Life Is Really About Moving On. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
