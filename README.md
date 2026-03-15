@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'm too fast. I'm too smart. I'm too pretty. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who aspires to paradise should learn to deal with people with kindness. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
