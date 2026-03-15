@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Are Responsible For Your Life. You Can'T Keep Blaming Somebody Else For Your Dysfunction. Life Is Really About Moving On. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I'm too fast. I'm too smart. I'm too pretty. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
