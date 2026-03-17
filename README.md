@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Jihad is obligatory for the Muslims. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When The Solution Is Simple, God Is Answering. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
