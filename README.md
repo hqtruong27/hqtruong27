@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When The Solution Is Simple, God Is Answering. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Good Head And A Good Heart Are Always A Formidable Combination. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
