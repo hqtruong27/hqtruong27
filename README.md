@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whatever pearl you seek, look for the pearl within the pearl! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
