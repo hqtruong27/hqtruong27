@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Every day is different, and some days are better than others, but no matter how challenging the day, I get up and live it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
