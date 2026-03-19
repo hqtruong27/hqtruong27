@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Every day is different, and some days are better than others, but no matter how challenging the day, I get up and live it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
