@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is From Books That Wise People Derive Consolation In The Troubles Of Life. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
