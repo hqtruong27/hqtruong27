@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As Soon Go Kindle Fire With Snow, As Seek To Quench The Fire Of Love With Words. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
