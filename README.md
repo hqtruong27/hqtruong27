@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is From Books That Wise People Derive Consolation In The Troubles Of Life. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Only Buy Something That You'D Be Perfectly Happy To Hold If The Market Shut Down For 10 Years. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
