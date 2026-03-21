@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Only Buy Something That You'D Be Perfectly Happy To Hold If The Market Shut Down For 10 Years. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>How could they say that my religion, Islam was a 'race hate' religion after all the plunder and enslavement and domination of my people by white Christians in the name of white supremacy? - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
