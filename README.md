@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never Put Off Till Tomorrow What You Can Do The Day After Tomorrow. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
