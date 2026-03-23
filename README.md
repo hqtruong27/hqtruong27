@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No man can have anything better after faith than a woman of righteous character, loving and child-bearing. And no man can have anything worse after unbelief than a sharp-tongued woman of bad character. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is no greater wealth than wisdom, no greater poverty than ignorance; no greater heritage than culture and no greater support than consultation. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
