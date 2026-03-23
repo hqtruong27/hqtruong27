@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No man can have anything better after faith than a woman of righteous character, loving and child-bearing. And no man can have anything worse after unbelief than a sharp-tongued woman of bad character. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
