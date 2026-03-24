@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I have learned to live my life one step, one breath, and one moment at a time, but it was a long road. I set out on a journey of love, seeking truth, peace and understanding. I am still learning. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He That Can Have Patience Can Have What He Will. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
