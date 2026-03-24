@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is no greater wealth than wisdom, no greater poverty than ignorance; no greater heritage than culture and no greater support than consultation. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I have learned to live my life one step, one breath, and one moment at a time, but it was a long road. I set out on a journey of love, seeking truth, peace and understanding. I am still learning. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
