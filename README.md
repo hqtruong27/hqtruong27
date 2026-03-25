@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He That Can Have Patience Can Have What He Will. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He Who Has Never Learned To Obey Cannot Be A Good Commander. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
