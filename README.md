@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He Who Has Never Learned To Obey Cannot Be A Good Commander. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If I could meet anybody? The prophet Muhammad. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
