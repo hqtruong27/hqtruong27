@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Taqwaa is not by praying all night and fasting all day but rather it is abiding by the commands of Allah and staying away from His prohibitions. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He That Can Have Patience Can Have What He Will. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
