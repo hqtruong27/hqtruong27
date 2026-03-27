@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He That Can Have Patience Can Have What He Will. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be like a tree and let the dead leaves drop. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
