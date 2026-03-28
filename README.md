@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Love Sleep. My Life Has The Tendency To Fall Apart When I'M Awake, You Know? - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whoever knocks persistently, ends by entering. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
