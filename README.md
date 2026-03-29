@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Feet, What Do I Need You For When I Have Wings To Fly? - <strong>Frida Kahlo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There's nothing stressful about turning 50 except people reminding you about it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
