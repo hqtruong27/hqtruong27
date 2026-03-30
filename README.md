@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There's nothing stressful about turning 50 except people reminding you about it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When you're right, nobody remembers. When you're wrong, nobody forgets. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
