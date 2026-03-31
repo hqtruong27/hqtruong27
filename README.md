@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Why Do They Call It Rush Hour When Nothing Moves? - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Happiness comes towards those which believe in him. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
