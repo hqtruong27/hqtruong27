@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Happiness comes towards those which believe in him. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Everything in the universe is within you. Ask all from yourself. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
