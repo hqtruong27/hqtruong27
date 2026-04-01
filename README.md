@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Everything in the universe is within you. Ask all from yourself. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Man Who Won'T Die For Something Is Not Fit To Live. - <strong>Martin Luther King, Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
