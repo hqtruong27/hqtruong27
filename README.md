@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Man Who Won'T Die For Something Is Not Fit To Live. - <strong>Martin Luther King, Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Tell Me And I Forget. Teach Me And I Remember. Involve Me And I Learn. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
