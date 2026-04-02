@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Tell Me And I Forget. Teach Me And I Remember. Involve Me And I Learn. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>May Allah have mercy on him who sends me my faults as a present. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
