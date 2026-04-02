@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>May Allah have mercy on him who sends me my faults as a present. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sir, My Concern Is Not Whether God Is On Our Side; My Greatest Concern Is To Be On God'S Side, For God Is Always Right. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
