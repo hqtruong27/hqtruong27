@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never Worry About Numbers. Help One Person At A Time And Always Start With The Person Nearest You. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
