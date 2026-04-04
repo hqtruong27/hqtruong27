@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Our only hope lies in the power of our love, generosity, tolerance and understanding and our commitment to making the world a better place for all... - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When A Hundred Men Stand Together, Each Of Them Loses His Mind And Gets Another One. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
