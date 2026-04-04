@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never Worry About Numbers. Help One Person At A Time And Always Start With The Person Nearest You. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Our only hope lies in the power of our love, generosity, tolerance and understanding and our commitment to making the world a better place for all... - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
