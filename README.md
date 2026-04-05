@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Anger Is Never Without A Reason, But Seldom With A Good One. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Denial Ain'T Just A River In Egypt. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
