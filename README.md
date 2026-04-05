@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When A Hundred Men Stand Together, Each Of Them Loses His Mind And Gets Another One. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Anger Is Never Without A Reason, But Seldom With A Good One. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
