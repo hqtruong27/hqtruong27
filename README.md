@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who fears to weep, should learn to be kind to those who weep. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't be satisfied with stories, how things have gone with others. Unfold your own myth. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
