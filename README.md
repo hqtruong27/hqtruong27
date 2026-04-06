@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Denial Ain'T Just A River In Egypt. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who fears to weep, should learn to be kind to those who weep. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
