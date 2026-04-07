@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't be satisfied with stories, how things have gone with others. Unfold your own myth. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do Not Be Embarrassed By Your Failures, Learn From Them And Start Again. - <strong>Richard Branson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
