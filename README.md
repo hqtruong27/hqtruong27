@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do Not Be Embarrassed By Your Failures, Learn From Them And Start Again. - <strong>Richard Branson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Was Not Created To Be Occupied By Eating Delicious Foods Like Tied Up Cattle. - <strong>Ali Ibn Abi Talib ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
