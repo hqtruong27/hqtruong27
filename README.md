@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Float like a butterfly, sting like a bee. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Even The Darkest Night Will End And The Sun Will Rise. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
