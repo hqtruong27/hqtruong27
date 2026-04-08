@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Was Not Created To Be Occupied By Eating Delicious Foods Like Tied Up Cattle. - <strong>Ali Ibn Abi Talib ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Float like a butterfly, sting like a bee. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
