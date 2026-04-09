@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Even The Darkest Night Will End And The Sun Will Rise. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When A Person Cannot Deceive Himself The Chances Are Against His Being Able To Deceive Other People. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
