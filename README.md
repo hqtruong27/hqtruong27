@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When A Person Cannot Deceive Himself The Chances Are Against His Being Able To Deceive Other People. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>On every dishonest man, there are two watchmen, his possessions, and his way of living. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
