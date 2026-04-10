@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>On every dishonest man, there are two watchmen, his possessions, and his way of living. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Many a spoken word is more piercing than an attack. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
