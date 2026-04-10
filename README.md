@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Many a spoken word is more piercing than an attack. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let'S Pray That The Human Race Never Escapes From Earth To Spread Its Iniquity Elsewhere. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
