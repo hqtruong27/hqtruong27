@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do Not Be Embarrassed By Your Failures, Learn From Them And Start Again. - <strong>Richard Branson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Frazier's got two chances. Slim, and none. And Slim just left town. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
