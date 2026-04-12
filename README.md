@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Frazier's got two chances. Slim, and none. And Slim just left town. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Reciter and listener of the Qur'an are alike in prize and reward. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
