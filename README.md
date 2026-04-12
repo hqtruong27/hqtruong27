@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Reciter and listener of the Qur'an are alike in prize and reward. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My soul is my guide, for my soul is of that abode. I will not speak of the earthly. I am of the unknown. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
