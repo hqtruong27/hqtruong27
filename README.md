@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My soul is my guide, for my soul is of that abode. I will not speak of the earthly. I am of the unknown. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who busies himself with things other than improvement of his own self becomes perplexed in darkness and entangled in ruin. His evil spirits immerse him deep in vices and make his bad actions seem handsome. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
