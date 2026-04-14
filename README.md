@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who is not impressed by sound advice, lacks faith. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I am an ordinary man who worked hard to develop the talent I was given. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
