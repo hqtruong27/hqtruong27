@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Design Is Not Just What It Looks Like And Feels Like. Design Is How It Works. - <strong>Steve Jobs ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who is not impressed by sound advice, lacks faith. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
