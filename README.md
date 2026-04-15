@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In a competition of love we'll all share in the victory, no matter who comes first. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
