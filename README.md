@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I am an ordinary man who worked hard to develop the talent I was given. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In a competition of love we'll all share in the victory, no matter who comes first. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
