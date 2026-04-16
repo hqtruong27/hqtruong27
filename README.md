@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Success Is A Personal Standard, Reaching For The Highest That Is In Us, Becoming All That We Can Be. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Educated Southerner Has No Use For An 'R', Except At The Beginning Of A Word. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
