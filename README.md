@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Educated Southerner Has No Use For An 'R', Except At The Beginning Of A Word. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Good Head And A Good Heart Are Always A Formidable Combination. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
