@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Way To Get Started Is To Quit Talking And Begin Doing. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Even When Laws Have Been Written Down, They Ought Not Always To Remain Unaltered. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
