@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Israel, As The Jewish State, Must Disappear From The Map. - <strong>Ahmed Yassin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>May Allah bless the man who says less and does more. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
