@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Even When Laws Have Been Written Down, They Ought Not Always To Remain Unaltered. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Israel, As The Jewish State, Must Disappear From The Map. - <strong>Ahmed Yassin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
