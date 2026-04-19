@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>May Allah bless the man who says less and does more. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Woman Was God'S Second Mistake. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
