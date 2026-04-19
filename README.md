@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Woman Was God'S Second Mistake. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When a man puts me a question, I judge of his intelligence. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
