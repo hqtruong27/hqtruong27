@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The breezes at dawn have secrets to tell you Don't go back to sleep! You must ask for what you really want. Don't go back to sleep! People are going back and forth across the doorsill where the two worlds touch, The door is round and open Don't go back to sleep! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When you're right, nobody remembers. When you're wrong, nobody forgets. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
