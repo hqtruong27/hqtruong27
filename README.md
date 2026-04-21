@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you're right, nobody remembers. When you're wrong, nobody forgets. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Hunger For Love Is Much More Difficult To Remove Than The Hunger For Bread. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
