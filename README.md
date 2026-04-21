@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Hunger For Love Is Much More Difficult To Remove Than The Hunger For Bread. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Never Gave Up On Country Music Because I Knew What I Was Doing Was Not That Bad. - <strong>Willie Nelson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
