@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Never Gave Up On Country Music Because I Knew What I Was Doing Was Not That Bad. - <strong>Willie Nelson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There's nothing stressful about turning 50 except people reminding you about it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
