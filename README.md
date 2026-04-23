@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Why Do They Call It Rush Hour When Nothing Moves? - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As a young citizen of India, armed with technology and love for my nation, I realize, a small aim is a crime. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
