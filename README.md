@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Intelligence Is The Wife, Imagination Is The Mistress, Memory Is The Servant. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Even The Darkest Night Will End And The Sun Will Rise. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
