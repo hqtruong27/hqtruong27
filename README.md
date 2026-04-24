@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Secret To Humor Is Surprise. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Intelligence Is The Wife, Imagination Is The Mistress, Memory Is The Servant. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
