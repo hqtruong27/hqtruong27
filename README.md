@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Have Always Found The Irish A Bit Odd. They Refuse To Be English. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You show your worth by what you seek. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
