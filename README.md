@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You show your worth by what you seek. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Scientific Thought And Its Creation Is The Common And Shared Heritage Of Mankind. - <strong>Abdus Salam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
