@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Scientific Thought And Its Creation Is The Common And Shared Heritage Of Mankind. - <strong>Abdus Salam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In a democracy, the well-being, individuality and happiness of every citizen is important for the overall prosperity, peace and happiness of the nation. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
