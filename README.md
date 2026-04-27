@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Drag Your Thoughts Away From Your Troubles... By The Ears, By The Heels, Or Any Other Way You Can Manage It. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
