@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He Is Winding The Watch Of His Wit; By And By It Will Strike. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Disneyland Will Never Be Completed. It Will Continue To Grow As Long As There Is Imagination Left In The World. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
