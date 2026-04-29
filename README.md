@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A friend cannot be considered a friend until he is tested in three occasions: in timeof need, behind your back, and after your death. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The breezes at dawn have secrets to tell you Don't go back to sleep! You must ask for what you really want. Don't go back to sleep! People are going back and forth across the doorsill where the two worlds touch, The door is round and open Don't go back to sleep! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
