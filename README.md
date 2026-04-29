@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Disneyland Will Never Be Completed. It Will Continue To Grow As Long As There Is Imagination Left In The World. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A friend cannot be considered a friend until he is tested in three occasions: in timeof need, behind your back, and after your death. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
