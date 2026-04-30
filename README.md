@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Friendship Is A Single Soul Dwelling In Two Bodies. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To The Master'S Honor All Must Turn, Each In Its Track, Without A Sound, Forever Tracing Newton'S Ground. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
