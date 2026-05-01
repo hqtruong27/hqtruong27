@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To The Master'S Honor All Must Turn, Each In Its Track, Without A Sound, Forever Tracing Newton'S Ground. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Not the ones speaking the same language, but the ones sharing the same feeling understand each other. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
