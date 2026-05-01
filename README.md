@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Not the ones speaking the same language, but the ones sharing the same feeling understand each other. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To be a great champion you must believe you are the best. If you're not, pretend you are. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
