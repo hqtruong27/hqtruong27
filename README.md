@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To be a great champion you must believe you are the best. If you're not, pretend you are. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Rivers, ponds, lakes and streams - they all have different names, but they all contain water. Just as religions do - they all contain truths. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
