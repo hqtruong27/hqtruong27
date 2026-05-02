@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Rivers, ponds, lakes and streams - they all have different names, but they all contain water. Just as religions do - they all contain truths. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't engage your heart in grief over the past or you wont be ready for what is coming. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
