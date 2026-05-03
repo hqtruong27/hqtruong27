@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't engage your heart in grief over the past or you wont be ready for what is coming. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Give Me Six Hours To Chop Down A Tree And I Will Spend The First Four Sharpening The Axe. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
