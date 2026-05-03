@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Give Me Six Hours To Chop Down A Tree And I Will Spend The First Four Sharpening The Axe. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One of the very important characteristics of a student is to question. Let the students ask questions. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
