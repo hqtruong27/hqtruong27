@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>One of the very important characteristics of a student is to question. Let the students ask questions. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This is a subtle truth. Whatever you love, you are. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
