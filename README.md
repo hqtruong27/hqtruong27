@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This is a subtle truth. Whatever you love, you are. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Man Will Do Many Things To Get Himself Loved, He Will Do All Things To Get Himself Envied. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
