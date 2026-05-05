@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Man Will Do Many Things To Get Himself Loved, He Will Do All Things To Get Himself Envied. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I am the greatest, I said that even before I knew I was. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
