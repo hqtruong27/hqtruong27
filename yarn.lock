@@ -922,9 +922,9 @@ bare-stream@^2.6.4:
     teex "^1.0.1"
 
 bare-url@^2.2.2:
-  version "2.4.2"
-  resolved "https://registry.npmjs.org/bare-url/-/bare-url-2.4.2.tgz"
-  integrity sha512-/9a2j4ac6ckpmAHvod/ob7x439OAHst/drc2Clnq+reRYd/ovddwcF4LfoxHyNk5AuGBnPg+HqFjmE/Zpq6v0A==
+  version "2.4.3"
+  resolved "https://registry.npmjs.org/bare-url/-/bare-url-2.4.3.tgz"
+  integrity sha512-Kccpc7ACfXaxfeInfqKcZtW4pT5YBn1mesc4sCsun6sRwtbJ4h+sNOaksUpYEJUKfN65YWC6Bw2OJEFiKxq8nQ==
   dependencies:
     bare-path "^3.0.0"
 
