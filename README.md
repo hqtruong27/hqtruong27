@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I am the greatest, I said that even before I knew I was. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wars Are Caused By Undefended Wealth. - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
