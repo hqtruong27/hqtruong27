@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Wars Are Caused By Undefended Wealth. - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Blessed is he whose own faults keep him from seeing the faults of others. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
