@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be like a tree and let the dead leaves drop. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There Is No Substitute For Hard Work. - <strong>Thomas A. Edison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
