@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Blessed is he whose own faults keep him from seeing the faults of others. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be like a tree and let the dead leaves drop. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
