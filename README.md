@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Don'T Want To Make Money, I Just Want To Be Wonderful. - <strong>Marilyn Monroe ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Even If I Knew That Tomorrow The World Would Go To Pieces, I Would Still Plant My Apple Tree. - <strong>Martin Luther ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
