@@ -15,21 +15,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: 'latest'
-        # Create env nodejs
-      - run: npm ci
-      - name: CREATE .ENV FILE 🕐🕑🕒
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
         run: |
-          touch .env
-          echo URI_BANDORI=${{ secrets.URI_BANDORI }} >> .env
-          echo URI_BANDORI_IMAGE=${{ secrets.URI_BANDORI_IMAGE }} >> .env
-          echo URI_LOVE_LIVE=${{ secrets.URI_LOVE_LIVE }} >> .env
-      - name: CRAWL COVER PHOTO 🌪️🌪️🌪️
-        # run script
-        run: npm uninstall puppeteer && npm i puppeteer && npm run start
+          rm -rf ~/.cache/puppeteer
+          npm ci
+
+      - name: Create .env file
+        run: |
+          cat <<EOF > .env
+          URI_BANDORI=${{ secrets.URI_BANDORI }}
+          URI_BANDORI_IMAGE=${{ secrets.URI_BANDORI_IMAGE }}
+          URI_LOVE_LIVE=${{ secrets.URI_LOVE_LIVE }}
+          EOF
+
+      - name: Crawl cover photo
+        run: npm run start
       - name: UPDATE COVER PHOTO (PUSH ON GITHUB) ⬆️⬆️
         # update code
         run: |
