@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There Is No Substitute For Hard Work. - <strong>Thomas A. Edison ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The happiest of people is the one under whose care people are happy because of him, and the most miserable of people is the one under whose care people are miserable because of him. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
