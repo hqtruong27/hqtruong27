@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Even If I Knew That Tomorrow The World Would Go To Pieces, I Would Still Plant My Apple Tree. - <strong>Martin Luther ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In The Depth Of Winter I Finally Learned That There Was In Me An Invincible Summer. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
