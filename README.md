@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In The Depth Of Winter I Finally Learned That There Was In Me An Invincible Summer. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Our greatest strength lies in the gentleness and tenderness of our heart. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
