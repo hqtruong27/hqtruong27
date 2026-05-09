@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Our greatest strength lies in the gentleness and tenderness of our heart. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Inside the Great Mystery that is, we don't really own anything. What is this competition we feel then, before we go, one at a time, through the same gate? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
