@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child. - <strong>Marie Curie ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wherever You Go, Go With All Your Heart. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
