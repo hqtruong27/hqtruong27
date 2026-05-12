@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Everyone Should Be Respected As An Individual, But No One Idolized. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child. - <strong>Marie Curie ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
