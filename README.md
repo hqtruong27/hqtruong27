@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>India should walk on her own shadow - we must have our own development model. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A thousand half-loves must be forsaken to take one whole heart home. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
