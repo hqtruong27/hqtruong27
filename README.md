@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Wherever You Go, Go With All Your Heart. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>India should walk on her own shadow - we must have our own development model. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
