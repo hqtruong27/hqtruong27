@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Too Many Have Dispensed With Generosity In Order To Practice Charity. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is Not The Employer Who Pays The Wages. Employers Only Handle The Money. It Is The Customer Who Pays The Wages. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
