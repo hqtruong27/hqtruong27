@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A thousand half-loves must be forsaken to take one whole heart home. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Too Many Have Dispensed With Generosity In Order To Practice Charity. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
