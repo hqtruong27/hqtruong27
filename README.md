@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is Not The Employer Who Pays The Wages. Employers Only Handle The Money. It Is The Customer Who Pays The Wages. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child. - <strong>Marie Curie ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
