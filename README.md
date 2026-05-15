@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child. - <strong>Marie Curie ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
