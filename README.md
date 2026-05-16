@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As you start to walk on the way, the way appears. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To whatever extent a person's knowledge increases, his attention will be turned more towards his soul. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
