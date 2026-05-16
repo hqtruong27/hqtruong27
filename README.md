@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As you start to walk on the way, the way appears. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
