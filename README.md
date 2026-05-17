@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To whatever extent a person's knowledge increases, his attention will be turned more towards his soul. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All That I Am, Or Hope To Be, I Owe To My Angel Mother. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
