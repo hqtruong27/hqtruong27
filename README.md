@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He Who Angers You Conquers You. - <strong>Elizabeth Kenny ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Has Been My Experience That Folks Who Have No Vices Have Very Few Virtues. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
