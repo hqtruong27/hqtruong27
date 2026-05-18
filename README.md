@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Has Been My Experience That Folks Who Have No Vices Have Very Few Virtues. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Piety is the most solid goodness, and the vilest of what is evil is vice. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
