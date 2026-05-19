@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Piety is the most solid goodness, and the vilest of what is evil is vice. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Reader, Suppose You Were An Idiot. And Suppose You Were A Member Of Congress. But I Repeat Myself. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
