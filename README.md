@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Reader, Suppose You Were An Idiot. And Suppose You Were A Member Of Congress. But I Repeat Myself. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Courtesy costs nothing, but buys everything. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
