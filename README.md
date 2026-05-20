@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Courtesy costs nothing, but buys everything. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do not overeat; that invites disease. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
