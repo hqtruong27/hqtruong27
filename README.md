@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do not overeat; that invites disease. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Force Always Attracts Men Of Low Morality. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
