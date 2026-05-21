@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Force Always Attracts Men Of Low Morality. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Turn Your Wounds Into Wisdom. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
