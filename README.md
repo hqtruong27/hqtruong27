@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Age is whatever you think it is. You are as old as you think you are. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whoever Would Overthrow The Liberty Of A Nation Must Begin By Subduing The Freeness Of Speech. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
