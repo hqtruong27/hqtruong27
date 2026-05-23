@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whoever Would Overthrow The Liberty Of A Nation Must Begin By Subduing The Freeness Of Speech. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As a young citizen of India, armed with technology and love for my nation, I realize, a small aim is a crime. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
