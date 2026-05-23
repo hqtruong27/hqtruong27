@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As a young citizen of India, armed with technology and love for my nation, I realize, a small aim is a crime. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It will be a killer, and a chiller, and a thriller, when I get the gorilla in Manila. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
