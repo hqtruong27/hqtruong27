@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It will be a killer, and a chiller, and a thriller, when I get the gorilla in Manila. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We need to create brand institutions. In the fortune 500 companies, 5 Indian companies are named while 15 are from China though we have similar kind of populations. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
