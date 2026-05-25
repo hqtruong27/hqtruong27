@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Blessed is he whose own faults keep him from seeing the faults of others. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Way You See People Is The Way You Treat Them. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
