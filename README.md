@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Champions come and go, but to be legendary you got to have heart, more heart than the next man, more than anyone in the world. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Prejudice comes from being in the dark; sunlight disinfects it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
