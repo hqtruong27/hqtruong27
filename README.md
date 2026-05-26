@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Asceticism is not that you should not own anything, but that nothing should own you. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Champions come and go, but to be legendary you got to have heart, more heart than the next man, more than anyone in the world. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
