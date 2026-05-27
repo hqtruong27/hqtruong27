@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Take Things As They Are. Punch When You Have To Punch. Kick When You Have To Kick. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is Not The Employer Who Pays The Wages. Employers Only Handle The Money. It Is The Customer Who Pays The Wages. - <strong>Henry Ford ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
