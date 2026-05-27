@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Prejudice comes from being in the dark; sunlight disinfects it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Take Things As They Are. Punch When You Have To Punch. Kick When You Have To Kick. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
