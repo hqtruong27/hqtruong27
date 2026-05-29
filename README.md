@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Believe That Every Person Is Born With Talent. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>At home I am a nice guy: but I don't want the world to know. Humble people, I've found, don't get very far. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
