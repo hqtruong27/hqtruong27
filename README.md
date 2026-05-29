@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Who Could Refrain That Had A Heart To Love And In That Heart Courage To Make Love Known? - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't grieve. Anything you lose comes round in another form. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
