@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There's nothing stressful about turning 50 except people reminding you about it. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Way To Get Started Is To Quit Talking And Begin Doing. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
