@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This being human is a guest house. Every morning a new arrival. Welcome and entertain them all! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All loves are a bridge to Divine love. Yet, those who have not had a taste of it do not know! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
