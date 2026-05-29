@@ -29,8 +29,10 @@ jobs:
         run: |
           rm -rf ~/.cache/puppeteer
           npm ci
-      - name: Install Puppeteer Chrome
-        run: sudo apt-get install -y chromium-browser
+      - name: Install Chromium
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
       - name: Create .env file
         run: |
           cat <<EOF > .env
