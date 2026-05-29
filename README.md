@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Am The Greatest, I Said That Even Before I Knew I Was. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Common Sense Is The Collection Of Prejudices Acquired By Age Eighteen. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
