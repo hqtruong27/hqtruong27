@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't grieve. Anything you lose comes round in another form. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Believe That Every Person Is Born With Talent. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
