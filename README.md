@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All loves are a bridge to Divine love. Yet, those who have not had a taste of it do not know! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Want You To Be Concerned About Your Next Door Neighbor. Do You Know Your Next Door Neighbor? - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
