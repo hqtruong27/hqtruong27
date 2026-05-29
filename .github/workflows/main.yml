@@ -13,7 +13,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    env:
+      PUPPETEER_SKIP_DOWNLOAD: true
     steps:
       - name: Checkout source
         uses: actions/checkout@v5
