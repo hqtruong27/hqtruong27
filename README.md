@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Common Sense Is The Collection Of Prejudices Acquired By Age Eighteen. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I searched for God and found only myself. I searched for myself and found only God. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
