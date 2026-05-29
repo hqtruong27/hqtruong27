@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If You Can'T Fly Then Run, If You Can'T Run Then Walk, If You Can'T Walk Then Crawl, But Whatever You Do You Have To Keep Moving Forward. - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Three Can Keep A Secret, If Two Of Them Are Dead. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
