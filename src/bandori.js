@@ -213,9 +213,9 @@ const crawlOld = async () => {
 
 const crawl = async () => {
   const browser = await puppeteer.launch({
-    headless: true,
-    defaultViewport: null,
-    args: ["--no-sandbox"],
+      headless: true,
+      defaultViewport: null,
+      args: ['--no-sandbox','--disable-setuid-sandbox']
   });
 
   // Open main page outside the loop
