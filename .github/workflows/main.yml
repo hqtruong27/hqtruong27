@@ -27,7 +27,7 @@ jobs:
       - name: Install Puppeteer Chrome
         run: |
           rm -rf ~/.cache/puppeteer
-          npx puppeteer browsers install chrome
+          npx puppeteer install
 
       - name: Create .env file
         run: |
