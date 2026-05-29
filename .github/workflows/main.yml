@@ -15,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PUPPETEER_SKIP_DOWNLOAD: true
+      PUPPETEER_CACHE_DIR: /tmp/puppeteer
     steps:
       - name: Checkout source
         uses: actions/checkout@v5
@@ -32,7 +33,7 @@ jobs:
       - name: Install Chromium
         run: |
           sudo apt-get update
-          sudo apt-get install -y chromium-browser
+          sudo apt-get install -y chromium
       - name: Create .env file
         run: |
           cat <<EOF > .env
