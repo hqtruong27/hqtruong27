@@ -13,7 +13,7 @@ const crawl_full = async () => {
             headless: true,
             defaultViewport: null,
             args: ['--no-sandbox','--disable-setuid-sandbox'],
-            executablePath: '/usr/bin/chromium-browser'
+            executablePath: '/usr/bin/chromium'
         })
 
         try {
