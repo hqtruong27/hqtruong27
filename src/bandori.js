@@ -12,7 +12,8 @@ const crawl_full = async () => {
         const browser = await puppeteer.launch({
             headless: true,
             defaultViewport: null,
-            args: ['--no-sandbox']
+            args: ['--no-sandbox','--disable-setuid-sandbox'],
+            executablePath: 'chromium-browser'
         })
 
         try {
