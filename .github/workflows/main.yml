@@ -28,7 +28,8 @@ jobs:
         run: |
           rm -rf ~/.cache/puppeteer
           npm ci
-
+      - name: Install Puppeteer Chrome
+        run: npx puppeteer browsers install chrome
       - name: Create .env file
         run: |
           cat <<EOF > .env
