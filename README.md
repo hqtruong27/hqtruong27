@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Look at the sky. We are not alone. The whole universe is friendly to us and conspires only to give the best to those who dream and work. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Luxury is an obstacle, and so is the fatness of the body. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
