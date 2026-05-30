@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Luxury is an obstacle, and so is the fatness of the body. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who is not impressed by sound advice, lacks faith. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
