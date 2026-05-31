@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Convictions Are More Dangerous Foes Of Truth Than Lies. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Speak any language, Turkish, Greek, Persian, Arabic, but always speak with love. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
