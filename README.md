@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Bad Men Are Full Of Repentance. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Convictions Are More Dangerous Foes Of Truth Than Lies. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
