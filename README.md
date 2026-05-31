@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Speak any language, Turkish, Greek, Persian, Arabic, but always speak with love. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Secret Of Getting Ahead Is Getting Started - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
