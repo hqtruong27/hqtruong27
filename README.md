@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Don'T Believe In Failure. It Is Not Failure If You Enjoyed The Process. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you lose a big fight, it will worry you all of your life. It will plague you - until you get your revenge. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
