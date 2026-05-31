@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who is not impressed by sound advice, lacks faith. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Bad Men Are Full Of Repentance. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
