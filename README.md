@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'm young, I'm handsome, I'm fast, I'm pretty, and can't possibly be beat. They must fall in the round I call. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Don'T Believe In Failure. It Is Not Failure If You Enjoyed The Process. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
