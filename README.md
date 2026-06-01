@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you lose a big fight, it will worry you all of your life. It will plague you - until you get your revenge. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Lord Prefers Common-Looking People. That Is Why He Makes So Many Of Them. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
