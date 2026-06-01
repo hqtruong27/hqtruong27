@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Lord Prefers Common-Looking People. That Is Why He Makes So Many Of Them. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be patient; patience is a pillar of faith. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
