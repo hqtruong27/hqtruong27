@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be patient; patience is a pillar of faith. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whatever pearl you seek, look for the pearl within the pearl! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
