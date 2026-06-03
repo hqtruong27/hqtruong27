@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Without Freedom, No Art; Art Lives Only On The Restraints It Imposes On Itself, And Dies Of All Others. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Past Is A Ghost, The Future A Dream, And All We Ever Have Is Now. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
