@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do not be misled by hearing of anyone's reputation. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>This Is One Small Step For A Man, One Giant Leap For Mankind. - <strong>Neil Armstrong ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
