@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>This Is One Small Step For A Man, One Giant Leap For Mankind. - <strong>Neil Armstrong ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You have to keep breaking your heart until it opens. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
