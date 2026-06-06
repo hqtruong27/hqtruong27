@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Courage Is Grace Under Pressure. - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
