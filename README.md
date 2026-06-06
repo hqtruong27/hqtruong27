@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Courage Is Grace Under Pressure. - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Ain'T What You Don'T Know That Gets You Into Trouble. It'S What You Know For Sure That Just Ain'T So. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
