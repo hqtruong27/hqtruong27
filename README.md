@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In the big leagues everyone has ability. It always comes down to mind games. Who ever is more mentally strong-wins. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Here is a relationship booster that is guaranteed to work: Every time your spouse or lover says something stupid make your eyes light up as if you just heard something brilliant. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
