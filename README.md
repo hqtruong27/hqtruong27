@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Ain'T What You Don'T Know That Gets You Into Trouble. It'S What You Know For Sure That Just Ain'T So. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In the big leagues everyone has ability. It always comes down to mind games. Who ever is more mentally strong-wins. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
