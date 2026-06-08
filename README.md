@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Here is a relationship booster that is guaranteed to work: Every time your spouse or lover says something stupid make your eyes light up as if you just heard something brilliant. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The best companion and helper is admirable morals. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
