@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The best companion and helper is admirable morals. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Two Great European Narcotics, Alcohol And Christianity. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
