@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Two Great European Narcotics, Alcohol And Christianity. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Best Way To Get A Bad Law Repealed Is To Enforce It Strictly. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
