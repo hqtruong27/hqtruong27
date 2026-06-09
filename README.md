@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Best Way To Get A Bad Law Repealed Is To Enforce It Strictly. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up. - <strong>Hunter S. Thompson ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
