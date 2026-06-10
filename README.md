@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All Great Achievements Require Time. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To Be A Christian Means To Forgive The Inexcusable Because God Has Forgiven The Inexcusable In You. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
