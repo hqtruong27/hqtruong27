@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up. - <strong>Hunter S. Thompson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All Great Achievements Require Time. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
