@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sleeping Is No Mean Art: For Its Sake One Must Stay Awake All Day. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Even the greatest was once a beginner. Don't be afraid to take that first step. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
