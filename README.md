@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Like your body your mind also gets tired so refresh it by wise sayings. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
