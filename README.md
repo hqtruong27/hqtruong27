@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Everything in the universe is within you. Ask all from yourself. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Like your body your mind also gets tired so refresh it by wise sayings. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
