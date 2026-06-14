@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Superior Man Acts Before He Speaks, And Afterwards Speaks According To His Action. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
