@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Superior Man Acts Before He Speaks, And Afterwards Speaks According To His Action. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The bird is powered by its own life and by its motivation. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
