@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The bird is powered by its own life and by its motivation. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do not be an arrogant scholar, for scholarship cannot subsist with arrogance. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
