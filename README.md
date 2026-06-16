@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Efforts And Courage Are Not Enough Without Purpose And Direction. - <strong>John F. Kennedy ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I have never regretted my silence. As for my speech, I have regretted it over and over again. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
