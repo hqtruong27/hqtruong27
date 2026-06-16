@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What keeps me going is goals. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Efforts And Courage Are Not Enough Without Purpose And Direction. - <strong>John F. Kennedy ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
