@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Like Not Fair Terms And A Villain'S Mind. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Say That The Most Liberating Thing About Beauty Is Realizing That You Are The Beholder. - <strong>Salma Hayek ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
