@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Say That The Most Liberating Thing About Beauty Is Realizing That You Are The Beholder. - <strong>Salma Hayek ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Educated Differ From The Uneducated As Much As The Living From The Dead. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
