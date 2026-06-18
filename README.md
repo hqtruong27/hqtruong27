@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Educated Differ From The Uneducated As Much As The Living From The Dead. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Of all the follies the greatest is to love the world. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
