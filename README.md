@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Of all the follies the greatest is to love the world. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In Order To Succeed, Your Desire For Success Should Be Greater Than Your Fear Of Failure. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
