@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In Order To Succeed, Your Desire For Success Should Be Greater Than Your Fear Of Failure. - <strong>Bill Cosby ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Shine like the whole universe is yours. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
