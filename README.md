@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Shine like the whole universe is yours. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sports For Me Is When A Guy Walks Off The Court, And You Really Can'T Tell Whether He Won Or Lost, When He Carries Himself With Pride Either Way. - <strong>Jim Courier ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
