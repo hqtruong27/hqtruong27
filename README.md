@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Sports For Me Is When A Guy Walks Off The Court, And You Really Can'T Tell Whether He Won Or Lost, When He Carries Himself With Pride Either Way. - <strong>Jim Courier ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who does not live in the way of his beliefs starts to believe in the way he lives. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
