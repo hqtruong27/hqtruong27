@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The outcome of fear is disappointment and shyness is frustration. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Undiscovered Country From Whose Bourn No Traveler Returns. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
