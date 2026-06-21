@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who does not live in the way of his beliefs starts to believe in the way he lives. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The outcome of fear is disappointment and shyness is frustration. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
