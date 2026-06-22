@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Undiscovered Country From Whose Bourn No Traveler Returns. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Live life as if its rigged in your favor. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
