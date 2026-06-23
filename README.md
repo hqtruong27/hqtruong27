@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>People's hearts are like wild animals. They attach their selves to those that love and train them. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Anger Is Never Without A Reason, But Seldom With A Good One. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
