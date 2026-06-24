@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When mother is happy, family is happy. When family is happy, nation is happy. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What hurts you, blesses you. Darkness is your candle. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
