@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What hurts you, blesses you. Darkness is your candle. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Purify your eyes, and see the pure world. Your life will fill with radiant forms. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
