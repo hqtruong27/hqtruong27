@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Purify your eyes, and see the pure world. Your life will fill with radiant forms. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We have one life; it soon will be past; what we do for God is all that will last. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
