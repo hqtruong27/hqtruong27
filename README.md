@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We have one life; it soon will be past; what we do for God is all that will last. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Have Found The Paradox, That If You Love Until It Hurts, There Can Be No More Hurt, Only More Love. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
