@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Have Found The Paradox, That If You Love Until It Hurts, There Can Be No More Hurt, Only More Love. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Close your eyes, fall in Love, stay there. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
