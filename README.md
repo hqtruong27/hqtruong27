@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Close your eyes, fall in Love, stay there. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If This Is Coffee, Please Bring Me Some Tea; But If This Is Tea, Please Bring Me Some Coffee. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
