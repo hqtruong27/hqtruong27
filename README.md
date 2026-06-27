@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If This Is Coffee, Please Bring Me Some Tea; But If This Is Tea, Please Bring Me Some Coffee. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who does not live in the way of his beliefs starts to believe in the way he lives. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
