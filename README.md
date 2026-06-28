@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Where There Is No Struggle, There Is No Strength. - <strong>Oprah Winfrey ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>These pains you feel are messengers. Listen to them. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
