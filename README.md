@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>These pains you feel are messengers. Listen to them. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The desire to know your own soul will end all other desires. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
