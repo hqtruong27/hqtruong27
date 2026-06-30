@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Have Enemies? Good. That Means You'Ve Stood Up For Something, Sometime In Your Life. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Work Consists Of Whatever A Body Is Obliged To Do. Play Consists Of Whatever A Body Is Not Obliged To Do. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
