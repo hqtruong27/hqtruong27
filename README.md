@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Where Sense Is Wanting, Everything Is Wanting. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Have Enemies? Good. That Means You'Ve Stood Up For Something, Sometime In Your Life. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
