@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Work Consists Of Whatever A Body Is Obliged To Do. Play Consists Of Whatever A Body Is Not Obliged To Do. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All The Great Things Are Simple, And Many Can Be Expressed In A Single Word: Freedom, Justice, Honor, Duty, Mercy, Hope. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
