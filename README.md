@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Enjoy The Process Far More Than The Proceeds. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Like Your Brother And He'S Prospering, You'Ll Be Pleased For Him. - <strong>Hamad Bin Isa Al Khalifa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
