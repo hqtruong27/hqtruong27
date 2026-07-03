@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Believe You Can And You'Re Halfway There. - <strong>Theodore Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Quality, Not The Longevity, Of One'S Life Is What Is Important. - <strong>Martin Luther King, Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
