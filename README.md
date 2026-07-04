@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Rule No.1: Never Lose Money. Rule No.2: Never Forget Rule No.1. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Whatever Your Heart Clings To And Confides In, That Is Really Your God. - <strong>Martin Luther ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
