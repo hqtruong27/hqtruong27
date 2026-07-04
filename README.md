@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'm gonna whup whoever stole my bike! - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Rule No.1: Never Lose Money. Rule No.2: Never Forget Rule No.1. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
