@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Strong And Bitter Words Indicate A Weak Cause. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Isn'T It Strange That I Who Have Written Only Unpopular Books Should Be Such A Popular Fellow? - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
