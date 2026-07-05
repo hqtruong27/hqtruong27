@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Whatever Your Heart Clings To And Confides In, That Is Really Your God. - <strong>Martin Luther ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Strong And Bitter Words Indicate A Weak Cause. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
