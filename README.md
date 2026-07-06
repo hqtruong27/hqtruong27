@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Religions have different names, and they all contain truth, expressed in different ways forms and times. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Am The Astronaut Of Boxing. Joe Louis And Dempsey Were Just Jet Pilots. I'M In A World Of My Own. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
