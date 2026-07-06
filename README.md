@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Isn'T It Strange That I Who Have Written Only Unpopular Books Should Be Such A Popular Fellow? - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Religions have different names, and they all contain truth, expressed in different ways forms and times. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
