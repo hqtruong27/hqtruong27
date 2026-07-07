@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Am The Astronaut Of Boxing. Joe Louis And Dempsey Were Just Jet Pilots. I'M In A World Of My Own. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Often your utterances and expressions of your face leak out the secrets of your hidden thoughts. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
