@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Nothing Says Holidays, Like A Cheese Log. - <strong>Ellen DeGeneres ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Patience to faith is like the head to the body. The person who has no patience has not faith. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
