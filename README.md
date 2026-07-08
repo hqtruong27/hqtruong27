@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Thy lot or portion of life is seeking after thee; therefore be at rest from seeking after it. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Nothing Says Holidays, Like A Cheese Log. - <strong>Ellen DeGeneres ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
