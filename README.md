@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In Music The Passions Enjoy Themselves. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My worthiness is all my doubt His Merit- all my fear- Contrasting which my quality Does however appear. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
