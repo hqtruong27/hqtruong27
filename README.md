@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The fight is won or lost far away from witnesses - behind the lines, in the gym, and out there on the road, long before I dance under those lights. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In The Depth Of Winter I Finally Learned That There Was In Me An Invincible Summer. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
