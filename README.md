@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My worthiness is all my doubt His Merit- all my fear- Contrasting which my quality Does however appear. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The fight is won or lost far away from witnesses - behind the lines, in the gym, and out there on the road, long before I dance under those lights. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
