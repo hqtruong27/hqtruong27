@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In The Depth Of Winter I Finally Learned That There Was In Me An Invincible Summer. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Cursed is the man who dies, but the evil done by him survives. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
