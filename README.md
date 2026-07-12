@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't count the days, make the days count. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Good Life Is One Inspired By Love And Guided By Knowledge. - <strong>Bertrand Russell ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
