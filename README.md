@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Good Life Is One Inspired By Love And Guided By Knowledge. - <strong>Bertrand Russell ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Brooding over blunders is the biggest blunder. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
