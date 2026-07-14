@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A moment of patience in a moment of anger prevents a thousand moments of regret. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Say That The Most Liberating Thing About Beauty Is Realizing That You Are The Beholder. - <strong>Salma Hayek ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
