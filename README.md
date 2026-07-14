@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The people who abandon Jihad fall a victim to humility and degradation. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A moment of patience in a moment of anger prevents a thousand moments of regret. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
