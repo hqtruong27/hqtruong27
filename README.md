@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Say That The Most Liberating Thing About Beauty Is Realizing That You Are The Beholder. - <strong>Salma Hayek ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Nothing Says Holidays, Like A Cheese Log. - <strong>Ellen DeGeneres ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
