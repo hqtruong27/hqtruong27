@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Nothing Says Holidays, Like A Cheese Log. - <strong>Ellen DeGeneres ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do Not Quench Your Inspiration And Your Imagination; Do Not Become The Slave Of Your Model. - <strong>Vincent Van Gogh ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
