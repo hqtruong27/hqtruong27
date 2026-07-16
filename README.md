@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The best way to make your dreams come true is to wake up. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To Hell With Circumstances; I Create Opportunities. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
