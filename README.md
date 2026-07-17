@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As We Look Ahead Into The Next Century, Leaders Will Be Those Who Empower Others. - <strong>Bill Gates ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Darkness Cannot Drive Out Darkness; Only Light Can Do That. Hate Cannot Drive Out Hate; Only Love Can Do That. - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
