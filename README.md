@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To Hell With Circumstances; I Create Opportunities. - <strong>Bruce Lee ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As We Look Ahead Into The Next Century, Leaders Will Be Those Who Empower Others. - <strong>Bill Gates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
