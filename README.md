@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To fight against one's desires is the greatest of all fights. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Words, Without Power, Is Mere Philosophy. - <strong>Muhammad Iqbal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
