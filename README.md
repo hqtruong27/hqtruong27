@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You should not quarrel with your neighbor, for he will remain where he is, but your high handedness will become the talk of the people. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If There Is Something To Pardon In Everything, There Is Also Something To Condemn. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
