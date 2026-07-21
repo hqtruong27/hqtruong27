@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If There Is Something To Pardon In Everything, There Is Also Something To Condemn. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>These pains you feel are messengers. Listen to them. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
