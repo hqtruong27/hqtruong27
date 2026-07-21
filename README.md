@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>These pains you feel are messengers. Listen to them. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What you're thinking is what you're becoming. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
