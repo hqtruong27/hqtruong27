@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It's the lack of faith that makes people afraid of meeting challenges, and I believe in myself. He who is not courageous enough to take risks will accomplish nothing in life. I figured that if I said it enough, I would convince the world that I really was the greatest. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Try To Build A Full Personality For Each Of Our Cartoon Characters - To Make Them Personalities. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
