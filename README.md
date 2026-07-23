@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Try To Build A Full Personality For Each Of Our Cartoon Characters - To Make Them Personalities. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Words, Without Power, Is Mere Philosophy. - <strong>Muhammad Iqbal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
