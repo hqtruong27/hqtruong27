@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Words, Without Power, Is Mere Philosophy. - <strong>Muhammad Iqbal ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It's lack of faith that makes people afraid of meeting challenges, and I believed in myself. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
