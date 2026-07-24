@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It's lack of faith that makes people afraid of meeting challenges, and I believed in myself. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When The Solution Is Simple, God Is Answering. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
