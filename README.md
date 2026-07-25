@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The minute I heard my first love story, I started looking for you. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What regresses, never progresses. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
