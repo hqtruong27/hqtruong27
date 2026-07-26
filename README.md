@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When I Started Counting My Blessings, My Whole Life Turned Around. - <strong>Willie Nelson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Cannot Escape The Responsibility Of Tomorrow By Evading It Today. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
