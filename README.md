@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A wise man first thinks and then speaks and a fool speaks first and then thinks. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Put My Heart And My Soul Into My Work, And Have Lost My Mind In The Process. - <strong>Vincent Van Gogh ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
