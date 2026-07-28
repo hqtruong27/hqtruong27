@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Put My Heart And My Soul Into My Work, And Have Lost My Mind In The Process. - <strong>Vincent Van Gogh ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Indigestion Is Charged By God With Enforcing Morality On The Stomach. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
