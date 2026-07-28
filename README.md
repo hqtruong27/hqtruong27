@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Indigestion Is Charged By God With Enforcing Morality On The Stomach. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Shine like the whole universe is yours. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
