@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is Most Pleasant To Commit A Just Action Which Is Disagreeable To Someone Whom One Does Not Like. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Allah loves moderation and hates extravagance and excess. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
