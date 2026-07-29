@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Shine like the whole universe is yours. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is Most Pleasant To Commit A Just Action Which Is Disagreeable To Someone Whom One Does Not Like. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
