@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Allah loves moderation and hates extravagance and excess. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>No Matter What People Tell You, Words And Ideas Can Change The World. - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
