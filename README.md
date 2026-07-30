@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>No Matter What People Tell You, Words And Ideas Can Change The World. - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Secret Of Getting Ahead Is Getting Started - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
