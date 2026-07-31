@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Secret Of Getting Ahead Is Getting Started - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be Faithful In Small Things Because It Is In Them That Your Strength Lies. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
