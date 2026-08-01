@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The only limitations one has, are the ones they place on themselves. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A True friend is one who sees a fault, gives you advice and who defends you in your absence. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
