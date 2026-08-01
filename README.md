@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Everything in the universe is within you. Ask all from yourself. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The only limitations one has, are the ones they place on themselves. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
