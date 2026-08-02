@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A True friend is one who sees a fault, gives you advice and who defends you in your absence. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What is politics? Political system is equal to development politics plus political politics. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
