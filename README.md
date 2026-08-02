@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What is politics? Political system is equal to development politics plus political politics. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't forget your own self while preaching to others. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
