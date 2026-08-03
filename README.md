@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't forget your own self while preaching to others. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A wise man first thinks and then speaks and a fool speaks first and then thinks. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
