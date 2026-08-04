@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All My Life Through, The New Sights Of Nature Made Me Rejoice Like A Child. - <strong>Marie Curie ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I have been given the authority over you, and I am not the best of you. If I do well, help me; and if I do wrong, set me right. Sincere regard for truth. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
