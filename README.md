@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Madness Is Rare In Individuals - But In Groups, Parties, Nations, And Ages It Is The Rule. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Loving one another is half of wisdom. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
