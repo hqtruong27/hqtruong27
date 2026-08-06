@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Loving one another is half of wisdom. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
