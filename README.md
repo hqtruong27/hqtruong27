@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>After Climbing A Great Hill, One Only Finds That There Are Many More Hills To Climb. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who indulges in falsehood will find the paths of paradise shut to him. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
