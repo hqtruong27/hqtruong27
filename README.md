@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Best Way To Find Out If You Can Trust Somebody Is To Trust Them. - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Darkness Cannot Drive Out Darkness; Only Light Can Do That. Hate Cannot Drive Out Hate; Only Love Can Do That. - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
