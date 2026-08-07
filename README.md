@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who indulges in falsehood will find the paths of paradise shut to him. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Best Way To Find Out If You Can Trust Somebody Is To Trust Them. - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
