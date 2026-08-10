@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Once You Replace Negative Thoughts With Positive Ones, You'Ll Start Having Positive Results. - <strong>Willie Nelson ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When you feel a peaceful joy, that's when you are near truth. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
