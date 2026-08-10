@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you feel a peaceful joy, that's when you are near truth. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Would Have A Faithful Servant, And One That You Like, Serve Yourself. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
