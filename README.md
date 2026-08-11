@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>For me, there are two types of people: the young and the experienced. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The true believer is rewarded in every thing, even in affliction. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
