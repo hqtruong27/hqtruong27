@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The true believer is rewarded in every thing, even in affliction. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Once Spirit Was God, Then It Became Man, And Now It Is Even Becoming Mob. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
