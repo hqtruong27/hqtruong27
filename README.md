@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Hunger For Love Is Much More Difficult To Remove Than The Hunger For Bread. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you lose a big fight, it will worry you all of your life. It will plague you - until you get your revenge. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
