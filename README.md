@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Virtue Is Not Left To Stand Alone. He Who Practices It Will Have Neighbors. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To Love Another Person Is To See The Face Of God. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
