@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If you lose a big fight, it will worry you all of your life. It will plague you - until you get your revenge. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Virtue Is Not Left To Stand Alone. He Who Practices It Will Have Neighbors. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
