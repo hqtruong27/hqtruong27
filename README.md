@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To Love Another Person Is To See The Face Of God. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Sleep Is The Best Meditation. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
