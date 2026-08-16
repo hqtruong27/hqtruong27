@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Fear the sins that you commit in secret, because the Witness of those sins is the Judge Himself! - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Plants And Minerals Are Bound To Predestination. The Faithful Is Only Bound To The Divine Orders. - <strong>Muhammad Iqbal ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
