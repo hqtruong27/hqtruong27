@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If a person has ten habits out of which nine are good and one bad, that bad one will destroy the good ones. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do not use the sharpness of your speech on your mother who taught you how to speak. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
