@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do not use the sharpness of your speech on your mother who taught you how to speak. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Devil'S Voice Is Sweet To Hear. - <strong>Stephen King ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
