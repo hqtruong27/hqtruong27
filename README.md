@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Devil'S Voice Is Sweet To Hear. - <strong>Stephen King ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Heart is a sea, language is the shore. Whatever is in a sea hits the shore. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
