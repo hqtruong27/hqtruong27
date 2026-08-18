@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Heart is a sea, language is the shore. Whatever is in a sea hits the shore. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Scientific Thought And Its Creation Is The Common And Shared Heritage Of Mankind. - <strong>Abdus Salam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
