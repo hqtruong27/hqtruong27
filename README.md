@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>For those who practice tyranny and deprive others of their rights, I will be harsh and stern, but for those who follow the law, I will be most soft and tender. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Those Who Dare To Fail Miserably Can Achieve Greatly. - <strong>John F. Kennedy ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
