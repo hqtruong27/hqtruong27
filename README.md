@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Those Who Dare To Fail Miserably Can Achieve Greatly. - <strong>John F. Kennedy ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Wars Of Nations Are Fought To Change Maps. But Wars Of Poverty Are Fought To Map Change. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
