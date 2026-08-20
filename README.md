@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Wars Of Nations Are Fought To Change Maps. But Wars Of Poverty Are Fought To Map Change. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The true believer is rewarded in every thing, even in affliction. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
