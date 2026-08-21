@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Will To Win, The Desire To Succeed, The Urge To Reach Your Full Potential... These Are The Keys That Will Unlock The Door To Personal Excellence. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What hurts you, blesses you. Darkness is your candle. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
