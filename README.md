@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He That Is Good For Making Excuses Is Seldom Good For Anything Else. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who builds a masjid in the way of Allah, God will build a house for him in the paradise. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
