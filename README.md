@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I am the greatest. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He That Is Good For Making Excuses Is Seldom Good For Anything Else. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
