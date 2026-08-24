@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Raise your words, not voice. It is rain that grows flowers, not thunder. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Authority, power, and wealth do not change a man; they only reveal him. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
