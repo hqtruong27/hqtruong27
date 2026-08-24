@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who builds a masjid in the way of Allah, God will build a house for him in the paradise. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Raise your words, not voice. It is rain that grows flowers, not thunder. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
