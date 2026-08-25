@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The wiser a man is, the less talkative will he be. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Subject For A Great Poet Would Be God'S Boredom After The Seventh Day Of Creation. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
