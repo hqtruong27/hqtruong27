@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Authority, power, and wealth do not change a man; they only reveal him. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The wiser a man is, the less talkative will he be. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
