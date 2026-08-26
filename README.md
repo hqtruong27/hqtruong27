@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Subject For A Great Poet Would Be God'S Boredom After The Seventh Day Of Creation. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Drown Not By Falling Into A River, But By Staying Submerged In It. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
