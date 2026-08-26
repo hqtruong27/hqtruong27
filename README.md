@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Drown Not By Falling Into A River, But By Staying Submerged In It. - <strong>Paulo Coelho ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Just As Courage Imperils Life, Fear Protects It. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
