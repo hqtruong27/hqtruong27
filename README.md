@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There is a way between voice and presence, where information flows. In disciplined silence it opens; with wandering talk it closes. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He Who Learns But Does Not Think, Is Lost. He Who Thinks But Does Not Learn Is In Great Danger. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
