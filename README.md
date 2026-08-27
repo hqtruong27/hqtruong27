@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Just As Courage Imperils Life, Fear Protects It. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is a way between voice and presence, where information flows. In disciplined silence it opens; with wandering talk it closes. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
