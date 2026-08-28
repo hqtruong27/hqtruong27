@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He Who Learns But Does Not Think, Is Lost. He Who Thinks But Does Not Learn Is In Great Danger. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Two Most Important Days In Your Life Are The Day You Are Born And The Day You Find Out Why. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
