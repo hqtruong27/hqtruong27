@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Two Most Important Days In Your Life Are The Day You Are Born And The Day You Find Out Why. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who prays five times a day is in the protection of God, and he who is protected by God cannot be harmed by anyone. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
