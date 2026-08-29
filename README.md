@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Disneyland Is A Show. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
