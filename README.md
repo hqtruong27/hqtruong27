@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Try not to resist the changes that come your way. Instead let life live through you. And do not worry that your life is turning upside down. How do you know that the side you are used to is better than the one to come? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be Happy For This Moment. This Moment Is Your Life. - <strong>Omar Khayyam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
