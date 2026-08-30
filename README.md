@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Try not to resist the changes that come your way. Instead let life live through you. And do not worry that your life is turning upside down. How do you know that the side you are used to is better than the one to come? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
