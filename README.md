@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never Allow Someone To Be Your Priority While Allowing Yourself To Be Their Option. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When A Hundred Men Stand Together, Each Of Them Loses His Mind And Gets Another One. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
