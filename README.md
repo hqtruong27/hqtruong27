@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be Happy For This Moment. This Moment Is Your Life. - <strong>Omar Khayyam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never Allow Someone To Be Your Priority While Allowing Yourself To Be Their Option. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
