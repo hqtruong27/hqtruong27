@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Know thyself, and thou shalt know God. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Only last week I murdered a rock, injured a stone and hospitalized a brick. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
