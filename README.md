@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When A Hundred Men Stand Together, Each Of Them Loses His Mind And Gets Another One. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Know thyself, and thou shalt know God. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
