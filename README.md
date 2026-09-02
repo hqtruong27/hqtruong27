@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As you start to walk on the way, the way appears. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>In Order To Exist Just Once In The World, It Is Necessary Never Again To Exist. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
