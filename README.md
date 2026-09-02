@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Only last week I murdered a rock, injured a stone and hospitalized a brick. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As you start to walk on the way, the way appears. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
