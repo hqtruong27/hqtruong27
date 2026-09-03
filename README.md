@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>In Order To Exist Just Once In The World, It Is Necessary Never Again To Exist. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Believe You Can And You'Re Halfway There. - <strong>Theodore Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
