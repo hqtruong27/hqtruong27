@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Believe You Can And You'Re Halfway There. - <strong>Theodore Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Lack Of Money Is The Root Of All Evil. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
