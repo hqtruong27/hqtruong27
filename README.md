@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Three Can Keep A Secret, If Two Of Them Are Dead. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Be patient where you sit in the dark. The dawn is coming. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
