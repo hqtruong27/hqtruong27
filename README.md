@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Lack Of Money Is The Root Of All Evil. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Three Can Keep A Secret, If Two Of Them Are Dead. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
