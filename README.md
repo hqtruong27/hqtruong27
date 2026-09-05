@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The best way to make your dreams come true is to wake up. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Every day, nay every moment, try to do some good deed. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
