@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Be patient where you sit in the dark. The dawn is coming. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The best way to make your dreams come true is to wake up. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
