@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Every day, nay every moment, try to do some good deed. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Who's gonna dare to be great? - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
