@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Who's gonna dare to be great? - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You should not quarrel with your neighbor, for he will remain where he is, but your high handedness will become the talk of the people. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
