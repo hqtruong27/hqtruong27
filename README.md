@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As He Was Valiant, I Honour Him. But As He Was Ambitious, I Slew Him. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It Is very easy to defeat someone, but it is very hard to win someone. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
