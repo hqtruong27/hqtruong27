@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You should not quarrel with your neighbor, for he will remain where he is, but your high handedness will become the talk of the people. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As He Was Valiant, I Honour Him. But As He Was Ambitious, I Slew Him. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
