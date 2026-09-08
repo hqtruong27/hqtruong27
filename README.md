@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>It Is very easy to defeat someone, but it is very hard to win someone. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
