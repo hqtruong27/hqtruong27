@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Never lose hope, my heart, miracles dwell in the invisible. If the whole world turns against you keep your eyes on the Friend. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All birds find shelter during a rain. But eagle avoids rain by flying above the clouds. Problems are common, but attitude makes the difference. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
