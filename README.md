@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Champions have to have the skill and the will. But the will must be stronger than the skill. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To succeed in your mission, you must have single-minded devotion to your goal. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
