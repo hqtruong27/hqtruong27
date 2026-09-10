@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To succeed in your mission, you must have single-minded devotion to your goal. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do not be like those on whom advice has no effect and who require punishment to correct themselves. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
