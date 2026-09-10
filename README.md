@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do not be like those on whom advice has no effect and who require punishment to correct themselves. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>As a child of God, I am greater than anything that can happen to me. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
