@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>As a child of God, I am greater than anything that can happen to me. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Function Of Muscle Is To Pull And Not To Push, Except In The Case Of The Genitals And The Tongue. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
