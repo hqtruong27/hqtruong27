@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Function Of Muscle Is To Pull And Not To Push, Except In The Case Of The Genitals And The Tongue. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Happiness In Intelligent People Is The Rarest Thing I Know. - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
