@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Do Not Need The Idea Of God To Explain The World I Live In. - <strong>Salman Rushdie ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Those Who Make Peaceful Revolution Impossible Will Make Violent Revolution Inevitable. - <strong>John F. Kennedy ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
