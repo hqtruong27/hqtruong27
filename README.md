@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Happiness In Intelligent People Is The Rarest Thing I Know. - <strong>Ernest Hemingway ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Do Not Need The Idea Of God To Explain The World I Live In. - <strong>Salman Rushdie ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
