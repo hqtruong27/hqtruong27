@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Those Who Make Peaceful Revolution Impossible Will Make Violent Revolution Inevitable. - <strong>John F. Kennedy ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>For me, there are two types of people: the young and the experienced. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
