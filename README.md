@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>For me, there are two types of people: the young and the experienced. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Many Marriages Would Be Better If The Husband And The Wife Clearly Understood That They Are On The Same Side. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
