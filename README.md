@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Many Marriages Would Be Better If The Husband And The Wife Clearly Understood That They Are On The Same Side. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>One best book is equal to hundred good friends but one good friend is equal to a library. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
