@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There cannot be self-restraint in the absence of desire: when there is no adversary, what avails thy courage? Hark, do not castrate thyself, do not become a monk: chastity depends on the existence of lust. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Silence is an ocean. Speech is a river. When the ocean is searching for you, don't walk into the river. Listen to the ocean. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
