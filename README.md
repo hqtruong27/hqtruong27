@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Silence is an ocean. Speech is a river. When the ocean is searching for you, don't walk into the river. Listen to the ocean. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Have Not Failed. I'Ve Just Found 10 000 Ways That Won'T Work. - <strong>Thomas A. Edison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
