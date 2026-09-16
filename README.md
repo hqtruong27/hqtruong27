@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Study me as much as you like, you will not know me, for I differ in a hundred ways from what you see me to be. Put yourself behind my eyes and see me as I see myself, for I have chosen to dwell in a place you cannot see. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Must Believe That We Are Gifted For Something, And That This Thing, At Whatever Cost, Must Be Attained. - <strong>Marie Curie ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
