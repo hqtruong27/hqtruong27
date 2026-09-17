@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Patience is the healthiest ingredient of our life. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Work with integrity and succeed with integrity. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
