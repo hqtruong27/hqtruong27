@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We Must Believe That We Are Gifted For Something, And That This Thing, At Whatever Cost, Must Be Attained. - <strong>Marie Curie ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Patience is the healthiest ingredient of our life. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
