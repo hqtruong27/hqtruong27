@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Work with integrity and succeed with integrity. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Indignation Is A Submission Of Our Thoughts, But Not Of Our Desires. - <strong>Bertrand Russell ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
