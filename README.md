@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Indignation Is A Submission Of Our Thoughts, But Not Of Our Desires. - <strong>Bertrand Russell ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Know Of Only One Duty, And That Is To Love. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
