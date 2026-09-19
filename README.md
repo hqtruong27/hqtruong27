@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Know Of Only One Duty, And That Is To Love. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Indigestion Is Charged By God With Enforcing Morality On The Stomach. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
