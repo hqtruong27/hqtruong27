@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Happiness comes towards those which believe in him. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He Is Winding The Watch Of His Wit; By And By It Will Strike. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
