@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Efforts And Courage Are Not Enough Without Purpose And Direction. - <strong>John F. Kennedy ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Happiness comes towards those which believe in him. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
