@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He Is Winding The Watch Of His Wit; By And By It Will Strike. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Enjoy The Process Far More Than The Proceeds. - <strong>Warren Buffett ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
