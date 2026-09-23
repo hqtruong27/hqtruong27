@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Bad Men Are Full Of Repentance. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The People Themselves, And Not Their Servants, Can Safely Reverse Their Own Deliberate Decisions. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
