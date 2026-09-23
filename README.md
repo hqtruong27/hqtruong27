@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed. - <strong>Ali Ibn Abi Talib ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Bad Men Are Full Of Repentance. - <strong>Aristotle ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
