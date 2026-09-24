@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don'T Tell Fish Stories Where The People Know You; But Particularly, Don'T Tell Them Where They Know The Fish. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Who's gonna dare to be great? - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
