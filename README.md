@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The People Themselves, And Not Their Servants, Can Safely Reverse Their Own Deliberate Decisions. - <strong>Abraham Lincoln ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don'T Tell Fish Stories Where The People Know You; But Particularly, Don'T Tell Them Where They Know The Fish. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
