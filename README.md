@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The middle path is the way to wisdom. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Superior Man Acts Before He Speaks, And Afterwards Speaks According To His Action. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
