@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Who's gonna dare to be great? - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The middle path is the way to wisdom. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
