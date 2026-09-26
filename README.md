@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Airplane Has Had A Big Impact On My Life. - <strong>Jim Courier ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Only the soul knows what love is. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
