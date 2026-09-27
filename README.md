@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Only the soul knows what love is. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Money Is The Barometer Of A Society'S Virtue. - <strong>Ayn Rand ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
