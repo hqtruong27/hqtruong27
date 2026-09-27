@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Money Is The Barometer Of A Society'S Virtue. - <strong>Ayn Rand ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If We Did All The Things We Are Capable Of, We Would Literally Astound Ourselves. - <strong>Thomas A. Edison ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
