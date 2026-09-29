@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A man's worth depends upon the nobility of his aspirations. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Have Good Thoughts They Will Shine Out Of Your Face Like Sunbeams And You Will Always Look Lovely. - <strong>Roald Dahl ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
