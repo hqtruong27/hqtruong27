@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Have Enemies? Good. That Means You'Ve Stood Up For Something, Sometime In Your Life. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Strive Not To Be A Success, But Rather To Be Of Value. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
