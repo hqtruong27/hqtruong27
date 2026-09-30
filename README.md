@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The breezes at dawn have secrets to tell you Don't go back to sleep! You must ask for what you really want. Don't go back to sleep! People are going back and forth across the doorsill where the two worlds touch, The door is round and open Don't go back to sleep! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Have Enemies? Good. That Means You'Ve Stood Up For Something, Sometime In Your Life. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
