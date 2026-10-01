@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Strive Not To Be A Success, But Rather To Be Of Value. - <strong>Albert Einstein ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Paint Self-Portraits Because I Am So Often Alone, Because I Am The Person I Know Best. - <strong>Frida Kahlo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
