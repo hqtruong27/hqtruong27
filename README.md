@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Paint Self-Portraits Because I Am So Often Alone, Because I Am The Person I Know Best. - <strong>Frida Kahlo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Learn the Arabic language; it will sharpen your wisdom. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
