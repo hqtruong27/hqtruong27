@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Learn the Arabic language; it will sharpen your wisdom. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let the beauty we love be what we do. There are hundreds of ways to kneel and kiss the ground. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
