@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Burdens are the foundations of ease and bitter things the forerunners of pleasure. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I am so mad with love that mad men say to me - be still! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
