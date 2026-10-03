@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I am so mad with love that mad men say to me - be still! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There Are No Facts, Only Interpretations. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
