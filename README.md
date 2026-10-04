@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>There Are No Facts, Only Interpretations. - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Poverty is the worst form of death. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
