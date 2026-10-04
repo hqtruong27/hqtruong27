@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Poverty is the worst form of death. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Adversity Makes Men, And Prosperity Makes Monsters. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
