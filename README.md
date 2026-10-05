@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Adversity Makes Men, And Prosperity Makes Monsters. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If You Want Others To Be Happy, Practice Compassion. If You Want To Be Happy, Practice Compassion. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
