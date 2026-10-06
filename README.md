@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If You Want Others To Be Happy, Practice Compassion. If You Want To Be Happy, Practice Compassion. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Indigestion Is Charged By God With Enforcing Morality On The Stomach. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
