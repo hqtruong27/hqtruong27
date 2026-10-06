@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Indigestion Is Charged By God With Enforcing Morality On The Stomach. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The More You Like Yourself, The Less You Are Like Anyone Else, Which Makes You Unique. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
