@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The More You Like Yourself, The Less You Are Like Anyone Else, Which Makes You Unique. - <strong>Walt Disney ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Attempt And Not The Deed Confounds Us. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
