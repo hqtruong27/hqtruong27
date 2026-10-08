@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Children make you want to start life over. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Design Is Not Just What It Looks Like And Feels Like. Design Is How It Works. - <strong>Steve Jobs ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
