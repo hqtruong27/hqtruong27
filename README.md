@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Design Is Not Just What It Looks Like And Feels Like. Design Is How It Works. - <strong>Steve Jobs ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>To Be Perfectly Happy It Does Not Suffice To Possess Happiness, It Is Necessary To Have Deserved It. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
