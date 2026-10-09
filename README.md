@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To Be Perfectly Happy It Does Not Suffice To Possess Happiness, It Is Necessary To Have Deserved It. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Cannot Create Experience. You Must Undergo It. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
