@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't engage your heart in grief over the past or you wont be ready for what is coming. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I belong to no religion. My religion is love. Every heart is my temple. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
