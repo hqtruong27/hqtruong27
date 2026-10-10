@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>You Cannot Create Experience. You Must Undergo It. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't engage your heart in grief over the past or you wont be ready for what is coming. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
