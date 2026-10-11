@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I belong to no religion. My religion is love. Every heart is my temple. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I'm the most recognized and loved man that ever lived cuz there weren't no satellites when Jesus and Moses were around, so people far away in the villages didn't know about them. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
