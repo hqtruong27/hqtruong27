@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Have an earnestness for death and you will have life. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Beautiful people are not always good, but good people are always beautiful. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
