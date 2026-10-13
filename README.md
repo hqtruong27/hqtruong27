@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Beautiful people are not always good, but good people are always beautiful. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Where The Spirit Does Not Work With The Hand, There Is No Art. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
