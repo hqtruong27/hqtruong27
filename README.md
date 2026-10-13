@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Where The Spirit Does Not Work With The Hand, There Is No Art. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He That Displays Too Often His Wife And His Wallet Is In Danger Of Having Both Of Them Borrowed. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
