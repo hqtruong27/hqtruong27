@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He That Displays Too Often His Wife And His Wallet Is In Danger Of Having Both Of Them Borrowed. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Don't engage your heart in grief over the past or you wont be ready for what is coming. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
