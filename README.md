@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What hurts you, blesses you. Darkness is your candle. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Man Who Is Good Enough To Shed His Blood For The Country Is Good Enough To Be Given A Square Deal Afterwards. - <strong>Theodore Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
