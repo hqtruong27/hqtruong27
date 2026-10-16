@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My only fault is that I don't realize how great I really am. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love Begins At Home, And It Is Not How Much We Do... But How Much Love We Put In That Action. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
