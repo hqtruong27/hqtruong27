@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Man Who Is Good Enough To Shed His Blood For The Country Is Good Enough To Be Given A Square Deal Afterwards. - <strong>Theodore Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>My only fault is that I don't realize how great I really am. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
