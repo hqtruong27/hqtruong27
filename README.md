@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>My place is placeless, a trace of the traceless. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Age is whatever you think it is. You are as old as you think you are. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
