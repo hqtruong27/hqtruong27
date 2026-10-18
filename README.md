@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The breezes at dawn have secrets to tell you Don't go back to sleep! You must ask for what you really want. Don't go back to sleep! People are going back and forth across the doorsill where the two worlds touch, The door is round and open Don't go back to sleep! - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We'Ve All Got Both Light And Dark Inside Us. What Matters Is The Part We Choose To Act On. That'S Who We Really Are. - <strong>J. K. Rowling ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
