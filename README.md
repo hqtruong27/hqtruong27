@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>What is the secret of success? Right decisions. How do you make right decisions? Experience. How do you gain experience? Wrong decisions. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A True friend is one who sees a fault, gives you advice and who defends you in your absence. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
