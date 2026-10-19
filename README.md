@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We'Ve All Got Both Light And Dark Inside Us. What Matters Is The Part We Choose To Act On. That'S Who We Really Are. - <strong>J. K. Rowling ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>What is the secret of success? Right decisions. How do you make right decisions? Experience. How do you gain experience? Wrong decisions. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
