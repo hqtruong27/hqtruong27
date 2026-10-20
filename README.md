@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A True friend is one who sees a fault, gives you advice and who defends you in your absence. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
