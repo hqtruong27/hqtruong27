@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Only A Philosophy Of Eternity, In The World Today, Could Justify Non-Violence. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
