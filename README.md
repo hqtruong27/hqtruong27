@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Only A Philosophy Of Eternity, In The World Today, Could Justify Non-Violence. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The Quality, Not The Longevity, Of One'S Life Is What Is Important. - <strong>Martin Luther King, Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
