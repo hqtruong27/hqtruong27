@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The Quality, Not The Longevity, Of One'S Life Is What Is Important. - <strong>Martin Luther King, Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A Lot Of People Quit Looking For Work As Soon As They Find A Job. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
