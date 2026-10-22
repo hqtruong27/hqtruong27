@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>An Explanation Of Cause Is Not A Justification By Reason. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I'm gonna whup whoever stole my bike! - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
