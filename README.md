@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A Lot Of People Quit Looking For Work As Soon As They Find A Job. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>An Explanation Of Cause Is Not A Justification By Reason. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
