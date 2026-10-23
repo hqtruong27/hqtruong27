@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'm gonna whup whoever stole my bike! - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>We Continue To Shape Our Personality All Our Life. If We Knew Ourselves Perfectly, We Should Die. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
