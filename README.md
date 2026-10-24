@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Unbelievable, Yet, What Else Could It Be? - <strong>Jim Courier ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life'S Most Persistent And Urgent Question Is, 'What Are You Doing For Others?' - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
