@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life'S Most Persistent And Urgent Question Is, 'What Are You Doing For Others?' - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Dream Of An Africa Which Is In Peace With Itself. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
