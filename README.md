@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Dream Of An Africa Which Is In Peace With Itself. - <strong>Nelson Mandela ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Many A Good Hanging Prevents A Bad Marriage. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
