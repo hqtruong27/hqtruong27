@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Many A Good Hanging Prevents A Bad Marriage. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I belong to no religion. My religion is love. Every heart is my temple. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
