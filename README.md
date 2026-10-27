@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If anybody seeks your advice, offer right and sincere advice. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Potentially, A Government Is The Most Dangerous Threat To Man'S Rights: It Holds A Legal Monopoly On The Use Of Physical Force Against Legally Disarmed Victims. - <strong>Ayn Rand ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
