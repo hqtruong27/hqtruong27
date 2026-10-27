@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Economy forced me to become a vegetarian, but I finally starting liking it. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If anybody seeks your advice, offer right and sincere advice. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
