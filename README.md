@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Potentially, A Government Is The Most Dangerous Threat To Man'S Rights: It Holds A Legal Monopoly On The Use Of Physical Force Against Legally Disarmed Victims. - <strong>Ayn Rand ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>There is no goodness in people who don't give advice, and there is no goodness in people who don't like to be advised. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
