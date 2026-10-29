@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Our greatest strength lies in the gentleness and tenderness of our heart. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>When It Is Obvious That The Goals Cannot Be Reached, Don'T Adjust The Goals, Adjust The Action Steps. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
