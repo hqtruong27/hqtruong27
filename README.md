@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When It Is Obvious That The Goals Cannot Be Reached, Don'T Adjust The Goals, Adjust The Action Steps. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
