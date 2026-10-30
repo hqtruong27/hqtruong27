@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>An Appeaser Is One Who Feeds A Crocodile, Hoping It Will Eat Him Last. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>An Intelligent Hell Would Be Better Than A Stupid Paradise. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
