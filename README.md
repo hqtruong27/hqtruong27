@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>An Intelligent Hell Would Be Better Than A Stupid Paradise. - <strong>Victor Hugo ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>People Ask The Difference Between A Leader And A Boss. The Leader Leads, And The Boss Drives. - <strong>Theodore Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
