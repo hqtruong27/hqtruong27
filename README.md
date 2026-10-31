@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>People Ask The Difference Between A Leader And A Boss. The Leader Leads, And The Boss Drives. - <strong>Theodore Roosevelt ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>All birds find shelter during a rain. But eagle avoids rain by flying above the clouds. Problems are common, but attitude makes the difference. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
