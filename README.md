@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>All birds find shelter during a rain. But eagle avoids rain by flying above the clouds. Problems are common, but attitude makes the difference. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It's a dare. Impossible is potential. Impossible is temporary. Impossible is nothing. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
