@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Rivers, ponds, lakes and streams - they all have different names, but they all contain water. Just as religions do - they all contain truths. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
