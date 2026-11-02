@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Rivers, ponds, lakes and streams - they all have different names, but they all contain water. Just as religions do - they all contain truths. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>It's the lack of faith that makes people afraid of meeting challenges, and I believe in myself. He who is not courageous enough to take risks will accomplish nothing in life. I figured that if I said it enough, I would convince the world that I really was the greatest. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
