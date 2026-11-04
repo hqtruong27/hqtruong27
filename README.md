@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you feel a peaceful joy, that's when you are near truth. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
