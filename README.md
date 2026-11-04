@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Success Consists Of Going From Failure To Failure Without Loss Of Enthusiasm. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>He who does not live in the way of his beliefs starts to believe in the way he lives. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
