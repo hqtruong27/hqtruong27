@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>He who does not live in the way of his beliefs starts to believe in the way he lives. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If We Open A Quarrel Between Past And Present, We Shall Find That We Have Lost The Future. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
