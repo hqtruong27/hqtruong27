@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>If We Open A Quarrel Between Past And Present, We Shall Find That We Have Lost The Future. - <strong>Winston Churchill ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Maybe a thing that you do not like is really in your interest. It is possible that a thing that you may desire may be against your interest. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
