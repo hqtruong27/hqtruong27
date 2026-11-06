@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Success Depends Upon Previous Preparation, And Without Such Preparation There Is Sure To Be Failure. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A hopeless man sees difficulties in every chance, but a hopeful person sees chances in every difficulty. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
