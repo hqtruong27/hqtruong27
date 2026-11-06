@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Maybe a thing that you do not like is really in your interest. It is possible that a thing that you may desire may be against your interest. - <strong>Abu Bakr (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Success Depends Upon Previous Preparation, And Without Such Preparation There Is Sure To Be Failure. - <strong>Confucius ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
