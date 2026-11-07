@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'm going to show you how great I am! - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I run on the road long before I dance under the lights. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
