@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Nothing Will Work Unless You Do. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Forgive people so that Allah may forgive you. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
