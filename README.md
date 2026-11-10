@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>We have one life; it soon will be past; what we do for God is all that will last. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>His hands can't hit what his eyes can't see. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
