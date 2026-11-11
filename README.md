@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>His hands can't hit what his eyes can't see. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>If you want to shine like the sun, first burn like the sun. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
