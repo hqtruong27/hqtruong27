@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Life Doesn'T Run Away From Nobody. Life Runs At People. - <strong>Joe Frazier ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Find Hope In The Darkest Of Days, And Focus In The Brightest. I Do Not Judge The Universe. - <strong>Dalai Lama ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
