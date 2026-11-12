@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Women are the field that produces our nation. And if you can't protect your women, you can't protect your nation. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Life Doesn'T Run Away From Nobody. Life Runs At People. - <strong>Joe Frazier ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
