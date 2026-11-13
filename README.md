@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do not be an arrogant scholar, for scholarship cannot subsist with arrogance. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Love Is A Fruit In Season At All Times, And Within Reach Of Every Hand. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
