@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>But Men Are Men; The Best Sometimes Forget. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
