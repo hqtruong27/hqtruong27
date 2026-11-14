@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Love Is A Fruit In Season At All Times, And Within Reach Of Every Hand. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>But Men Are Men; The Best Sometimes Forget. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
