@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I Have Decided To Stick With Love. Hate Is Too Great A Burden To Bear. - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Getting Over A Painful Experience Is Much Like Crossing Monkey Bars. You Have To Let Go At Some Point In Order To Move Forward. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
