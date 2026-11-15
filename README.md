@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Positive Thinking Will Let You Do Everything Better Than Negative Thinking Will. - <strong>Zig Ziglar ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I Have Decided To Stick With Love. Hate Is Too Great A Burden To Bear. - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
