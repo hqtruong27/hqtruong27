@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Getting Over A Painful Experience Is Much Like Crossing Monkey Bars. You Have To Let Go At Some Point In Order To Move Forward. - <strong>C. S. Lewis ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Where The Spirit Does Not Work With The Hand, There Is No Art. - <strong>Leonardo Da Vinci ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
