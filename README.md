@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Tolerance and understanding won't 'trickle down' in our society any more than wealth does. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Familiarity Breeds Contempt - And Children. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
