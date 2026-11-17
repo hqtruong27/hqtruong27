@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Darkness Cannot Drive Out Darkness; Only Light Can Do That. Hate Cannot Drive Out Hate; Only Love Can Do That. - <strong>Martin Luther King  Jr. ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Tolerance and understanding won't 'trickle down' in our society any more than wealth does. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
