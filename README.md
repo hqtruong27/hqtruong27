@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Familiarity Breeds Contempt - And Children. - <strong>Mark Twain ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do Not Fear Mistakes. You Will Know Failure. Continue To Reach Out. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
