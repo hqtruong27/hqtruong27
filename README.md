@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do Not Fear Mistakes. You Will Know Failure. Continue To Reach Out. - <strong>Benjamin Franklin ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I died as a mineral and became a plant, I died as a plant and rose to animal, I died as an animal and I was Man. Why should I fear? When was I less by dying? - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
