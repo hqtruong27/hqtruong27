@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>When you do things from your soul, you feel a river moving in you, a joy. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Is Man One Of God'S Blunders? Or Is God One Of Man'S Blunders? - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
