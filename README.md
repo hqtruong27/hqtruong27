@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Is Man One Of God'S Blunders? Or Is God One Of Man'S Blunders? - <strong>Friedrich Nietzsche ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Earning of livelihood by following some profession is better than living on charity. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
