@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Earning of livelihood by following some profession is better than living on charity. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Success Is A Lousy Teacher. It Seduces Smart People Into Thinking They Can'T Lose. - <strong>Bill Gates ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
