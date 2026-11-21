@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do You Think God Gets Stoned? I Think So... Look At The Platypus. - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I'Ve Learned That Making A 'Living' Is Not The Same Thing As 'Making A Life'. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
