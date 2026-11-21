@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Success Is A Lousy Teacher. It Seduces Smart People Into Thinking They Can'T Lose. - <strong>Bill Gates ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do You Think God Gets Stoned? I Think So... Look At The Platypus. - <strong>Robin Williams ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
