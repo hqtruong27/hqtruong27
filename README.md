@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>A wise man first thinks and then speaks and a fool speaks first and then thinks. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Surely silence can sometimes be the most eloquent reply. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
