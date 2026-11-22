@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I'Ve Learned That Making A 'Living' Is Not The Same Thing As 'Making A Life'. - <strong>Maya Angelou ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>A wise man first thinks and then speaks and a fool speaks first and then thinks. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
