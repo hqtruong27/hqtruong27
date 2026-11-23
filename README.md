@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Surely silence can sometimes be the most eloquent reply. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Spread Love Everywhere You Go. Let No One Ever Come To You Without Leaving Happier. - <strong>Mother Teresa ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
