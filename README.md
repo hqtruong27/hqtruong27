@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Light up the fire of love inside and blaze the thoughts away. - <strong>Rumi ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>I am grateful for all my victories, but I am especially grateful for my losses, because they only made me work harder. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
