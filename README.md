@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>I am grateful for all my victories, but I am especially grateful for my losses, because they only made me work harder. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Thinking should become your capital asset, no matter whatever ups and downs you come across in your life. - <strong>Abdul Kalam ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
