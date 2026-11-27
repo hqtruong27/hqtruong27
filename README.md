@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Don't count the days, make the days count. - <strong>Muhammad Ali ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>The criterion of action is that todays work should not be deferred till the following day. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
