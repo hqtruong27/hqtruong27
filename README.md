@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>The criterion of action is that todays work should not be deferred till the following day. - <strong>Umar ibn Al-Khattāb (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Let Every Eye Negotiate For Itself And Trust No Agent. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
