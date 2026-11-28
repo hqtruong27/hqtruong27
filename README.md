@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Let Every Eye Negotiate For Itself And Trust No Agent. - <strong>William Shakespeare ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>Do not use the sharpness of your speech on your mother who taught you how to speak. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
