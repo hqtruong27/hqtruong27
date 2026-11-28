@@ -22,7 +22,7 @@
 </p>
 
 <blockquote>
-  <p><em>Do not use the sharpness of your speech on your mother who taught you how to speak. - <strong>Ali ibn Abi Talib (R.A) ㅤㅤㅤㅤㅤ</strong></em></p>
+  <p><em>You Cannot Create Experience. You Must Undergo It. - <strong>Albert Camus ㅤㅤㅤㅤㅤ</strong></em></p>
 </blockquote>
 
 <p align="left">
